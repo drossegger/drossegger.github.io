@@ -92,8 +92,10 @@ else {thirdline.appendChild(document.createTextNode(",")}
 thirdline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
+if ( authordata.length>1 ) {
 item.appendChild(secondline);
-if ( authordata.length>1 ) {item.appendChild(document.createElement("br"));}
+item.appendChild(document.createElement("br"));
+}
 item.appendChild(thirdline);
 document.getElementById("biblio").appendChild(item);
 }
