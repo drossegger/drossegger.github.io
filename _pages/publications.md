@@ -1,4 +1,8 @@
-<h2>Publications</h2>
+---
+title: Publications
+permalink: /publications/
+--- 
+
 <div id="biblio"></div>
 <script>
 var xmlhttp = new XMLHttpRequest();
