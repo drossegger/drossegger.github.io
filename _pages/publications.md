@@ -88,7 +88,7 @@ thirdline.appendChild(document.createTextNode(" vol. " + myObj[i].data.volume ))
 if (myObj[i].data.issue !=""){
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.issue+ "),"))
 }
-else {thirdline.appendChild(document.createTextNode(",")}
+else {thirdline.appendChild(document.createTextNode(","))}
 thirdline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
