@@ -17,6 +17,8 @@ My research area is computability theory. I am specifically interested in the co
 
 In my Ph.D. thesis I focused on question 1,2, and 4 if we consider computational properties not up to isomorphism but up to other equivalence relations such as elementary equivalence and bi-embeddability. Because of this I developed an interest in the complexity of equivalence relations both from a descriptive as well as from a computational point of view.
 
-### Contact me
-
+### Contact
+MC 5313
+200 University Avenue West
+Waterloo, ON, Canada  N2L 3G1
 [drossegg@uwaterloo.ca](mailto:drossegg@uwaterloo.ca)
