@@ -4,7 +4,20 @@ permalink: /publications/
 header:
   image: /images/publications.jpg
 --- 
-
+<style type="text/css">
+body {
+  counter-reset: section;      
+}
+p.bibitem{
+  margin-left:1em;
+  text-indent:-1em;
+  }
+p.bibitem:before {
+  counter-increment: section;   
+  font-weight: bold;
+  content: "" counter(section) ". "; 
+}
+</style>
 <div id="biblio"></div>
 <script>
 var xmlhttp = new XMLHttpRequest();
@@ -13,10 +26,10 @@ if (this.readyState == 4 && this.status == 200) {
 var myObj = JSON.parse(this.responseText);
 for (i = 0; i < myObj.length; i++) {
 var item = document.createElement("p");
-
+item.className="bibitem"
 var title = document.createElement("font");
 title.style.fontStyle = 'italic';
-title.style.fontWeight = 'bold';
+//title.style.fontWeight = 'bold';
 title.innerHTML = myObj[i].data.title;
 
 var authors = "";
@@ -38,6 +51,7 @@ if (j == authordata.length - 1) authors = authors + ", ";
 }
 
 var secondline = document.createElement("span");
+var thirdline  = document.createElement("span");
 var authornode = document.createTextNode(authors);
 // var year=document.createElement("font");
 // year.style.fontWeight='bold';
@@ -62,20 +76,20 @@ item.appendChild(arxiv);
 item.appendChild(document.createElement("br"));
 secondline.appendChild(authornode);
 if (myObj[i].data.itemType == "conferencePaper") {
-secondline.appendChild(document.createTextNode(myObj[i].data.proceedingsTitle))
-secondline.appendChild(document.createTextNode(", " + myObj[i].data.series))
+thirdline.appendChild(document.createTextNode(myObj[i].data.proceedingsTitle))
+thirdline.appendChild(document.createTextNode(", " + myObj[i].data.series))
 }
 if (myObj[i].data.itemType == "journalArticle") {
-secondline.appendChild(document.createTextNode(myObj[i].data.publicationTitle))
+thirdline.appendChild(document.createTextNode(myObj[i].data.publicationTitle))
 }
 if (myObj[i].data.volume != "") {
-secondline.appendChild(document.createTextNode(" vol. " + myObj[i].data.volume + ","))
+thirdline.appendChild(document.createTextNode(" vol. " + myObj[i].data.volume + ","))
 }
-secondline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
-secondline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
+thirdline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
+thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
 item.appendChild(secondline);
-
+item.appendChild(thirdline);
 document.getElementById("biblio").appendChild(item);
 }
 }
