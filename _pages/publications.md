@@ -9,8 +9,8 @@ body {
   counter-reset: section;      
 }
 p.bibitem{
-  margin-left:2em;
-  text-indent:-2em;
+  margin-left:1.5em;
+  text-indent:-1.5em;
   }
 p.bibitem:before {
   counter-increment: section;   
