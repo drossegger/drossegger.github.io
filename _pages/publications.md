@@ -1,6 +1,8 @@
 ---
 title: Publications
 permalink: /publications/
+header:
+	image: /images/publications.jpeg
 --- 
 
 <div id="biblio"></div>
