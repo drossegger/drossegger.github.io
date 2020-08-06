@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 header:
-	image: images/about.jpg
+  image: images/about.jpg
 ---
 I am a postdoctoral fellow in the logic group of the Department of Pure Mathematics of the University of Waterloo. I obtained my Ph.D. in 2019 from the Vienna University of Technology under the supervision of Ekaterina Fokina.
 
