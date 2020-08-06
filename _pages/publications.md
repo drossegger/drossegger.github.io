@@ -9,8 +9,9 @@ body {
   counter-reset: section;      
 }
 p.bibitem:before {
-  counter-increment: section;        
-  content: "<b>" counter(section) ". </b>"; 
+  counter-increment: section;   
+  font-weight: bold;
+  content: "" counter(section) ". "; 
 }
 </style>
 <div id="biblio"></div>
