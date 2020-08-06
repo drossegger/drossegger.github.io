@@ -83,12 +83,16 @@ if (myObj[i].data.itemType == "journalArticle") {
 thirdline.appendChild(document.createTextNode(myObj[i].data.publicationTitle))
 }
 if (myObj[i].data.volume != "") {
-thirdline.appendChild(document.createTextNode(" vol. " + myObj[i].data.volume + ","))
+thirdline.appendChild(document.createTextNode(" vol. " + myObj[i].data.volume ))
+}
+if (myObj[i].data.issue !=""){
+thirdline.appendChild(document.createTextNode(" ( " + myObj[i].data.volume + "),"))
 }
 thirdline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
 item.appendChild(secondline);
+item.appendChild(document.createElement("br"));
 item.appendChild(thirdline);
 document.getElementById("biblio").appendChild(item);
 }
