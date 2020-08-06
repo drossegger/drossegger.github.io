@@ -4,7 +4,7 @@ permalink: /about/
 header:
   image: images/about.jpg
 ---
-I am a postdoctoral fellow in the logic group of the Department of Pure Mathematics of the University of Waterloo. I obtained my Ph.D. in 2019 from the Vienna University of Technology under the supervision of Ekaterina Fokina.
+I am a postdoctoral fellow in the logic group of the [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) of the University of Waterloo working with [Barbara Csima](https://www.math.uwaterloo.ca/~csima/). I obtained my Ph.D. in 2019 from the Vienna University of Technology under the supervision of [Ekaterina Fokina](https://www.dmg.tuwien.ac.at/fokina/).
 
 ### Research
 
