@@ -95,7 +95,7 @@ thirdline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
 if ( countauthors > 1 ) {
-//item.appendChild(document.createTextNode(authordata.length));
+item.appendChild(document.createTextNode(countauthors));
 item.appendChild(secondline);
 item.appendChild(document.createElement("br"));
 }
