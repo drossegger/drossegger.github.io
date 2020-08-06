@@ -92,7 +92,7 @@ thirdline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
 item.appendChild(secondline);
-item.appendChild(document.createElement("br"));
+if (authordata.length>1 ) {item.appendChild(document.createElement("br"));}
 item.appendChild(thirdline);
 document.getElementById("biblio").appendChild(item);
 }
