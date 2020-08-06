@@ -51,6 +51,7 @@ if (j == authordata.length - 1) authors = authors + ", ";
 }
 
 var secondline = document.createElement("span");
+var thirdline  = document.createElement("span");
 var authornode = document.createTextNode(authors);
 // var year=document.createElement("font");
 // year.style.fontWeight='bold';
@@ -75,20 +76,20 @@ item.appendChild(arxiv);
 item.appendChild(document.createElement("br"));
 secondline.appendChild(authornode);
 if (myObj[i].data.itemType == "conferencePaper") {
-secondline.appendChild(document.createTextNode(myObj[i].data.proceedingsTitle))
-secondline.appendChild(document.createTextNode(", " + myObj[i].data.series))
+thirdline.appendChild(document.createTextNode(myObj[i].data.proceedingsTitle))
+thirdline.appendChild(document.createTextNode(", " + myObj[i].data.series))
 }
 if (myObj[i].data.itemType == "journalArticle") {
-secondline.appendChild(document.createTextNode(myObj[i].data.publicationTitle))
+thirdline.appendChild(document.createTextNode(myObj[i].data.publicationTitle))
 }
 if (myObj[i].data.volume != "") {
-secondline.appendChild(document.createTextNode(" vol. " + myObj[i].data.volume + ","))
+thirdline.appendChild(document.createTextNode(" vol. " + myObj[i].data.volume + ","))
 }
-secondline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
-secondline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
+thirdline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
+thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
 item.appendChild(secondline);
-
+item.appendChild(thirdline);
 document.getElementById("biblio").appendChild(item);
 }
 }
