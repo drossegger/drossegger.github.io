@@ -4,7 +4,15 @@ permalink: /publications/
 header:
   image: /images/publications.jpg
 --- 
-
+<style type="text/css">
+body {
+  counter-reset: section;      
+}
+p.bibitem:before {
+  counter-increment: section;        
+  content: "" counter(section) ": "; 
+}
+</style>
 <div id="biblio"></div>
 <script>
 var xmlhttp = new XMLHttpRequest();
@@ -13,7 +21,7 @@ if (this.readyState == 4 && this.status == 200) {
 var myObj = JSON.parse(this.responseText);
 for (i = 0; i < myObj.length; i++) {
 var item = document.createElement("p");
-
+item.className="bibitem"
 var title = document.createElement("font");
 title.style.fontStyle = 'italic';
 //title.style.fontWeight = 'bold';
