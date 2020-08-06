@@ -8,6 +8,10 @@ header:
 body {
   counter-reset: section;      
 }
+p.bibitem{
+  margin-left:-2em;
+  text-indent:2em;
+  }
 p.bibitem:before {
   counter-increment: section;   
   font-weight: bold;
