@@ -18,4 +18,4 @@ My research area is computability theory. I am specifically interested in the co
 In my Ph.D. thesis I focused on question 1,2, and 4 if we consider computational properties not up to isomorphism but up to other equivalence relations such as elementary equivalence and bi-embeddability. Because of this I developed an interest in the complexity of equivalence relations both from a descriptive as well as from a computational point of view.
 
 ### About my Teaching
-If you want to know what I am currently teaching or access past course notes please look at [Teaching & Notes](/teaching/).
+If you want to know about my teaching experience or access course notes please look at [Teaching & Notes](/teaching/).
