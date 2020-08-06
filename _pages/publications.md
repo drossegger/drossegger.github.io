@@ -88,11 +88,12 @@ thirdline.appendChild(document.createTextNode(" vol. " + myObj[i].data.volume ))
 if (myObj[i].data.issue !=""){
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.issue+ "),"))
 }
+else {thirdline.appendChild(document.createTextNode(",")}
 thirdline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
 item.appendChild(secondline);
-if (authordata.length>1 ) {item.appendChild(document.createElement("br"));}
+if ( authordata.length>1 ) {item.appendChild(document.createElement("br"));}
 item.appendChild(thirdline);
 document.getElementById("biblio").appendChild(item);
 }
