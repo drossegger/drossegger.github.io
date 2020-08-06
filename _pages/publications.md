@@ -92,7 +92,7 @@ else {thirdline.appendChild(document.createTextNode(","))}
 thirdline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
-if ( authordata.length > 2 ) {
+if ( authordata.length > 1 ) {
 item.appendChild(document.createTextNode("TEST"));
 item.appendChild(secondline);
 item.appendChild(document.createElement("br"));
