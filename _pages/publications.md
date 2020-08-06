@@ -10,7 +10,7 @@ body {
 }
 p.bibitem:before {
   counter-increment: section;        
-  content: "" counter(section) ": "; 
+  content: "<b>" counter(section) ". </b>"; 
 }
 </style>
 <div id="biblio"></div>
