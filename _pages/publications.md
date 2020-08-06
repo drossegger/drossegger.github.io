@@ -16,7 +16,7 @@ var item = document.createElement("p");
 
 var title = document.createElement("font");
 title.style.fontStyle = 'italic';
-title.style.fontWeight = 'bold';
+//title.style.fontWeight = 'bold';
 title.innerHTML = myObj[i].data.title;
 
 var authors = "";
