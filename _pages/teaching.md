@@ -3,6 +3,7 @@
   permalink: /teaching/
   header:
     image: images/teaching.jpg
+  class: wide
 ---
 
 ### Fall 2020
