@@ -85,7 +85,7 @@ thirdline.appendChild(document.createTextNode(myObj[i].data.publicationTitle))
 if (myObj[i].data.volume != "") {
 thirdline.appendChild(document.createTextNode(" vol. " + myObj[i].data.volume ))
 }
-if (myObj[i].data.issue !=""){
+if (myObj[i].data.issue !="" && myobj[i].data.itemType=="journalArticle"){
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.issue+ "),"))
 }
 else {thirdline.appendChild(document.createTextNode(","))}
