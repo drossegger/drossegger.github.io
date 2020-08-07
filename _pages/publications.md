@@ -39,13 +39,13 @@ var authordata = myObj[i].data.creators;
 var countauthors=1;
 authors = "with ";
 for (j = 0; j < authordata.length; j++) {
-if (!authordata[j].firstName.includes("Dino") && authordata[j].firstName!="") {
+if (!authordata[j].firstName.includes("Dino")) {
 if (authordata.length > 2) {
 if (j >= authordata.length - 2) authors = authors + " and ";
+countauthors++;
 }
 authors = authors + " " + authordata[j].firstName + " " + authordata[j].lastName;
 if (j < authordata.length - 3) authors = authors + ",";
-countauthors++;
 }
 
 if (j == authordata.length - 1) authors = authors + ", ";
