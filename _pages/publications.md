@@ -36,13 +36,11 @@ var authors = "";
 if (myObj[i].data.creators.length != 1) {
 var j;
 var authordata = myObj[i].data.creators;
-var countauthors=1;
 authors = "with ";
 for (j = 0; j < authordata.length; j++) {
 if (!authordata[j].firstName.includes("Dino")) {
 if (authordata.length > 2) {
 if (j >= authordata.length - 2) authors = authors + " and ";
-countauthors++;
 }
 authors = authors + " " + authordata[j].firstName + " " + authordata[j].lastName;
 if (j < authordata.length - 3) authors = authors + ",";
@@ -94,7 +92,7 @@ else {thirdline.appendChild(document.createTextNode(","))}
 thirdline.appendChild(document.createTextNode(" " + myObj[i].data.pages))
 thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
-if ( countauthors > 1 ) {
+if ( authors !="" ) {
 item.appendChild(document.createTextNode(countauthors));
 item.appendChild(secondline);
 item.appendChild(document.createElement("br"));
