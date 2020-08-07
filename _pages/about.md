@@ -1,6 +1,6 @@
 ---
 title: About me
-permalink: /about/
+permalink: /
 header:
   image: images/about.jpg
 ---
