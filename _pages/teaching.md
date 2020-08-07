@@ -16,7 +16,7 @@ Notes for the computability theory part and incompleteness theorems: [pmath432_n
 
 ### Fall 2019
 * __PMATH 330: Introduction to mathematical logic.__
-A third year course introduction to logic. Course notes: [pmath330_notes.pdf](/files/pmath330_notes.pdf)
+A third year introduction to logic course. Course notes: [pmath330_notes.pdf](/files/pmath330_notes.pdf)
 
 ### Teaching Praedoc
 * Exercise sessions for first year courses in mathematics for computer scientists at TU Wien and theoretical computer science at University of Vienna. 
