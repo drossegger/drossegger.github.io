@@ -25,6 +25,7 @@ xmlhttp.onreadystatechange = function() {
 if (this.readyState == 4 && this.status == 200) {
 var myObj = JSON.parse(this.responseText);
 for (i = 0; i < myObj.length; i++) {
+if (myObj[i].data.creators== undefined) continue;
 var item = document.createElement("p");
 item.className="bibitem"
 var title = document.createElement("font");
