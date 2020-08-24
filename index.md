@@ -10,10 +10,13 @@ I am a postdoctoral fellow with the logic group of the [Department of Pure Mathe
 ______
 ### News & Recent Blogposts
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
+<div class="entries-{{ entries_layout }}" style="display:inline-block">
   {% for post in site.posts limit:3 %}
     {% include recent-posts.html type=entries_layout %}
   {% endfor %}
+</div>
+<div style="display:inline-block">
+{% twitter https://twitter.com/dino_r maxwidth=500 limit=5 %}
 </div>
 ______
 
