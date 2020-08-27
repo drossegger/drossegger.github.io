@@ -2,7 +2,7 @@
   title: Teaching & Course notes
   permalink: /teaching/
   header:
-    image: images/teaching.jpg
+    image: /images/teaching.jpg
   classes: wide
 ---
 
