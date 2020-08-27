@@ -96,7 +96,7 @@ author:
   name             : "Dino Rossegger"
   avatar           : "/assets/images/dino.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Logician and postdoctoral fellow at University of Waterloo"
-  location         : "<div style='display:inline;float:left;'>MC 5303<br/>University of Waterloo<br/> 200 University Dr West <br/> N2L 3G1, Waterloo, ON</div>"
+  location         : "<div style='display:inline;float:right;'>MC 5303<br/>University of Waterloo<br/> 200 University Dr West <br/> N2L 3G1, Waterloo, ON</div>"
   email            : drossegg@uwaterloo.ca
   links:
     - label: "ORCID"
