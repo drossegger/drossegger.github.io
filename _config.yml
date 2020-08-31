@@ -20,7 +20,7 @@ title                    : "Dino Rossegger's homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dino Rossegger"
-description              : 
+description              : "Logician; Postdoctoral fellow at UW. Find news about my research and teaching."
 url                      : "https://drossegger.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
