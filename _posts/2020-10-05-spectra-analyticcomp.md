@@ -3,7 +3,7 @@ title: New preprint on arXiv!
 categories: 
   - news
 ---
-{% include _includes/mathjax.html %}
+{% include mathjax.html %}
 My newest preprint [Degree spectra of analytic complete equivalence relations](https://arxiv.org/abs/2010.00755) just appeared on arXiv.
 
 This article investigates the bi-embeddability and elementary bi-embeddability relation on countable structures both from the viewpoint of descriptive set theory and computable structure theory. Two structures are _bi-embeddable_ if either is isomorphic to an substructure of the other. They are _elementary bi-embeddable_ if either is isomorphic to a elementary substructure of the other.
