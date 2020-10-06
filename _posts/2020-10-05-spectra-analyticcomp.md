@@ -17,9 +17,9 @@ The proof of this result uses Marker extensions with so called minimal models. A
 Let $$\sim$$ be an equivalence relation on a class of structures. Then given
 a structure $$\mathcal A$$ we define the $$\sim$$ spectrum of $$\mathcal A$$ as the
 set of all sets Turing equivalent to a structure $$\sim$$ equivalent to $$\mathcal A$$, i.e., 
-\\[ DgSp_\sim(\mathcal A)=\{ X\subseteq \omega: \exists \mathcal B \sim \mathcal A \ X\equiv_T \mathcal A\}.\\]
+\\[ DgSp_\sim(\mathcal A)=\\{ X\subseteq \omega: \exists \mathcal B \sim \mathcal A \ X\equiv_T \mathcal A\\}.\\]
 
 __Theorem 2.__ Every bi-embeddability spectrum of a graph is the jump spectrum of an elementary bi-embeddability spectrum of a graph, i.e., for every $$\mathcal G$$, there is a graph $$\mathcal G'$$ such that
-\\[ DgSp_\approx(\mathcal G')=\{ X: X'\in DgSp_\approxeq(\mathcal G)\}.\\]
+\\[ DgSp_\approx(\mathcal G')=\\{ X: X'\in DgSp_\approxeq(\mathcal G)\\}.\\]
 
 This result is proven by analyzing the reduction given to prove Theorem 1. We show that this reduction induces a computable bi-transformation with a suitable class of structures.
