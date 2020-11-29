@@ -77,8 +77,8 @@ item.appendChild(arxiv);
 }
 if (myObj[i].data.extra.includes("preprint:")) {
 var preprint= document.createElement("a");
-var preprint= myObj[i].data.extra.match(/preprint:([^ ]+).*/)
-preprint.href = arxivlink[1];
+var preprintlink= myObj[i].data.extra.match(/preprint:([^ ]+).*/)
+preprint.href = preprintlink[1];
 preprint.innerHTML = "preprint";
 item.appendChild(document.createTextNode('\xa0'))
 item.appendChild(preprint);
