@@ -75,6 +75,14 @@ arxiv.innerHTML = "arXiv";
 item.appendChild(document.createTextNode('\xa0'))
 item.appendChild(arxiv);
 }
+if (myObj[i].data.extra.includes("preprint:")) {
+var preprint= document.createElement("a");
+var preprint= myObj[i].data.extra.match(/preprint:([^ ]+).*/)
+preprint.href = arxivlink[1];
+preprint.innerHTML = "preprint";
+item.appendChild(document.createTextNode('\xa0'))
+item.appendChild(preprint);
+}
 item.appendChild(document.createElement("br"));
 secondline.appendChild(authornode);
 if (myObj[i].data.itemType == "conferencePaper") {
