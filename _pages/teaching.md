@@ -5,6 +5,8 @@
     image: /assets/images/teaching.jpg
   classes: wide
 ---
+### Winter 2021
+* __MATH 138: Calculus 2 for Honors mathematics.__
 
 ### Fall 2020
 * __MATH 137: Calculus 1 for Honors mathematics.__
