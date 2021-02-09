@@ -4,6 +4,11 @@ cateogries:
   - news
 ---
 {% include mathjax.html %}
+$$
+\def\A{{\mathcal A}}
+\def\B{{\mathcal B}}
+$$
+
 We just submitted a new article titled "Positive enumerable functors" and you can find the preprint [here](/assets/files/positiveenumerablefunctors.pdf) or on [arxiv](https://arxiv.org/abs/2011.14160). This article is joint work with Barbara Csima and Daniel Yu who proved most of the results presented there in an undergraduate research project he did with Barbara and me over the summer.
 
 We investigate different effectivizations of functors using Turing operators and enumeration operators and compare these notions. The most promising of these notions are _positive enumerable functors_. A positive enumerable functors from $$\A$$ to $$\B$$ consists of two enumeration operators $$\Psi$$ and $$\Psi_*$$ such that when given an enumeration of the  positive diagram $$P(\hat\A)$$ of a structure isomorphic to $$\hat\A\cong \A$$ $$\Phi$$ enumerates the positive diagram of $$F(\hat\A)$$. The operator $$\Phi_*$$ will take care of the isomorphisms by enumerating the graph of $$F(f:\hat\A\to\tilde\A)$$ given $$P(\hat\A)\oplus Graph(f)\oplus P(\tilde\A)$$.
