@@ -29,7 +29,7 @@ for (i = 0; i < myObj.length; i++) {
 if (myObj[i].data.creators== undefined) continue;
 var item = document.createElement("p");
 item.className="bibitem"
-var title = document.createElement("font");
+var title = document.createElement("span");
 title.style.fontStyle = 'italic';
 //title.style.fontWeight = 'bold';
 title.innerHTML = myObj[i].data.title;
@@ -108,7 +108,7 @@ thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
 if ( authors !="" ) {
 item.appendChild(secondline);
-item.appendChild(document.createElement("br"));
+// item.appendChild(document.createElement("br"));
 }
 item.appendChild(thirdline);
 document.getElementById("biblio").appendChild(item);
