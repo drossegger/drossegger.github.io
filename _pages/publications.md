@@ -55,6 +55,8 @@ if (j == authordata.length - 1) authors = authors + ", ";
 var secondline = document.createElement("span");
 var thirdline  = document.createElement("span");
 var authornode = document.createTextNode(authors);
+secondline.style.fontSize='12px';
+thirdline.style.fontSize='12px';
 // var year=document.createElement("font");
 // year.style.fontWeight='bold';
 // year.innerHTML=myObj[i].data.date+" ";
