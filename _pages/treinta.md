@@ -13,6 +13,6 @@ Once you found the cache enter the email domain of the maintainer of the cache h
 <script>
 function myFunction() {
   let x=document.getElementById("numb").value;
-  if (x=="gmx.at") window.location.href='https://youtu.be/WqqE1sUPxlI';
+  if (x=="gmx.at") window.open('https://youtu.be/WqqE1sUPxlI');
 }
 <\script>
