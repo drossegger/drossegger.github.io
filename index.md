@@ -5,7 +5,7 @@ header:
   image: /assets/images/about.jpg
 classes: wide
 ---
-I am a postdoctoral fellow with the logic group of the [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) of the University of Waterloo. I obtained my Ph.D. in 2019 from the Vienna University of Technology under the supervision of [Ekaterina Fokina](https://www.dmg.tuwien.ac.at/fokina/).
+I am a Marie Curie fellow at the [Department of Mathematics]{https://math.berkeley.edu/} at UC Berkeley. Through my Marie Curie project ACOSE I am also affiliated with the [Institute of Discrete Mathematics]{https://dmg.tuwien.ac.at} at Technische Universität Wien. Before I was a postdoctoral fellow with the logic group of the [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) of the University of Waterloo. I obtained my Ph.D. in 2019 from the Vienna University of Technology under the supervision of [Ekaterina Fokina](https://www.dmg.tuwien.ac.at/fokina/).
 
 My research is in mathematical logic, and there mostly in computablity theory. For more information about my research [scroll down](#about-my-research) or take a look at my [publications](/publications/).
 

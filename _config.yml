@@ -20,14 +20,14 @@ title                    : "Dino Rossegger's homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dino Rossegger"
-description              : "Logician; Postdoctoral fellow at UW. Find news about my research and teaching."
+description              : "Logician; Marie Curie fellow at UC Berkeley and TU Wien. Find news about my research and teaching."
 url                      : "https://drossegger.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+  #breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Dino Rossegger"
   avatar           : "/assets/images/dino.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Logician; Postdoctoral fellow at University of Waterloo"
+  bio              : "Logician; Marie Curie fellow at UC Berkeley."
   location         : "<div style='display:inline-block;vertical-align:top;'>MC 5303<br/>University of Waterloo<br/> 200 University Dr West <br/> N2L 3G1, Waterloo, ON</div><br/>"
-  email            : drossegg@uwaterloo.ca
+  email            : dino@math.berkeley.edu
   links:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
