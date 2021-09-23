@@ -1,6 +1,6 @@
 ---
 title: Positive enumerable functors
-cateogries:
+categories:
   - news
 ---
 {% include mathjax.html %}

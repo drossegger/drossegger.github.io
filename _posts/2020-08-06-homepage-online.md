@@ -1,5 +1,5 @@
 ---
-title: New Homepage Online
+title: New homepage online
 categories: 
   - news
 ---

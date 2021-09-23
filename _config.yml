@@ -96,7 +96,7 @@ author:
   name             : "Dino Rossegger"
   avatar           : "/assets/images/dino.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Logician; Marie Curie fellow at UC Berkeley."
-  location         : "<div style='display:inline-block;vertical-align:top;'>987 Evans Hall<br/>Berkeley, CA 94720</div><br/>"
+  eocation         : "<div style='display:inline-block;vertical-align:top;'>987 Evans Hall<br/>Berkeley, CA 94720</div><br/>"
   email            : dino@math.berkeley.edu
   links:
     - label: "ORCID"
