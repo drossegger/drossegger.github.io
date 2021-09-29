@@ -10,9 +10,9 @@
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div {% if f.url %} onclick="location.href='{{ f.url | relative_url }}';"
 {% endif %} class="archive__item{% if include.type %}--{{ include.type }}{%
-endif %} dino__archive__item" style="background-image: url('{{ f.image_path
+endif %} dinoitem" style="background-image: url('{{ f.image_path
 | relative_url }}');">
-        <div class="archive__item-body dino__archive__item-body">  
+        <div class="archive__item-body dinoitem-body">  
         {% if f.title %}
           <span class="archive__item-title">{{ f.title }}</span>
         {% endif %}

@@ -242,16 +242,16 @@
   }
 }
 
-.dino__archive__item:hover{
+.dinoitem:hover{
   border:10px;
   border: 1px solid #000000;
 }
-.dino__archive__item{
+.dinoitem{
   height: 180px;
   border: 1px solid #d0d0d0;
   background-repeat: no-repeat;
 }
-.dino__archive__item-body{
+.dinoitem-body{
   position: absolute;
   background: rgba(0,0,0,0.6);
   color: white;
