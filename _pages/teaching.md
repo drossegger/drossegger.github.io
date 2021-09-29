@@ -2,7 +2,7 @@
   title: Teaching & Course notes
   permalink: /teaching/
   header:
-    image: /assets/images/teaching.jpg
+    overlay_image: /assets/images/teaching_overlay.jpg
   classes: wide
 ---
 ### Winter 2021

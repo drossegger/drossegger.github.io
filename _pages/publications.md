@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 header:
-  image: /assets/images/publications.jpg
+  overlay_image: /assets/images/publications_overlay.jpg
 classes: wide
 --- 
 <style type="text/css">

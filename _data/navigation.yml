@@ -8,8 +8,8 @@ main:
     url: /publications/
   - title: "Teaching & Notes"
     url: /teaching/
-      #- title: "ACOSE"
-      #url: /acose/
+  - title: "ACOSE"
+    url: /acose/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

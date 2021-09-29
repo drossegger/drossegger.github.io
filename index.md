@@ -1,13 +1,58 @@
 ---
-title: About me
+title:  Dino Rossegger 
+author: Dino Rossegger
 permalink: /
 header:
-  image: /assets/images/about.jpg
-classes: wide
----
-I am a Marie Curie fellow at the [Department of Mathematics](https://math.berkeley.edu/) at UC Berkeley. Through my Marie Curie project ACOSE I am also affiliated with the [Institute of Discrete Mathematics](https://dmg.tuwien.ac.at) at Technische Universität Wien. Before I was a postdoctoral fellow with the logic group of the [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) of the University of Waterloo. I obtained my Ph.D. in 2019 from the Vienna University of Technology under the supervision of [Ekaterina Fokina](https://www.dmg.tuwien.ac.at/fokina/).
+  overlay_image: /assets/images/about_overlay.jpg
+  overlay_filter: 0.3 
+  actions:
+    - label: "Learn More"
+      url: "#about-me"
+      
+excerpt: 'Logician. Marie Skłodowska Curie Fellow at UC Berkeley and TU Wien
+          <br/><span style="font-size:14px"><a href="https://orcid.org/0000-0003-3494-9049" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">ORCID</span></a>
+<a href="https://twitter.com/dino_r" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a>
+<a href="https://github.com/drossegger" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a>
+<a href="mailto:dino@math.berkeley.edu"> <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></span>' 
 
-My research is in mathematical logic, and there mostly in computablity theory. For more information about my research [scroll down](#about-my-research) or take a look at my [publications](/publications/).
+
+layout: splash
+
+feature_row:
+  - image_path: /assets/images/publications_splash.jpg
+    title: "Publications"
+    excerpt: "List of my publications with access options"
+    url: "/publications/"
+    btn_label: "to Publications"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/teaching_splash.jpg
+    title: Teaching
+    excerpt: "Syllabi and course notes"
+    url: "/teaching/"
+    btn_label: "to Teaching"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/acose_splash.jpg
+    title: Project - ACOSE 
+    excerpt: "Infos & News about my Marie Skłodowska Curie funded project ACOSE"
+    url: "/acose/"
+    btn_label: "to ACOSE"
+    btn_class: "btn--primary"
+---
+<!--{% include feature_row id='intro' type='center' %}-->
+{% include feature_row %}
+
+<!-- {% include feature_row id='about-me' type='left' %}-->
+### About Me
+
+<img src='/assets/images/dino2.jpg' style="float:left; margin-right:10px; width:200px"/>I am a Marie Curie fellow at the [Department of Mathematics](https://math.berkeley.edu/) at UC Berkeley. Through my Marie Curie project ACOSE I am also affiliated with the [Institute of Discrete Mathematics](https://dmg.tuwien.ac.at) at Technische Universität Wien. Before I was a postdoctoral fellow with the logic group of the [Department of Pure Mathematics](https://uwaterloo.ca/pure-mathematics/) of the University of Waterloo. I obtained my Ph.D. in 2019 from the Vienna University of Technology under the supervision of [Ekaterina Fokina](https://www.dmg.tuwien.ac.at/fokina/).
+
+My research is in computability theory, an area in mathematical logic. The main ambition for my research is to get a better understanding of the computational and descriptive complexity of mathematical objects and their associated classification problems. For more information about my research please take a look at my [publications](/publications/).
+
+
+<!--- <br/><span style="font-size:14px"><a href="https://orcid.org/0000-0003-3494-9049" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">ORCID</span></a>
+<a href="https://twitter.com/dino_r" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a>
+<a href="https://github.com/drossegger" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a>
+<a href="mailto:dino@math.berkeley.edu"> <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></span> --->
 
 ______
 ### News & Recent Blogposts
@@ -19,16 +64,4 @@ ______
 </div>
 ______
 
-### About my Research
 
-My research area is computability theory. I am specifically interested in the computational and descriptive complexity of mathematical objects. In my research I typically aim to answer questions of the following kind:
-
-- Given a mathematical structure (for example a field), how complicated is it to compute an isomorphism between any two isomorphic copies of it?
-- Given a mathematical structure for which we can not necessarily compute its basic operations, in which Turing degrees can we find isomorphic copies of it?
-- Given a structure, how complicated is its Scott sentence (A sentence in infinitary logic whose models are isomorphic to the given structure)?
-- Given a structure with interesting computational properties, can we find a structure with such properties in natural classes of structures?
-
-In my Ph.D. thesis I focused on question 1,2, and 4 if we consider computational properties not up to isomorphism but up to other equivalence relations such as elementary equivalence and bi-embeddability. Because of this I developed an interest in the complexity of equivalence relations both from a descriptive as well as from a computational point of view.
-
-### About my Teaching
-If you want to know about my teaching experience or access course notes please look at [Teaching & Notes](/teaching/).
