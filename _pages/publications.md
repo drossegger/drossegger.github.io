@@ -18,6 +18,15 @@ p.bibitem:before {
   font-weight: bold;
   content: "" counter(section) ". "; 
 }
+#lines{
+  margin-left: 2em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  font-size: 14px;
+  }
+#pubtitle{
+  font-weight: bold;
+}
 </style>
 <div id="biblio"></div>
 <script>
@@ -48,26 +57,30 @@ authors = authors + " " + authordata[j].firstName + " " + authordata[j].lastName
 if (j < authordata.length - 3) authors = authors + ",";
 }
 
-if (j == authordata.length - 1) authors = authors + ", ";
+//if (j == authordata.length - 1) authors = authors + ", ";
 }
 }
 
-var secondline = document.createElement("span");
-var thirdline  = document.createElement("span");
+var secondline = document.createElement("p");
+var thirdline  = document.createElement("p");
+secondline.id="lines";
+thirdline.id="lines";
 var authornode = document.createTextNode(authors);
-secondline.style.fontSize='14px';
-thirdline.style.fontSize='14px';
 // var year=document.createElement("font");
 // year.style.fontWeight='bold';
 // year.innerHTML=myObj[i].data.date+" ";
 // item.appendChild(year);
 item.appendChild(title);
+if (myObj[i].data.DOI != "" || myObj[i].data.extra.includes("arxiv:")) {
+item.appendChild(document.createTextNode(' ['));
+}
 if (myObj[i].data.DOI != "") {
 var doiurl = document.createElement("a");
 doiurl.href = "https://doi.org/" + myObj[i].data.DOI;
 doiurl.innerHTML = "DOI";
 item.appendChild(document.createTextNode('\xa0'))
 item.appendChild(doiurl);
+if( myObj[i].data.extra.includes("arxiv:")) item.appendChild(document.createTextNode(' |'));
 }
 if (myObj[i].data.extra.includes("arxiv:")) {
 var arxiv = document.createElement("a");
@@ -76,6 +89,9 @@ arxiv.href = arxivlink[1];
 arxiv.innerHTML = "arXiv";
 item.appendChild(document.createTextNode('\xa0'))
 item.appendChild(arxiv);
+}
+if (myObj[i].data.DOI != "" || myObj[i].data.extra.includes("arxiv:")) {
+item.appendChild(document.createTextNode(' ]'));
 }
 if (myObj[i].data.extra.includes("preprint:")) {
 var preprint= document.createElement("a");
@@ -88,11 +104,17 @@ item.appendChild(preprint);
 item.appendChild(document.createElement("br"));
 secondline.appendChild(authornode);
 if (myObj[i].data.itemType == "conferencePaper") {
-thirdline.appendChild(document.createTextNode(myObj[i].data.proceedingsTitle))
-thirdline.appendChild(document.createTextNode(", " + myObj[i].data.series))
+var proceedings=document.createElement("span");
+proceedings.id='pubtitle';
+thirdline.appendChild(proceedings);
+proceedings.innerHTML=myObj[i].data.proceedingsTitle;
+if (myObj[i].data.series != '') proceedings.innerHTML=proceedings.innerHTML + ', ' +myObj[i].data.series;
 }
 if (myObj[i].data.itemType == "journalArticle") {
-thirdline.appendChild(document.createTextNode(myObj[i].data.publicationTitle))
+var publication=document.createElement("span");
+publication.id='pubtitle';
+thirdline.appendChild(publication);
+publication.innerHTML=myObj[i].data.publicationTitle;
 }
 if (myObj[i].data.volume != "") {
 thirdline.appendChild(document.createTextNode(" vol. " + myObj[i].data.volume ))
@@ -106,7 +128,6 @@ thirdline.appendChild(document.createTextNode(" (" + myObj[i].data.date + ")."))
 
 if ( authors !="" ) {
 item.appendChild(secondline);
-// item.appendChild(document.createElement("br"));
 }
 item.appendChild(thirdline);
 document.getElementById("biblio").appendChild(item);
