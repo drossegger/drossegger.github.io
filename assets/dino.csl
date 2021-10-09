@@ -1,19 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0"  default-locale="en-US">
   <info>
-    <title>Dino's CV style</title>
-    <id>http://www.zotero.org/styles/dino-cv-style</id>
+    <title>Dino's homepage style</title>
+    <id>http://www.zotero.org/styles/dino-hp-style</id>
     <link href="http://www.zotero.org/styles/cambridge-university-press-numeric" rel="self"/>
     <link href="http://www.zotero.org/styles/ios-press-books" rel="template"/>
     <link href="https://authornet.cambridge.org/information/academic/guidelines_for_authors.asp" rel="documentation"/>
     <contributor>
-      <name>Patrick O'Brien</name>
-      <email>obrienpat86@gmail.com</email>
+      <name>Dino Rossegger</name>
     </contributor>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <summary>Numeric style for Cambridge University Press.</summary>
-    <updated>2018-03-28T23:10:24+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="author">
@@ -68,7 +65,7 @@
   </macro>
   <citation collapse="citation-number">
     <sort>
-      <key variable="citation-number"/>
+      <key variable="issued" sort="descending"/>
     </sort>
     <layout delimiter="&#8211;" prefix="[" suffix="]">
       <text variable="citation-number"/>
@@ -121,7 +118,7 @@
           <text variable="DOI" prefix=". https://doi.org/"/>
         </if>
         <if variable="URL">
-          <text variable="URL"/>
+          <text variable="URL" prefix=" Preprint: "/>
         </if> 
       </layout>
   </bibliography>
