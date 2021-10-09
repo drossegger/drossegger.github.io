@@ -151,9 +151,12 @@
         <else>
           <text macro="access" prefix=". "/>
         </else>
-	<if variable="URL">
-	 <text variable="URL" prefix=" Preprint: "/>
-	</if>
+	
+      </choose>
+      <choose>
+       <if variable="URL">
+	      <text variable="URL" prefix=" Preprint: "/>
+	     </if>
       </choose>
     </layout>
   </bibliography>
