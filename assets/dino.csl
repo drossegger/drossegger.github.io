@@ -157,11 +157,8 @@
       </choose>
       <choose>
        <if variable="URL">
-	      <text variable="URL" prefix=" Preprint: "/>
+         <text variable="URL" prefix="<br/>Preprint: "/>
 	     </if>
-       <else>
-         <text term="nopreprint"/>
-       </else>
       </choose>
     </layout>
   </bibliography>
