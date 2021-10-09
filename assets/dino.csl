@@ -79,7 +79,7 @@
   </macro>
   <citation collapse="citation-number">
     <sort>
-      <key variable="citation-number"/>
+      <key variable="issued"/>
     </sort>
     <layout delimiter="&#8211;" prefix="[" suffix="]">
       <text variable="citation-number"/>
@@ -151,7 +151,6 @@
         <else>
           <text macro="access" prefix=". "/>
         </else>
-	
       </choose>
       <choose>
        <if variable="URL">
