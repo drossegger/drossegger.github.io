@@ -86,6 +86,9 @@
     </layout>
   </citation>
   <bibliography and="symbol" second-field-align="flush" entry-spacing="0">
+    <sort>
+      <key variable="issued" />
+    </sort>   
     <layout suffix=".">
       <text variable="citation-number" suffix="."/>
       <text macro="author" suffix=", "/>
@@ -156,6 +159,9 @@
        <if variable="URL">
 	      <text variable="URL" prefix=" Preprint: "/>
 	     </if>
+       <else>
+         <text term="nopreprint"/>
+       </else>
       </choose>
     </layout>
   </bibliography>
