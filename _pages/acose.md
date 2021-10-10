@@ -14,5 +14,21 @@ The goal of this project is to investigate the relationship between notions of c
 * Supervision Outgoing phase: Antonio Montalbán
 * Supervision Return phase: Ekaterina Fokina
 
+### Publications
+<div id="pubs">Loading... </div>
 
+<script>
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+if (this.readyState == 4 && this.status == 200) {
+  var myObj = JSON.parse(this.responseText);
+  var biblio=document.getElementById('pubs');
+  while (biblio.firstChild) biblio.removeChild(biblio.firstChild);
+  biblio.appendChild(createbib(myObj,false));
+}
+};
+xmlhttp.open("GET", "https://api.zotero.org/groups/1553639/collections/3T8QH7NR/items?format=json&sort=date", true);
+xmlhttp.send();
+
+</script>
 

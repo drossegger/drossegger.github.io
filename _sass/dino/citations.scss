@@ -1,0 +1,18 @@
+p.bibitem{
+  margin-left:1em;
+  text-indent:-1em;
+  }
+p.bibitem:before {
+  counter-increment: section;   
+  font-weight: bold;
+  content: "" counter(section) ". "; 
+}
+#lines{
+  margin-left: 2em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  font-size: 14px;
+  }
+#pubtitle{
+  font-weight: bold;
+}
