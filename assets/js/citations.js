@@ -108,6 +108,7 @@ function processItem(i,personal){
 
 function createbib(myObj,personal){
   var bib=document.createElement('div');
+  bib.className="bibliography";
   for (i = 0; i < myObj.length; i++) {
     if (myObj[i].data.creators=== undefined) continue;
     bib.appendChild(processItem(myObj[i],personal));

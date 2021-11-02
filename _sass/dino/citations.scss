@@ -1,17 +1,23 @@
 p.bibitem{
-  margin-left:1em;
   text-indent:-1em;
   }
 p.bibitem:before {
-  counter-increment: section;   
-  font-weight: bold;
+  counter-increment: section; 
   content: "" counter(section) ". "; 
+  display: inline-block;
+  width: 2em;
+  text-align: right;
+  margin-right: 0.2em;
+}
+.bibliography{
+  counter-reset: section;
+  margin-left: 1em;
 }
 #lines{
-  margin-left: 2em;
   margin-top: 0em;
   margin-bottom: 0em;
-  font-size: 14px;
+  font-size: $type-size-6;
+  margin-left: 3em;
   }
 #pubtitle{
   font-weight: bold;
