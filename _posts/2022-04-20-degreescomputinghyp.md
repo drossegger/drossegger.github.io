@@ -1,7 +1,7 @@
 ---
 title: Turing degrees that compute HYP but can not compute Kleene's O.
 ---
-
+{% include mathjax.html %}
 Let $HYP$ be the set of hyperarithmetic degrees, i.e. $$HYP=\{ \mathbf d:\exists (\alpha<\omega_1^{\mathrm{CK}}) \mathbf d< \mathbf 0^{(\alpha)}\}.$$
 Jockusch and Simpson [1] showed that there is a degree $\mathbf d$ that is minimal over $HYP$ (i.e., if $\mathbf c<\mathbf d$, then $\mathbf c\in HYP$) and such that $\mathbf d^{(3)}=deg(\mathcal O)$ where $\mathcal O$ is the Kleene's $\mathcal O$, or, equivalently, the set of indices of computable well-orderings.
 
@@ -17,6 +17,7 @@ where $H$ denotes a jump hierarchy on $C$. Note that it mus not be the case that
 We have seen, that if we restrict our degrees to degrees that compute $HYP$ and a copy of $\omega_1^{\mathrm{CK}}$ then we can not be far below Kleene's O. What if we can not compute $\omega_1^{\mathrm{CK}}$? It turns out we can be quite far away in that case.
 
 __Theorem 2.__ There is a degree $\mathbf d>HYP$ that is hyperarithmetically low, i.e., $\omega_1^{\mathbf d}=\omega_1^{\mathrm{CK}}$.
+
 _Proof sketch._ Consider the set 
 $$X=\{ (e,H) : \phi_e \text{is a linear order}, H \text{ is a jump hierarchy on }\phi_e, \phi_e\text{ does not have hyperarithmetic descending sequences}\}$$
 This set is $\Sigma^1_1$ so by the Gandy basis theorem it must contain a set $Y=(e_0,H_0)$ such that $\omega_1^{Y}=\omega_1^{\mathrm{CK}}$. Thus there is no $\alpha$ such that $Y^{(\alpha)}\equiv_T \mathcal O$. See Montalbán [3] for more on Gandy's basis theorem and jump hierarchies in this context.
