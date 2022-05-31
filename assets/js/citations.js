@@ -53,7 +53,7 @@ function processItem(i,personal){
   var authornode = document.createTextNode(authors);
 
   item.appendChild(title);
-  if (i.data.DOI != "" || i.data.extra.includes("arxiv:")) {
+  if (i.data.DOI != "" || i.data.extra.includes("arxiv:") || i.data.url!="") {
     item.appendChild(document.createTextNode(' ['));
   }
   if (i.data.DOI != "") {
@@ -72,14 +72,14 @@ function processItem(i,personal){
     item.appendChild(document.createTextNode('\xa0'))
     item.appendChild(arxiv);
   }
-  else if (i.data.URL!=""){
+  else if (i.data.url!=""){
     var url=document.createElement("a");
-    url.href=i.data.URL;
+    url.href=i.data.url;
     url.innerHTML="pdf";
     item.appendChild(document.createTextNode('\xa0'))
     item.appendChild(url);
   }
-  if (i.data.DOI != "" || i.data.extra.includes("arxiv:") || i.data.URL!="") {
+  if (i.data.DOI != "" || i.data.extra.includes("arxiv:") || i.data.url!="") {
     item.appendChild(document.createTextNode(' ]'));
   }
   secondline.appendChild(authornode);
