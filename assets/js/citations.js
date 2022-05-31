@@ -72,7 +72,14 @@ function processItem(i,personal){
     item.appendChild(document.createTextNode('\xa0'))
     item.appendChild(arxiv);
   }
-  if (i.data.DOI != "" || i.data.extra.includes("arxiv:")) {
+  else if (i.data.URL!=""){
+    var url=document.createElement("a");
+    url.href=i.data.URL;
+    url.innerHTML="pdf";
+    item.appendChild(document.createTextNode('\xa0'))
+    item.appendChild(url);
+  }
+  if (i.data.DOI != "" || i.data.extra.includes("arxiv:") || i.data.URL!="") {
     item.appendChild(document.createTextNode(' ]'));
   }
   secondline.appendChild(authornode);
