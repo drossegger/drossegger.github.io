@@ -53,7 +53,7 @@ function processItem(i,personal){
   var authornode = document.createTextNode(authors);
 
   item.appendChild(title);
-  if (i.data.DOI != "" || i.data.extra.includes("arxiv:") || i.data.url!="") {
+  if (i.data.DOI != "" || i.data.extra.includes("arxiv:") || i.data.url!="" || i.data.extra.includes("arXiv:")) {
     item.appendChild(document.createTextNode(' ['));
   }
   if (i.data.DOI != "") {
@@ -72,6 +72,15 @@ function processItem(i,personal){
     item.appendChild(document.createTextNode('\xa0'))
     item.appendChild(arxiv);
   }
+  else if (i.data.extra.includes("arXiv:")) {
+    var arxiv = document.createElement("a");
+    var arxivlink = i.data.extra.match(/arXiv:([^ ]+).*/)
+    arxiv.href = "https://arxiv.org/abs/"+arxivlink[1];
+    arxiv.innerHTML = "arXiv";
+    item.appendChild(document.createTextNode('\xa0'))
+    item.appendChild(arxiv);
+
+  }
   else if (i.data.url!=""){
     var url=document.createElement("a");
     url.href=i.data.url;
@@ -79,7 +88,7 @@ function processItem(i,personal){
     item.appendChild(document.createTextNode('\xa0'))
     item.appendChild(url);
   }
-  if (i.data.DOI != "" || i.data.extra.includes("arxiv:") || i.data.url!="") {
+  if (i.data.DOI != "" || i.data.extra.includes("arxiv:") || i.data.url!="" || i.data.extra.includes("arXiv:")) {
     item.appendChild(document.createTextNode(' ]'));
   }
   secondline.appendChild(authornode);
@@ -96,10 +105,10 @@ function processItem(i,personal){
     thirdline.appendChild(publication);
     publication.innerHTML=i.data.publicationTitle;
   }
-  if (i.data.volume != "") {
+  if (i.data.volume != "" && i.data.volume!=undefined) {
     thirdline.appendChild(document.createTextNode(" vol. " + i.data.volume ))
   }
-  if (i.data.issue !="" && i.data.itemType=="journalArticle"){
+  if (i.data.issue !="" && i.data.itemType=="journalArticle" && i.data.issue!=undefined){
     thirdline.appendChild(document.createTextNode(" (" + i.data.issue+ "),"))
   }
   else {thirdline.appendChild(document.createTextNode(","))}
