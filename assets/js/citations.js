@@ -24,12 +24,17 @@ function generate_authors(i){
     var authordata =i.data.creators;
     authors = "";
     for (j = 0; j < authordata.length; j++) {
+        if (authordata.length == 2) {
+          if (j>0) authors=authors+ " and";
+        }
         if (authordata.length > 2) {
-          if (j >= authordata.length - 2 && authordata.length==3) authors = authors + " and ";
-          else if (j >= authordata.length - 2 ) authors = authors + ", and ";
+          if (j>0){
+            if (j<authordata.length-1)authors = authors + ",";
+            else authors=authors+", and"
+
+          }
         }
         authors = authors + " " + authordata[j].firstName + " " + authordata[j].lastName;
-        if (j < authordata.length - 3) authors = authors + ",";
     }
   } 
   return authors;
@@ -47,8 +52,7 @@ function processItem(i,personal){
   else authors=generate_authors(i);
 
   var secondline = document.createElement("p");
-  var thirdline  = document.createElement("p");
-  secondline.id="lines";
+  var thirdline  = document.createElement("p"); secondline.id="lines";
   thirdline.id="lines";
   var authornode = document.createTextNode(authors);
 
@@ -62,7 +66,7 @@ function processItem(i,personal){
     doiurl.innerHTML = "DOI";
     item.appendChild(document.createTextNode('\xa0'))
     item.appendChild(doiurl);
-    if( i.data.extra.includes("arxiv:")) item.appendChild(document.createTextNode(' |'));
+    if( i.data.extra.toLowerCase().includes("arxiv:")) item.appendChild(document.createTextNode(' |'));
   }
   if (i.data.extra.includes("arxiv:")) {
     var arxiv = document.createElement("a");
