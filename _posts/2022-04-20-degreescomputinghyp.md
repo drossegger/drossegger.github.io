@@ -13,7 +13,7 @@ _Proof sketch._ Assume that $$\mathbf d^{(3)}\geq deg(\mathcal O)$$. Then $$\mat
 
 $$e\in O\Leftrightarrow \exists i\exists (a\in C) \varphi_i^{H^{[a]}}: \varphi_e \cong C_{< a}$$
 
-where $$H$$ denotes a jump hierarchy on $$C$$. Note that it mus not be the case that $$\mathbf d$$ computes a jump hierarchy, after all it only computes all hyperarithmetic sets, but it does not necessarily do this uniformly. However, creating a jump hierarchy in this case is $$\Sigma^0_3$$ (see Montalbán [3] for more on jump hierarchies). Checking whether $$\varphi^{H^{[a]}}_i$$ is an isomorvarphism is $$\Pi^0_2$$. So $$\mathbf d^{(3)}\geq deg(O)=deg(\mathcal O)$$.
+where $$H$$ denotes a jump hierarchy on $$C$$. Note that it mus not be the case that $$\mathbf d$$ computes a jump hierarchy, after all it only computes all hyperarithmetic sets, but it does not necessarily do this uniformly. However, creating a jump hierarchy in this case is $$\Sigma^0_3$$ (see Montalbán [3] for more on jump hierarchies). Checking whether $$\varphi^{H^{[a]}}_i$$ is an isomorphism is $$\Pi^0_2$$. So $$\mathbf d^{(3)}\geq deg(O)=deg(\mathcal O)$$.
 
 
 We have seen, that if we restrict our degrees to degrees that compute $$HYP$$ and a copy of $$\omega_1^{\mathrm{CK}}$$ then we can not be far below Kleene's O. What if we can not compute $$\omega_1^{\mathrm{CK}}$$? It turns out we can be quite far away in that case.
