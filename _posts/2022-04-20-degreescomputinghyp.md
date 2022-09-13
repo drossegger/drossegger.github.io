@@ -1,7 +1,6 @@
 ---
 title: Turing degrees that compute HYP but can not compute Kleene's _O_.
 ---
-{% include mathjax.html %}
 Let $$HYP$$ be the set of hyperarithmetic degrees, i.e. $$HYP=\{ \mathbf d:\exists (\alpha<\omega_1^{\mathrm{CK}}) \mathbf d< \mathbf 0^{(\alpha)}\}.$$
 Jockusch and Simpson [1] showed that there is a degree $$\mathbf d$$ that is minimal over $$HYP$$ (i.e., if $$\mathbf c<\mathbf d$$, then $$\mathbf c\in HYP$$) and such that $$\mathbf d^{(3)}=deg(\mathcal O)$$ where $$\mathcal O$$ is Kleene's $$\mathcal O$$, or, up to m-equivalence, the set of indices of computable well-orderings.
 

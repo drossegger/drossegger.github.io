@@ -1,7 +1,6 @@
 ---
 title: The degrees of categoricity above 0''
 ---
-{% include mathjax.html %}
 
 Consider the ordering $$\omega$$ of the natural numbers $$0\leq 1\leq 2\leq 3\leq\dots$$.
 We can build an isomorphic order $$\mathcal B$$ (for bad) as follows: We order all the even numbers in ascending order and enumerate the Halting set. If $$n$$ enters the Halting set at some stage $$s$$, then we put an odd number greater than $$s$$ into $$\mathcal B$$ between $$2n$$ and $$2n+2$$. You can convince yourself, that the order $$\mathcal B$$ is computable and that every isomorphism between $$\mathcal B$$ and $$\mathcal N$$ will compute the Halting set. Why is that? 
