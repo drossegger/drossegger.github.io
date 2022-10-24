@@ -64,4 +64,13 @@ ______
 </div>
 ______
 
+### Other notes
+Non peer-reviewed notes on topics I am interested in.
+
+<ol>
+{% for note in site.data.notes %}
+<li><a href={{ note.url }}>{{ note.title }}</a></li>
+{% endfor %}
+</ol>
+
 
