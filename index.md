@@ -69,7 +69,7 @@ Non peer-reviewed notes on topics I am interested in.
 
 <ol>
 {% for note in site.data.notes %}
-<li><a href={{ note.url }}>{{ note.title }}</a></li>
+<li><a href='{{ note.file }}'>{{ note.title }}</a></li>
 {% endfor %}
 </ol>
 
