@@ -5,9 +5,6 @@ permalink: /
 header:
   overlay_image: /assets/images/about_overlay.jpg
   overlay_filter: 0.3 
-  actions:
-    - label: "Learn More"
-      url: "#about-me"
       
 excerpt: 'Logician. Marie Skłodowska Curie Fellow at UC Berkeley and TU Wien
           <br/><span style="font-size:14px"><a href="https://orcid.org/0000-0003-3494-9049" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">ORCID</span></a>
