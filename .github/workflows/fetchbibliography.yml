@@ -12,6 +12,9 @@ jobs:
         with:
           endpoint: https://api.zotero.org/groups/1553639/items?format=json&sort=date
           configuration: '{ "method": "GET"}'
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+        
       - name: Build and Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
