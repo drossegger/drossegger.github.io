@@ -7,7 +7,7 @@ classes: wide
 --- 
 <ol>
 {% for pub in site.data.bibliography %}
-<li><em>{{ pub.data.title }}</em> 
+<li>{{ pub.data.title }} 
     {% if pub.data.DOI or pub.data.libraryCatalog=="arXiv.org" %} 
         [ {% if pub.data.DOI %} <a href="https://doi.org/{{ pub.data.DOI }}" >DOI</a> {% endif %}
         {% if pub.data.libraryCatalog=="arXiv.org" %} | <a href='{{ pub.data.url }}'>arXiv</a> {% endif %} ]
