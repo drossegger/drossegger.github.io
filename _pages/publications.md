@@ -17,7 +17,7 @@ classes: wide
     {% endif %}<br/>
     {% if pub.data.creators.size > 0 %} <span id='lines' style='margin-left:0em'>
         with {% for creator in pub.data.creators %} 
-            {{ creator.firstName }} {{ creator.lastName }}{% unless forloop.last %}, {% endunless -%} 
+            {{ creator.firstName }} {{ creator.lastName }}{% unless forloop.last %}, {% endunless -%}{% if forloop.rindex0==1 %} and {% endif %}
             {% endfor %}</span> <br/>
     {% endif %} 
     {% if pub.data.itemType=="journalArticle" %}
