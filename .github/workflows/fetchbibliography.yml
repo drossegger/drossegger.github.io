@@ -1,0 +1,11 @@
+name: Refresh bibliography
+on: [push]
+jobs:
+  refresh-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch API Data
+        uses: JamesIves/fetch-api-data-action@v2
+        with:
+          endpoint: https://api.zotero.org/groups/1553639/items?format=json&sort=date
+          configuration: '{ "method": "GET"}'
