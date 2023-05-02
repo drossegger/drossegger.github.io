@@ -1,0 +1,371 @@
+- data:
+    DOI: 10.48550/arXiv.2301.09940
+    ISSN: ''
+    abstractNote: ''
+    accessDate: '2023-01-26T23:51:52Z'
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Nikolay
+      lastName: Bazhenov
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Alexandra A.
+      lastName: Soskova
+    - creatorType: author
+      firstName: Stefan V.
+      lastName: Vatev
+    date: '2023-01-24'
+    dateAdded: '2023-01-26T23:51:52Z'
+    dateModified: '2023-05-02T22:13:33Z'
+    extra: arxiv:https://arxiv.org/abs/2301.09940
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: LN7LTVST
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03C57 (Primary), 03E15 (Secondary)
+      type: 1
+    - tag: F.4.1
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: A Lopez-Escobar Theorem for Continuous Domains
+    url: http://arxiv.org/abs/2301.09940
+    version: 226
+    volume: ''
+  key: LN7LTVST
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/LN7LTVST
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/LN7LTVST
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Bazhenov et al.
+    numChildren: 3
+    parsedDate: '2023-01-24'
+  version: 226
+- data:
+    DOI: 10.48550/arXiv.2209.04524
+    ISSN: ''
+    abstractNote: 'We give a characterization of the degrees of categoricity of computable
+      structures greater or equal to $\mathbf 0"$. They are precisely the treeable
+      degrees - the least degrees of paths through computable trees - that compute
+      $\mathbf 0"$. As a corollary, we obtain several new examples of degrees of categoricity.
+      Among them we show that every degree $\mathbf d$ with $\mathbf 0^{(\alpha)}\leq
+      \mathbf d\leq \mathbf 0^{(\alpha+1)}$ or $\alpha$ a computable ordinal greater
+      than $2$ is the strong degree of categoricity of a rigid structure. Another
+      corollary of our characterization partially answers a question of Fokina, Kalimullin,
+      and Miller: Every degree of categoricity above $\mathbf 0"$ is strong. Using
+      quite different techniques we show that every degree $\mathbf d$ with $\mathbf
+      0''\leq \mathbf d\leq \mathbf 0"$ is the strong degree of categoricity of a
+      structure. Together with the above example this answers a question of Csima
+      and Ng. To complete the picture we show that there is a degree $\mathbf d$ with
+      $\mathbf 0''\leq \mathbf d\leq \mathbf 0"$ that is not the degree of categoricity
+      of a rigid structure.'
+    accessDate: '2022-09-13T19:58:36Z'
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Barbara F.
+      lastName: Csima
+    date: '2022-09-09'
+    dateAdded: '2022-09-13T19:58:36Z'
+    dateModified: '2022-09-13T19:59:24Z'
+    extra: arXiv:2209.04524 [math]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: BSQMI7Q3
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03C75, 03D45, 03E15
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: The degrees of categoricity above 0"
+    url: http://arxiv.org/abs/2209.04524
+    version: 201
+    volume: ''
+  key: BSQMI7Q3
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/BSQMI7Q3
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/BSQMI7Q3
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Csima and Rossegger
+    numChildren: 2
+    parsedDate: '2022-09-09'
+  version: 201
+- data:
+    DOI: 10.48550/arXiv.2208.01697
+    ISSN: ''
+    abstractNote: ''
+    accessDate: '2022-08-08T15:44:57Z'
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Antonio
+      lastName: "Montalb\xE1n"
+    date: '2022'
+    dateAdded: '2022-08-08T15:46:37Z'
+    dateModified: '2023-05-02T22:12:57Z'
+    extra: arxiv:https://arxiv.org/abs/2208.01697
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: FK28XF4M
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03E15, 03C62, 03H15
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: The structural complexity of models of arithmetic
+    url: ''
+    version: 225
+    volume: ''
+  key: FK28XF4M
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/FK28XF4M
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/FK28XF4M
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: "Montalb\xE1n and Rossegger"
+    numChildren: 1
+    parsedDate: '2022'
+  version: 225
+- data:
+    DOI: 10.48550/arXiv.2206.01135
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Barbara F.
+      lastName: Csima
+    - creatorType: author
+      firstName: Luke
+      lastName: MacLean
+    date: '2022'
+    dateAdded: '2022-05-31T22:07:27Z'
+    dateModified: '2023-02-27T01:05:47Z'
+    extra: arxiv:http://arxiv.org/abs/2206.01135
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: N6GBYDDG
+    language: ''
+    libraryCatalog: ''
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Relations enumerable from positive information
+    url: https://drossegger.github.io/assets/files/ripe.pdf
+    version: 222
+    volume: ''
+  key: N6GBYDDG
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/N6GBYDDG
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/N6GBYDDG
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Csima et al.
+    numChildren: 0
+    parsedDate: '2022'
+  version: 222
+- data:
+    DOI: 10.1017/jsl.2021.82
+    ISSN: 0022-4812, 1943-5886
+    abstractNote: ''
+    accessDate: '2021-10-08T18:38:34Z'
+    archive: https://arxiv.org/abs/2010.00755
+    archiveLocation: ''
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators: []
+    date: '2022'
+    dateAdded: '2021-10-08T18:45:12Z'
+    dateModified: '2023-02-24T02:53:37Z'
+    extra: arxiv:https://arxiv.org/abs/2010.00755
+    issue: '4'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: YFZER25H
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 1663-1676
+    publicationTitle: The Journal of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03C75, 03D45, 03E15
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: Degree spectra of analytic complete equivalence relations
+    url: https://arxiv.org/abs/2010.00755
+    version: 220
+    volume: '87'
+  key: YFZER25H
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/YFZER25H
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/YFZER25H
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger
+    numChildren: 0
+    parsedDate: '2022'
+  version: 220
