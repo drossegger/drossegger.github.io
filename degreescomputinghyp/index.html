@@ -1,0 +1,457 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.20.1 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Turing degrees that compute HYP but can not compute Kleene’s O. - Dino Rossegger’s homepage</title>
+<meta name="description" content="Let \(HYP\) be the set of hyperarithmetic degrees, i.e. \(HYP=\{ \mathbf d:\exists (\alpha&lt;\omega_1^{\mathrm{CK}}) \mathbf d&lt; \mathbf 0^{(\alpha)}\}.\) Jockusch and Simpson [1] showed that there is a degree \(\mathbf d\) that is minimal over \(HYP\) (i.e., if \(\mathbf c&lt;\mathbf d\), then \(\mathbf c\in HYP\)) and such that \(\mathbf d^{(3)}=deg(\mathcal O)\) where \(\mathcal O\) is Kleene’s \(\mathcal O\), or, up to m-equivalence, the set of indices of computable well-orderings.">
+
+
+  <meta name="author" content="Dino Rossegger">
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Dino Rossegger's homepage">
+<meta property="og:title" content="Turing degrees that compute HYP but can not compute Kleene’s O.">
+<meta property="og:url" content="https://drossegger.github.io/pages/drossegger/degreescomputinghyp/">
+
+
+  <meta property="og:description" content="Let \(HYP\) be the set of hyperarithmetic degrees, i.e. \(HYP=\{ \mathbf d:\exists (\alpha&lt;\omega_1^{\mathrm{CK}}) \mathbf d&lt; \mathbf 0^{(\alpha)}\}.\) Jockusch and Simpson [1] showed that there is a degree \(\mathbf d\) that is minimal over \(HYP\) (i.e., if \(\mathbf c&lt;\mathbf d\), then \(\mathbf c\in HYP\)) and such that \(\mathbf d^{(3)}=deg(\mathcal O)\) where \(\mathcal O\) is Kleene’s \(\mathcal O\), or, up to m-equivalence, the set of indices of computable well-orderings.">
+
+
+
+
+
+  <meta name="twitter:site" content="@dino_r">
+  <meta name="twitter:title" content="Turing degrees that compute HYP but can not compute Kleene’s O.">
+  <meta name="twitter:description" content="Let \(HYP\) be the set of hyperarithmetic degrees, i.e. \(HYP=\{ \mathbf d:\exists (\alpha&lt;\omega_1^{\mathrm{CK}}) \mathbf d&lt; \mathbf 0^{(\alpha)}\}.\) Jockusch and Simpson [1] showed that there is a degree \(\mathbf d\) that is minimal over \(HYP\) (i.e., if \(\mathbf c&lt;\mathbf d\), then \(\mathbf c\in HYP\)) and such that \(\mathbf d^{(3)}=deg(\mathcal O)\) where \(\mathcal O\) is Kleene’s \(\mathcal O\), or, up to m-equivalence, the set of indices of computable well-orderings.">
+  <meta name="twitter:url" content="https://drossegger.github.io/pages/drossegger/degreescomputinghyp/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2022-04-20T00:00:00+00:00">
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://drossegger.github.io/pages/drossegger/degreescomputinghyp/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Dino Rossegger",
+      "url": "https://drossegger.github.io/pages/drossegger/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/pages/drossegger/feed.xml" type="application/atom+xml" rel="alternate" title="Dino Rossegger's homepage Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/pages/drossegger/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+<!-- Load jquery -->
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+ <!-- Load KaTeX -->
+ <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.css">
+ <script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.js"></script>
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+<!-- Include mathjax -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+
+  
+    <script src="/pages/drossegger/assets/js/citations.js"></script>
+  
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/pages/drossegger/">
+          Dino Rossegger's homepage
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/pages/drossegger/">About me</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/drossegger/blog/">Blog</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/drossegger/publications/">Publications</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/drossegger/teaching/">Teaching & Notes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/pages/drossegger/acose/">ACOSE</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Turing degrees that compute HYP but can not compute Kleene’s O.">
+    <meta itemprop="description" content="Let \(HYP\) be the set of hyperarithmetic degrees, i.e. \(HYP=\{ \mathbf d:\exists (\alpha&lt;\omega_1^{\mathrm{CK}}) \mathbf d&lt; \mathbf 0^{(\alpha)}\}.\)Jockusch and Simpson [1] showed that there is a degree \(\mathbf d\) that is minimal over \(HYP\) (i.e., if \(\mathbf c&lt;\mathbf d\), then \(\mathbf c\in HYP\)) and such that \(\mathbf d^{(3)}=deg(\mathcal O)\) where \(\mathcal O\) is Kleene’s \(\mathcal O\), or, up to m-equivalence, the set of indices of computable well-orderings.">
+    <meta itemprop="datePublished" content="2022-04-20T00:00:00+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Turing degrees that compute HYP but can not compute Kleene’s <em>O</em>.
+</h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <p>Let \(HYP\) be the set of hyperarithmetic degrees, i.e. \(HYP=\{ \mathbf d:\exists (\alpha&lt;\omega_1^{\mathrm{CK}}) \mathbf d&lt; \mathbf 0^{(\alpha)}\}.\)
+Jockusch and Simpson [1] showed that there is a degree \(\mathbf d\) that is minimal over \(HYP\) (i.e., if \(\mathbf c&lt;\mathbf d\), then \(\mathbf c\in HYP\)) and such that \(\mathbf d^{(3)}=deg(\mathcal O)\) where \(\mathcal O\) is Kleene’s \(\mathcal O\), or, up to m-equivalence, the set of indices of computable well-orderings.</p>
+
+<p>I recently thought about the Turing degree structure of the degrees that compute every hyperarithmetic sets and could not find much besides the results of Jockusch and Simpson. However, after talking to a few people, I realized that quite a bit is known. Here is an attempt to summarize a few things. I apologize for skipping a lot of the details but hope that anyone can figure those out with the references provided.</p>
+
+<p><strong>Theorem 1.</strong> Let \(\mathbf d&gt; HYP\). Then \(\mathbf d\) computes a copy of \(\omega_1^{\mathrm{CK}}\) if and only if \(\mathbf d^{(3)}\geq deg(\mathcal O)\).</p>
+
+<p><em>Proof sketch.</em> Assume that \(\mathbf d^{(3)}\geq deg(\mathcal O)\). Then \(\mathbf d^{(3)}\) can compute a copy of \(\omega_1^{\mathrm{CK}}\). One can show that \(\mathbf d\) then computes a copy of \(\omega^2\cdot \omega_1^{\mathrm{CK}}\cong \omega_1^{\mathrm{CK}}\) (see Ash and Knight [Theorem 9.11, 2]). For the other direction assume that \(\mathbf d\) computes a copy of \(\omega_1^{\mathrm{CK}}\). We will show that \(d^{(3)}\) can compute the set of indices of computable well-orderings. One can show that if \(L\) is a well-order and \(o(L)\leq \omega^{\alpha}\), then \(L\) is uniformly \(\Delta^0_{2\alpha}\) categorical, i.e., for \(L\) computable, \(\mathbf 0^{(2\alpha)}\) (\(\mathbf 0^{(2\alpha-1)}\) if \(\alpha\) is finite) can compute an isomorphism between any two computable copies of \(L\), and this is uniform. Let \(C\) be \(\mathbf d\)’s copy of \(\omega_1^{\mathrm{CK}}\). All computable well-orders have order-type less than \(C\), so the set of indices of computable well-orders is \(O=\{e:\exists a \varphi_e \cong C_{&lt;a}\}\) where \(C_{&lt;a}\) is the initial segment of \(C\) up to the element \(a\). Then \(O\) can be defined by</p>
+
+\[e\in O\Leftrightarrow \exists i(\exists a\in C) \varphi_i^{H^{[a]}}: \varphi_e \cong C_{&lt; a}\]
+
+<p>where \(H\) denotes a jump hierarchy on \(C\). Note that it mus not be the case that \(\mathbf d\) computes a jump hierarchy, after all it only computes all hyperarithmetic sets, but it does not necessarily do this uniformly. However, creating a jump hierarchy in this case is \(\Sigma^0_3\) (see Montalbán [3] for more on jump hierarchies). Checking whether \(\varphi^{H^{[a]}}_i\) is an isomorphism is \(\Pi^0_2\). So \(\mathbf d^{(3)}\geq deg(O)=deg(\mathcal O)\).</p>
+
+<p>We have seen, that if we restrict our degrees to degrees that compute \(HYP\) and a copy of \(\omega_1^{\mathrm{CK}}\) then we can not be far below Kleene’s O. What if we can not compute \(\omega_1^{\mathrm{CK}}\)? It turns out we can be quite far away in that case.</p>
+
+<p><strong>Theorem 2.</strong> There is a degree \(\mathbf d&gt;HYP\) that is hyperarithmetically low, i.e., \(\omega_1^{\mathbf d}=\omega_1^{\mathrm{CK}}\).</p>
+
+<p><em>Proof sketch.</em> Consider the set</p>
+
+\[X=\left\{ (e,H) : \begin{aligned}\varphi_e \text{ is a linear order,}\\  H \text{ is a jump hierarchy on }\varphi_e,\\ \text{ and } \varphi_e\text{ does not have hyperarithmetic descending sequences}\end{aligned}\right\}\]
+
+<p>This set is \(\Sigma^1_1\) so by the Gandy basis theorem it must contain a set \(Y=(e_0,H_0)\) such that \(\omega_1^{Y}=\omega_1^{\mathrm{CK}}\). Thus there is no \(\alpha\) such that \(Y^{(\alpha)}\equiv_T \mathcal O\). See Montalbán [3] for more on Gandy’s basis theorem and jump hierarchies in this context.</p>
+
+<p>Thanks to Antonio Montalbán and Ted Slaman for showing me this.</p>
+
+<p>[1] Jockusch Jr, Carl G., and Stephen G. Simpson. 1976. “A Degree-Theoretic Definition of the Ramified Analytical Hierarchy.” Annals of Mathematical Logic 10 (1): 1–32.</p>
+
+<p>[2] Ash, Christopher J., and Julia F. Knight. 1990. “Pairs of Recursive Structures.” Annals of Pure and Applied Logic 46 (3): 211–34.</p>
+
+<p>[3] Montalbán, Antonio. 2021. Computable Structure Theory: Beyond the Arithmetic. draft. https://math.berkeley.edu/~antonio/CSTpart2_DRAFT.pdf.</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2022-04-20T00:00:00+00:00">April 20, 2022</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=dino_r&text=Turing+degrees+that+compute+HYP+but+can+not+compute+Kleene%27s+_O_.%20https%3A%2F%2Fdrossegger.github.io%2Fpages%2Fdrossegger%2Fdegreescomputinghyp%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdrossegger.github.io%2Fpages%2Fdrossegger%2Fdegreescomputinghyp%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdrossegger.github.io%2Fpages%2Fdrossegger%2Fdegreescomputinghyp%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/pages/drossegger/news/positiveenumerablefunctors/" class="pagination--pager" title="Positive enumerable functors
+">Previous</a>
+    
+    
+      <a href="/pages/drossegger/degreesofcat/" class="pagination--pager" title="The degrees of categoricity above 0’’
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You may also enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/drossegger/degreesofcat/" rel="permalink">The degrees of categoricity above 0’’
+</a>
+      
+    </h2>
+    
+
+
+    <p class="archive__item-excerpt" itemprop="description">Consider the ordering \(\omega\) of the natural numbers \(0\leq 1\leq 2\leq 3\leq\dots\).
+We can build an isomorphic order \(\mathcal B\) (for bad) as follow...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/drossegger/news/positiveenumerablefunctors/" rel="permalink">Positive enumerable functors
+</a>
+      
+    </h2>
+    
+
+
+    <p class="archive__item-excerpt" itemprop="description">
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/drossegger/news/spectra-analyticcomp/" rel="permalink">New preprint on arXiv!
+</a>
+      
+    </h2>
+    
+
+
+    <p class="archive__item-excerpt" itemprop="description">
+
+My newest preprint Degree spectra of analytic complete equivalence relations just appeared on arXiv.
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/pages/drossegger/news/homepage-online/" rel="permalink">New homepage online
+</a>
+      
+    </h2>
+    
+
+
+    <p class="archive__item-excerpt" itemprop="description">I just created this new homepage with all my professional information. I hope that you find it interesting and useful. I appreciate feedback, just write me a...</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://orcid.org/0000-0003-3494-9049" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i> ORCID</a></li>
+        
+      
+        
+          <li><a href="mailto:dino@math.berkeley.edu" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/dino_r" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/drossegger" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    <li><a href="/pages/drossegger/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2023 Dino Rossegger. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+     <!-- Parse the Latex divs with Katex-->
+     <script type="text/javascript">
+         $("script[type='math/tex']").replaceWith(
+             function(){
+                 var tex = $(this).text();
+                 return katex.renderToString(tex, {displayMode: false});
+         });
+
+         $("script[type='math/tex; mode=display']").replaceWith(
+             function(){
+                 var tex = $(this).text();
+                 return katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
+         });
+     </script>
+
+      </footer>
+    </div>
+
+    
+  <script src="/pages/drossegger/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
