@@ -8,12 +8,21 @@ def clean_bib(bib):
     for x in bib:
         if "creators" not in x["data"].keys():
             bib.remove(x)
-    return bib
+        elif x["key"] == "3Q5MJL58":
+            bib.remove(x)
+    return bib[:-1]
 
+def remove_author(bib,authorfirstname):
+    for x in bib:
+        if "creators" in x["data"].keys():
+           for author in x["data"]["creators"]:
+               if author["firstName"]==authorfirstname:
+                   x["data"]["creators"].remove(author)
+    return bib
 
 with urllib.request.urlopen(zotero_url) as url:
     bib=json.loads(url.read().decode())
     file=open("_data/bibliography.yml","w")
-    yaml.dump(clean_bib(bib),file)
+    yaml.dump(remove_author(clean_bib(bib),"Dino"),file)
     file.close()
 

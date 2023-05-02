@@ -12,9 +12,9 @@ classes: wide
         [ {% if pub.data.DOI %} <a href="https://doi.org/{{ pub.data.DOI }}" >DOI</a> {% endif %}
         {% if pub.data.libraryCatalog=="arXiv.org" %} | <a href='{{ pub.data.url }}'>arXiv</a> {% endif %} ]
     {% endif %}<br/>
-    {% if pub.data.creators.size > 1 %} <span id='lines' style='margin-left:0em'>
+    {% if pub.data.creators.size > 0 %} <span id='lines' style='margin-left:0em'>
         with {% for creator in pub.data.creators %} 
-            {{ creator.firstName }} {{ creator.lastName }}, 
+            {{ creator.firstName }} {{ creator.lastName }}{% unless forloop.last %}, {% endunless -%} 
             {% endfor %}</span> <br/>
     {% endif %} 
     {% if pub.data.itemType='journalArticle" %}
