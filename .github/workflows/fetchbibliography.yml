@@ -7,19 +7,18 @@ jobs:
     concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+        
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@v2
         with:
           endpoint: https://api.zotero.org/groups/1553639/items?format=json&sort=date
-          configuration: '{ "method": "GET"}'
-      - name: Checkout 🛎️
-        uses: actions/checkout@v3
-        
+          configuration: '{ "method": "GET" }'
+
       - name: Build and Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repository-name: drossegger/drossegger.github.io
           branch: gh-pages
           folder: fetch-api-data-action # The location of the data.json file saved by the Fetch API Data action.
           target-folder: data # Saves the data into the 'data' directory on the main branch.
