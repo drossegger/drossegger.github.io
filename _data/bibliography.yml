@@ -16,9 +16,6 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
       firstName: Alexandra A.
       lastName: Soskova
     - creatorType: author
@@ -110,9 +107,6 @@
     - creatorType: author
       firstName: Barbara F.
       lastName: Csima
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
     date: '2022-09-09'
     dateAdded: '2022-09-13T19:58:36Z'
     dateModified: '2022-09-13T19:59:24Z'
@@ -186,9 +180,6 @@
     - creatorType: author
       firstName: Luke
       lastName: MacLean
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
     date: '2022'
     dateAdded: '2022-05-31T22:07:27Z'
     dateModified: '2023-02-27T01:05:47Z'
@@ -251,10 +242,7 @@
     callNumber: ''
     collections:
     - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
+    creators: []
     date: '2022'
     dateAdded: '2021-10-08T18:45:12Z'
     dateModified: '2023-02-24T02:53:37Z'
@@ -325,9 +313,6 @@
     - creatorType: author
       firstName: Antonio
       lastName: "Montalb\xE1n"
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
     date: '2022'
     dateAdded: '2022-08-08T15:46:37Z'
     dateModified: '2022-08-08T16:02:23Z'
@@ -397,9 +382,6 @@
     - creatorType: author
       firstName: Nikolay
       lastName: Bazhenov
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
     - creatorType: author
       firstName: Maxim
       lastName: Zubkov
@@ -482,9 +464,6 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
       firstName: Luca
       lastName: San Mauro
     date: '2021'
@@ -559,9 +538,6 @@
       firstName: Barbara F.
       lastName: Csima
     - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
       firstName: Daniel
       lastName: Yu
     date: '2021'
@@ -627,9 +603,6 @@
     - creatorType: author
       firstName: Rachael
       lastName: Alvir
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
     date: '2020'
     dateAdded: '2021-04-20T17:34:54Z'
     dateModified: '2021-10-09T01:18:58Z'
@@ -695,9 +668,6 @@
     - creatorType: author
       firstName: Ekaterina
       lastName: Fokina
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
     - creatorType: author
       firstName: Luca
       lastName: San Mauro
@@ -769,9 +739,6 @@
     - creatorType: author
       firstName: Ekaterina
       lastName: Fokina
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
     - creatorType: author
       firstName: Luca
       lastName: San Mauro
@@ -854,9 +821,6 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
       firstName: Luca
       lastName: San Mauro
     date: '2019'
@@ -921,10 +885,7 @@
     callNumber: ''
     collections: []
     conferenceName: ''
-    creators:
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
+    creators: []
     date: '2018'
     dateAdded: '2018-02-21T20:41:04Z'
     dateModified: '2021-10-19T23:29:48Z'
@@ -991,9 +952,6 @@
     - creatorType: author
       firstName: Ekaterina
       lastName: Fokina
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
     - creatorType: author
       firstName: Luca
       lastName: San Mauro
@@ -1065,10 +1023,7 @@
     archiveLocation: ''
     callNumber: ''
     collections: []
-    creators:
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
+    creators: []
     date: '2017'
     dateAdded: '2017-07-19T10:00:31Z'
     dateModified: '2021-10-09T01:17:45Z'
@@ -1138,9 +1093,6 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
       firstName: Luca
       lastName: San Mauro
     date: '2017'
@@ -1207,9 +1159,6 @@
     - creatorType: author
       firstName: Ekaterina
       lastName: Fokina
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
     - creatorType: author
       firstName: Luca
       lastName: San Mauro
@@ -1281,9 +1230,6 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
       firstName: Luca
       lastName: San Mauro
     date: '2017'
@@ -1336,51 +1282,3 @@
     numChildren: 0
     parsedDate: '2017'
   version: 7
-- data:
-    accessDate: '2022-09-13T18:04:32Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2022-09-13T18:04:32Z'
-    dateModified: '2022-09-13T18:04:32Z'
-    filename: 2209.html
-    itemType: attachment
-    key: 3Q5MJL58
-    linkMode: imported_url
-    md5: f4ea71147770d1cd186d789e4d2b9318
-    mtime: 1663092272000
-    note: ''
-    parentItem: Q5WUN4RQ
-    relations: {}
-    tags: []
-    title: arXiv.org Snapshot
-    url: https://arxiv.org/abs/2209.04524
-    version: 185
-  key: 3Q5MJL58
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/3Q5MJL58
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/3Q5MJL58
-      type: application/json
-    up:
-      href: https://api.zotero.org/groups/1553639/items/Q5WUN4RQ
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-  version: 185
