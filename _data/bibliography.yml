@@ -164,6 +164,84 @@
     parsedDate: '2022-09-09'
   version: 201
 - data:
+    DOI: 10.1016/j.apal.2021.103060
+    ISSN: 0168-0072
+    abstractNote: ''
+    accessDate: '2021-11-24T21:48:23Z'
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections: []
+    creators:
+    - creatorType: author
+      firstName: Nikolay
+      lastName: Bazhenov
+    - creatorType: author
+      firstName: Maxim
+      lastName: Zubkov
+    date: '2022'
+    dateAdded: '2021-11-24T21:49:08Z'
+    dateModified: '2023-05-02T22:25:51Z'
+    extra: arxiv:https://arxiv.org/abs/2005.07829
+    issue: '3'
+    itemType: journalArticle
+    journalAbbreviation: Annals of Pure and Applied Logic
+    key: 7WTVLII3
+    language: en
+    libraryCatalog: ScienceDirect
+    pages: '103060'
+    publicationTitle: Annals of Pure and Applied Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Bi-embeddability
+      type: 1
+    - tag: Boolean algebra
+      type: 1
+    - tag: Computable categoricity
+      type: 1
+    - tag: Computable structures
+      type: 1
+    - tag: Linear ordering
+      type: 1
+    title: On bi-embeddable categoricity of algebraic structures
+    url: https://www.sciencedirect.com/science/article/pii/S0168007221001184
+    version: 229
+    volume: '173'
+  key: 7WTVLII3
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/7WTVLII3
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/7WTVLII3
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Bazhenov et al.
+    numChildren: 1
+    parsedDate: '2022'
+  version: 229
+- data:
     DOI: 10.48550/arXiv.2208.01697
     ISSN: ''
     abstractNote: ''
@@ -369,84 +447,6 @@
     numChildren: 0
     parsedDate: '2022'
   version: 220
-- data:
-    DOI: 10.1016/j.apal.2021.103060
-    ISSN: 0168-0072
-    abstractNote: ''
-    accessDate: '2021-11-24T21:48:23Z'
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections: []
-    creators:
-    - creatorType: author
-      firstName: Nikolay
-      lastName: Bazhenov
-    - creatorType: author
-      firstName: Maxim
-      lastName: Zubkov
-    date: November 22, 2021
-    dateAdded: '2021-11-24T21:49:08Z'
-    dateModified: '2021-11-24T21:49:42Z'
-    extra: arxiv:https://arxiv.org/abs/2005.07829
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: Annals of Pure and Applied Logic
-    key: 7WTVLII3
-    language: en
-    libraryCatalog: ScienceDirect
-    pages: '103060'
-    publicationTitle: Annals of Pure and Applied Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: Bi-embeddability
-      type: 1
-    - tag: Boolean algebra
-      type: 1
-    - tag: Computable categoricity
-      type: 1
-    - tag: Computable structures
-      type: 1
-    - tag: Linear ordering
-      type: 1
-    title: On bi-embeddable categoricity of algebraic structures
-    url: https://www.sciencedirect.com/science/article/pii/S0168007221001184
-    version: 153
-    volume: ''
-  key: 7WTVLII3
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/7WTVLII3
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/7WTVLII3
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Bazhenov et al.
-    numChildren: 1
-    parsedDate: '2021-11-22'
-  version: 153
 - data:
     DOI: 10.3233/COM-190289
     ISSN: ''

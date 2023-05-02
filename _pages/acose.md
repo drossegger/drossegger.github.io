@@ -18,27 +18,41 @@ The goal of this project is to investigate the relationship between notions of c
 
 <ol>
 {% for talk in site.data.talks %}
-<li><em>{{ talk.title }}</em> {% if talk.slides or talk.recording %} [ {% if talk.slides %} <a href='{{ talk.slides }}'>Slides</a>{% endif %}{%if talk.recording %} | <a href='{{ talk.recording }}'>Video</a> {% endif %} ] {% endif %}<br/>
+<li><span style="font-variant:small-caps">{{ talk.title }}</em> {% if talk.slides or talk.recording %} [ {% if talk.slides %} <a href='{{ talk.slides }}'>Slides</a>{% endif %}{%if talk.recording %} | <a href='{{ talk.recording }}'>Video</a> {% endif %} ] {% endif %}<br/>
     <span id='lines' style='margin-left:0em'>{% if talk.author %} {{ talk.author }}{% else %} Dino Rossegger{% endif %}, <span id='pubtitle'>{{ talk.location }}</span>, {{ talk.date }}</span>
     </li>
 {% endfor %}
 </ol>
 
 ### Publications
-<div id="pubs">Loading... </div>
-
-<script>
-var xmlhttp = new XMLHttpRequest();
-xmlhttp.onreadystatechange = function() {
-if (this.readyState == 4 && this.status == 200) {
-  var myObj = JSON.parse(this.responseText);
-  var biblio=document.getElementById('pubs');
-  while (biblio.firstChild) biblio.removeChild(biblio.firstChild);
-  biblio.appendChild(createbib(myObj,false));
-}
-};
-xmlhttp.open("GET", "https://api.zotero.org/groups/1553639/collections/3T8QH7NR/items?format=json&sort=date", true);
-xmlhttp.send();
-
-</script>
+<ol>
+{% for pub in site.data.acose %}
+<li><span style="font-variant:small-caps">{{ pub.data.title }}</span>
+    {% if pub.data.DOI or pub.data.libraryCatalog=="arXiv.org" %} 
+        [ {% if pub.data.DOI %} <a href="https://doi.org/{{ pub.data.DOI }}" >DOI</a> {% endif %}
+        {% if pub.data.libraryCatalog=="arXiv.org" %} | <a href="{{ pub.data.url }}">arXiv</a>
+        {% elsif pub.data.extra contains "arxiv:" %} | <a href='{{ pub.data.extra | replace: "arxiv:", "" }}'>arXiv</a>
+        {% endif %} ]
+        
+    {% endif %}<br/>
+    {% if pub.data.creators.size > 0 %} <span id='lines' style='margin-left:0em'>
+        with {% for creator in pub.data.creators %} 
+            {{ creator.firstName }} {{ creator.lastName }}{% unless forloop.last %}, {% endunless -%}{% if forloop.rindex0==1 %} and {% endif %}
+            {% endfor %}</span> <br/>
+    {% endif %} 
+    {% if pub.data.itemType=="journalArticle" %}
+    <span id='lines' style='margin-left:0em'> <b> {{ pub.data.publicationTitle }}</b> 
+    {% if pub.data.volume!='' %} vol. {{ pub.data.volume!='' }} 
+        {% if pub.data.issue!='' %} ({{pub.data.issue}}) 
+         {% if pub.data.pages!='' %}, {{ pub.data.pages }} 
+         {% endif %} 
+        {% endif %} 
+    {% endif %} 
+    {% endif %}
+    {% if pub.data.itemType=="conferencePaper" %}
+        <span id='lines' style='margin-left:0em'> <b> {{ pub.data.proceedingsTitle }}</b>, {% if pub.data.pages %} {{ pub.data.pages }} {% endif %} {% endif %} ({{ pub.data.date | slice: 0, 4 }})
+    </span>
+    </li>
+{% endfor %}
+</ol>
 

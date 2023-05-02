@@ -3,7 +3,7 @@ import yaml
 import urllib.request
 
 zotero_url = 'https://api.zotero.org/groups/1553639/items?format=json&sort=date'
-
+acose_url = "https://api.zotero.org/groups/1553639/collections/3T8QH7NR/items?format=json&sort=date"
 def clean_bib(bib):
     for x in bib:
         if "creators" not in x["data"].keys():
@@ -26,3 +26,8 @@ with urllib.request.urlopen(zotero_url) as url:
     yaml.dump(remove_author(clean_bib(bib),"Dino"),file)
     file.close()
 
+with urllib.request.urlopen(acose_url) as url:
+    bib=json.loads(url.read().decode())
+    file=open("_data/acose.yml","w")
+    yaml.dump(remove_author(clean_bib(bib),"Dino"),file)
+    file.close()
