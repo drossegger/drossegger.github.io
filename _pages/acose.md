@@ -18,13 +18,14 @@ The goal of this project is to investigate the relationship between notions of c
 
 <ol>
 {% for talk in site.data.talks %}
-<li><span style="font-variant:small-caps">{{ talk.title }}</em> {% if talk.slides or talk.recording %} [ {% if talk.slides %} <a href='{{ talk.slides }}'>Slides</a>{% endif %}{%if talk.recording %} | <a href='{{ talk.recording }}'>Video</a> {% endif %} ] {% endif %}<br/>
+<li><span style="font-variant:small-caps">{{ talk.title }}</span> {% if talk.slides or talk.recording %} [ {% if talk.slides %} <a href='{{ talk.slides }}'>Slides</a>{% endif %}{%if talk.recording %} | <a href='{{ talk.recording }}'>Video</a> {% endif %} ] {% endif %}<br/>
     <span id='lines' style='margin-left:0em'>{% if talk.author %} {{ talk.author }}{% else %} Dino Rossegger{% endif %}, <span id='pubtitle'>{{ talk.location }}</span>, {{ talk.date }}</span>
     </li>
 {% endfor %}
 </ol>
 
 ### Publications
+
 <ol>
 {% for pub in site.data.acose %}
 <li><span style="font-variant:small-caps">{{ pub.data.title }}</span>
