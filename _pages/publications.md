@@ -7,10 +7,13 @@ classes: wide
 --- 
 <ol>
 {% for pub in site.data.bibliography %}
-<li>{{ pub.data.title }} 
+<li><span style="font-variant:small-caps">{{ pub.data.title }}</span>
     {% if pub.data.DOI or pub.data.libraryCatalog=="arXiv.org" %} 
         [ {% if pub.data.DOI %} <a href="https://doi.org/{{ pub.data.DOI }}" >DOI</a> {% endif %}
-        {% if pub.data.libraryCatalog=="arXiv.org" %} | <a href='{{ pub.data.url }}'>arXiv</a> {% endif %} ]
+        {% if pub.data.libraryCatalog=="arXiv.org" %} | <a href="{{ pub.data.url }}">arXiv</a>
+        {% elsif pub.data.extra contains "arxiv:" %} | <a href='{{ pub.data.extra | replace: "arxiv:", "" }}'>arXiv</a>
+        {% endif %} ]
+        
     {% endif %}<br/>
     {% if pub.data.creators.size > 0 %} <span id='lines' style='margin-left:0em'>
         with {% for creator in pub.data.creators %} 
@@ -27,7 +30,7 @@ classes: wide
     {% endif %} 
     {% endif %}
     {% if pub.data.itemType=="conferencePaper" %}
-        <span id='lines' style='margin-left:0em'> <b> {{ pub.data.proceedingsTitle }}</b>, {% if pub.data.pages %} {{ pub.data.pages }} {% endif %} {% endif %} ({{ pub.data.date | slice: 0, 3 }})
+        <span id='lines' style='margin-left:0em'> <b> {{ pub.data.proceedingsTitle }}</b>, {% if pub.data.pages %} {{ pub.data.pages }} {% endif %} {% endif %} ({{ pub.data.date | slice: 0, 4 }})
     </span>
     </li>
 {% endfor %}
