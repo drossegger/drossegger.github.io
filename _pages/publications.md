@@ -27,12 +27,11 @@ classes: wide
          {% if pub.data.pages!='' %}, {{ pub.data.pages }} 
          {% endif %} 
         {% endif %} 
-    {% endif %} ({{ pub.data.date }})
-    </span>
-    {% if pub.data.itemType='conferencePaper'%}
-        <span id='lines' style='margin-left:0em'> <b> {{ pub.data.proceedingsTitle }}</b>, {% if pub.data.pages %} {{ pub.data.pages }} {% endif %} ({{ pub.data.date }})
-        </span>
+    {% endif %} 
     {% endif %}
+    {% if pub.data.itemType='conferencePaper' %}
+        <span id='lines' style='margin-left:0em'> <b> {{ pub.data.proceedingsTitle }}</b>, {% if pub.data.pages %} {{ pub.data.pages }} {% endif %} {% endif %} ({{ pub.data.date }})
+    </span>
     </li>
 {% endfor %}
 </ol>
