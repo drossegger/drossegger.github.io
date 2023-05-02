@@ -13,7 +13,7 @@ def clean_bib(bib):
 
 with urllib.request.urlopen(zotero_url) as url:
     bib=json.loads(url.read().decode())
-    file=open("../_data/bibliography.yml","w")
+    file=open("/_data/bibliography.yml","w")
     yaml.dump(clean_bib(bib),file)
     file.close()
 
