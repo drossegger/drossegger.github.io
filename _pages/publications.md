@@ -14,10 +14,7 @@ classes: wide
     {% endif %}<br/>
     {% if pub.data.creators.size > 1 %} <span id='lines' style='margin-left:0em'>
         with {% for creator in pub.data.creators %} 
-            {% if creator.firstName=="Dino" %}
-            {% else %}
-            {{ creator.firstName }} {{ creator.lastName }}
-            {% endif %},
+            {{ creator.firstName }} {{ creator.lastName }}, 
             {% endfor %}</span> <br/>
     {% endif %} 
     {% if pub.data.itemType='journalArticle" %}
@@ -29,7 +26,7 @@ classes: wide
         {% endif %} 
     {% endif %} 
     {% endif %}
-    {% if pub.data.itemType='conferencePaper' %}
+    {% if pub.data.itemType="conferencePaper" %}
         <span id='lines' style='margin-left:0em'> <b> {{ pub.data.proceedingsTitle }}</b>, {% if pub.data.pages %} {{ pub.data.pages }} {% endif %} {% endif %} ({{ pub.data.date }})
     </span>
     </li>
