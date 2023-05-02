@@ -27,7 +27,7 @@ classes: wide
     {% endif %} 
     {% endif %}
     {% if pub.data.itemType=="conferencePaper" %}
-        <span id='lines' style='margin-left:0em'> <b> {{ pub.data.proceedingsTitle }}</b>, {% if pub.data.pages %} {{ pub.data.pages }} {% endif %} {% endif %} ({{ pub.data.date | slice 0, 3 }})
+        <span id='lines' style='margin-left:0em'> <b> {{ pub.data.proceedingsTitle }}</b>, {% if pub.data.pages %} {{ pub.data.pages }} {% endif %} {% endif %} ({{ pub.data.date | slice: 0, 3 }})
     </span>
     </li>
 {% endfor %}
