@@ -16,7 +16,7 @@ if (this.readyState == 4 && this.status == 200) {
   biblio.appendChild(createbib(myObj,true));
 }
 };
-xmlhttp.open("GET", "https://api.zotero.org/groups/1553639/items?format=json&sort=date", true);
+xmlhttp.open("GET", "https://drossegger.github.io/data/data.json", true);
 xmlhttp.send();
 </script>
 
