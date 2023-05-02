@@ -1,0 +1,2169 @@
+[
+    {
+        "key": "LN7LTVST",
+        "version": 218,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/LN7LTVST",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/LN7LTVST",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Bazhenov et al.",
+            "parsedDate": "2023-01-24",
+            "numChildren": 3
+        },
+        "data": {
+            "key": "LN7LTVST",
+            "version": 218,
+            "itemType": "journalArticle",
+            "title": "A Lopez-Escobar Theorem for Continuous Domains",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nikolay",
+                    "lastName": "Bazhenov"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ekaterina",
+                    "lastName": "Fokina"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alexandra A.",
+                    "lastName": "Soskova"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stefan V.",
+                    "lastName": "Vatev"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "submitted for publication",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2023-01-24",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.48550/arXiv.2301.09940",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "http://arxiv.org/abs/2301.09940",
+            "accessDate": "2023-01-26T23:51:52Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "arXiv.org",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arXiv:2301.09940 [math]",
+            "tags": [
+                {
+                    "tag": "03C57 (Primary), 03E15 (Secondary)",
+                    "type": 1
+                },
+                {
+                    "tag": "F.4.1",
+                    "type": 1
+                },
+                {
+                    "tag": "Mathematics - Logic",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "3T8QH7NR"
+            ],
+            "relations": {},
+            "dateAdded": "2023-01-26T23:51:52Z",
+            "dateModified": "2023-01-26T23:53:23Z"
+        }
+    },
+    {
+        "key": "BSQMI7Q3",
+        "version": 201,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/BSQMI7Q3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/BSQMI7Q3",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Csima and Rossegger",
+            "parsedDate": "2022-09-09",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "BSQMI7Q3",
+            "version": 201,
+            "itemType": "journalArticle",
+            "title": "The degrees of categoricity above 0\"",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Barbara F.",
+                    "lastName": "Csima"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                }
+            ],
+            "abstractNote": "We give a characterization of the degrees of categoricity of computable structures greater or equal to $\\mathbf 0\"$. They are precisely the treeable degrees - the least degrees of paths through computable trees - that compute $\\mathbf 0\"$. As a corollary, we obtain several new examples of degrees of categoricity. Among them we show that every degree $\\mathbf d$ with $\\mathbf 0^{(\\alpha)}\\leq \\mathbf d\\leq \\mathbf 0^{(\\alpha+1)}$ or $\\alpha$ a computable ordinal greater than $2$ is the strong degree of categoricity of a rigid structure. Another corollary of our characterization partially answers a question of Fokina, Kalimullin, and Miller: Every degree of categoricity above $\\mathbf 0\"$ is strong. Using quite different techniques we show that every degree $\\mathbf d$ with $\\mathbf 0'\\leq \\mathbf d\\leq \\mathbf 0\"$ is the strong degree of categoricity of a structure. Together with the above example this answers a question of Csima and Ng. To complete the picture we show that there is a degree $\\mathbf d$ with $\\mathbf 0'\\leq \\mathbf d\\leq \\mathbf 0\"$ that is not the degree of categoricity of a rigid structure.",
+            "publicationTitle": "submitted for publication",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2022-09-09",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.48550/arXiv.2209.04524",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "http://arxiv.org/abs/2209.04524",
+            "accessDate": "2022-09-13T19:58:36Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "arXiv.org",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arXiv:2209.04524 [math]",
+            "tags": [
+                {
+                    "tag": "03C75, 03D45, 03E15",
+                    "type": 1
+                },
+                {
+                    "tag": "Mathematics - Logic",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "3T8QH7NR"
+            ],
+            "relations": {},
+            "dateAdded": "2022-09-13T19:58:36Z",
+            "dateModified": "2022-09-13T19:59:24Z"
+        }
+    },
+    {
+        "key": "N6GBYDDG",
+        "version": 222,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/N6GBYDDG",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/N6GBYDDG",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Csima et al.",
+            "parsedDate": "2022",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "N6GBYDDG",
+            "version": 222,
+            "itemType": "journalArticle",
+            "title": "Relations enumerable from positive information",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Barbara F.",
+                    "lastName": "Csima"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Luke",
+                    "lastName": "MacLean"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "submitted for publication",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2022",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.48550/arXiv.2206.01135",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "https://drossegger.github.io/assets/files/ripe.pdf",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arxiv:http://arxiv.org/abs/2206.01135",
+            "tags": [],
+            "collections": [
+                "3T8QH7NR"
+            ],
+            "relations": {},
+            "dateAdded": "2022-05-31T22:07:27Z",
+            "dateModified": "2023-02-27T01:05:47Z"
+        }
+    },
+    {
+        "key": "YFZER25H",
+        "version": 220,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/YFZER25H",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/YFZER25H",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Rossegger",
+            "parsedDate": "2022",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "YFZER25H",
+            "version": 220,
+            "itemType": "journalArticle",
+            "title": "Degree spectra of analytic complete equivalence relations",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "The Journal of Symbolic Logic",
+            "volume": "87",
+            "issue": "4",
+            "pages": "1663-1676",
+            "date": "2022",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "10.1017/jsl.2021.82",
+            "ISSN": "0022-4812, 1943-5886",
+            "shortTitle": "",
+            "url": "https://arxiv.org/abs/2010.00755",
+            "accessDate": "2021-10-08T18:38:34Z",
+            "archive": "https://arxiv.org/abs/2010.00755",
+            "archiveLocation": "",
+            "libraryCatalog": "Cambridge University Press",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arxiv:https://arxiv.org/abs/2010.00755",
+            "tags": [
+                {
+                    "tag": "03C75, 03D45, 03E15",
+                    "type": 1
+                },
+                {
+                    "tag": "Mathematics - Logic",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "3T8QH7NR"
+            ],
+            "relations": {},
+            "dateAdded": "2021-10-08T18:45:12Z",
+            "dateModified": "2023-02-24T02:53:37Z"
+        }
+    },
+    {
+        "key": "FK28XF4M",
+        "version": 175,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/FK28XF4M",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/FK28XF4M",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Montalbán and Rossegger",
+            "parsedDate": "2022",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "FK28XF4M",
+            "version": 175,
+            "itemType": "journalArticle",
+            "title": "The structural complexity of models of arithmetic",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Antonio",
+                    "lastName": "Montalbán"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "submitted for publication",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "date": "2022",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.48550/arXiv.2208.01697",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "2022-08-08T15:44:57Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "arXiv.org",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arXiv:2208.01697 [math]",
+            "tags": [
+                {
+                    "tag": "03E15, 03C62, 03H15",
+                    "type": 1
+                },
+                {
+                    "tag": "Mathematics - Logic",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "3T8QH7NR"
+            ],
+            "relations": {},
+            "dateAdded": "2022-08-08T15:46:37Z",
+            "dateModified": "2022-08-08T16:02:23Z"
+        }
+    },
+    {
+        "key": "7WTVLII3",
+        "version": 153,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/7WTVLII3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/7WTVLII3",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Bazhenov et al.",
+            "parsedDate": "2021-11-22",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "7WTVLII3",
+            "version": 153,
+            "itemType": "journalArticle",
+            "title": "On bi-embeddable categoricity of algebraic structures",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nikolay",
+                    "lastName": "Bazhenov"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maxim",
+                    "lastName": "Zubkov"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Annals of Pure and Applied Logic",
+            "volume": "",
+            "issue": "",
+            "pages": "103060",
+            "date": "November 22, 2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Annals of Pure and Applied Logic",
+            "language": "en",
+            "DOI": "10.1016/j.apal.2021.103060",
+            "ISSN": "0168-0072",
+            "shortTitle": "",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0168007221001184",
+            "accessDate": "2021-11-24T21:48:23Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "ScienceDirect",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arxiv:https://arxiv.org/abs/2005.07829",
+            "tags": [
+                {
+                    "tag": "Bi-embeddability",
+                    "type": 1
+                },
+                {
+                    "tag": "Boolean algebra",
+                    "type": 1
+                },
+                {
+                    "tag": "Computable categoricity",
+                    "type": 1
+                },
+                {
+                    "tag": "Computable structures",
+                    "type": 1
+                },
+                {
+                    "tag": "Linear ordering",
+                    "type": 1
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-11-24T21:49:08Z",
+            "dateModified": "2021-11-24T21:49:42Z"
+        }
+    },
+    {
+        "key": "9MFUXQB3",
+        "version": 169,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/9MFUXQB3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/9MFUXQB3",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Bazhenov et al.",
+            "parsedDate": "2021",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "9MFUXQB3",
+            "version": 169,
+            "itemType": "journalArticle",
+            "title": "Degrees of bi-embeddable categoricity",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nikolay",
+                    "lastName": "Bazhenov"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ekaterina",
+                    "lastName": "Fokina"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Luca",
+                    "lastName": "San Mauro"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Computability",
+            "volume": "10",
+            "issue": "1",
+            "pages": "1–16",
+            "date": "2021",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.3233/COM-190289",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "http://arxiv.org/abs/1907.03553",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Google Scholar",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arxiv:http://arxiv.org/abs/1907.03553",
+            "tags": [
+                {
+                    "tag": "03D45, 03C57",
+                    "type": 1
+                },
+                {
+                    "tag": "Mathematics - Logic",
+                    "type": 1
+                }
+            ],
+            "collections": [],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/1553639/items/2S9SSWZ9"
+            },
+            "dateAdded": "2019-07-10T12:24:49Z",
+            "dateModified": "2022-06-25T11:25:15Z"
+        }
+    },
+    {
+        "key": "HUNJCCFU",
+        "version": 127,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/HUNJCCFU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/HUNJCCFU",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Csima et al.",
+            "parsedDate": "2021",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "HUNJCCFU",
+            "version": 127,
+            "itemType": "conferencePaper",
+            "title": "Positive enumerable functors",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Barbara F.",
+                    "lastName": "Csima"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Daniel",
+                    "lastName": "Yu"
+                }
+            ],
+            "abstractNote": "",
+            "date": "2021",
+            "proceedingsTitle": "Conference on Computability in Europe",
+            "conferenceName": "",
+            "place": "",
+            "publisher": "Springer",
+            "volume": "",
+            "pages": "385–394",
+            "series": "",
+            "language": "",
+            "DOI": "10.1007/978-3-030-80049-9_38",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Google Scholar",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arxiv:https://arxiv.org/abs/2011.14160",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-09-29T04:32:17Z",
+            "dateModified": "2021-09-29T04:33:37Z"
+        }
+    },
+    {
+        "key": "WCD97VVW",
+        "version": 149,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/WCD97VVW",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/WCD97VVW",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Alvir and Rossegger",
+            "parsedDate": "2020",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "WCD97VVW",
+            "version": 149,
+            "itemType": "journalArticle",
+            "title": "The complexity of Scott sentences of scattered linear orders",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Rachael",
+                    "lastName": "Alvir"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "The Journal of Symbolic Logic",
+            "volume": "85",
+            "issue": "3",
+            "pages": "1079–1101",
+            "date": "2020",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "doi:10.1017/jsl.2020.46",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "https://arxiv.org/abs/1810.11423",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Google Scholar",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arxiv:https://arxiv.org/abs/1810.11423",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2021-04-20T17:34:54Z",
+            "dateModified": "2021-10-09T01:18:58Z"
+        }
+    },
+    {
+        "key": "9YBY737P",
+        "version": 155,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/9YBY737P",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/9YBY737P",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Fokina et al.",
+            "parsedDate": "2019",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "9YBY737P",
+            "version": 155,
+            "itemType": "journalArticle",
+            "title": "Measuring the complexity of reductions between equivalence relations",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ekaterina",
+                    "lastName": "Fokina"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Luca",
+                    "lastName": "San Mauro"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Computability",
+            "volume": "8",
+            "issue": "3-4",
+            "pages": "265–280",
+            "date": "2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.3233/COM-180100",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Google Scholar",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arxiv:https://arxiv.org/abs/1806.10363",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2020-07-21T21:31:39Z",
+            "dateModified": "2022-03-16T16:57:22Z"
+        }
+    },
+    {
+        "key": "FKE84RHD",
+        "version": 149,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/FKE84RHD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/FKE84RHD",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Bazhenov et al.",
+            "parsedDate": "2019",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "FKE84RHD",
+            "version": 149,
+            "itemType": "journalArticle",
+            "title": "Degrees of bi-embeddable categoricity of equivalence structures",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nikolay",
+                    "lastName": "Bazhenov"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ekaterina",
+                    "lastName": "Fokina"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Luca",
+                    "lastName": "San Mauro"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Archive for Mathematical Logic",
+            "volume": "58",
+            "issue": "5-6",
+            "pages": "543–563",
+            "date": "2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.1007/s00153-018-0650-3",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "https://arxiv.org/abs/1710.10927",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Google Scholar",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arxiv:https://arxiv.org/abs/1710.10927",
+            "tags": [
+                {
+                    "tag": "03C57",
+                    "type": 1
+                },
+                {
+                    "tag": "Bi-embeddability",
+                    "type": 1
+                },
+                {
+                    "tag": "Computable categoricity",
+                    "type": 1
+                },
+                {
+                    "tag": "Degrees of bi-embeddable categoricity",
+                    "type": 1
+                },
+                {
+                    "tag": "Degrees of categoricity",
+                    "type": 1
+                }
+            ],
+            "collections": [],
+            "relations": {
+                "dc:replaces": [
+                    "http://zotero.org/groups/1553639/items/RAMBD5EH",
+                    "http://zotero.org/groups/1553639/items/RYFA3BI8"
+                ]
+            },
+            "dateAdded": "2018-11-04T18:02:07Z",
+            "dateModified": "2021-10-09T01:18:32Z"
+        }
+    },
+    {
+        "key": "ZZTED3DW",
+        "version": 148,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/ZZTED3DW",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/ZZTED3DW",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Fokina et al.",
+            "parsedDate": "2019",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "ZZTED3DW",
+            "version": 148,
+            "itemType": "journalArticle",
+            "title": "Bi-embeddability spectra and bases of spectra",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ekaterina",
+                    "lastName": "Fokina"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Luca",
+                    "lastName": "San Mauro"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Mathematical Logic Quarterly",
+            "volume": "65",
+            "issue": "2",
+            "pages": "228–236",
+            "date": "2019",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.1002/malq.201800056",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "https://arxiv.org/abs/1808.05451",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Google Scholar",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arxiv:https://arxiv.org/abs/1808.05451",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2020-07-21T21:30:35Z",
+            "dateModified": "2021-10-09T01:18:05Z"
+        }
+    },
+    {
+        "key": "WL68KGE2",
+        "version": 152,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/WL68KGE2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/WL68KGE2",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Rossegger",
+            "parsedDate": "2018",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "WL68KGE2",
+            "version": 152,
+            "itemType": "conferencePaper",
+            "title": "Elementary bi-embeddability spectra of structures",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                }
+            ],
+            "abstractNote": "",
+            "date": "2018",
+            "proceedingsTitle": "Conference on Computability in Europe",
+            "conferenceName": "",
+            "place": "",
+            "publisher": "Springer",
+            "volume": "10936",
+            "pages": "349-358",
+            "series": "Lecture Notes in Computer Science",
+            "language": "",
+            "DOI": "10.1007/978-3-319-94418-0_35",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2018-02-21T20:41:04Z",
+            "dateModified": "2021-10-19T23:29:48Z"
+        }
+    },
+    {
+        "key": "29FUEU63",
+        "version": 149,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/29FUEU63",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/29FUEU63",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Bazhenov et al.",
+            "parsedDate": "2018",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "29FUEU63",
+            "version": 149,
+            "itemType": "journalArticle",
+            "title": "Computable bi-embeddable categoricity",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nikolay Alekseevich",
+                    "lastName": "Bazhenov"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ekaterina",
+                    "lastName": "Fokina"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Luca",
+                    "lastName": "San Mauro"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Algebra and Logic",
+            "volume": "57",
+            "issue": "5",
+            "pages": "392–396",
+            "date": "2018",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.1007/s10469-018-9511-8",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "https://arxiv.org/abs/1907.03553",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Google Scholar",
+            "callNumber": "",
+            "rights": "",
+            "extra": "tex.ids: bazhenov2018a\npublisher: Springer\narxiv:https://arxiv.org/abs/1907.03553",
+            "tags": [],
+            "collections": [],
+            "relations": {
+                "dc:replaces": [
+                    "http://zotero.org/groups/1553639/items/6YMXFBYW",
+                    "http://zotero.org/groups/1553639/items/AXVT2BZE"
+                ]
+            },
+            "dateAdded": "2018-12-03T13:26:45Z",
+            "dateModified": "2021-10-09T01:18:50Z"
+        }
+    },
+    {
+        "key": "HMY46FNK",
+        "version": 147,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/HMY46FNK",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/HMY46FNK",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Rossegger",
+            "parsedDate": "2017",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "HMY46FNK",
+            "version": 147,
+            "itemType": "journalArticle",
+            "title": "On functors enumerating structures",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "Siberian Electronic Mathematical Reports",
+            "volume": "14",
+            "issue": "",
+            "pages": "690-702",
+            "date": "2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "",
+            "DOI": "10.17377/semi.2017.14.059",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "https://arxiv.org/abs/1706.05939",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "arxiv:https://arxiv.org/abs/1706.05939",
+            "tags": [
+                {
+                    "tag": "#latex"
+                },
+                {
+                    "tag": "Latex"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2017-07-19T10:00:31Z",
+            "dateModified": "2021-10-09T01:17:45Z"
+        }
+    },
+    {
+        "key": "49VNIP5S",
+        "version": 8,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/49VNIP5S",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/49VNIP5S",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Fokina et al.",
+            "parsedDate": "2017",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "49VNIP5S",
+            "version": 8,
+            "itemType": "conferencePaper",
+            "title": "Reducibility and bi-reducibility spectra of equivalence relations",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ekaterina",
+                    "lastName": "Fokina"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Luca",
+                    "lastName": "San Mauro"
+                }
+            ],
+            "abstractNote": "",
+            "date": "2017",
+            "proceedingsTitle": "Proc. of the 11th Panhellenic Logic Symposium",
+            "conferenceName": "11th Panhellenic Logic Symposium",
+            "place": "Delfi, Greece",
+            "publisher": "",
+            "volume": "",
+            "pages": "83-89",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2017-07-19T10:00:31Z",
+            "dateModified": "2017-07-26T13:49:05Z"
+        }
+    },
+    {
+        "key": "NFJVFUFZ",
+        "version": 8,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/NFJVFUFZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/NFJVFUFZ",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Fokina et al.",
+            "parsedDate": "2017",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "NFJVFUFZ",
+            "version": 8,
+            "itemType": "conferencePaper",
+            "title": "Degree Spectra of Structures with Respect to the Bi-embeddability Relation",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ekaterina",
+                    "lastName": "Fokina"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Luca",
+                    "lastName": "San Mauro"
+                }
+            ],
+            "abstractNote": "",
+            "date": "2017",
+            "proceedingsTitle": "Proc. of the 11th Panhellenic Logic Symposium",
+            "conferenceName": "11th Panhellenic Logic Symposium",
+            "place": "Delfi, Greece",
+            "publisher": "",
+            "volume": "",
+            "pages": "32-38",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2017-07-19T10:00:31Z",
+            "dateModified": "2017-07-26T13:49:23Z"
+        }
+    },
+    {
+        "key": "SE4X95E6",
+        "version": 7,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/SE4X95E6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/SE4X95E6",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Bazhenov et al.",
+            "parsedDate": "2017",
+            "numChildren": 0
+        },
+        "data": {
+            "key": "SE4X95E6",
+            "version": 7,
+            "itemType": "conferencePaper",
+            "title": "Computable bi-embeddable categoricity of equivalence structures",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nikolay",
+                    "lastName": "Bazhenov"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ekaterina",
+                    "lastName": "Fokina"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Dino",
+                    "lastName": "Rossegger"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Luca",
+                    "lastName": "San Mauro"
+                }
+            ],
+            "abstractNote": "",
+            "date": "2017",
+            "proceedingsTitle": "Proc. of the 11th Panhellenic Logic Symposium",
+            "conferenceName": "11th Panhellenic Logic Symposium",
+            "place": "Delfi, Greece",
+            "publisher": "",
+            "volume": "",
+            "pages": "126-132",
+            "series": "",
+            "language": "",
+            "DOI": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2017-07-19T10:00:31Z",
+            "dateModified": "2017-07-26T13:48:46Z"
+        }
+    },
+    {
+        "key": "AFWWDI97",
+        "version": 214,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/AFWWDI97",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/AFWWDI97",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/1553639/items/LN7LTVST",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "AFWWDI97",
+            "version": 214,
+            "parentItem": "LN7LTVST",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "arXiv.org Snapshot",
+            "accessDate": "2023-01-26T23:51:59Z",
+            "url": "https://arxiv.org/abs/2301.09940",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "2301.html",
+            "md5": "01bcd7aa534bae64f7b0c03b3438f3d9",
+            "mtime": 1674777119000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2023-01-26T23:51:59Z",
+            "dateModified": "2023-01-26T23:51:59Z"
+        }
+    },
+    {
+        "key": "3HMES8TY",
+        "version": 212,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/3HMES8TY",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/3HMES8TY",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/1553639/items/LN7LTVST",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "3HMES8TY",
+            "version": 212,
+            "parentItem": "LN7LTVST",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Bazhenov et al_2023_A Lopez-Escobar Theorem for Continuous Domains.pdf",
+            "accessDate": "2023-01-26T23:51:54Z",
+            "url": "https://arxiv.org/pdf/2301.09940.pdf",
+            "note": "<p xmlns=\"http://www.w3.org/1999/xhtml\" id=\"title\"><strong>Contents</strong></p><ul xmlns=\"http://www.w3.org/1999/xhtml\" style=\"list-style-type: none; padding-left:0px\" id=\"toc\"><li><a href=\"zotero://open-pdf/2_3HMES8TY/1\">1. Introduction</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_3HMES8TY/3\">2. Preliminaries</a><ul style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_3HMES8TY/3\">2.1. Scott topology</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_3HMES8TY/4\">2.2. The Borel hierarchy for non-metrizable spaces</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_3HMES8TY/5\">2.3. A hierarchy of positive infinitary formulas</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_3HMES8TY/8\">2.4. The effective Borel hierarchy</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_3HMES8TY/8\">3. The Lopez-Escobar theorem for positive infinitary formulas</a><ul style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_3HMES8TY/10\">Definability of forcing</a></li></ul></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_3HMES8TY/11\">4. A pullback theorem for computable embeddings</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_3HMES8TY/13\">5. An application</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_3HMES8TY/15\">References</a></li></ul>",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Bazhenov et al_2023_A Lopez-Escobar Theorem for Continuous Domains.pdf",
+            "md5": "8cc3460bdc89f1967de1dbe9d46ad7bf",
+            "mtime": 1674777114000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2023-01-26T23:51:54Z",
+            "dateModified": "2023-01-26T23:51:54Z"
+        }
+    },
+    {
+        "key": "ZW7Z9YDC",
+        "version": 211,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/ZW7Z9YDC",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/ZW7Z9YDC",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/1553639/items/LN7LTVST",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "ZW7Z9YDC",
+            "version": 211,
+            "parentItem": "LN7LTVST",
+            "itemType": "note",
+            "note": "Comment: 17 pages",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2023-01-26T23:51:52Z",
+            "dateModified": "2023-01-26T23:51:52Z"
+        }
+    },
+    {
+        "key": "E9A7QJT6",
+        "version": 199,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/E9A7QJT6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/E9A7QJT6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/1553639/items/BSQMI7Q3",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "E9A7QJT6",
+            "version": 199,
+            "parentItem": "BSQMI7Q3",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "arXiv.org Snapshot",
+            "accessDate": "2022-09-13T19:58:48Z",
+            "url": "https://arxiv.org/abs/2209.04524",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "2209.html",
+            "md5": "2d465fd955ffa54f826bb93e6698a4c7",
+            "mtime": 1663099127000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2022-09-13T19:58:48Z",
+            "dateModified": "2022-09-13T19:58:48Z"
+        }
+    },
+    {
+        "key": "9J2C63WM",
+        "version": 198,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/9J2C63WM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/9J2C63WM",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/1553639/items/BSQMI7Q3",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "9J2C63WM",
+            "version": 198,
+            "parentItem": "BSQMI7Q3",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Csima_Rossegger_2022_The degrees of categoricity above $-mathbf{0}$.pdf",
+            "accessDate": "2022-09-13T19:58:38Z",
+            "url": "https://arxiv.org/pdf/2209.04524.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Csima_Rossegger_2022_The degrees of categoricity above $-mathbf{0}$.pdf",
+            "md5": "55501eccbe33b2ca055f4017a6691e57",
+            "mtime": 1663099119000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2022-09-13T19:58:38Z",
+            "dateModified": "2022-09-13T19:58:39Z"
+        }
+    },
+    {
+        "key": "QMWTLCXT",
+        "version": 186,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/QMWTLCXT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/QMWTLCXT",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/1553639/items/Q5WUN4RQ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "QMWTLCXT",
+            "version": 186,
+            "parentItem": "Q5WUN4RQ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Csima_Rossegger_2022_The degrees of categoricity above $-mathbf{0}$.pdf",
+            "accessDate": "2022-09-13T18:04:26Z",
+            "url": "https://arxiv.org/pdf/2209.04524.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Csima_Rossegger_2022_The degrees of categoricity above $-mathbf{0}$.pdf",
+            "md5": "55501eccbe33b2ca055f4017a6691e57",
+            "mtime": 1663092266000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2022-09-13T18:04:26Z",
+            "dateModified": "2022-09-13T18:04:26Z"
+        }
+    },
+    {
+        "key": "3Q5MJL58",
+        "version": 185,
+        "library": {
+            "type": "group",
+            "id": 1553639,
+            "name": "dinorossownpub",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/dinorossownpub",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/1553639/items/3Q5MJL58",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/dinorossownpub/items/3Q5MJL58",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/1553639/items/Q5WUN4RQ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 2796467,
+                "username": "dinoross",
+                "name": "Dino Rossegger",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/dinoross",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "3Q5MJL58",
+            "version": 185,
+            "parentItem": "Q5WUN4RQ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "arXiv.org Snapshot",
+            "accessDate": "2022-09-13T18:04:32Z",
+            "url": "https://arxiv.org/abs/2209.04524",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "2209.html",
+            "md5": "f4ea71147770d1cd186d789e4d2b9318",
+            "mtime": 1663092272000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2022-09-13T18:04:32Z",
+            "dateModified": "2022-09-13T18:04:32Z"
+        }
+    }
+]
