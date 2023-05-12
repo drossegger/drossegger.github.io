@@ -82,21 +82,7 @@
 - data:
     DOI: 10.48550/arXiv.2209.04524
     ISSN: ''
-    abstractNote: 'We give a characterization of the degrees of categoricity of computable
-      structures greater or equal to $\mathbf 0"$. They are precisely the treeable
-      degrees - the least degrees of paths through computable trees - that compute
-      $\mathbf 0"$. As a corollary, we obtain several new examples of degrees of categoricity.
-      Among them we show that every degree $\mathbf d$ with $\mathbf 0^{(\alpha)}\leq
-      \mathbf d\leq \mathbf 0^{(\alpha+1)}$ or $\alpha$ a computable ordinal greater
-      than $2$ is the strong degree of categoricity of a rigid structure. Another
-      corollary of our characterization partially answers a question of Fokina, Kalimullin,
-      and Miller: Every degree of categoricity above $\mathbf 0"$ is strong. Using
-      quite different techniques we show that every degree $\mathbf d$ with $\mathbf
-      0''\leq \mathbf d\leq \mathbf 0"$ is the strong degree of categoricity of a
-      structure. Together with the above example this answers a question of Csima
-      and Ng. To complete the picture we show that there is a degree $\mathbf d$ with
-      $\mathbf 0''\leq \mathbf d\leq \mathbf 0"$ that is not the degree of categoricity
-      of a rigid structure.'
+    abstractNote: ''
     accessDate: '2022-09-13T19:58:36Z'
     archive: ''
     archiveLocation: ''
@@ -109,7 +95,7 @@
       lastName: Csima
     date: '2022-09-09'
     dateAdded: '2022-09-13T19:58:36Z'
-    dateModified: '2022-09-13T19:59:24Z'
+    dateModified: '2023-05-12T01:10:40Z'
     extra: arXiv:2209.04524 [math]
     issue: ''
     itemType: journalArticle
@@ -130,9 +116,9 @@
       type: 1
     - tag: Mathematics - Logic
       type: 1
-    title: The degrees of categoricity above 0"
+    title: Degrees of categoricity and treeable degrees
     url: http://arxiv.org/abs/2209.04524
-    version: 201
+    version: 230
     volume: ''
   key: BSQMI7Q3
   library:
@@ -162,7 +148,7 @@
     creatorSummary: Csima and Rossegger
     numChildren: 2
     parsedDate: '2022-09-09'
-  version: 201
+  version: 230
 - data:
     DOI: 10.48550/arXiv.2208.01697
     ISSN: ''
