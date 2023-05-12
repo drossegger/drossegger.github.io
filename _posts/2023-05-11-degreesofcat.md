@@ -1,6 +1,5 @@
 ---
 title: The degrees of categoricity above 0''
-date: 05-11-2023
 ---
 
 Consider the ordering $$\omega$$ of the natural numbers $$0\leq 1\leq 2\leq 3\leq\dots$$.
