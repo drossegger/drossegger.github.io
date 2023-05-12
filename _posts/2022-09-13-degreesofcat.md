@@ -1,5 +1,6 @@
 ---
 title: The degrees of categoricity above 0''
+date: 05-11-2023
 ---
 
 Consider the ordering $$\omega$$ of the natural numbers $$0\leq 1\leq 2\leq 3\leq\dots$$.
@@ -11,4 +12,8 @@ For over ten years degrees of categoricity have been heavily studied by computab
 1. Which Turing degrees are degrees of categoricity of computable structures? 
 2. Say d is a degree of categoricity, can we always build two isomorphic computable structures A and B with degree of categoricity d and such that d is the least degree computing isomorphism between A and B? Such degrees are called strong.
 
-In a joint project with Barbara Csima we made a breakthrough on these two questions by characterizing the degrees of categoricity above $$\mathbf 0''$$ and by showing that every degree of categoricity above $$\mathbf 0''$$ is strong. We do this by showing that every degree of categoricity is treeable, that is, the degree of the Turing least path through a computable tree, and that the treeable degrees above $$\mathbf 0''$$ are all degrees of categoricity. 	Here is the preprint: [http://arxiv.org/abs/2209.04524](http://arxiv.org/abs/2209.04524)
+In a joint project with Barbara Csima we classified the strong degrees of categoricity above $$\mathbf{0}''$$ as the treeable degrees---the degrees of Turing least paths through computable trees in Baire space. This allowed us to give many new examples of degrees of categoricity and provides a new opening to attack the question whether every degree of categoricity is strong. A preprint of this paper can be found on [arXiv](https://arxiv.org/abs/2209.04524).
+
+---------
+
+In an old version of this post and an earlier preprint we claimed that every degree of categoricity above $$\mathbf 0 ''$$ is strong. Unfortunately, we made a mistake there and do not have a proof of this. A 
