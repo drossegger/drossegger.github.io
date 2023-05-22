@@ -7,9 +7,12 @@ classes: wide
 --- 
 <ol>
 {% for pub in site.data.bibliography %}
+    {% if pub.data.parentItem %}
+        {% continue %}
+    {% endif %}
 <li><span style="font-variant:small-caps">{{ pub.data.title }}</span>
-    {% if pub.data.DOI or pub.data.libraryCatalog=="arXiv.org" %} 
-        [ {% if pub.data.DOI %} <a href="https://doi.org/{{ pub.data.DOI }}" >DOI</a> {% endif %}
+    {% if pub.data.DOI.size > 0 or pub.data.libraryCatalog=="arXiv.org" %} 
+        [ {% if pub.data.DOI.size > 0 %} <a href="https://doi.org/{{ pub.data.DOI }}" >DOI</a> {% endif %}
         {% if pub.data.libraryCatalog=="arXiv.org" %} | <a href="{{ pub.data.url }}">arXiv</a>
         {% elsif pub.data.extra contains "arxiv:" %} | <a href='{{ pub.data.extra | replace: "arxiv:", "" }}'>arXiv</a>
         {% endif %} ]
