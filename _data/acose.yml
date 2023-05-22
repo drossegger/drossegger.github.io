@@ -80,6 +80,72 @@
     parsedDate: '2023-01-24'
   version: 226
 - data:
+    DOI: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    date: '2023'
+    dateAdded: '2023-05-22T16:56:28Z'
+    dateModified: '2023-05-22T16:56:28Z'
+    extra: ''
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: N9SH6YFH
+    language: ''
+    libraryCatalog: Google Scholar
+    pages: ''
+    publicationTitle: arXiv preprint arXiv:2305.07126
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Scott sentence complexities of linear orderings
+    url: ''
+    version: 231
+    volume: ''
+  key: N9SH6YFH
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/N9SH6YFH
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/N9SH6YFH
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Gonzalez and Rossegger
+    numChildren: 2
+    parsedDate: '2023'
+  version: 231
+- data:
     DOI: 10.48550/arXiv.2209.04524
     ISSN: ''
     abstractNote: ''
@@ -355,3 +421,52 @@
     numChildren: 0
     parsedDate: '2022'
   version: 220
+- data:
+    accessDate: '2023-05-22T16:56:29Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2023-05-22T16:56:29Z'
+    dateModified: '2023-05-22T16:56:29Z'
+    filename: Gonzalez_Rossegger_2023_Scott sentence complexities of linear orderings.pdf
+    itemType: attachment
+    key: 2H3RYDMG
+    linkMode: imported_url
+    md5: 4dda51058b52f7686840f79696e3ab31
+    mtime: 1684774589000
+    note: ''
+    parentItem: N9SH6YFH
+    relations: {}
+    tags: []
+    title: Gonzalez_Rossegger_2023_Scott sentence complexities of linear orderings.pdf
+    url: https://arxiv.org/pdf/2305.07126
+    version: 232
+  key: 2H3RYDMG
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/2H3RYDMG
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/2H3RYDMG
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/N9SH6YFH
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 232
