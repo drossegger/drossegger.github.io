@@ -165,7 +165,7 @@
       lastName: Csima
     date: '2022-09-09'
     dateAdded: '2022-09-13T19:58:36Z'
-    dateModified: '2023-05-12T01:10:40Z'
+    dateModified: '2023-06-30T00:51:56Z'
     extra: arXiv:2209.04524 [math]
     issue: ''
     itemType: journalArticle
@@ -174,7 +174,7 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
-    publicationTitle: submitted for publication
+    publicationTitle: to appear in Journal of Mathematical Logic
     relations: {}
     rights: ''
     series: ''
@@ -188,7 +188,7 @@
       type: 1
     title: Degrees of categoricity and treeable degrees
     url: http://arxiv.org/abs/2209.04524
-    version: 230
+    version: 255
     volume: ''
   key: BSQMI7Q3
   library:
@@ -218,7 +218,77 @@
     creatorSummary: Csima and Rossegger
     numChildren: 2
     parsedDate: '2022-09-09'
-  version: 230
+  version: 255
+- data:
+    DOI: 10.1017/jsl.2023.43
+    ISSN: 0022-4812, 1943-5886
+    abstractNote: ''
+    accessDate: '2022-08-08T15:44:57Z'
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Antonio
+      lastName: "Montalb\xE1n"
+    date: '2022'
+    dateAdded: '2022-08-08T15:46:37Z'
+    dateModified: '2023-06-30T00:51:16Z'
+    extra: arxiv:https://arxiv.org/abs/2208.01697
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: FK28XF4M
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: 1-16
+    publicationTitle: The Journal of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03E15, 03C62, 03H15
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: The structural complexity of models of arithmetic
+    url: ''
+    version: 253
+    volume: ''
+  key: FK28XF4M
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/FK28XF4M
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/FK28XF4M
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: "Montalb\xE1n and Rossegger"
+    numChildren: 1
+    parsedDate: '2022'
+  version: 253
 - data:
     DOI: 10.1016/j.apal.2021.103060
     ISSN: 0168-0072
@@ -297,76 +367,6 @@
     numChildren: 1
     parsedDate: '2022'
   version: 229
-- data:
-    DOI: 10.48550/arXiv.2208.01697
-    ISSN: ''
-    abstractNote: ''
-    accessDate: '2022-08-08T15:44:57Z'
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Antonio
-      lastName: "Montalb\xE1n"
-    date: '2022'
-    dateAdded: '2022-08-08T15:46:37Z'
-    dateModified: '2023-05-02T22:12:57Z'
-    extra: arxiv:https://arxiv.org/abs/2208.01697
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: FK28XF4M
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: submitted for publication
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03E15, 03C62, 03H15
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: The structural complexity of models of arithmetic
-    url: ''
-    version: 225
-    volume: ''
-  key: FK28XF4M
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/FK28XF4M
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/FK28XF4M
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: "Montalb\xE1n and Rossegger"
-    numChildren: 1
-    parsedDate: '2022'
-  version: 225
 - data:
     DOI: 10.48550/arXiv.2206.01135
     ISSN: ''
@@ -1335,25 +1335,25 @@
     parsedDate: '2017'
   version: 7
 - data:
-    accessDate: '2023-05-22T16:56:29Z'
-    charset: ''
-    contentType: application/pdf
-    dateAdded: '2023-05-22T16:56:29Z'
-    dateModified: '2023-05-22T16:56:29Z'
-    filename: Gonzalez_Rossegger_2023_Scott sentence complexities of linear orderings.pdf
+    accessDate: '2023-05-22T16:56:40Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2023-05-22T16:56:40Z'
+    dateModified: '2023-05-22T16:56:40Z'
+    filename: 2305.html
     itemType: attachment
-    key: 2H3RYDMG
+    key: RWGHSCN6
     linkMode: imported_url
-    md5: 4dda51058b52f7686840f79696e3ab31
-    mtime: 1684774589000
+    md5: a8665f0850491ff92e4a2f8b737dd388
+    mtime: 1684774600000
     note: ''
     parentItem: N9SH6YFH
     relations: {}
     tags: []
-    title: Gonzalez_Rossegger_2023_Scott sentence complexities of linear orderings.pdf
-    url: https://arxiv.org/pdf/2305.07126
-    version: 232
-  key: 2H3RYDMG
+    title: Snapshot
+    url: https://arxiv.org/abs/2305.07126
+    version: 235
+  key: RWGHSCN6
   library:
     id: 1553639
     links:
@@ -1364,10 +1364,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/2H3RYDMG
+      href: https://www.zotero.org/groups/dinorossownpub/items/RWGHSCN6
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/2H3RYDMG
+      href: https://api.zotero.org/groups/1553639/items/RWGHSCN6
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/N9SH6YFH
@@ -1381,5 +1381,4 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-    numChildren: 0
-  version: 232
+  version: 235

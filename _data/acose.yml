@@ -165,7 +165,7 @@
       lastName: Csima
     date: '2022-09-09'
     dateAdded: '2022-09-13T19:58:36Z'
-    dateModified: '2023-05-12T01:10:40Z'
+    dateModified: '2023-06-30T00:51:56Z'
     extra: arXiv:2209.04524 [math]
     issue: ''
     itemType: journalArticle
@@ -174,7 +174,7 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
-    publicationTitle: submitted for publication
+    publicationTitle: to appear in Journal of Mathematical Logic
     relations: {}
     rights: ''
     series: ''
@@ -188,7 +188,7 @@
       type: 1
     title: Degrees of categoricity and treeable degrees
     url: http://arxiv.org/abs/2209.04524
-    version: 230
+    version: 255
     volume: ''
   key: BSQMI7Q3
   library:
@@ -218,10 +218,10 @@
     creatorSummary: Csima and Rossegger
     numChildren: 2
     parsedDate: '2022-09-09'
-  version: 230
+  version: 255
 - data:
-    DOI: 10.48550/arXiv.2208.01697
-    ISSN: ''
+    DOI: 10.1017/jsl.2023.43
+    ISSN: 0022-4812, 1943-5886
     abstractNote: ''
     accessDate: '2022-08-08T15:44:57Z'
     archive: ''
@@ -235,7 +235,7 @@
       lastName: "Montalb\xE1n"
     date: '2022'
     dateAdded: '2022-08-08T15:46:37Z'
-    dateModified: '2023-05-02T22:12:57Z'
+    dateModified: '2023-06-30T00:51:16Z'
     extra: arxiv:https://arxiv.org/abs/2208.01697
     issue: ''
     itemType: journalArticle
@@ -243,8 +243,8 @@
     key: FK28XF4M
     language: ''
     libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: submitted for publication
+    pages: 1-16
+    publicationTitle: The Journal of Symbolic Logic
     relations: {}
     rights: ''
     series: ''
@@ -258,7 +258,7 @@
       type: 1
     title: The structural complexity of models of arithmetic
     url: ''
-    version: 225
+    version: 253
     volume: ''
   key: FK28XF4M
   library:
@@ -288,7 +288,7 @@
     creatorSummary: "Montalb\xE1n and Rossegger"
     numChildren: 1
     parsedDate: '2022'
-  version: 225
+  version: 253
 - data:
     DOI: 10.48550/arXiv.2206.01135
     ISSN: ''
