@@ -157,7 +157,8 @@
     archive: ''
     archiveLocation: ''
     callNumber: ''
-    collections: []
+    collections:
+    - 3T8QH7NR
     creators:
     - creatorType: author
       firstName: Antonio
@@ -187,7 +188,7 @@
       type: 1
     title: The structural complexity of models of arithmetic
     url: ''
-    version: 258
+    version: 259
     volume: ''
   key: MPSHJ2BY
   library:
@@ -217,7 +218,7 @@
     creatorSummary: "Montalb\xE1n and Rossegger"
     numChildren: 0
     parsedDate: '2023'
-  version: 258
+  version: 259
 - data:
     DOI: 10.48550/arXiv.2209.04524
     ISSN: ''
