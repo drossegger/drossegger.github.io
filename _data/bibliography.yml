@@ -165,8 +165,8 @@
       lastName: "Montalb\xE1n"
     date: '2023'
     dateAdded: '2023-07-13T22:41:07Z'
-    dateModified: '2023-07-13T22:41:59Z'
-    extra: arxiv:https://arxiv.org/abs/2208.01697
+    dateModified: '2023-09-05T12:14:05Z'
+    extra: arxiv:2208.01697
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
@@ -188,7 +188,7 @@
       type: 1
     title: The structural complexity of models of arithmetic
     url: ''
-    version: 259
+    version: 267
     volume: ''
   key: MPSHJ2BY
   library:
@@ -218,77 +218,7 @@
     creatorSummary: "Montalb\xE1n and Rossegger"
     numChildren: 0
     parsedDate: '2023'
-  version: 259
-- data:
-    DOI: 10.48550/arXiv.2209.04524
-    ISSN: ''
-    abstractNote: ''
-    accessDate: '2022-09-13T19:58:36Z'
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Barbara F.
-      lastName: Csima
-    date: '2022-09-09'
-    dateAdded: '2022-09-13T19:58:36Z'
-    dateModified: '2023-06-30T00:51:56Z'
-    extra: arXiv:2209.04524 [math]
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: BSQMI7Q3
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: to appear in Journal of Mathematical Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03C75, 03D45, 03E15
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Degrees of categoricity and treeable degrees
-    url: http://arxiv.org/abs/2209.04524
-    version: 255
-    volume: ''
-  key: BSQMI7Q3
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/BSQMI7Q3
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/BSQMI7Q3
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Csima and Rossegger
-    numChildren: 2
-    parsedDate: '2022-09-09'
-  version: 255
+  version: 267
 - data:
     DOI: 10.1016/j.apal.2021.103060
     ISSN: 0168-0072
