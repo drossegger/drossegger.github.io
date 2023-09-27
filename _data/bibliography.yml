@@ -150,72 +150,6 @@
     parsedDate: '2023-01-24'
   version: 226
 - data:
-    DOI: 10.1142/S0219061324500028
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Barbara F.
-      lastName: Csima
-    date: '2023'
-    dateAdded: '2023-09-13T07:00:32Z'
-    dateModified: '2023-09-13T07:10:49Z'
-    extra: arxiv:2209.04524
-    issue: online ready
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: EKYIJ9WI
-    language: ''
-    libraryCatalog: Google Scholar
-    pages: ''
-    publicationTitle: Journal of Mathematical Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags: []
-    title: Degrees of categoricity and treeable degrees
-    url: ''
-    version: 280
-    volume: ''
-  key: EKYIJ9WI
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/EKYIJ9WI
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/EKYIJ9WI
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Csima and Rossegger
-    numChildren: 2
-    parsedDate: '2023'
-  version: 280
-- data:
     DOI: 10.1017/jsl.2023.43
     ISSN: 0022-4812, 1943-5886
     abstractNote: ''
@@ -231,8 +165,8 @@
       lastName: "Montalb\xE1n"
     date: '2023'
     dateAdded: '2023-07-13T22:41:07Z'
-    dateModified: '2023-09-05T12:14:05Z'
-    extra: arxiv:2208.01697
+    dateModified: '2023-09-26T14:57:43Z'
+    extra: arxiv:https://arxiv.org/abs/2208.01697
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
@@ -254,7 +188,7 @@
       type: 1
     title: The structural complexity of models of arithmetic
     url: ''
-    version: 267
+    version: 284
     volume: ''
   key: MPSHJ2BY
   library:
@@ -284,7 +218,73 @@
     creatorSummary: "Montalb\xE1n and Rossegger"
     numChildren: 0
     parsedDate: '2023'
-  version: 267
+  version: 284
+- data:
+    DOI: 10.1142/S0219061324500028
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Barbara F.
+      lastName: Csima
+    date: '2023'
+    dateAdded: '2023-09-13T07:00:32Z'
+    dateModified: '2023-09-26T14:57:01Z'
+    extra: arxiv:https://arxiv.org/abs/2209.04524
+    issue: online ready
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: EKYIJ9WI
+    language: ''
+    libraryCatalog: Google Scholar
+    pages: ''
+    publicationTitle: Journal of Mathematical Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Degrees of categoricity and treeable degrees
+    url: ''
+    version: 283
+    volume: ''
+  key: EKYIJ9WI
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/EKYIJ9WI
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/EKYIJ9WI
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Csima and Rossegger
+    numChildren: 2
+    parsedDate: '2023'
+  version: 283
 - data:
     DOI: 10.1016/j.apal.2021.103060
     ISSN: 0168-0072
