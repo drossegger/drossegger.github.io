@@ -6,7 +6,9 @@ zotero_url = 'https://api.zotero.org/groups/1553639/items?format=json&sort=date'
 acose_url = "https://api.zotero.org/groups/1553639/collections/3T8QH7NR/items?format=json&sort=date"
 def clean_bib(bib):
     for x in bib:
-        if "creators" not in x["data"].keys():
+        if x["data"]["itemType"]=="attachment":
+            bib.remove(x)
+        elif "creators" not in x["data"].keys():
             bib.remove(x)
         elif x["key"] == "3Q5MJL58":
             bib.remove(x)
