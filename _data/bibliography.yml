@@ -1331,54 +1331,6 @@
     parsedDate: '2017'
   version: 7
 - data:
-    accessDate: '2023-09-13T07:00:48Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2023-09-13T07:00:48Z'
-    dateModified: '2023-09-13T07:00:48Z'
-    filename: S0219061324500028.html
-    itemType: attachment
-    key: YITWGUJ7
-    linkMode: imported_url
-    md5: ca94dd569d0b0dfc88c52be0c84f2871
-    mtime: 1694588448000
-    note: ''
-    parentItem: EKYIJ9WI
-    relations: {}
-    tags: []
-    title: Snapshot
-    url: https://www.worldscientific.com/doi/abs/10.1142/S0219061324500028?casa_token=YjIAXWEfbU4AAAAA:dhNMbnocrhJDlTLGCwxRebawNA4JsZUDT0IUwki0c-DSOGwokfVD4u2SUTYK6oEUieZN7ZA3DYEh
-    version: 271
-  key: YITWGUJ7
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/YITWGUJ7
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/YITWGUJ7
-      type: application/json
-    up:
-      href: https://api.zotero.org/groups/1553639/items/EKYIJ9WI
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-  version: 271
-- data:
     accessDate: '2023-05-22T16:56:40Z'
     charset: utf-8
     contentType: text/html
