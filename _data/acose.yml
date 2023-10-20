@@ -3,8 +3,8 @@
     ISSN: ''
     abstractNote: ''
     accessDate: '2023-05-22T16:58:08Z'
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2305.07126
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -14,7 +14,7 @@
       lastName: Gonzalez
     date: '2023-05-11'
     dateAdded: '2023-05-22T16:58:08Z'
-    dateModified: '2023-05-22T17:02:41Z'
+    dateModified: '2023-10-13T09:11:39Z'
     extra: arXiv:2305.07126 [math]
     issue: ''
     itemType: journalArticle
@@ -37,7 +37,7 @@
       type: 1
     title: Scott sentence complexities of linear orderings
     url: http://arxiv.org/abs/2305.07126
-    version: 244
+    version: 294
     volume: ''
   key: GQKGMRPI
   library:
@@ -67,7 +67,7 @@
     creatorSummary: Gonzalez and Rossegger
     numChildren: 2
     parsedDate: '2023-05-11'
-  version: 244
+  version: 294
 - data:
     DOI: 10.48550/arXiv.2301.09940
     ISSN: ''
@@ -154,8 +154,8 @@
     ISSN: 0022-4812, 1943-5886
     abstractNote: ''
     accessDate: '2022-08-08T15:44:57Z'
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2208.01697
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -165,7 +165,7 @@
       lastName: "Montalb\xE1n"
     date: '2023'
     dateAdded: '2023-07-13T22:41:07Z'
-    dateModified: '2023-09-26T14:57:43Z'
+    dateModified: '2023-10-13T09:08:40Z'
     extra: arxiv:https://arxiv.org/abs/2208.01697
     issue: ''
     itemType: journalArticle
@@ -188,7 +188,7 @@
       type: 1
     title: The structural complexity of models of arithmetic
     url: ''
-    version: 284
+    version: 290
     volume: ''
   key: MPSHJ2BY
   library:
@@ -218,7 +218,7 @@
     creatorSummary: "Montalb\xE1n and Rossegger"
     numChildren: 0
     parsedDate: '2023'
-  version: 284
+  version: 290
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: ''
@@ -290,8 +290,8 @@
     ISSN: ''
     abstractNote: ''
     accessDate: ''
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2206.01135
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -304,7 +304,7 @@
       lastName: MacLean
     date: '2022'
     dateAdded: '2022-05-31T22:07:27Z'
-    dateModified: '2023-02-27T01:05:47Z'
+    dateModified: '2023-10-13T09:12:23Z'
     extra: arxiv:http://arxiv.org/abs/2206.01135
     issue: ''
     itemType: journalArticle
@@ -322,8 +322,8 @@
     shortTitle: ''
     tags: []
     title: Relations enumerable from positive information
-    url: https://drossegger.github.io/assets/files/ripe.pdf
-    version: 222
+    url: https://arxiv.org/abs/2206.01135
+    version: 297
     volume: ''
   key: N6GBYDDG
   library:
@@ -353,21 +353,21 @@
     creatorSummary: Csima et al.
     numChildren: 0
     parsedDate: '2022'
-  version: 222
+  version: 297
 - data:
     DOI: 10.1017/jsl.2021.82
     ISSN: 0022-4812, 1943-5886
     abstractNote: ''
     accessDate: '2021-10-08T18:38:34Z'
-    archive: https://arxiv.org/abs/2010.00755
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2010.00755
     callNumber: ''
     collections:
     - 3T8QH7NR
     creators: []
     date: '2022'
     dateAdded: '2021-10-08T18:45:12Z'
-    dateModified: '2023-02-24T02:53:37Z'
+    dateModified: '2023-10-13T09:08:13Z'
     extra: arxiv:https://arxiv.org/abs/2010.00755
     issue: '4'
     itemType: journalArticle
@@ -390,7 +390,7 @@
       type: 1
     title: Degree spectra of analytic complete equivalence relations
     url: https://arxiv.org/abs/2010.00755
-    version: 220
+    version: 287
     volume: '87'
   key: YFZER25H
   library:
@@ -420,4 +420,4 @@
     creatorSummary: Rossegger
     numChildren: 0
     parsedDate: '2022'
-  version: 220
+  version: 287

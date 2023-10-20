@@ -3,8 +3,8 @@
     ISSN: ''
     abstractNote: ''
     accessDate: '2023-05-22T16:58:08Z'
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2305.07126
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -14,7 +14,7 @@
       lastName: Gonzalez
     date: '2023-05-11'
     dateAdded: '2023-05-22T16:58:08Z'
-    dateModified: '2023-05-22T17:02:41Z'
+    dateModified: '2023-10-13T09:11:39Z'
     extra: arXiv:2305.07126 [math]
     issue: ''
     itemType: journalArticle
@@ -37,7 +37,7 @@
       type: 1
     title: Scott sentence complexities of linear orderings
     url: http://arxiv.org/abs/2305.07126
-    version: 244
+    version: 294
     volume: ''
   key: GQKGMRPI
   library:
@@ -67,7 +67,7 @@
     creatorSummary: Gonzalez and Rossegger
     numChildren: 2
     parsedDate: '2023-05-11'
-  version: 244
+  version: 294
 - data:
     DOI: 10.48550/arXiv.2301.09940
     ISSN: ''
@@ -154,8 +154,8 @@
     ISSN: 0022-4812, 1943-5886
     abstractNote: ''
     accessDate: '2022-08-08T15:44:57Z'
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2208.01697
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -165,7 +165,7 @@
       lastName: "Montalb\xE1n"
     date: '2023'
     dateAdded: '2023-07-13T22:41:07Z'
-    dateModified: '2023-09-26T14:57:43Z'
+    dateModified: '2023-10-13T09:08:40Z'
     extra: arxiv:https://arxiv.org/abs/2208.01697
     issue: ''
     itemType: journalArticle
@@ -188,7 +188,7 @@
       type: 1
     title: The structural complexity of models of arithmetic
     url: ''
-    version: 284
+    version: 290
     volume: ''
   key: MPSHJ2BY
   library:
@@ -218,7 +218,7 @@
     creatorSummary: "Montalb\xE1n and Rossegger"
     numChildren: 0
     parsedDate: '2023'
-  version: 284
+  version: 290
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: ''
@@ -285,6 +285,142 @@
     numChildren: 2
     parsedDate: '2023'
   version: 283
+- data:
+    DOI: 10.48550/arXiv.2206.01135
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2206.01135
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Barbara F.
+      lastName: Csima
+    - creatorType: author
+      firstName: Luke
+      lastName: MacLean
+    date: '2022'
+    dateAdded: '2022-05-31T22:07:27Z'
+    dateModified: '2023-10-13T09:12:23Z'
+    extra: arxiv:http://arxiv.org/abs/2206.01135
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: N6GBYDDG
+    language: ''
+    libraryCatalog: ''
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Relations enumerable from positive information
+    url: https://arxiv.org/abs/2206.01135
+    version: 297
+    volume: ''
+  key: N6GBYDDG
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/N6GBYDDG
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/N6GBYDDG
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Csima et al.
+    numChildren: 0
+    parsedDate: '2022'
+  version: 297
+- data:
+    DOI: 10.1017/jsl.2021.82
+    ISSN: 0022-4812, 1943-5886
+    abstractNote: ''
+    accessDate: '2021-10-08T18:38:34Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2010.00755
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators: []
+    date: '2022'
+    dateAdded: '2021-10-08T18:45:12Z'
+    dateModified: '2023-10-13T09:08:13Z'
+    extra: arxiv:https://arxiv.org/abs/2010.00755
+    issue: '4'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: YFZER25H
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 1663-1676
+    publicationTitle: The Journal of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03C75, 03D45, 03E15
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: Degree spectra of analytic complete equivalence relations
+    url: https://arxiv.org/abs/2010.00755
+    version: 287
+    volume: '87'
+  key: YFZER25H
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/YFZER25H
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/YFZER25H
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger
+    numChildren: 0
+    parsedDate: '2022'
+  version: 287
 - data:
     DOI: 10.1016/j.apal.2021.103060
     ISSN: 0168-0072
@@ -363,142 +499,6 @@
     numChildren: 1
     parsedDate: '2022'
   version: 229
-- data:
-    DOI: 10.48550/arXiv.2206.01135
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Barbara F.
-      lastName: Csima
-    - creatorType: author
-      firstName: Luke
-      lastName: MacLean
-    date: '2022'
-    dateAdded: '2022-05-31T22:07:27Z'
-    dateModified: '2023-02-27T01:05:47Z'
-    extra: arxiv:http://arxiv.org/abs/2206.01135
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: N6GBYDDG
-    language: ''
-    libraryCatalog: ''
-    pages: ''
-    publicationTitle: submitted for publication
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags: []
-    title: Relations enumerable from positive information
-    url: https://drossegger.github.io/assets/files/ripe.pdf
-    version: 222
-    volume: ''
-  key: N6GBYDDG
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/N6GBYDDG
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/N6GBYDDG
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Csima et al.
-    numChildren: 0
-    parsedDate: '2022'
-  version: 222
-- data:
-    DOI: 10.1017/jsl.2021.82
-    ISSN: 0022-4812, 1943-5886
-    abstractNote: ''
-    accessDate: '2021-10-08T18:38:34Z'
-    archive: https://arxiv.org/abs/2010.00755
-    archiveLocation: ''
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators: []
-    date: '2022'
-    dateAdded: '2021-10-08T18:45:12Z'
-    dateModified: '2023-02-24T02:53:37Z'
-    extra: arxiv:https://arxiv.org/abs/2010.00755
-    issue: '4'
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: YFZER25H
-    language: en
-    libraryCatalog: Cambridge University Press
-    pages: 1663-1676
-    publicationTitle: The Journal of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03C75, 03D45, 03E15
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Degree spectra of analytic complete equivalence relations
-    url: https://arxiv.org/abs/2010.00755
-    version: 220
-    volume: '87'
-  key: YFZER25H
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/YFZER25H
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/YFZER25H
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Rossegger
-    numChildren: 0
-    parsedDate: '2022'
-  version: 220
 - data:
     DOI: 10.3233/COM-190289
     ISSN: ''
@@ -1067,14 +1067,14 @@
     ISSN: ''
     abstractNote: ''
     accessDate: ''
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/1706.05939
     callNumber: ''
     collections: []
     creators: []
     date: '2017'
     dateAdded: '2017-07-19T10:00:31Z'
-    dateModified: '2021-10-09T01:17:45Z'
+    dateModified: '2023-10-13T09:11:20Z'
     extra: arxiv:https://arxiv.org/abs/1706.05939
     issue: ''
     itemType: journalArticle
@@ -1095,7 +1095,7 @@
     - tag: Latex
     title: On functors enumerating structures
     url: https://arxiv.org/abs/1706.05939
-    version: 147
+    version: 292
     volume: '14'
   key: HMY46FNK
   library:
@@ -1125,7 +1125,7 @@
     creatorSummary: Rossegger
     numChildren: 0
     parsedDate: '2017'
-  version: 147
+  version: 292
 - data:
     DOI: ''
     ISBN: ''
