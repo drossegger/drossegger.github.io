@@ -69,8 +69,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : dino_r
+#twitter:
+#  username               : dino_r
 facebook:
   username               :
   app_id                 :
@@ -95,9 +95,8 @@ analytics:
 author:
   name             : "Dino Rossegger"
   avatar           : "/assets/images/dino.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Logician; Marie Curie fellow at UC Berkeley."
-  eocation         : "<div style='display:inline-block;vertical-align:top;'>987 Evans Hall<br/>Berkeley, CA 94720</div><br/>"
-  email            : dino@math.berkeley.edu
+  bio              : "Logician; Marie Curie fellow at TU Wien."
+  email            : dino.rossegger@tuwien.ac.at
   links:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
