@@ -1,3 +1,18 @@
+- title: 'Structural complexity notions for foundational theories'
+  project: acose
+  location: Logic Seminar, Kurt Gödel Research Center
+  slides: /assets/slides/kgrc.pdf
+  date: 09.11.2023
+- title: 'Structural complexity notions for foundational theories'
+  project: acose
+  location: Pennstate Logic Seminar
+  slides: /assets/slides/pennstate.pdf
+  date: 07.11.2023
+- title: 'Learning equivalence relations'
+  project: acose
+  location: Online Logic Seminar 
+  slides: /assets/slides/onlinelogic.pdf
+  date: 19.10.2023
 - title: 'The strong degrees of categoricity above 0"'
   slides: /assets/slides/dgcat.pdf
   project: acose
@@ -14,6 +29,11 @@
   project: acose
   location: Plenary Talk, ASL Annual Meeting 2023, UC Irvine
   date:   28.03.2023
+- title: 'The strong degrees of categoricity above 0"'
+  project: acose
+  location: Logic Seminar, Iowa State University
+  slides: /assets/slides/dgcat.pdf
+  date: 01.03.2023
 - title: The Structural Complexity of Models of Arithmetic
   abstract: ""
   slides: /assets/slides/calstate.pdf
