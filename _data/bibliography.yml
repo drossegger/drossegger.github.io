@@ -1331,25 +1331,25 @@
     parsedDate: '2017'
   version: 7
 - data:
-    accessDate: '2023-05-22T16:56:40Z'
+    accessDate: '2023-11-13T07:25:55Z'
     charset: utf-8
     contentType: text/html
-    dateAdded: '2023-05-22T16:56:40Z'
-    dateModified: '2023-05-22T16:56:40Z'
-    filename: 2305.html
+    dateAdded: '2023-11-13T07:25:55Z'
+    dateModified: '2023-11-13T07:25:55Z'
+    filename: s00153-022-00836-4.html
     itemType: attachment
-    key: RWGHSCN6
+    key: YPRZWJU9
     linkMode: imported_url
-    md5: a8665f0850491ff92e4a2f8b737dd388
-    mtime: 1684774600000
+    md5: bc825fcae3d74ccdc41c144419941110
+    mtime: 1699860355000
     note: ''
-    parentItem: N9SH6YFH
+    parentItem: DHHVXURX
     relations: {}
     tags: []
-    title: Snapshot
-    url: https://arxiv.org/abs/2305.07126
-    version: 235
-  key: RWGHSCN6
+    title: Available Version (via Google Scholar)
+    url: https://link.springer.com/article/10.1007/s00153-022-00836-4
+    version: 317
+  key: YPRZWJU9
   library:
     id: 1553639
     links:
@@ -1360,13 +1360,13 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/RWGHSCN6
+      href: https://www.zotero.org/groups/dinorossownpub/items/YPRZWJU9
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/RWGHSCN6
+      href: https://api.zotero.org/groups/1553639/items/YPRZWJU9
       type: application/json
     up:
-      href: https://api.zotero.org/groups/1553639/items/N9SH6YFH
+      href: https://api.zotero.org/groups/1553639/items/DHHVXURX
       type: application/json
   meta:
     createdByUser:
@@ -1377,4 +1377,55 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-  version: 235
+  version: 317
+- data:
+    accessDate: '2023-11-13T07:26:17Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2023-11-13T07:26:17Z'
+    dateModified: '2023-11-13T07:26:18Z'
+    filename: "Czarnecki et al_2014_Learnability Thesis Does Not Entail Church\u2019\
+      s Thesis.pdf"
+    itemType: attachment
+    key: V47DS2K2
+    linkMode: imported_url
+    md5: aec51330864abb375f11b00d5b1fe1f1
+    mtime: 1699860377000
+    note: ''
+    parentItem: CG7SRY26
+    relations: {}
+    tags: []
+    title: "Czarnecki et al_2014_Learnability Thesis Does Not Entail Church\u2019\
+      s Thesis.pdf"
+    url: https://www.dariuszkalocinski.com/pdfs/draft-learnability-thesis.pdf
+    version: 315
+  key: V47DS2K2
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/V47DS2K2
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/V47DS2K2
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/CG7SRY26
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 315
