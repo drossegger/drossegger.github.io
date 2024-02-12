@@ -46,9 +46,8 @@ feature_row:
 <a href="https://github.com/drossegger" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a>
 <a href="mailto:dino@math.berkeley.edu"> <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></span> --->
 
-<p style="clear:left;">
-______
-</p>
+<hr style="clear:left;"/>
+
 ### News & Recent Blogposts
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
