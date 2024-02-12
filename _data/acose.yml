@@ -1,4 +1,87 @@
 - data:
+    DOI: 10.48550/arXiv.2402.05744
+    abstractNote: We adapt the classical notion of learning from text to computable
+      structure theory. Our main result is a model-theoretic characterization of the
+      learnability from text for classes of structures. We show that a family of structures
+      is learnable from text if and only if the structures can be distinguished in
+      terms of their theories restricted to positive infinitary $\Sigma_2$ sentences.
+    accessDate: '2024-02-12T08:05:37Z'
+    archive: ''
+    archiveID: arXiv:2402.05744
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Nikolay
+      lastName: Bazhenov
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Alexandra
+      lastName: Soskova
+    - creatorType: author
+      firstName: Stefan
+      lastName: Vatev
+    date: '2024-02-08'
+    dateAdded: '2024-02-12T08:05:37Z'
+    dateModified: '2024-02-12T08:05:37Z'
+    extra: arXiv:2402.05744 [math]
+    genre: ''
+    itemType: preprint
+    key: A8828RQN
+    language: ''
+    libraryCatalog: arXiv.org
+    place: ''
+    relations: {}
+    repository: arXiv
+    rights: ''
+    series: ''
+    seriesNumber: ''
+    shortTitle: ''
+    tags:
+    - tag: 03C57, 03E15
+      type: 1
+    - tag: F.4.1
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: Learning Families of Algebraic Structures from Text
+    url: http://arxiv.org/abs/2402.05744
+    version: 322
+  key: A8828RQN
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/A8828RQN
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/A8828RQN
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Bazhenov et al.
+    numChildren: 2
+    parsedDate: '2024-02-08'
+  version: 322
+- data:
     DOI: 10.48550/arXiv.2305.07126
     ISSN: ''
     abstractNote: ''
@@ -421,3 +504,52 @@
     numChildren: 0
     parsedDate: '2022'
   version: 287
+- data:
+    accessDate: '2024-02-12T08:05:38Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-02-12T08:05:38Z'
+    dateModified: '2024-02-12T08:05:38Z'
+    filename: Bazhenov et al_2024_Learning Families of Algebraic Structures from Text.pdf
+    itemType: attachment
+    key: VTR2L5AW
+    linkMode: imported_url
+    md5: 3b50224b41f49651d623af81a134616b
+    mtime: 1707725138000
+    note: ''
+    parentItem: A8828RQN
+    relations: {}
+    tags: []
+    title: Bazhenov et al_2024_Learning Families of Algebraic Structures from Text.pdf
+    url: https://arxiv.org/pdf/2402.05744.pdf
+    version: 323
+  key: VTR2L5AW
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/VTR2L5AW
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/VTR2L5AW
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/A8828RQN
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 323
