@@ -1,4 +1,88 @@
 - data:
+    DOI: 10.48550/arXiv.2402.10029
+    ISSN: ''
+    abstractNote: We investigate the descriptive complexity of the set of models of
+      first-order theories. Using classical results of Knight and Solovay, we give
+      a sharp condition for complete theories to have a $\boldsymbol\Pi_\omega^0$-complete
+      set of models. We also give sharp conditions for theories to have a $\boldsymbol\Pi^0_n$-complete
+      set of models. Finally, we determine the Turing degrees needed to witness the
+      completeness.
+    accessDate: '2024-02-16T14:08:22Z'
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Uri
+      lastName: Andrews
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    - creatorType: author
+      firstName: Steffen
+      lastName: Lempp
+    - creatorType: author
+      firstName: Hongyu
+      lastName: Zhu
+    date: '2024-02-15'
+    dateAdded: '2024-02-16T14:08:22Z'
+    dateModified: '2024-02-16T14:08:32Z'
+    extra: arXiv:2402.10029 [math]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: PNTQ5RB5
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: ''
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03C62, 03C52, 03E15
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: The Borel complexity of the class of models of first-order theories
+    url: http://arxiv.org/abs/2402.10029
+    version: 332
+    volume: ''
+  key: PNTQ5RB5
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/PNTQ5RB5
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/PNTQ5RB5
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Andrews et al.
+    numChildren: 2
+    parsedDate: '2024-02-15'
+  version: 332
+- data:
     DOI: 10.48550/arXiv.2402.05744
     ISSN: ''
     abstractNote: ''
@@ -502,6 +586,69 @@
     numChildren: 0
     parsedDate: '2022'
   version: 287
+- data:
+    accessDate: '2024-02-16T14:08:23Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-02-16T14:08:23Z'
+    dateModified: '2024-02-16T14:08:23Z'
+    filename: Andrews et al_2024_The Borel complexity of the class of models of first-order
+      theories.pdf
+    itemType: attachment
+    key: YAJW3N5N
+    linkMode: imported_url
+    md5: d560c223bb0bcf5dc903c4f9d383eb4a
+    mtime: 1708092503000
+    note: '<p xmlns="http://www.w3.org/1999/xhtml" id="title"><strong>Contents</strong></p><ul
+      xmlns="http://www.w3.org/1999/xhtml" style="list-style-type: none; padding-left:0px"
+      id="toc"><li><a href="zotero://open-pdf/2_YAJW3N5N/1">1. Introduction</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/2">2. Preliminaries</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/3">3. Theories
+      without bounded axiomatization</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/4">4.
+      Theories with bounded axiomatization</a></li><li style="padding-top:8px"><a
+      href="zotero://open-pdf/2_YAJW3N5N/8">5. Proofs of the two technical results</a><ul
+      style="list-style-type: none; padding-left:12px"><li style="padding-top:4px"><a
+      href="zotero://open-pdf/2_YAJW3N5N/9">5.1. Proof of Theorem 3.3</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/10">5.2. Proof
+      of Lemma 4.1</a></li></ul></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/11">6.
+      The effectivity of the reductions</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/14">References</a></li></ul>'
+    parentItem: PNTQ5RB5
+    relations: {}
+    tags: []
+    title: Andrews et al_2024_The Borel complexity of the class of models of first-order
+      theories.pdf
+    url: https://arxiv.org/pdf/2402.10029.pdf
+    version: 331
+  key: YAJW3N5N
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/YAJW3N5N
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/YAJW3N5N
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/PNTQ5RB5
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 331
 - data:
     accessDate: '2024-02-12T08:05:38Z'
     charset: ''
