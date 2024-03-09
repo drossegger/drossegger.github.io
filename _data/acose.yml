@@ -258,7 +258,7 @@
       lastName: Vatev
     date: '2023-01-24'
     dateAdded: '2023-01-26T23:51:52Z'
-    dateModified: '2023-05-02T22:13:33Z'
+    dateModified: '2024-03-08T14:25:46Z'
     extra: arxiv:https://arxiv.org/abs/2301.09940
     issue: ''
     itemType: journalArticle
@@ -267,7 +267,7 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
-    publicationTitle: submitted for publication
+    publicationTitle: to appear in Journal of Symbolic Logic
     relations: {}
     rights: ''
     series: ''
@@ -283,7 +283,7 @@
       type: 1
     title: A Lopez-Escobar Theorem for Continuous Domains
     url: http://arxiv.org/abs/2301.09940
-    version: 226
+    version: 336
     volume: ''
   key: LN7LTVST
   library:
@@ -313,7 +313,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 3
     parsedDate: '2023-01-24'
-  version: 226
+  version: 336
 - data:
     DOI: 10.1017/jsl.2023.43
     ISSN: 0022-4812, 1943-5886
