@@ -309,86 +309,6 @@
     parsedDate: '2023-05-11'
   version: 294
 - data:
-    DOI: 10.48550/arXiv.2301.09940
-    ISSN: ''
-    abstractNote: ''
-    accessDate: '2023-01-26T23:51:52Z'
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections: []
-    creators:
-    - creatorType: author
-      firstName: Nikolay
-      lastName: Bazhenov
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Alexandra A.
-      lastName: Soskova
-    - creatorType: author
-      firstName: Stefan V.
-      lastName: Vatev
-    date: '2023-01-24'
-    dateAdded: '2023-01-26T23:51:52Z'
-    dateModified: '2024-03-08T14:25:46Z'
-    extra: arxiv:https://arxiv.org/abs/2301.09940
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: LN7LTVST
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: to appear in Journal of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03C57 (Primary), 03E15 (Secondary)
-      type: 1
-    - tag: F.4.1
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: A Lopez-Escobar Theorem for Continuous Domains
-    url: http://arxiv.org/abs/2301.09940
-    version: 342
-    volume: ''
-  key: LN7LTVST
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/LN7LTVST
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/LN7LTVST
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Bazhenov et al.
-    numChildren: 3
-    parsedDate: '2023-01-24'
-  version: 342
-- data:
     DOI: 10.1017/jsl.2023.43
     ISSN: 0022-4812, 1943-5886
     abstractNote: ''
@@ -1569,3 +1489,66 @@
     numChildren: 0
     parsedDate: '2017'
   version: 7
+- data:
+    accessDate: '2024-02-16T14:08:23Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-02-16T14:08:23Z'
+    dateModified: '2024-02-16T14:08:23Z'
+    filename: Andrews et al_2024_The Borel complexity of the class of models of first-order
+      theories.pdf
+    itemType: attachment
+    key: YAJW3N5N
+    linkMode: imported_url
+    md5: d560c223bb0bcf5dc903c4f9d383eb4a
+    mtime: 1708092503000
+    note: '<p xmlns="http://www.w3.org/1999/xhtml" id="title"><strong>Contents</strong></p><ul
+      xmlns="http://www.w3.org/1999/xhtml" style="list-style-type: none; padding-left:0px"
+      id="toc"><li><a href="zotero://open-pdf/2_YAJW3N5N/1">1. Introduction</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/2">2. Preliminaries</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/3">3. Theories
+      without bounded axiomatization</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/4">4.
+      Theories with bounded axiomatization</a></li><li style="padding-top:8px"><a
+      href="zotero://open-pdf/2_YAJW3N5N/8">5. Proofs of the two technical results</a><ul
+      style="list-style-type: none; padding-left:12px"><li style="padding-top:4px"><a
+      href="zotero://open-pdf/2_YAJW3N5N/9">5.1. Proof of Theorem 3.3</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/10">5.2. Proof
+      of Lemma 4.1</a></li></ul></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/11">6.
+      The effectivity of the reductions</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/14">References</a></li></ul>'
+    parentItem: PNTQ5RB5
+    relations: {}
+    tags: []
+    title: Andrews et al_2024_The Borel complexity of the class of models of first-order
+      theories.pdf
+    url: https://arxiv.org/pdf/2402.10029.pdf
+    version: 331
+  key: YAJW3N5N
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/YAJW3N5N
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/YAJW3N5N
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/PNTQ5RB5
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 331
