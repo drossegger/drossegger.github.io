@@ -23,7 +23,7 @@
       lastName: Vatev
     date: 2024/03/15
     dateAdded: '2024-03-15T15:27:24Z'
-    dateModified: '2024-03-15T15:28:30Z'
+    dateModified: '2024-04-24T09:06:11Z'
     extra: arxiv:http://arxiv.org/abs/2301.09940
     issue: ''
     itemType: journalArticle
@@ -42,8 +42,8 @@
     tags: []
     title: A Lopez-Escobar Theorem for Continuous Domains
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/lopezescobar-theorem-for-continuous-domains/041B7DBB152EE01A55B35DA14827A830
-    version: 341
-    volume: ''
+    version: 345
+    volume: First View
   key: 89CAGSK9
   library:
     id: 1553639
@@ -72,7 +72,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2024-03-15'
-  version: 341
+  version: 345
 - data:
     DOI: 10.48550/arXiv.2402.10029
     ISSN: ''
@@ -324,7 +324,7 @@
       lastName: "Montalb\xE1n"
     date: '2023'
     dateAdded: '2023-07-13T22:41:07Z'
-    dateModified: '2023-10-13T09:08:40Z'
+    dateModified: '2024-04-24T09:04:45Z'
     extra: arxiv:https://arxiv.org/abs/2208.01697
     issue: ''
     itemType: journalArticle
@@ -347,8 +347,8 @@
       type: 1
     title: The structural complexity of models of arithmetic
     url: ''
-    version: 290
-    volume: ''
+    version: 344
+    volume: First View
   key: MPSHJ2BY
   library:
     id: 1553639
@@ -377,7 +377,7 @@
     creatorSummary: "Montalb\xE1n and Rossegger"
     numChildren: 0
     parsedDate: '2023'
-  version: 290
+  version: 344
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: ''
