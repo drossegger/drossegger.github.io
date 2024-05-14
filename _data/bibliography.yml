@@ -17,8 +17,8 @@
       lastName: Steifer
     date: '2024-03-26'
     dateAdded: '2024-05-14T09:37:32Z'
-    dateModified: '2024-05-14T09:38:16Z'
-    extra: arXiv:2403.17493 [math]
+    dateModified: '2024-05-14T09:43:25Z'
+    extra: arxiv:2403.17493
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
@@ -40,7 +40,7 @@
       type: 1
     title: Learning Equivalence Relations on Polish Spaces
     url: http://arxiv.org/abs/2403.17493
-    version: 351
+    version: 353
     volume: ''
   key: DTDXCSN6
   library:
@@ -70,7 +70,7 @@
     creatorSummary: Rossegger et al.
     numChildren: 2
     parsedDate: '2024-03-26'
-  version: 351
+  version: 353
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
@@ -176,8 +176,8 @@
       lastName: Zhu
     date: '2024-02-15'
     dateAdded: '2024-02-16T14:08:22Z'
-    dateModified: '2024-02-21T10:50:17Z'
-    extra: arXiv:2402.10029 [math]
+    dateModified: '2024-05-14T09:43:14Z'
+    extra: arxiv:2402.10029
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
@@ -199,7 +199,7 @@
       type: 1
     title: The Borel complexity of the class of models of first-order theories
     url: http://arxiv.org/abs/2402.10029
-    version: 335
+    version: 352
     volume: ''
   key: PNTQ5RB5
   library:
@@ -229,7 +229,7 @@
     creatorSummary: Andrews et al.
     numChildren: 2
     parsedDate: '2024-02-15'
-  version: 335
+  version: 352
 - data:
     DOI: 10.48550/arXiv.2402.05744
     ISSN: ''
