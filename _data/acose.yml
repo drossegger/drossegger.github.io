@@ -1,4 +1,77 @@
 - data:
+    DOI: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: '2024-05-14T09:37:32Z'
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Theodore
+      lastName: Slaman
+    - creatorType: author
+      firstName: Tomasz
+      lastName: Steifer
+    date: '2024-03-26'
+    dateAdded: '2024-05-14T09:37:32Z'
+    dateModified: '2024-05-14T09:38:16Z'
+    extra: arXiv:2403.17493 [math]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: DTDXCSN6
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03E15, 68Q32, 03D80
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: Learning Equivalence Relations on Polish Spaces
+    url: http://arxiv.org/abs/2403.17493
+    version: 351
+    volume: ''
+  key: DTDXCSN6
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/DTDXCSN6
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/DTDXCSN6
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger et al.
+    numChildren: 2
+    parsedDate: '2024-03-26'
+  version: 351
+- data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
     abstractNote: ''
@@ -580,6 +653,54 @@
     numChildren: 0
     parsedDate: '2022'
   version: 287
+- data:
+    accessDate: '2024-05-14T09:37:39Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-05-14T09:37:39Z'
+    dateModified: '2024-05-14T09:37:39Z'
+    filename: 2403.html
+    itemType: attachment
+    key: Y44ANH9A
+    linkMode: imported_url
+    md5: 54bb6becca7dc6b9946f5ed0525dd97e
+    mtime: 1715679459000
+    note: ''
+    parentItem: DTDXCSN6
+    relations: {}
+    tags: []
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2403.17493
+    version: 347
+  key: Y44ANH9A
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/Y44ANH9A
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/Y44ANH9A
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/DTDXCSN6
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 347
 - data:
     accessDate: '2024-02-16T14:08:23Z'
     charset: ''
