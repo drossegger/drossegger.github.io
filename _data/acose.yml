@@ -13,7 +13,7 @@
     callNumber: ''
     collections:
     - 3T8QH7NR
-    conferenceName: Computability in Europe
+    conferenceName: ''
     creators:
     - creatorType: author
       firstName: Meng-Che "Turbo"
@@ -23,7 +23,7 @@
       lastName: Le
     date: '2024-05-14'
     dateAdded: '2024-05-15T11:28:10Z'
-    dateModified: '2024-05-15T11:56:03Z'
+    dateModified: '2024-05-15T12:05:13Z'
     extra: arxiv:2405.08442 [math]
     itemType: conferencePaper
     key: 5N9J8SJU
@@ -31,7 +31,7 @@
     libraryCatalog: arXiv.org
     pages: ''
     place: ''
-    proceedingsTitle: ''
+    proceedingsTitle: Conference on Computability in Europe
     publisher: Springer
     relations: {}
     rights: ''
@@ -47,7 +47,7 @@
     title: Algorithmic aspects of left-orderings of solvable Baumslag-Solitar groups
       via its dynamical realization
     url: http://arxiv.org/abs/2405.08442
-    version: 404
+    version: 411
     volume: to appear
   key: 5N9J8SJU
   library:
@@ -77,7 +77,7 @@
     creatorSummary: Ho et al.
     numChildren: 2
     parsedDate: '2024-05-14'
-  version: 404
+  version: 411
 - data:
     DOI: https://doi.org/10.48550/arXiv.2403.17493
     ISSN: ''
