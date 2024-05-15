@@ -13,7 +13,7 @@
     callNumber: ''
     collections:
     - 3T8QH7NR
-    conferenceName: ''
+    conferenceName: Computability in Europe
     creators:
     - creatorType: author
       firstName: Meng-Che "Turbo"
@@ -23,7 +23,7 @@
       lastName: Le
     date: '2024-05-14'
     dateAdded: '2024-05-15T11:28:10Z'
-    dateModified: '2024-05-15T11:49:33Z'
+    dateModified: '2024-05-15T11:56:03Z'
     extra: arxiv:2405.08442 [math]
     itemType: conferencePaper
     key: 5N9J8SJU
@@ -47,7 +47,7 @@
     title: Algorithmic aspects of left-orderings of solvable Baumslag-Solitar groups
       via its dynamical realization
     url: http://arxiv.org/abs/2405.08442
-    version: 378
+    version: 404
     volume: to appear
   key: 5N9J8SJU
   library:
@@ -77,9 +77,9 @@
     creatorSummary: Ho et al.
     numChildren: 2
     parsedDate: '2024-05-14'
-  version: 378
+  version: 404
 - data:
-    DOI: ''
+    DOI: https://doi.org/10.48550/arXiv.2403.17493
     ISSN: ''
     abstractNote: ''
     accessDate: '2024-05-14T09:37:32Z'
@@ -97,7 +97,7 @@
       lastName: Steifer
     date: '2024-03-26'
     dateAdded: '2024-05-14T09:37:32Z'
-    dateModified: '2024-05-15T11:49:14Z'
+    dateModified: '2024-05-15T11:56:45Z'
     extra: arxiv:2403.17493
     issue: ''
     itemType: journalArticle
@@ -120,7 +120,7 @@
       type: 1
     title: Learning Equivalence Relations on Polish Spaces
     url: http://arxiv.org/abs/2403.17493
-    version: 376
+    version: 406
     volume: ''
   key: DTDXCSN6
   library:
@@ -150,7 +150,7 @@
     creatorSummary: Rossegger et al.
     numChildren: 2
     parsedDate: '2024-03-26'
-  version: 376
+  version: 406
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
@@ -320,7 +320,7 @@
     callNumber: ''
     collections:
     - 3T8QH7NR
-    conferenceName: ''
+    conferenceName: Computability in Europe
     creators:
     - creatorType: author
       firstName: Nikolay
@@ -336,7 +336,7 @@
       lastName: Vatev
     date: '2024-02-08'
     dateAdded: '2024-02-12T08:05:37Z'
-    dateModified: '2024-05-15T11:50:54Z'
+    dateModified: '2024-05-15T11:56:12Z'
     extra: arxiv:2402.05744 [math]
     itemType: conferencePaper
     key: A8828RQN
@@ -359,7 +359,7 @@
       type: 1
     title: Learning Families of Algebraic Structures from Text
     url: http://arxiv.org/abs/2402.05744
-    version: 385
+    version: 405
     volume: to appear
   key: A8828RQN
   library:
@@ -389,7 +389,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 2
     parsedDate: '2024-02-08'
-  version: 385
+  version: 405
 - data:
     DOI: 10.48550/arXiv.2305.07126
     ISSN: ''
