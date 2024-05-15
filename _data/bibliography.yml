@@ -13,7 +13,7 @@
     callNumber: ''
     collections:
     - 3T8QH7NR
-    conferenceName: ''
+    conferenceName: Computability in Europe
     creators:
     - creatorType: author
       firstName: Meng-Che "Turbo"
@@ -23,7 +23,7 @@
       lastName: Le
     date: '2024-05-14'
     dateAdded: '2024-05-15T11:28:10Z'
-    dateModified: '2024-05-15T11:49:33Z'
+    dateModified: '2024-05-15T11:56:03Z'
     extra: arxiv:2405.08442 [math]
     itemType: conferencePaper
     key: 5N9J8SJU
@@ -47,7 +47,7 @@
     title: Algorithmic aspects of left-orderings of solvable Baumslag-Solitar groups
       via its dynamical realization
     url: http://arxiv.org/abs/2405.08442
-    version: 378
+    version: 404
     volume: to appear
   key: 5N9J8SJU
   library:
@@ -77,9 +77,9 @@
     creatorSummary: Ho et al.
     numChildren: 2
     parsedDate: '2024-05-14'
-  version: 378
+  version: 404
 - data:
-    DOI: ''
+    DOI: https://doi.org/10.48550/arXiv.2403.17493
     ISSN: ''
     abstractNote: ''
     accessDate: '2024-05-14T09:37:32Z'
@@ -97,7 +97,7 @@
       lastName: Steifer
     date: '2024-03-26'
     dateAdded: '2024-05-14T09:37:32Z'
-    dateModified: '2024-05-15T11:49:14Z'
+    dateModified: '2024-05-15T11:56:45Z'
     extra: arxiv:2403.17493
     issue: ''
     itemType: journalArticle
@@ -120,7 +120,7 @@
       type: 1
     title: Learning Equivalence Relations on Polish Spaces
     url: http://arxiv.org/abs/2403.17493
-    version: 376
+    version: 406
     volume: ''
   key: DTDXCSN6
   library:
@@ -150,7 +150,7 @@
     creatorSummary: Rossegger et al.
     numChildren: 2
     parsedDate: '2024-03-26'
-  version: 376
+  version: 406
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
@@ -320,7 +320,7 @@
     callNumber: ''
     collections:
     - 3T8QH7NR
-    conferenceName: ''
+    conferenceName: Computability in Europe
     creators:
     - creatorType: author
       firstName: Nikolay
@@ -336,7 +336,7 @@
       lastName: Vatev
     date: '2024-02-08'
     dateAdded: '2024-02-12T08:05:37Z'
-    dateModified: '2024-05-15T11:50:54Z'
+    dateModified: '2024-05-15T11:56:12Z'
     extra: arxiv:2402.05744 [math]
     itemType: conferencePaper
     key: A8828RQN
@@ -359,7 +359,7 @@
       type: 1
     title: Learning Families of Algebraic Structures from Text
     url: http://arxiv.org/abs/2402.05744
-    version: 385
+    version: 405
     volume: to appear
   key: A8828RQN
   library:
@@ -389,7 +389,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 2
     parsedDate: '2024-02-08'
-  version: 385
+  version: 405
 - data:
     DOI: 10.48550/arXiv.2305.07126
     ISSN: ''
@@ -811,6 +811,73 @@
     parsedDate: '2022'
   version: 371
 - data:
+    DOI: 10.1007/978-3-030-80049-9_38
+    ISBN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections: []
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Barbara F.
+      lastName: Csima
+    - creatorType: author
+      firstName: Daniel
+      lastName: Yu
+    date: '2021'
+    dateAdded: '2021-09-29T04:32:17Z'
+    dateModified: '2024-05-15T11:58:40Z'
+    extra: arxiv:https://arxiv.org/abs/2011.14160
+    itemType: conferencePaper
+    key: HUNJCCFU
+    language: ''
+    libraryCatalog: Google Scholar
+    pages: "385\u2013394"
+    place: ''
+    proceedingsTitle: Conference on Computability in Europe
+    publisher: Springer
+    relations: {}
+    rights: ''
+    series: Lecture Notes in Computer Science
+    shortTitle: ''
+    tags: []
+    title: Positive enumerable functors
+    url: ''
+    version: 410
+    volume: '12813'
+  key: HUNJCCFU
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/HUNJCCFU
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/HUNJCCFU
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Csima et al.
+    numChildren: 0
+    parsedDate: '2021'
+  version: 410
+- data:
     DOI: 10.3233/COM-190289
     ISSN: ''
     abstractNote: ''
@@ -886,73 +953,6 @@
     numChildren: 0
     parsedDate: '2021'
   version: 395
-- data:
-    DOI: 10.1007/978-3-030-80049-9_38
-    ISBN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections: []
-    conferenceName: ''
-    creators:
-    - creatorType: author
-      firstName: Barbara F.
-      lastName: Csima
-    - creatorType: author
-      firstName: Daniel
-      lastName: Yu
-    date: '2021'
-    dateAdded: '2021-09-29T04:32:17Z'
-    dateModified: '2021-09-29T04:33:37Z'
-    extra: arxiv:https://arxiv.org/abs/2011.14160
-    itemType: conferencePaper
-    key: HUNJCCFU
-    language: ''
-    libraryCatalog: Google Scholar
-    pages: "385\u2013394"
-    place: ''
-    proceedingsTitle: Conference on Computability in Europe
-    publisher: Springer
-    relations: {}
-    rights: ''
-    series: ''
-    shortTitle: ''
-    tags: []
-    title: Positive enumerable functors
-    url: ''
-    version: 127
-    volume: ''
-  key: HUNJCCFU
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/HUNJCCFU
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/HUNJCCFU
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Csima et al.
-    numChildren: 0
-    parsedDate: '2021'
-  version: 127
 - data:
     DOI: doi:10.1017/jsl.2020.46
     ISSN: ''
@@ -1239,6 +1239,67 @@
     parsedDate: '2019'
   version: 389
 - data:
+    DOI: 10.1007/978-3-319-94418-0_35
+    ISBN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections: []
+    conferenceName: ''
+    creators: []
+    date: '2018'
+    dateAdded: '2018-02-21T20:41:04Z'
+    dateModified: '2024-05-15T11:57:55Z'
+    extra: ''
+    itemType: conferencePaper
+    key: WL68KGE2
+    language: ''
+    libraryCatalog: ''
+    pages: 349-358
+    place: ''
+    proceedingsTitle: Conference on Computability in Europe
+    publisher: Springer
+    relations: {}
+    rights: ''
+    series: Lecture Notes in Computer Science
+    shortTitle: ''
+    tags: []
+    title: Elementary bi-embeddability spectra of structures
+    url: ''
+    version: 409
+    volume: '10936'
+  key: WL68KGE2
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/WL68KGE2
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/WL68KGE2
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger
+    numChildren: 0
+    parsedDate: '2018'
+  version: 409
+- data:
     DOI: 10.1007/s10469-018-9511-8
     ISSN: ''
     abstractNote: ''
@@ -1312,67 +1373,6 @@
     numChildren: 0
     parsedDate: '2018'
   version: 401
-- data:
-    DOI: 10.1007/978-3-319-94418-0_35
-    ISBN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections: []
-    conferenceName: ''
-    creators: []
-    date: '2018'
-    dateAdded: '2018-02-21T20:41:04Z'
-    dateModified: '2021-10-19T23:29:48Z'
-    extra: ''
-    itemType: conferencePaper
-    key: WL68KGE2
-    language: ''
-    libraryCatalog: ''
-    pages: 349-358
-    place: ''
-    proceedingsTitle: Conference on Computability in Europe
-    publisher: Springer
-    relations: {}
-    rights: ''
-    series: Lecture Notes in Computer Science
-    shortTitle: ''
-    tags: []
-    title: Elementary bi-embeddability spectra of structures
-    url: ''
-    version: 152
-    volume: '10936'
-  key: WL68KGE2
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/WL68KGE2
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/WL68KGE2
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Rossegger
-    numChildren: 0
-    parsedDate: '2018'
-  version: 152
 - data:
     DOI: ''
     ISBN: ''
