@@ -336,19 +336,19 @@
       lastName: Vatev
     date: '2024-02-08'
     dateAdded: '2024-02-12T08:05:37Z'
-    dateModified: '2024-05-15T11:56:12Z'
+    dateModified: '2024-05-15T12:11:01Z'
     extra: arxiv:2402.05744 [math]
     itemType: conferencePaper
     key: A8828RQN
-    language: Lecture Notes in Computer Science
+    language: ''
     libraryCatalog: arXiv.org
     pages: ''
     place: ''
-    proceedingsTitle: ''
+    proceedingsTitle: Conference on Computability in Europe
     publisher: Springer
     relations: {}
     rights: ''
-    series: ''
+    series: Lecture Notes in Computer Science
     shortTitle: ''
     tags:
     - tag: 03C57, 03E15
@@ -359,7 +359,7 @@
       type: 1
     title: Learning Families of Algebraic Structures from Text
     url: http://arxiv.org/abs/2402.05744
-    version: 405
+    version: 412
     volume: to appear
   key: A8828RQN
   library:
@@ -389,7 +389,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 2
     parsedDate: '2024-02-08'
-  version: 405
+  version: 412
 - data:
     DOI: 10.48550/arXiv.2305.07126
     ISSN: ''
