@@ -1,4 +1,85 @@
 - data:
+    DOI: 10.48550/arXiv.2405.09275
+    ISSN: ''
+    abstractNote: Feferman proved in 1962 that any arithmetical theorem is a consequence
+      of a suitable transfinite iteration of full uniform reflection of $\mathsf{PA}$.
+      This result is commonly known as Feferman's completeness theorem. The purpose
+      of this paper is twofold. On the one hand this is an expository paper, giving
+      two new proofs of Feferman's completeness theorem that, we hope, shed light
+      on this mysterious and often overlooked result. On the other hand, we combine
+      one of our proofs with results from computable structure theory due to Ash and
+      Knight to give sharp bounds on the order types of well-orders necessary to attain
+      the completeness for levels of the arithmetical hierarchy.
+    accessDate: '2024-05-16T12:38:39Z'
+    archive: arxiv
+    archiveLocation: https://arxiv.org/abs/2405.09275
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Fedor
+      lastName: Pakhomov
+    - creatorType: author
+      firstName: Michael
+      lastName: Rathjen
+    date: '2024-05-15'
+    dateAdded: '2024-05-16T12:38:39Z'
+    dateModified: '2024-05-16T12:39:46Z'
+    extra: arXiv:2405.09275 [math]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: HNLX6EFA
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: ''
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03F15, 03F30, 03C57
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: Feferman's completeness theorem
+    url: ''
+    version: 421
+    volume: ''
+  key: HNLX6EFA
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/HNLX6EFA
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/HNLX6EFA
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Pakhomov et al.
+    numChildren: 2
+    parsedDate: '2024-05-15'
+  version: 421
+- data:
     DOI: 10.48550/arXiv.2405.08442
     ISBN: ''
     abstractNote: We answer a question of Calderoni and Clay by showing that the conjugation
@@ -732,6 +813,54 @@
     numChildren: 0
     parsedDate: '2022'
   version: 371
+- data:
+    accessDate: '2024-05-16T12:38:47Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-05-16T12:38:47Z'
+    dateModified: '2024-05-16T12:38:47Z'
+    filename: 2405.html
+    itemType: attachment
+    key: LYYMES55
+    linkMode: imported_url
+    md5: 923dc33abd63e934801eee9fdacfc411
+    mtime: 1715863127000
+    note: ''
+    parentItem: HNLX6EFA
+    relations: {}
+    tags: []
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2405.09275
+    version: 414
+  key: LYYMES55
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/LYYMES55
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/LYYMES55
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/HNLX6EFA
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 414
 - data:
     accessDate: '2024-05-15T11:28:17Z'
     charset: utf-8
