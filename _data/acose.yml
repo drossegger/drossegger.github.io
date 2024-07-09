@@ -1,4 +1,313 @@
 - data:
+    DOI: 10.48550/arXiv.2405.09275
+    ISSN: ''
+    abstractNote: Feferman proved in 1962 that any arithmetical theorem is a consequence
+      of a suitable transfinite iteration of full uniform reflection of $\mathsf{PA}$.
+      This result is commonly known as Feferman's completeness theorem. The purpose
+      of this paper is twofold. On the one hand this is an expository paper, giving
+      two new proofs of Feferman's completeness theorem that, we hope, shed light
+      on this mysterious and often overlooked result. On the other hand, we combine
+      one of our proofs with results from computable structure theory due to Ash and
+      Knight to give sharp bounds on the order types of well-orders necessary to attain
+      the completeness for levels of the arithmetical hierarchy.
+    accessDate: '2024-05-16T12:38:39Z'
+    archive: arxiv
+    archiveLocation: https://arxiv.org/abs/2405.09275
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Fedor
+      lastName: Pakhomov
+    - creatorType: author
+      firstName: Michael
+      lastName: Rathjen
+    date: '2024-05-15'
+    dateAdded: '2024-05-16T12:38:39Z'
+    dateModified: '2024-05-16T12:39:46Z'
+    extra: arXiv:2405.09275 [math]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: HNLX6EFA
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: ''
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03F15, 03F30, 03C57
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: Feferman's completeness theorem
+    url: ''
+    version: 421
+    volume: ''
+  key: HNLX6EFA
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/HNLX6EFA
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/HNLX6EFA
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Pakhomov et al.
+    numChildren: 2
+    parsedDate: '2024-05-15'
+  version: 421
+- data:
+    DOI: 10.48550/arXiv.2405.08442
+    ISBN: ''
+    abstractNote: We answer a question of Calderoni and Clay by showing that the conjugation
+      equivalence relation of left orderings of the Baumslag-Solitar groups $\mathrm{BS}(1,n)$
+      is hyperfinite for any $n$. Our proof relies on a classification of $\mathrm{BS}(1,n)$'s
+      left-orderings via its one-dimensional dynamical realizations. We furthermore
+      use the effectiveness of the dynamical realizations of $\mathrm{BS}(1,n)$ to
+      study algorithmic properties of the left-orderings on $\mathrm{BS}(1,n)$.
+    accessDate: '2024-05-15T11:28:10Z'
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2405.08442
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Meng-Che "Turbo"
+      lastName: Ho
+    - creatorType: author
+      firstName: Khanh
+      lastName: Le
+    date: '2024-05-14'
+    dateAdded: '2024-05-15T11:28:10Z'
+    dateModified: '2024-05-15T12:05:13Z'
+    extra: arxiv:2405.08442 [math]
+    itemType: conferencePaper
+    key: 5N9J8SJU
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    place: ''
+    proceedingsTitle: Conference on Computability in Europe
+    publisher: Springer
+    relations: {}
+    rights: ''
+    series: Lecture Notes in Computer Science
+    shortTitle: ''
+    tags:
+    - tag: 03E15, 20F60, 03C57, 03D45
+      type: 1
+    - tag: Mathematics - Group Theory
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: Algorithmic aspects of left-orderings of solvable Baumslag-Solitar groups
+      via its dynamical realization
+    url: http://arxiv.org/abs/2405.08442
+    version: 411
+    volume: to appear
+  key: 5N9J8SJU
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/5N9J8SJU
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/5N9J8SJU
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Ho et al.
+    numChildren: 2
+    parsedDate: '2024-05-14'
+  version: 411
+- data:
+    DOI: https://doi.org/10.48550/arXiv.2403.17493
+    ISSN: ''
+    abstractNote: ''
+    accessDate: '2024-05-14T09:37:32Z'
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2403.17493
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Theodore
+      lastName: Slaman
+    - creatorType: author
+      firstName: Tomasz
+      lastName: Steifer
+    date: '2024-03-26'
+    dateAdded: '2024-05-14T09:37:32Z'
+    dateModified: '2024-05-15T11:56:45Z'
+    extra: arxiv:2403.17493
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: DTDXCSN6
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03E15, 68Q32, 03D80
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: Learning Equivalence Relations on Polish Spaces
+    url: http://arxiv.org/abs/2403.17493
+    version: 406
+    volume: ''
+  key: DTDXCSN6
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/DTDXCSN6
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/DTDXCSN6
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger et al.
+    numChildren: 2
+    parsedDate: '2024-03-26'
+  version: 406
+- data:
+    DOI: 10.1017/jsl.2024.18
+    ISSN: 0022-4812, 1943-5886
+    abstractNote: ''
+    accessDate: '2024-03-15T15:27:24Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2301.09940
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Nikolay
+      lastName: Bazhenov
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Alexandra
+      lastName: Soskova
+    - creatorType: author
+      firstName: Stefan
+      lastName: Vatev
+    date: 2024/03/15
+    dateAdded: '2024-03-15T15:27:24Z'
+    dateModified: '2024-05-15T11:50:32Z'
+    extra: arxiv:2301.09940
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: 89CAGSK9
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 1-17
+    publicationTitle: The Journal of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: A Lopez-Escobar Theorem for Continuous Domains
+    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/lopezescobar-theorem-for-continuous-domains/041B7DBB152EE01A55B35DA14827A830
+    version: 383
+    volume: First View
+  key: 89CAGSK9
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/89CAGSK9
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/89CAGSK9
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Bazhenov et al.
+    numChildren: 0
+    parsedDate: '2024-03-15'
+  version: 383
+- data:
     DOI: 10.48550/arXiv.2402.10029
     ISSN: ''
     abstractNote: We investigate the descriptive complexity of the set of models of
@@ -8,8 +317,8 @@
       set of models. Finally, we determine the Turing degrees needed to witness the
       completeness.
     accessDate: '2024-02-16T14:08:22Z'
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2402.10029
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -28,8 +337,8 @@
       lastName: Zhu
     date: '2024-02-15'
     dateAdded: '2024-02-16T14:08:22Z'
-    dateModified: '2024-02-21T10:50:17Z'
-    extra: arXiv:2402.10029 [math]
+    dateModified: '2024-05-15T11:51:06Z'
+    extra: arxiv:2402.10029
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
@@ -51,7 +360,7 @@
       type: 1
     title: The Borel complexity of the class of models of first-order theories
     url: http://arxiv.org/abs/2402.10029
-    version: 335
+    version: 387
     volume: ''
   key: PNTQ5RB5
   library:
@@ -81,17 +390,18 @@
     creatorSummary: Andrews et al.
     numChildren: 2
     parsedDate: '2024-02-15'
-  version: 335
+  version: 387
 - data:
     DOI: 10.48550/arXiv.2402.05744
-    ISSN: ''
+    ISBN: ''
     abstractNote: ''
     accessDate: '2024-02-12T08:05:37Z'
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2402.05744
     callNumber: ''
     collections:
     - 3T8QH7NR
+    conferenceName: Computability in Europe
     creators:
     - creatorType: author
       firstName: Nikolay
@@ -107,21 +417,19 @@
       lastName: Vatev
     date: '2024-02-08'
     dateAdded: '2024-02-12T08:05:37Z'
-    dateModified: '2024-02-12T08:42:17Z'
-    extra: arXiv:2402.05744 [math]
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
+    dateModified: '2024-05-15T12:11:01Z'
+    extra: arxiv:2402.05744 [math]
+    itemType: conferencePaper
     key: A8828RQN
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
-    publicationTitle: submitted for publication
+    place: ''
+    proceedingsTitle: Conference on Computability in Europe
+    publisher: Springer
     relations: {}
     rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
+    series: Lecture Notes in Computer Science
     shortTitle: ''
     tags:
     - tag: 03C57, 03E15
@@ -132,8 +440,8 @@
       type: 1
     title: Learning Families of Algebraic Structures from Text
     url: http://arxiv.org/abs/2402.05744
-    version: 329
-    volume: ''
+    version: 412
+    volume: to appear
   key: A8828RQN
   library:
     id: 1553639
@@ -162,7 +470,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 2
     parsedDate: '2024-02-08'
-  version: 329
+  version: 412
 - data:
     DOI: 10.48550/arXiv.2305.07126
     ISSN: ''
@@ -234,163 +542,12 @@
     parsedDate: '2023-05-11'
   version: 294
 - data:
-    DOI: 10.48550/arXiv.2301.09940
-    ISSN: ''
-    abstractNote: ''
-    accessDate: '2023-01-26T23:51:52Z'
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Nikolay
-      lastName: Bazhenov
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Alexandra A.
-      lastName: Soskova
-    - creatorType: author
-      firstName: Stefan V.
-      lastName: Vatev
-    date: '2023-01-24'
-    dateAdded: '2023-01-26T23:51:52Z'
-    dateModified: '2023-05-02T22:13:33Z'
-    extra: arxiv:https://arxiv.org/abs/2301.09940
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: LN7LTVST
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: submitted for publication
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03C57 (Primary), 03E15 (Secondary)
-      type: 1
-    - tag: F.4.1
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: A Lopez-Escobar Theorem for Continuous Domains
-    url: http://arxiv.org/abs/2301.09940
-    version: 226
-    volume: ''
-  key: LN7LTVST
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/LN7LTVST
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/LN7LTVST
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Bazhenov et al.
-    numChildren: 3
-    parsedDate: '2023-01-24'
-  version: 226
-- data:
-    DOI: 10.1017/jsl.2023.43
-    ISSN: 0022-4812, 1943-5886
-    abstractNote: ''
-    accessDate: '2022-08-08T15:44:57Z'
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2208.01697
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Antonio
-      lastName: "Montalb\xE1n"
-    date: '2023'
-    dateAdded: '2023-07-13T22:41:07Z'
-    dateModified: '2023-10-13T09:08:40Z'
-    extra: arxiv:https://arxiv.org/abs/2208.01697
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: MPSHJ2BY
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: 1-16
-    publicationTitle: The Journal of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03E15, 03C62, 03H15
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: The structural complexity of models of arithmetic
-    url: ''
-    version: 290
-    volume: ''
-  key: MPSHJ2BY
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/MPSHJ2BY
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/MPSHJ2BY
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: "Montalb\xE1n and Rossegger"
-    numChildren: 0
-    parsedDate: '2023'
-  version: 290
-- data:
     DOI: 10.1142/S0219061324500028
     ISSN: ''
     abstractNote: ''
     accessDate: ''
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2209.04524
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -400,8 +557,8 @@
       lastName: Csima
     date: '2023'
     dateAdded: '2023-09-13T07:00:32Z'
-    dateModified: '2023-09-26T14:57:01Z'
-    extra: arxiv:https://arxiv.org/abs/2209.04524
+    dateModified: '2024-05-15T11:50:02Z'
+    extra: arxiv:2209.04524
     issue: online ready
     itemType: journalArticle
     journalAbbreviation: ''
@@ -419,7 +576,7 @@
     tags: []
     title: Degrees of categoricity and treeable degrees
     url: ''
-    version: 283
+    version: 380
     volume: ''
   key: EKYIJ9WI
   library:
@@ -449,48 +606,49 @@
     creatorSummary: Csima and Rossegger
     numChildren: 2
     parsedDate: '2023'
-  version: 283
+  version: 380
 - data:
-    DOI: 10.48550/arXiv.2206.01135
-    ISSN: ''
+    DOI: 10.1017/jsl.2023.43
+    ISSN: 0022-4812, 1943-5886
     abstractNote: ''
-    accessDate: ''
+    accessDate: '2022-08-08T15:44:57Z'
     archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2206.01135
+    archiveLocation: https://arxiv.org/abs/2208.01697
     callNumber: ''
     collections:
     - 3T8QH7NR
     creators:
     - creatorType: author
-      firstName: Barbara F.
-      lastName: Csima
-    - creatorType: author
-      firstName: Luke
-      lastName: MacLean
-    date: '2022'
-    dateAdded: '2022-05-31T22:07:27Z'
-    dateModified: '2023-10-13T09:12:23Z'
-    extra: arxiv:http://arxiv.org/abs/2206.01135
+      firstName: Antonio
+      lastName: "Montalb\xE1n"
+    date: '2023'
+    dateAdded: '2023-07-13T22:41:07Z'
+    dateModified: '2024-05-15T11:47:16Z'
+    extra: arxiv:2208.01697
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
-    key: N6GBYDDG
+    key: MPSHJ2BY
     language: ''
-    libraryCatalog: ''
-    pages: ''
-    publicationTitle: submitted for publication
+    libraryCatalog: arXiv.org
+    pages: 1-16
+    publicationTitle: The Journal of Symbolic Logic
     relations: {}
     rights: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
     shortTitle: ''
-    tags: []
-    title: Relations enumerable from positive information
-    url: https://arxiv.org/abs/2206.01135
-    version: 297
-    volume: ''
-  key: N6GBYDDG
+    tags:
+    - tag: 03E15, 03C62, 03H15
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: The structural complexity of models of arithmetic
+    url: ''
+    version: 373
+    volume: First View
+  key: MPSHJ2BY
   library:
     id: 1553639
     links:
@@ -501,10 +659,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/N6GBYDDG
+      href: https://www.zotero.org/groups/dinorossownpub/items/MPSHJ2BY
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/N6GBYDDG
+      href: https://api.zotero.org/groups/1553639/items/MPSHJ2BY
       type: application/json
   meta:
     createdByUser:
@@ -515,10 +673,10 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-    creatorSummary: Csima et al.
+    creatorSummary: "Montalb\xE1n and Rossegger"
     numChildren: 0
-    parsedDate: '2022'
-  version: 297
+    parsedDate: '2023'
+  version: 373
 - data:
     DOI: 10.1017/jsl.2021.82
     ISSN: 0022-4812, 1943-5886
@@ -532,8 +690,8 @@
     creators: []
     date: '2022'
     dateAdded: '2021-10-08T18:45:12Z'
-    dateModified: '2023-10-13T09:08:13Z'
-    extra: arxiv:https://arxiv.org/abs/2010.00755
+    dateModified: '2024-05-15T11:47:21Z'
+    extra: arxiv:2010.00755
     issue: '4'
     itemType: journalArticle
     journalAbbreviation: ''
@@ -555,7 +713,7 @@
       type: 1
     title: Degree spectra of analytic complete equivalence relations
     url: https://arxiv.org/abs/2010.00755
-    version: 287
+    version: 374
     volume: '87'
   key: YFZER25H
   library:
@@ -585,7 +743,220 @@
     creatorSummary: Rossegger
     numChildren: 0
     parsedDate: '2022'
-  version: 287
+  version: 374
+- data:
+    DOI: 10.48550/arXiv.2206.01135
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2206.01135
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Barbara F.
+      lastName: Csima
+    - creatorType: author
+      firstName: Luke
+      lastName: MacLean
+    date: '2022'
+    dateAdded: '2022-05-31T22:07:27Z'
+    dateModified: '2024-05-15T11:46:52Z'
+    extra: arxiv:2206.01135
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: N6GBYDDG
+    language: ''
+    libraryCatalog: ''
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Relations enumerable from positive information
+    url: https://arxiv.org/abs/2206.01135
+    version: 371
+    volume: ''
+  key: N6GBYDDG
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/N6GBYDDG
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/N6GBYDDG
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Csima et al.
+    numChildren: 0
+    parsedDate: '2022'
+  version: 371
+- data:
+    accessDate: '2024-05-16T12:38:47Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-05-16T12:38:47Z'
+    dateModified: '2024-05-16T12:38:47Z'
+    filename: 2405.html
+    itemType: attachment
+    key: LYYMES55
+    linkMode: imported_url
+    md5: 923dc33abd63e934801eee9fdacfc411
+    mtime: 1715863127000
+    note: ''
+    parentItem: HNLX6EFA
+    relations: {}
+    tags: []
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2405.09275
+    version: 414
+  key: LYYMES55
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/LYYMES55
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/LYYMES55
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/HNLX6EFA
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 414
+- data:
+    accessDate: '2024-05-15T11:28:17Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-05-15T11:28:17Z'
+    dateModified: '2024-05-15T11:28:17Z'
+    filename: 2405.html
+    itemType: attachment
+    key: UC6Z4S3A
+    linkMode: imported_url
+    md5: 322dc13d7a314f08ba80254e869b2495
+    mtime: 1715772497000
+    note: ''
+    parentItem: 5N9J8SJU
+    relations: {}
+    tags: []
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2405.08442
+    version: 355
+  key: UC6Z4S3A
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/UC6Z4S3A
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/UC6Z4S3A
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/5N9J8SJU
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 355
+- data:
+    accessDate: '2024-05-14T09:37:39Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-05-14T09:37:39Z'
+    dateModified: '2024-05-14T09:37:39Z'
+    filename: 2403.html
+    itemType: attachment
+    key: Y44ANH9A
+    linkMode: imported_url
+    md5: 54bb6becca7dc6b9946f5ed0525dd97e
+    mtime: 1715679459000
+    note: ''
+    parentItem: DTDXCSN6
+    relations: {}
+    tags: []
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2403.17493
+    version: 347
+  key: Y44ANH9A
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/Y44ANH9A
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/Y44ANH9A
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/DTDXCSN6
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 347
 - data:
     accessDate: '2024-02-16T14:08:23Z'
     charset: ''
