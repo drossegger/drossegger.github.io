@@ -25,7 +25,7 @@
       lastName: Rathjen
     date: '2024-05-15'
     dateAdded: '2024-05-16T12:38:39Z'
-    dateModified: '2024-05-16T12:39:46Z'
+    dateModified: '2024-07-18T10:46:30Z'
     extra: arXiv:2405.09275 [math]
     issue: ''
     itemType: journalArticle
@@ -34,7 +34,7 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
-    publicationTitle: ''
+    publicationTitle: submitted for publication
     relations: {}
     rights: ''
     series: ''
@@ -48,7 +48,7 @@
       type: 1
     title: Feferman's completeness theorem
     url: ''
-    version: 421
+    version: 425
     volume: ''
   key: HNLX6EFA
   library:
@@ -78,7 +78,7 @@
     creatorSummary: Pakhomov et al.
     numChildren: 2
     parsedDate: '2024-05-15'
-  version: 421
+  version: 425
 - data:
     DOI: 10.48550/arXiv.2405.08442
     ISBN: ''
@@ -156,7 +156,7 @@
       name: Dino Rossegger
       username: dinoross
     creatorSummary: Ho et al.
-    numChildren: 2
+    numChildren: 3
     parsedDate: '2024-05-14'
   version: 411
 - data:
