@@ -10,7 +10,7 @@ excerpt: 'Logician. Marie Skłodowska Curie Fellow at UC Berkeley and TU Wien
           <br/><span style="font-size:14px"><a href="https://orcid.org/0000-0003-3494-9049" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">ORCID</span></a>
 <a href="https://twitter.com/dino_r" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a>
 <a href="https://github.com/drossegger" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a>
-<a href="mailto:dino@math.berkeley.edu"> <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></span>' 
+<a href="mailto:dino.rossegger@tuwien.ac.at"> <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></span>' 
 
 
 layout: splash
