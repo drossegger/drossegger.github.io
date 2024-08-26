@@ -80,86 +80,6 @@
     parsedDate: '2024-05-15'
   version: 425
 - data:
-    DOI: 10.48550/arXiv.2405.08442
-    ISBN: ''
-    abstractNote: We answer a question of Calderoni and Clay by showing that the conjugation
-      equivalence relation of left orderings of the Baumslag-Solitar groups $\mathrm{BS}(1,n)$
-      is hyperfinite for any $n$. Our proof relies on a classification of $\mathrm{BS}(1,n)$'s
-      left-orderings via its one-dimensional dynamical realizations. We furthermore
-      use the effectiveness of the dynamical realizations of $\mathrm{BS}(1,n)$ to
-      study algorithmic properties of the left-orderings on $\mathrm{BS}(1,n)$.
-    accessDate: '2024-05-15T11:28:10Z'
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2405.08442
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    conferenceName: ''
-    creators:
-    - creatorType: author
-      firstName: Meng-Che "Turbo"
-      lastName: Ho
-    - creatorType: author
-      firstName: Khanh
-      lastName: Le
-    date: '2024-05-14'
-    dateAdded: '2024-05-15T11:28:10Z'
-    dateModified: '2024-05-15T12:05:13Z'
-    extra: arxiv:2405.08442 [math]
-    itemType: conferencePaper
-    key: 5N9J8SJU
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    place: ''
-    proceedingsTitle: Conference on Computability in Europe
-    publisher: Springer
-    relations: {}
-    rights: ''
-    series: Lecture Notes in Computer Science
-    shortTitle: ''
-    tags:
-    - tag: 03E15, 20F60, 03C57, 03D45
-      type: 1
-    - tag: Mathematics - Group Theory
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Algorithmic aspects of left-orderings of solvable Baumslag-Solitar groups
-      via its dynamical realization
-    url: http://arxiv.org/abs/2405.08442
-    version: 411
-    volume: to appear
-  key: 5N9J8SJU
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/5N9J8SJU
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/5N9J8SJU
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Ho et al.
-    numChildren: 3
-    parsedDate: '2024-05-14'
-  version: 411
-- data:
     DOI: https://doi.org/10.48550/arXiv.2403.17493
     ISSN: ''
     abstractNote: ''
@@ -399,8 +319,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2402.05744
     callNumber: ''
-    collections:
-    - 3T8QH7NR
+    collections: []
     conferenceName: Computability in Europe
     creators:
     - creatorType: author
@@ -440,7 +359,7 @@
       type: 1
     title: Learning Families of Algebraic Structures from Text
     url: http://arxiv.org/abs/2402.05744
-    version: 412
+    version: 441
     volume: to appear
   key: A8828RQN
   library:
@@ -470,7 +389,179 @@
     creatorSummary: Bazhenov et al.
     numChildren: 2
     parsedDate: '2024-02-08'
-  version: 412
+  version: 441
+- data:
+    DOI: 10.1007/978-3-031-64309-5_14
+    ISBN: 978-3-031-64309-5
+    abstractNote: "We adapt the classical notion of learning from text to computable\
+      \ structure theory. Our main result is a model-theoretic characterization of\
+      \ the learnability from text for classes of structures. We show that a family\
+      \ of structures is learnable from text if and only if the structures can be\
+      \ distinguished in terms of their theories restricted to positive infinitary\
+      \ $$\\varSigma _2$$\u03A32sentences."
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2402.05744
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Nikolay
+      lastName: Bazhenov
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Alexandra
+      lastName: Soskova
+    - creatorType: author
+      firstName: Stefan
+      lastName: Vatev
+    - creatorType: editor
+      firstName: Ludovic
+      lastName: Levy Patey
+    - creatorType: editor
+      firstName: Elaine
+      lastName: Pimentel
+    - creatorType: editor
+      firstName: Lorenzo
+      lastName: Galeotti
+    - creatorType: editor
+      firstName: Florin
+      lastName: Manea
+    date: '2024'
+    dateAdded: '2024-07-30T11:36:44Z'
+    dateModified: '2024-07-30T11:37:41Z'
+    extra: arxiv:2402.05744 [math]
+    itemType: conferencePaper
+    key: VMFJ9TQV
+    language: en
+    libraryCatalog: Springer Link
+    pages: 166-178
+    place: Cham
+    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
+    publisher: Springer Nature Switzerland
+    relations: {}
+    rights: ''
+    series: ''
+    shortTitle: ''
+    tags: []
+    title: "Learning Families of\_Algebraic Structures from\_Text"
+    url: ''
+    version: 440
+    volume: ''
+  key: VMFJ9TQV
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/VMFJ9TQV
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/VMFJ9TQV
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Bazhenov et al.
+    numChildren: 0
+    parsedDate: '2024'
+  version: 440
+- data:
+    DOI: 10.1007/978-3-031-64309-5_7
+    ISBN: 978-3-031-64309-5
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2405.08442
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Meng-Che
+      lastName: "\u201CTurbo\u201D Ho"
+    - creatorType: author
+      firstName: Khanh
+      lastName: Le
+    - creatorType: editor
+      firstName: Ludovic
+      lastName: Levy Patey
+    - creatorType: editor
+      firstName: Elaine
+      lastName: Pimentel
+    - creatorType: editor
+      firstName: Lorenzo
+      lastName: Galeotti
+    - creatorType: editor
+      firstName: Florin
+      lastName: Manea
+    date: '2024'
+    dateAdded: '2024-07-30T11:31:42Z'
+    dateModified: '2024-07-30T11:35:55Z'
+    extra: arxiv:2405.08442
+    itemType: conferencePaper
+    key: 68T4RQSQ
+    language: en
+    libraryCatalog: Springer Link
+    pages: 72-84
+    place: Cham
+    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
+    publisher: Springer Nature Switzerland
+    relations: {}
+    rights: ''
+    series: ''
+    shortTitle: ''
+    tags: []
+    title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
+      \ Groups via\_its Dynamical Realization"
+    url: ''
+    version: 435
+    volume: ''
+  key: 68T4RQSQ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/68T4RQSQ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/68T4RQSQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: "\u201CTurbo\u201D Ho et al."
+    numChildren: 0
+    parsedDate: '2024'
+  version: 435
 - data:
     DOI: 10.48550/arXiv.2305.07126
     ISSN: ''

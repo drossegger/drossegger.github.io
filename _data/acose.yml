@@ -80,86 +80,6 @@
     parsedDate: '2024-05-15'
   version: 425
 - data:
-    DOI: 10.48550/arXiv.2405.08442
-    ISBN: ''
-    abstractNote: We answer a question of Calderoni and Clay by showing that the conjugation
-      equivalence relation of left orderings of the Baumslag-Solitar groups $\mathrm{BS}(1,n)$
-      is hyperfinite for any $n$. Our proof relies on a classification of $\mathrm{BS}(1,n)$'s
-      left-orderings via its one-dimensional dynamical realizations. We furthermore
-      use the effectiveness of the dynamical realizations of $\mathrm{BS}(1,n)$ to
-      study algorithmic properties of the left-orderings on $\mathrm{BS}(1,n)$.
-    accessDate: '2024-05-15T11:28:10Z'
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2405.08442
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    conferenceName: ''
-    creators:
-    - creatorType: author
-      firstName: Meng-Che "Turbo"
-      lastName: Ho
-    - creatorType: author
-      firstName: Khanh
-      lastName: Le
-    date: '2024-05-14'
-    dateAdded: '2024-05-15T11:28:10Z'
-    dateModified: '2024-05-15T12:05:13Z'
-    extra: arxiv:2405.08442 [math]
-    itemType: conferencePaper
-    key: 5N9J8SJU
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    place: ''
-    proceedingsTitle: Conference on Computability in Europe
-    publisher: Springer
-    relations: {}
-    rights: ''
-    series: Lecture Notes in Computer Science
-    shortTitle: ''
-    tags:
-    - tag: 03E15, 20F60, 03C57, 03D45
-      type: 1
-    - tag: Mathematics - Group Theory
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Algorithmic aspects of left-orderings of solvable Baumslag-Solitar groups
-      via its dynamical realization
-    url: http://arxiv.org/abs/2405.08442
-    version: 411
-    volume: to appear
-  key: 5N9J8SJU
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/5N9J8SJU
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/5N9J8SJU
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Ho et al.
-    numChildren: 3
-    parsedDate: '2024-05-14'
-  version: 411
-- data:
     DOI: https://doi.org/10.48550/arXiv.2403.17493
     ISSN: ''
     abstractNote: ''
@@ -392,16 +312,21 @@
     parsedDate: '2024-02-15'
   version: 387
 - data:
-    DOI: 10.48550/arXiv.2402.05744
-    ISBN: ''
-    abstractNote: ''
-    accessDate: '2024-02-12T08:05:37Z'
+    DOI: 10.1007/978-3-031-64309-5_14
+    ISBN: 978-3-031-64309-5
+    abstractNote: "We adapt the classical notion of learning from text to computable\
+      \ structure theory. Our main result is a model-theoretic characterization of\
+      \ the learnability from text for classes of structures. We show that a family\
+      \ of structures is learnable from text if and only if the structures can be\
+      \ distinguished in terms of their theories restricted to positive infinitary\
+      \ $$\\varSigma _2$$\u03A32sentences."
+    accessDate: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2402.05744
     callNumber: ''
     collections:
     - 3T8QH7NR
-    conferenceName: Computability in Europe
+    conferenceName: ''
     creators:
     - creatorType: author
       firstName: Nikolay
@@ -415,34 +340,40 @@
     - creatorType: author
       firstName: Stefan
       lastName: Vatev
-    date: '2024-02-08'
-    dateAdded: '2024-02-12T08:05:37Z'
-    dateModified: '2024-05-15T12:11:01Z'
+    - creatorType: editor
+      firstName: Ludovic
+      lastName: Levy Patey
+    - creatorType: editor
+      firstName: Elaine
+      lastName: Pimentel
+    - creatorType: editor
+      firstName: Lorenzo
+      lastName: Galeotti
+    - creatorType: editor
+      firstName: Florin
+      lastName: Manea
+    date: '2024'
+    dateAdded: '2024-07-30T11:36:44Z'
+    dateModified: '2024-07-30T11:37:41Z'
     extra: arxiv:2402.05744 [math]
     itemType: conferencePaper
-    key: A8828RQN
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    place: ''
-    proceedingsTitle: Conference on Computability in Europe
-    publisher: Springer
+    key: VMFJ9TQV
+    language: en
+    libraryCatalog: Springer Link
+    pages: 166-178
+    place: Cham
+    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
+    publisher: Springer Nature Switzerland
     relations: {}
     rights: ''
-    series: Lecture Notes in Computer Science
+    series: ''
     shortTitle: ''
-    tags:
-    - tag: 03C57, 03E15
-      type: 1
-    - tag: F.4.1
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Learning Families of Algebraic Structures from Text
-    url: http://arxiv.org/abs/2402.05744
-    version: 412
-    volume: to appear
-  key: A8828RQN
+    tags: []
+    title: "Learning Families of\_Algebraic Structures from\_Text"
+    url: ''
+    version: 440
+    volume: ''
+  key: VMFJ9TQV
   library:
     id: 1553639
     links:
@@ -453,10 +384,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/A8828RQN
+      href: https://www.zotero.org/groups/dinorossownpub/items/VMFJ9TQV
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/A8828RQN
+      href: https://api.zotero.org/groups/1553639/items/VMFJ9TQV
       type: application/json
   meta:
     createdByUser:
@@ -468,9 +399,90 @@
       name: Dino Rossegger
       username: dinoross
     creatorSummary: Bazhenov et al.
-    numChildren: 2
-    parsedDate: '2024-02-08'
-  version: 412
+    numChildren: 0
+    parsedDate: '2024'
+  version: 440
+- data:
+    DOI: 10.1007/978-3-031-64309-5_7
+    ISBN: 978-3-031-64309-5
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2405.08442
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Meng-Che
+      lastName: "\u201CTurbo\u201D Ho"
+    - creatorType: author
+      firstName: Khanh
+      lastName: Le
+    - creatorType: editor
+      firstName: Ludovic
+      lastName: Levy Patey
+    - creatorType: editor
+      firstName: Elaine
+      lastName: Pimentel
+    - creatorType: editor
+      firstName: Lorenzo
+      lastName: Galeotti
+    - creatorType: editor
+      firstName: Florin
+      lastName: Manea
+    date: '2024'
+    dateAdded: '2024-07-30T11:31:42Z'
+    dateModified: '2024-07-30T11:35:55Z'
+    extra: arxiv:2405.08442
+    itemType: conferencePaper
+    key: 68T4RQSQ
+    language: en
+    libraryCatalog: Springer Link
+    pages: 72-84
+    place: Cham
+    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
+    publisher: Springer Nature Switzerland
+    relations: {}
+    rights: ''
+    series: ''
+    shortTitle: ''
+    tags: []
+    title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
+      \ Groups via\_its Dynamical Realization"
+    url: ''
+    version: 435
+    volume: ''
+  key: 68T4RQSQ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/68T4RQSQ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/68T4RQSQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: "\u201CTurbo\u201D Ho et al."
+    numChildren: 0
+    parsedDate: '2024'
+  version: 435
 - data:
     DOI: 10.48550/arXiv.2305.07126
     ISSN: ''
@@ -814,46 +826,25 @@
     parsedDate: '2022'
   version: 371
 - data:
-    accessDate: '2024-05-16T12:38:40Z'
-    charset: ''
-    contentType: application/pdf
-    dateAdded: '2024-05-16T12:38:40Z'
-    dateModified: '2024-05-16T12:38:42Z'
-    filename: Pakhomov et al_2024_Feferman's completeness theorem.pdf
+    accessDate: '2024-05-16T12:38:47Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-05-16T12:38:47Z'
+    dateModified: '2024-05-16T12:38:47Z'
+    filename: 2405.html
     itemType: attachment
-    key: 625VBETM
+    key: LYYMES55
     linkMode: imported_url
-    md5: b1474c28b46bc4b2a56443c1fb215eed
-    mtime: 1715863120000
-    note: '<p xmlns="http://www.w3.org/1999/xhtml" id="title"><strong>Contents</strong></p><ul
-      xmlns="http://www.w3.org/1999/xhtml" style="list-style-type: none; padding-left:0px"
-      id="toc"><li><a href="zotero://open-pdf/2_625VBETM/1">1. Introduction</a><ul
-      style="list-style-type: none; padding-left:12px"><li style="padding-top:4px"><a
-      href="zotero://open-pdf/2_625VBETM/2">1.1. Structure of the paper</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/4">1.2. Acknowledgements</a></li></ul></li><li
-      style="padding-top:8px"><a href="zotero://open-pdf/2_625VBETM/4">2. Feferman''s
-      Completeness Theorem via Kleene''s Normal Forms</a><ul style="list-style-type:
-      none; padding-left:12px"><li style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/4">2.1.
-      Computable orders</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/5">2.2.
-      Transfinite induction</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/6">2.3.
-      Uniform reflection and its iterations</a></li></ul></li><li style="padding-top:8px"><a
-      href="zotero://open-pdf/2_625VBETM/8">3. Feferman''s Completeness Theorem via
-      Deduction Chains</a><ul style="list-style-type: none; padding-left:12px"><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/11">3.1. Upper
-      bounds on the size of the Stammbaum</a></li></ul></li><li style="padding-top:4px"><a
-      href="zotero://open-pdf/2_625VBETM/11">4. A theorem of Ash and Knight in ACA0</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/16">5. Lower bound
-      for Feferman''s completeness</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/17">6.
-      Reflection iterated along elements of O</a></li><li style="padding-top:4px"><a
-      href="zotero://open-pdf/2_625VBETM/18">7. Discussion and Open Questions</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/19">References</a></li></ul>'
+    md5: 923dc33abd63e934801eee9fdacfc411
+    mtime: 1715863127000
+    note: ''
     parentItem: HNLX6EFA
     relations: {}
     tags: []
-    title: Pakhomov et al_2024_Feferman's completeness theorem.pdf
-    url: https://arxiv.org/pdf/2405.09275.pdf
-    version: 415
-  key: 625VBETM
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2405.09275
+    version: 414
+  key: LYYMES55
   library:
     id: 1553639
     links:
@@ -864,10 +855,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/625VBETM
+      href: https://www.zotero.org/groups/dinorossownpub/items/LYYMES55
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/625VBETM
+      href: https://api.zotero.org/groups/1553639/items/LYYMES55
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/HNLX6EFA
@@ -881,89 +872,27 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-    numChildren: 0
-  version: 415
+  version: 414
 - data:
-    accessDate: '2024-05-15T11:28:12Z'
-    charset: ''
-    contentType: application/pdf
-    dateAdded: '2024-05-15T11:28:12Z'
-    dateModified: '2024-05-15T11:28:13Z'
-    filename: Ho et al_2024_Algorithmic aspects of left-orderings of solvable Baumslag--Solitar
-      groups via.pdf
+    accessDate: '2024-05-14T09:37:39Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-05-14T09:37:39Z'
+    dateModified: '2024-05-14T09:37:39Z'
+    filename: 2403.html
     itemType: attachment
-    key: YWUMFJA6
+    key: Y44ANH9A
     linkMode: imported_url
-    md5: 56b7e416fe219b817c37026cad59da95
-    mtime: 1715772492000
-    note: '<p xmlns="http://www.w3.org/1999/xhtml" id="title"><strong>Contents</strong></p><ul
-      xmlns="http://www.w3.org/1999/xhtml" style="list-style-type: none; padding-left:0px"
-      id="toc"><li><a href="zotero://open-pdf/3_YWUMFJA6/1">1. Introduction</a></li><li
-      style="padding-top:8px"><a href="zotero://open-pdf/3_YWUMFJA6/2">2. Left-orderable
-      groups, their dynamical realizations, and Elo</a><ul style="list-style-type:
-      none; padding-left:12px"><li style="padding-top:4px"><a href="zotero://open-pdf/3_YWUMFJA6/3">2.1.
-      Dynamical realizations</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/3_YWUMFJA6/4">2.2.
-      Descriptive set theory and Elo</a></li></ul></li><li style="padding-top:4px"><a
-      href="zotero://open-pdf/3_YWUMFJA6/5">3. EloBS(1,n) is hyperfinite</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/3_YWUMFJA6/8">4. Computability
-      of dynamical realizations</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/3_YWUMFJA6/10">References</a></li></ul>'
-    parentItem: 5N9J8SJU
-    relations: {}
-    tags: []
-    title: Ho et al_2024_Algorithmic aspects of left-orderings of solvable Baumslag--Solitar
-      groups via.pdf
-    url: https://arxiv.org/pdf/2405.08442.pdf
-    version: 356
-  key: YWUMFJA6
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/YWUMFJA6
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/YWUMFJA6
-      type: application/json
-    up:
-      href: https://api.zotero.org/groups/1553639/items/5N9J8SJU
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    numChildren: 0
-  version: 356
-- data:
-    accessDate: '2024-05-14T09:37:33Z'
-    charset: ''
-    contentType: application/pdf
-    dateAdded: '2024-05-14T09:37:33Z'
-    dateModified: '2024-05-14T09:37:34Z'
-    filename: Rossegger et al_2024_Learning Equivalence Relations on Polish Spaces.pdf
-    itemType: attachment
-    key: R6BJ3VV8
-    linkMode: imported_url
-    md5: 87218f954fcd1853b5119e6079a6a8b0
-    mtime: 1715679453000
+    md5: 54bb6becca7dc6b9946f5ed0525dd97e
+    mtime: 1715679459000
     note: ''
     parentItem: DTDXCSN6
     relations: {}
     tags: []
-    title: Rossegger et al_2024_Learning Equivalence Relations on Polish Spaces.pdf
-    url: https://arxiv.org/pdf/2403.17493.pdf
-    version: 348
-  key: R6BJ3VV8
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2403.17493
+    version: 347
+  key: Y44ANH9A
   library:
     id: 1553639
     links:
@@ -974,10 +903,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/R6BJ3VV8
+      href: https://www.zotero.org/groups/dinorossownpub/items/Y44ANH9A
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/R6BJ3VV8
+      href: https://api.zotero.org/groups/1553639/items/Y44ANH9A
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/DTDXCSN6
@@ -991,28 +920,41 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-    numChildren: 0
-  version: 348
+  version: 347
 - data:
-    accessDate: '2024-02-16T14:08:27Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2024-02-16T14:08:27Z'
-    dateModified: '2024-02-16T14:08:27Z'
-    filename: 2402.html
+    accessDate: '2024-02-16T14:08:23Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-02-16T14:08:23Z'
+    dateModified: '2024-02-16T14:08:23Z'
+    filename: Andrews et al_2024_The Borel complexity of the class of models of first-order
+      theories.pdf
     itemType: attachment
-    key: 4DDD78KV
+    key: YAJW3N5N
     linkMode: imported_url
-    md5: 845338daa0d5e1bb35f45a8ba7b83a76
-    mtime: 1708092507000
-    note: ''
+    md5: d560c223bb0bcf5dc903c4f9d383eb4a
+    mtime: 1708092503000
+    note: '<p xmlns="http://www.w3.org/1999/xhtml" id="title"><strong>Contents</strong></p><ul
+      xmlns="http://www.w3.org/1999/xhtml" style="list-style-type: none; padding-left:0px"
+      id="toc"><li><a href="zotero://open-pdf/2_YAJW3N5N/1">1. Introduction</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/2">2. Preliminaries</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/3">3. Theories
+      without bounded axiomatization</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/4">4.
+      Theories with bounded axiomatization</a></li><li style="padding-top:8px"><a
+      href="zotero://open-pdf/2_YAJW3N5N/8">5. Proofs of the two technical results</a><ul
+      style="list-style-type: none; padding-left:12px"><li style="padding-top:4px"><a
+      href="zotero://open-pdf/2_YAJW3N5N/9">5.1. Proof of Theorem 3.3</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/10">5.2. Proof
+      of Lemma 4.1</a></li></ul></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/11">6.
+      The effectivity of the reductions</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/14">References</a></li></ul>'
     parentItem: PNTQ5RB5
     relations: {}
     tags: []
-    title: arXiv.org Snapshot
-    url: https://arxiv.org/abs/2402.10029
-    version: 333
-  key: 4DDD78KV
+    title: Andrews et al_2024_The Borel complexity of the class of models of first-order
+      theories.pdf
+    url: https://arxiv.org/pdf/2402.10029.pdf
+    version: 331
+  key: YAJW3N5N
   library:
     id: 1553639
     links:
@@ -1023,10 +965,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/4DDD78KV
+      href: https://www.zotero.org/groups/dinorossownpub/items/YAJW3N5N
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/4DDD78KV
+      href: https://api.zotero.org/groups/1553639/items/YAJW3N5N
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/PNTQ5RB5
@@ -1040,52 +982,5 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-  version: 333
-- data:
-    accessDate: '2024-02-12T08:05:43Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2024-02-12T08:05:43Z'
-    dateModified: '2024-02-12T08:05:43Z'
-    filename: 2402.html
-    itemType: attachment
-    key: PPD4ATR7
-    linkMode: imported_url
-    md5: 211878ce645d9dffe92b0688a5034b1d
-    mtime: 1707725143000
-    note: ''
-    parentItem: A8828RQN
-    relations: {}
-    tags: []
-    title: arXiv.org Snapshot
-    url: https://arxiv.org/abs/2402.05744
-    version: 325
-  key: PPD4ATR7
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/PPD4ATR7
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/PPD4ATR7
-      type: application/json
-    up:
-      href: https://api.zotero.org/groups/1553639/items/A8828RQN
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-  version: 325
+    numChildren: 0
+  version: 331
