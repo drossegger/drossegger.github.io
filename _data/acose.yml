@@ -499,7 +499,7 @@
       lastName: Gonzalez
     date: '2023-05-11'
     dateAdded: '2023-05-22T16:58:08Z'
-    dateModified: '2023-10-13T09:11:39Z'
+    dateModified: '2024-08-30T12:46:33Z'
     extra: arXiv:2305.07126 [math]
     issue: ''
     itemType: journalArticle
@@ -508,7 +508,7 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
-    publicationTitle: submitted for publication
+    publicationTitle: to appear in Journal of Symbolic Logic
     relations: {}
     rights: ''
     series: ''
@@ -522,7 +522,7 @@
       type: 1
     title: Scott sentence complexities of linear orderings
     url: http://arxiv.org/abs/2305.07126
-    version: 294
+    version: 442
     volume: ''
   key: GQKGMRPI
   library:
@@ -552,7 +552,7 @@
     creatorSummary: Gonzalez and Rossegger
     numChildren: 2
     parsedDate: '2023-05-11'
-  version: 294
+  version: 442
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: ''
