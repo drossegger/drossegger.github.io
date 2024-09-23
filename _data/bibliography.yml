@@ -312,87 +312,6 @@
     parsedDate: '2024-02-15'
   version: 387
 - data:
-    DOI: 10.1007/978-3-031-64309-5_7
-    ISBN: 978-3-031-64309-5
-    abstractNote: ''
-    accessDate: ''
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2405.08442
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    conferenceName: Computability in Europe
-    creators:
-    - creatorType: author
-      firstName: Meng-Che
-      lastName: "\u201CTurbo\u201D Ho"
-    - creatorType: author
-      firstName: Khanh
-      lastName: Le
-    - creatorType: editor
-      firstName: Ludovic
-      lastName: Levy Patey
-    - creatorType: editor
-      firstName: Elaine
-      lastName: Pimentel
-    - creatorType: editor
-      firstName: Lorenzo
-      lastName: Galeotti
-    - creatorType: editor
-      firstName: Florin
-      lastName: Manea
-    date: '2024'
-    dateAdded: '2024-07-30T11:31:42Z'
-    dateModified: '2024-09-23T09:17:54Z'
-    extra: arxiv:2405.08442
-    itemType: conferencePaper
-    key: 68T4RQSQ
-    language: en
-    libraryCatalog: Springer Link
-    pages: 72-84
-    place: Cham
-    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
-    publisher: Springer Nature Switzerland
-    relations: {}
-    rights: ''
-    series: ''
-    shortTitle: ''
-    tags: []
-    title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
-      \ Groups via\_its Dynamical Realization"
-    url: ''
-    version: 447
-    volume: '14773'
-  key: 68T4RQSQ
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/68T4RQSQ
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/68T4RQSQ
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: "\u201CTurbo\u201D Ho et al."
-    numChildren: 0
-    parsedDate: '2024'
-  version: 447
-- data:
     DOI: 10.1007/978-3-031-64309-5_14
     ISBN: 978-3-031-64309-5
     abstractNote: "We adapt the classical notion of learning from text to computable\
@@ -435,7 +354,7 @@
       lastName: Manea
     date: '2024'
     dateAdded: '2024-07-30T11:36:44Z'
-    dateModified: '2024-09-23T09:16:36Z'
+    dateModified: '2024-09-23T09:21:57Z'
     extra: arxiv:2402.05744 [math]
     itemType: conferencePaper
     key: VMFJ9TQV
@@ -447,12 +366,12 @@
     publisher: Springer Nature Switzerland
     relations: {}
     rights: ''
-    series: ''
+    series: Computability in Europe
     shortTitle: ''
     tags: []
     title: "Learning Families of\_Algebraic Structures from\_Text"
     url: ''
-    version: 445
+    version: 449
     volume: '14773'
   key: VMFJ9TQV
   library:
@@ -482,7 +401,88 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2024'
-  version: 445
+  version: 449
+- data:
+    DOI: 10.1007/978-3-031-64309-5_7
+    ISBN: 978-3-031-64309-5
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2405.08442
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Meng-Che
+      lastName: "\u201CTurbo\u201D Ho"
+    - creatorType: author
+      firstName: Khanh
+      lastName: Le
+    - creatorType: editor
+      firstName: Ludovic
+      lastName: Levy Patey
+    - creatorType: editor
+      firstName: Elaine
+      lastName: Pimentel
+    - creatorType: editor
+      firstName: Lorenzo
+      lastName: Galeotti
+    - creatorType: editor
+      firstName: Florin
+      lastName: Manea
+    date: '2024'
+    dateAdded: '2024-07-30T11:31:42Z'
+    dateModified: '2024-09-23T09:21:48Z'
+    extra: arxiv:2405.08442
+    itemType: conferencePaper
+    key: 68T4RQSQ
+    language: en
+    libraryCatalog: Springer Link
+    pages: 72-84
+    place: Cham
+    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
+    publisher: Springer Nature Switzerland
+    relations: {}
+    rights: ''
+    series: Computability in Europe
+    shortTitle: ''
+    tags: []
+    title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
+      \ Groups via\_its Dynamical Realization"
+    url: ''
+    version: 448
+    volume: '14773'
+  key: 68T4RQSQ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/68T4RQSQ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/68T4RQSQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: "\u201CTurbo\u201D Ho et al."
+    numChildren: 0
+    parsedDate: '2024'
+  version: 448
 - data:
     DOI: 10.48550/arXiv.2305.07126
     ISSN: ''
