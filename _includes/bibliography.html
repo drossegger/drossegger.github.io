@@ -15,7 +15,9 @@
     {% endif %}<br/>
     {% if pub.data.creators.size > 0 %} <span id='lines' style='margin-left:0em'>
         with {% for creator in pub.data.creators %} 
-            {{ creator.firstName }} {{ creator.lastName }}{% unless forloop.last %}, {% endunless -%}{% if forloop.rindex0==1 %} and {% endif %}
+        {% if creator.creatorType=='author' %} {{ creator.firstName }} {{
+        creator.lastName }}{% unless forloop.last %}, {% endunless -%}{% if
+        forloop.rindex0==1 %} and {% endif %} {% endif %}
             {% endfor %}</span> <br/>
     {% endif %} 
     {% if pub.data.itemType=="journalArticle" %}
@@ -28,11 +30,12 @@
     {% endif %} 
     {% endif %}
     {% if pub.data.itemType=="conferencePaper" %}
-        <span id='lines' style='margin-left:0em'> <b> {{
-            pub.data.proceedingsTitle }}, {{ pub.data.series }} </b> 
+        <span id='lines' style='margin-left:0em'> {{
+            pub.data.proceedingsTitle }},{% if pub.data.conferenceName != '' %}
+            {{ pub.data.conferenceName }},{% endif %}<b> {{ pub.data.series }} </b> 
             {% if
             pub.data.volume %} vol. {{
-            pub.data.volume }} {% endif %} {% if pub.data.pages %} {{ pub.data.pages }} {% endif %} {% endif %} ({{ pub.data.date | slice: 0, 4 }})
+            pub.data.volume }}, {% endif %} {% if pub.data.pages %} {{ pub.data.pages }} {% endif %} {% endif %} ({{ pub.data.date | slice: 0, 4 }})
     </span>
     </li>
 {% endfor %}
