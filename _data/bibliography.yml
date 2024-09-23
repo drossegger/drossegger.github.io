@@ -1328,11 +1328,11 @@
     archiveLocation: ''
     callNumber: ''
     collections: []
-    conferenceName: ''
+    conferenceName: Computability in Europe
     creators: []
     date: '2018'
     dateAdded: '2018-02-21T20:41:04Z'
-    dateModified: '2024-05-15T11:57:55Z'
+    dateModified: '2024-09-23T10:07:32Z'
     extra: ''
     itemType: conferencePaper
     key: WL68KGE2
@@ -1340,7 +1340,7 @@
     libraryCatalog: ''
     pages: 349-358
     place: ''
-    proceedingsTitle: Conference on Computability in Europe
+    proceedingsTitle: Sailing Routes in the World of Computation
     publisher: Springer
     relations: {}
     rights: ''
@@ -1349,7 +1349,7 @@
     tags: []
     title: Elementary bi-embeddability spectra of structures
     url: ''
-    version: 409
+    version: 454
     volume: '10936'
   key: WL68KGE2
   library:
@@ -1379,7 +1379,7 @@
     creatorSummary: Rossegger
     numChildren: 0
     parsedDate: '2018'
-  version: 409
+  version: 454
 - data:
     DOI: 10.1007/s10469-018-9511-8
     ISSN: ''
