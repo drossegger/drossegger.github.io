@@ -15,9 +15,11 @@
     {% endif %}<br/>
     {% if pub.data.creators.size > 0 %} <span id='lines' style='margin-left:0em'>
         with {% for creator in pub.data.creators %} 
-        {% if creator.creatorType=='author' %} {{ creator.firstName }} {{
-        creator.lastName }}{% unless forloop.last %}, {% endunless -%}{% if
-        forloop.rindex0==1 %} and {% endif %} {% endif %}
+                 {% if creator.creatorType=='author' %} 
+                    {{ creator.firstName }} {{ creator.lastName }}
+                    {% unless forloop.last %}, {% endunless -%}
+                    {% if forloop.rindex0==1 %} and {% endif %}
+                    {% endif %}
             {% endfor %}</span> <br/>
     {% endif %} 
     {% if pub.data.itemType=="journalArticle" %}

@@ -20,6 +20,8 @@ def remove_author(bib,authorfirstname):
            for author in x["data"]["creators"]:
                if author["firstName"]==authorfirstname:
                    x["data"]["creators"].remove(author)
+               elif author["creatorType"]!="author":
+                   x["data"]["creators"].remove(author)
     return bib
 
 with urllib.request.urlopen(zotero_url) as url:
