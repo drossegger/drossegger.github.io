@@ -333,14 +333,8 @@
       firstName: Ludovic
       lastName: Levy Patey
     - creatorType: editor
-      firstName: Elaine
-      lastName: Pimentel
-    - creatorType: editor
       firstName: Lorenzo
       lastName: Galeotti
-    - creatorType: editor
-      firstName: Florin
-      lastName: Manea
     date: '2024'
     dateAdded: '2024-07-30T11:31:42Z'
     dateModified: '2024-09-23T09:24:51Z'
@@ -422,14 +416,8 @@
       firstName: Stefan
       lastName: Vatev
     - creatorType: editor
-      firstName: Ludovic
-      lastName: Levy Patey
-    - creatorType: editor
       firstName: Elaine
       lastName: Pimentel
-    - creatorType: editor
-      firstName: Lorenzo
-      lastName: Galeotti
     - creatorType: editor
       firstName: Florin
       lastName: Manea
