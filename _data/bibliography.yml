@@ -888,7 +888,7 @@
     archiveLocation: ''
     callNumber: ''
     collections: []
-    conferenceName: ''
+    conferenceName: Computability in Europe
     creators:
     - creatorType: author
       firstName: Barbara F.
@@ -898,7 +898,7 @@
       lastName: Yu
     date: '2021'
     dateAdded: '2021-09-29T04:32:17Z'
-    dateModified: '2024-05-15T11:58:40Z'
+    dateModified: '2024-09-23T10:34:32Z'
     extra: arxiv:https://arxiv.org/abs/2011.14160
     itemType: conferencePaper
     key: HUNJCCFU
@@ -906,7 +906,7 @@
     libraryCatalog: Google Scholar
     pages: "385\u2013394"
     place: ''
-    proceedingsTitle: Conference on Computability in Europe
+    proceedingsTitle: Connecting with Computability
     publisher: Springer
     relations: {}
     rights: ''
@@ -915,7 +915,7 @@
     tags: []
     title: Positive enumerable functors
     url: ''
-    version: 410
+    version: 456
     volume: '12813'
   key: HUNJCCFU
   library:
@@ -945,7 +945,7 @@
     creatorSummary: Csima et al.
     numChildren: 0
     parsedDate: '2021'
-  version: 410
+  version: 456
 - data:
     DOI: 10.3233/COM-190289
     ISSN: ''
