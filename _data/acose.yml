@@ -1,5 +1,6 @@
 - data:
-    DOI: ''
+    DOI: 10.48550/arXiv.2410.22034
+    ISSN: ''
     abstractNote: We show that if $E$ is a countable Borel equivalence relation on
       $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
       dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
@@ -7,11 +8,9 @@
       function of lower order than the identity, then there is a closed set $A$ so
       that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
     accessDate: '2024-10-30T08:48:26Z'
-    archive: ''
-    archiveID: arXiv:2410.22034
-    archiveLocation: ''
+    archive: arxiv
+    archiveLocation: http://arxiv.org/abs/2410.22034
     callNumber: ''
-    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -23,26 +22,29 @@
       lastName: Slaman
     date: '2024-10-29'
     dateAdded: '2024-10-30T08:48:26Z'
-    dateModified: '2024-10-30T08:48:26Z'
+    dateModified: '2024-10-30T09:00:06Z'
     extra: arXiv:2410.22034
-    genre: ''
-    itemType: preprint
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
     key: U7C8FFE8
     language: ''
     libraryCatalog: arXiv.org
-    place: ''
+    pages: ''
+    publicationTitle: submitted for publication
     relations: {}
-    repository: arXiv
     rights: ''
     series: ''
-    seriesNumber: ''
+    seriesText: ''
+    seriesTitle: ''
     shortTitle: ''
     tags:
     - tag: Mathematics - Logic
       type: 1
     title: Hausdorff dimension and countable Borel equivalence relations
-    url: http://arxiv.org/abs/2410.22034
-    version: 457
+    url: ''
+    version: 466
+    volume: ''
   key: U7C8FFE8
   library:
     id: 1553639
@@ -71,7 +73,7 @@
     creatorSummary: Marks et al.
     numChildren: 2
     parsedDate: '2024-10-29'
-  version: 457
+  version: 466
 - data:
     DOI: 10.48550/arXiv.2405.09275
     ISSN: ''
