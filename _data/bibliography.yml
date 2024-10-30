@@ -1,4 +1,78 @@
 - data:
+    DOI: ''
+    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
+      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
+      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
+      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
+      function of lower order than the identity, then there is a closed set $A$ so
+      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
+    accessDate: '2024-10-30T08:48:26Z'
+    archive: ''
+    archiveID: arXiv:2410.22034
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Andrew
+      lastName: Marks
+    - creatorType: author
+      firstName: Theodore
+      lastName: Slaman
+    date: '2024-10-29'
+    dateAdded: '2024-10-30T08:48:26Z'
+    dateModified: '2024-10-30T08:48:26Z'
+    extra: arXiv:2410.22034
+    genre: ''
+    itemType: preprint
+    key: U7C8FFE8
+    language: ''
+    libraryCatalog: arXiv.org
+    place: ''
+    relations: {}
+    repository: arXiv
+    rights: ''
+    series: ''
+    seriesNumber: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Hausdorff dimension and countable Borel equivalence relations
+    url: http://arxiv.org/abs/2410.22034
+    version: 457
+  key: U7C8FFE8
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Marks et al.
+    numChildren: 2
+    parsedDate: '2024-10-29'
+  version: 457
+- data:
     DOI: 10.48550/arXiv.2405.09275
     ISSN: ''
     abstractNote: Feferman proved in 1962 that any arithmetical theorem is a consequence
