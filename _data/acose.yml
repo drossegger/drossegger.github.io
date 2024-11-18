@@ -1,4 +1,80 @@
 - data:
+    DOI: 10.48550/arXiv.2410.22034
+    ISSN: ''
+    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
+      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
+      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
+      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
+      function of lower order than the identity, then there is a closed set $A$ so
+      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
+    accessDate: '2024-10-30T08:48:26Z'
+    archive: arxiv
+    archiveLocation: http://arxiv.org/abs/2410.22034
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Andrew
+      lastName: Marks
+    - creatorType: author
+      firstName: Theodore
+      lastName: Slaman
+    date: '2024-10-29'
+    dateAdded: '2024-10-30T08:48:26Z'
+    dateModified: '2024-10-30T15:24:10Z'
+    extra: arXiv:2410.22034
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: U7C8FFE8
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Hausdorff dimension and countable Borel equivalence relations
+    url: http://arxiv.org/abs/2403.17493
+    version: 467
+    volume: ''
+  key: U7C8FFE8
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Marks et al.
+    numChildren: 2
+    parsedDate: '2024-10-29'
+  version: 467
+- data:
     DOI: 10.48550/arXiv.2405.09275
     ISSN: ''
     abstractNote: Feferman proved in 1962 that any arithmetical theorem is a consequence
@@ -25,7 +101,7 @@
       lastName: Rathjen
     date: '2024-05-15'
     dateAdded: '2024-05-16T12:38:39Z'
-    dateModified: '2024-07-18T10:46:30Z'
+    dateModified: '2024-10-30T15:24:20Z'
     extra: arXiv:2405.09275 [math]
     issue: ''
     itemType: journalArticle
@@ -47,8 +123,8 @@
     - tag: Mathematics - Logic
       type: 1
     title: Feferman's completeness theorem
-    url: ''
-    version: 425
+    url: https://arxiv.org/abs/2405.09275
+    version: 468
     volume: ''
   key: HNLX6EFA
   library:
@@ -78,7 +154,7 @@
     creatorSummary: Pakhomov et al.
     numChildren: 2
     parsedDate: '2024-05-15'
-  version: 425
+  version: 468
 - data:
     DOI: https://doi.org/10.48550/arXiv.2403.17493
     ISSN: ''
@@ -312,97 +388,6 @@
     parsedDate: '2024-02-15'
   version: 387
 - data:
-    DOI: 10.1007/978-3-031-64309-5_14
-    ISBN: 978-3-031-64309-5
-    abstractNote: "We adapt the classical notion of learning from text to computable\
-      \ structure theory. Our main result is a model-theoretic characterization of\
-      \ the learnability from text for classes of structures. We show that a family\
-      \ of structures is learnable from text if and only if the structures can be\
-      \ distinguished in terms of their theories restricted to positive infinitary\
-      \ $$\\varSigma _2$$\u03A32sentences."
-    accessDate: ''
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2402.05744
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    conferenceName: ''
-    creators:
-    - creatorType: author
-      firstName: Nikolay
-      lastName: Bazhenov
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Alexandra
-      lastName: Soskova
-    - creatorType: author
-      firstName: Stefan
-      lastName: Vatev
-    - creatorType: editor
-      firstName: Ludovic
-      lastName: Levy Patey
-    - creatorType: editor
-      firstName: Elaine
-      lastName: Pimentel
-    - creatorType: editor
-      firstName: Lorenzo
-      lastName: Galeotti
-    - creatorType: editor
-      firstName: Florin
-      lastName: Manea
-    date: '2024'
-    dateAdded: '2024-07-30T11:36:44Z'
-    dateModified: '2024-07-30T11:37:41Z'
-    extra: arxiv:2402.05744 [math]
-    itemType: conferencePaper
-    key: VMFJ9TQV
-    language: en
-    libraryCatalog: Springer Link
-    pages: 166-178
-    place: Cham
-    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
-    publisher: Springer Nature Switzerland
-    relations: {}
-    rights: ''
-    series: ''
-    shortTitle: ''
-    tags: []
-    title: "Learning Families of\_Algebraic Structures from\_Text"
-    url: ''
-    version: 440
-    volume: ''
-  key: VMFJ9TQV
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/VMFJ9TQV
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/VMFJ9TQV
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Bazhenov et al.
-    numChildren: 0
-    parsedDate: '2024'
-  version: 440
-- data:
     DOI: 10.1007/978-3-031-64309-5_7
     ISBN: 978-3-031-64309-5
     abstractNote: ''
@@ -412,7 +397,7 @@
     callNumber: ''
     collections:
     - 3T8QH7NR
-    conferenceName: ''
+    conferenceName: Computability in Europe
     creators:
     - creatorType: author
       firstName: Meng-Che
@@ -420,21 +405,9 @@
     - creatorType: author
       firstName: Khanh
       lastName: Le
-    - creatorType: editor
-      firstName: Ludovic
-      lastName: Levy Patey
-    - creatorType: editor
-      firstName: Elaine
-      lastName: Pimentel
-    - creatorType: editor
-      firstName: Lorenzo
-      lastName: Galeotti
-    - creatorType: editor
-      firstName: Florin
-      lastName: Manea
     date: '2024'
     dateAdded: '2024-07-30T11:31:42Z'
-    dateModified: '2024-07-30T11:35:55Z'
+    dateModified: '2024-09-23T09:24:51Z'
     extra: arxiv:2405.08442
     itemType: conferencePaper
     key: 68T4RQSQ
@@ -446,14 +419,14 @@
     publisher: Springer Nature Switzerland
     relations: {}
     rights: ''
-    series: ''
+    series: Lecture Notes in Computer Science
     shortTitle: ''
     tags: []
     title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
       \ Groups via\_its Dynamical Realization"
     url: ''
-    version: 435
-    volume: ''
+    version: 452
+    volume: '14773'
   key: 68T4RQSQ
   library:
     id: 1553639
@@ -482,7 +455,86 @@
     creatorSummary: "\u201CTurbo\u201D Ho et al."
     numChildren: 0
     parsedDate: '2024'
-  version: 435
+  version: 452
+- data:
+    DOI: 10.1007/978-3-031-64309-5_14
+    ISBN: 978-3-031-64309-5
+    abstractNote: "We adapt the classical notion of learning from text to computable\
+      \ structure theory. Our main result is a model-theoretic characterization of\
+      \ the learnability from text for classes of structures. We show that a family\
+      \ of structures is learnable from text if and only if the structures can be\
+      \ distinguished in terms of their theories restricted to positive infinitary\
+      \ $$\\varSigma _2$$\u03A32sentences."
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2402.05744
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    conferenceName: Computability in Europe
+    creators:
+    - creatorType: author
+      firstName: Nikolay
+      lastName: Bazhenov
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Alexandra
+      lastName: Soskova
+    - creatorType: author
+      firstName: Stefan
+      lastName: Vatev
+    date: '2024'
+    dateAdded: '2024-07-30T11:36:44Z'
+    dateModified: '2024-09-23T09:24:16Z'
+    extra: arxiv:2402.05744 [math]
+    itemType: conferencePaper
+    key: VMFJ9TQV
+    language: en
+    libraryCatalog: Springer Link
+    pages: 166-178
+    place: Cham
+    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
+    publisher: Springer Nature Switzerland
+    relations: {}
+    rights: ''
+    series: Lecture Notes in Computer Science
+    shortTitle: ''
+    tags: []
+    title: "Learning Families of\_Algebraic Structures from\_Text"
+    url: ''
+    version: 450
+    volume: '14773'
+  key: VMFJ9TQV
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/VMFJ9TQV
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/VMFJ9TQV
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Bazhenov et al.
+    numChildren: 0
+    parsedDate: '2024'
+  version: 450
 - data:
     DOI: 10.48550/arXiv.2305.07126
     ISSN: ''
@@ -825,6 +877,54 @@
     numChildren: 0
     parsedDate: '2022'
   version: 371
+- data:
+    accessDate: '2024-10-30T08:48:32Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-10-30T08:48:32Z'
+    dateModified: '2024-10-30T08:48:32Z'
+    filename: 2410.html
+    itemType: attachment
+    key: C4R7QBBV
+    linkMode: imported_url
+    md5: f48c4d6bb6f2c6ecaaa240c46eab2f0b
+    mtime: 1730278112062
+    note: ''
+    parentItem: U7C8FFE8
+    relations: {}
+    tags: []
+    title: Snapshot
+    url: https://arxiv.org/abs/2410.22034
+    version: 458
+  key: C4R7QBBV
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/C4R7QBBV
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/C4R7QBBV
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 458
 - data:
     accessDate: '2024-05-16T12:38:47Z'
     charset: utf-8

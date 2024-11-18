@@ -15,10 +15,12 @@ def clean_bib(bib):
     return bib[:-1]
 
 def remove_author(bib,authorfirstname):
-    for x in bib:
+    for x in bib[:]:
         if "creators" in x["data"].keys():
-           for author in x["data"]["creators"]:
+            for author in x["data"]["creators"][:]:
                if author["firstName"]==authorfirstname:
+                   x["data"]["creators"].remove(author)
+               if author["creatorType"]!="author":
                    x["data"]["creators"].remove(author)
     return bib
 
