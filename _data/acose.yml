@@ -1,4 +1,104 @@
 - data:
+    DOI: 10.1017/jsl.2024.59
+    ISSN: 0022-4812, 1943-5886
+    abstractNote: "We study possible Scott sentence complexities of linear orderings\
+      \ using two approaches. First, we investigate the effect of the Friedman\u2013\
+      Stanley embedding on Scott sentence complexity and show that it only preserves\
+      \ \u03A0in\u03B1\u03A0\u03B1in\\Pi ^{\\mathrm {in}}_{\\alpha } complexities.\
+      \ We then take a more direct approach and exhibit linear orderings of all Scott\
+      \ sentence complexities except \u03A3in3\u03A33in\\Sigma ^{\\mathrm {in}}_{3}\
+      \ and \u03A3in\u03BB+1\u03A3\u03BB+1in\\Sigma ^{\\mathrm {in}}_{\\lambda +1}\
+      \ for \u03BB\u03BB\\lambda  a limit ordinal. We show that the former cannot\
+      \ be the Scott sentence complexity of a linear ordering. In the process we develop\
+      \ new techniques which appear to be helpful to calculate the Scott sentence\
+      \ complexities of structures."
+    accessDate: '2024-12-17T14:26:05Z'
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2305.07126
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    date: 2024/12/13
+    dateAdded: '2024-12-17T14:26:05Z'
+    dateModified: '2024-12-17T14:26:41Z'
+    extra: ''
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: CWMK2Q38
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 1-30
+    publicationTitle: The Journal of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03C57
+      type: 1
+    - tag: 03C70
+      type: 1
+    - tag: 03D45
+      type: 1
+    - tag: 03E15
+      type: 1
+    - tag: Scott rank
+      type: 1
+    - tag: Scott sentence
+      type: 1
+    - tag: Scott sentence complexity
+      type: 1
+    - tag: computable structures
+      type: 1
+    - tag: infinitary logic
+      type: 1
+    - tag: linear orderings
+      type: 1
+    - tag: linear orders
+      type: 1
+    - tag: total orders
+      type: 1
+    title: Scott sentence complexities of linear orderings
+    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/scott-sentence-complexities-of-linear-orderings/095C2954C5F5F7079AB38E118B05B3BF
+    version: 483
+    volume: ''
+  key: CWMK2Q38
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/CWMK2Q38
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/CWMK2Q38
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Gonzalez and Rossegger
+    numChildren: 1
+    parsedDate: '2024-12-13'
+  version: 483
+- data:
     DOI: 10.48550/arXiv.2410.22034
     ISSN: ''
     abstractNote: We show that if $E$ is a countable Borel equivalence relation on
@@ -536,76 +636,6 @@
     parsedDate: '2024'
   version: 450
 - data:
-    DOI: 10.48550/arXiv.2305.07126
-    ISSN: ''
-    abstractNote: ''
-    accessDate: '2023-05-22T16:58:08Z'
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2305.07126
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: David
-      lastName: Gonzalez
-    date: '2023-05-11'
-    dateAdded: '2023-05-22T16:58:08Z'
-    dateModified: '2024-08-30T12:46:33Z'
-    extra: arXiv:2305.07126 [math]
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: GQKGMRPI
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: to appear in Journal of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03C57, 03D45, 03C70, 03E15
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Scott sentence complexities of linear orderings
-    url: http://arxiv.org/abs/2305.07126
-    version: 442
-    volume: ''
-  key: GQKGMRPI
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/GQKGMRPI
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/GQKGMRPI
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Gonzalez and Rossegger
-    numChildren: 2
-    parsedDate: '2023-05-11'
-  version: 442
-- data:
     DOI: 10.1142/S0219061324500028
     ISSN: ''
     abstractNote: ''
@@ -878,25 +908,26 @@
     parsedDate: '2022'
   version: 371
 - data:
-    accessDate: '2024-10-30T08:48:32Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2024-10-30T08:48:32Z'
-    dateModified: '2024-10-30T08:48:32Z'
-    filename: 2410.html
+    accessDate: '2024-10-30T08:48:27Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-10-30T08:48:27Z'
+    dateModified: '2024-10-30T08:48:27Z'
+    filename: Marks et al. - 2024 - Hausdorff dimension and countable Borel equivalence
+      relations.pdf
     itemType: attachment
-    key: C4R7QBBV
+    key: SDLMU2ZU
     linkMode: imported_url
-    md5: f48c4d6bb6f2c6ecaaa240c46eab2f0b
-    mtime: 1730278112062
+    md5: c32542b8c8edde68f12ce61212ac687e
+    mtime: 1730278107250
     note: ''
     parentItem: U7C8FFE8
     relations: {}
     tags: []
-    title: Snapshot
-    url: https://arxiv.org/abs/2410.22034
-    version: 458
-  key: C4R7QBBV
+    title: Preprint PDF
+    url: http://arxiv.org/pdf/2410.22034v1
+    version: 459
+  key: SDLMU2ZU
   library:
     id: 1553639
     links:
@@ -907,10 +938,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/C4R7QBBV
+      href: https://www.zotero.org/groups/dinorossownpub/items/SDLMU2ZU
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/C4R7QBBV
+      href: https://api.zotero.org/groups/1553639/items/SDLMU2ZU
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
@@ -924,27 +955,49 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-  version: 458
+    numChildren: 0
+  version: 459
 - data:
-    accessDate: '2024-05-16T12:38:47Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2024-05-16T12:38:47Z'
-    dateModified: '2024-05-16T12:38:47Z'
-    filename: 2405.html
+    accessDate: '2024-05-16T12:38:40Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-05-16T12:38:40Z'
+    dateModified: '2024-05-16T12:38:42Z'
+    filename: Pakhomov et al_2024_Feferman's completeness theorem.pdf
     itemType: attachment
-    key: LYYMES55
+    key: 625VBETM
     linkMode: imported_url
-    md5: 923dc33abd63e934801eee9fdacfc411
-    mtime: 1715863127000
-    note: ''
+    md5: b1474c28b46bc4b2a56443c1fb215eed
+    mtime: 1715863120000
+    note: '<p xmlns="http://www.w3.org/1999/xhtml" id="title"><strong>Contents</strong></p><ul
+      xmlns="http://www.w3.org/1999/xhtml" style="list-style-type: none; padding-left:0px"
+      id="toc"><li><a href="zotero://open-pdf/2_625VBETM/1">1. Introduction</a><ul
+      style="list-style-type: none; padding-left:12px"><li style="padding-top:4px"><a
+      href="zotero://open-pdf/2_625VBETM/2">1.1. Structure of the paper</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/4">1.2. Acknowledgements</a></li></ul></li><li
+      style="padding-top:8px"><a href="zotero://open-pdf/2_625VBETM/4">2. Feferman''s
+      Completeness Theorem via Kleene''s Normal Forms</a><ul style="list-style-type:
+      none; padding-left:12px"><li style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/4">2.1.
+      Computable orders</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/5">2.2.
+      Transfinite induction</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/6">2.3.
+      Uniform reflection and its iterations</a></li></ul></li><li style="padding-top:8px"><a
+      href="zotero://open-pdf/2_625VBETM/8">3. Feferman''s Completeness Theorem via
+      Deduction Chains</a><ul style="list-style-type: none; padding-left:12px"><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/11">3.1. Upper
+      bounds on the size of the Stammbaum</a></li></ul></li><li style="padding-top:4px"><a
+      href="zotero://open-pdf/2_625VBETM/11">4. A theorem of Ash and Knight in ACA0</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/16">5. Lower bound
+      for Feferman''s completeness</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/17">6.
+      Reflection iterated along elements of O</a></li><li style="padding-top:4px"><a
+      href="zotero://open-pdf/2_625VBETM/18">7. Discussion and Open Questions</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_625VBETM/19">References</a></li></ul>'
     parentItem: HNLX6EFA
     relations: {}
     tags: []
-    title: arXiv.org Snapshot
-    url: https://arxiv.org/abs/2405.09275
-    version: 414
-  key: LYYMES55
+    title: Pakhomov et al_2024_Feferman's completeness theorem.pdf
+    url: https://arxiv.org/pdf/2405.09275.pdf
+    version: 415
+  key: 625VBETM
   library:
     id: 1553639
     links:
@@ -955,10 +1008,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/LYYMES55
+      href: https://www.zotero.org/groups/dinorossownpub/items/625VBETM
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/LYYMES55
+      href: https://api.zotero.org/groups/1553639/items/625VBETM
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/HNLX6EFA
@@ -972,27 +1025,28 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-  version: 414
+    numChildren: 0
+  version: 415
 - data:
-    accessDate: '2024-05-14T09:37:39Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2024-05-14T09:37:39Z'
-    dateModified: '2024-05-14T09:37:39Z'
-    filename: 2403.html
+    accessDate: '2024-05-14T09:37:33Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-05-14T09:37:33Z'
+    dateModified: '2024-05-14T09:37:34Z'
+    filename: Rossegger et al_2024_Learning Equivalence Relations on Polish Spaces.pdf
     itemType: attachment
-    key: Y44ANH9A
+    key: R6BJ3VV8
     linkMode: imported_url
-    md5: 54bb6becca7dc6b9946f5ed0525dd97e
-    mtime: 1715679459000
+    md5: 87218f954fcd1853b5119e6079a6a8b0
+    mtime: 1715679453000
     note: ''
     parentItem: DTDXCSN6
     relations: {}
     tags: []
-    title: arXiv.org Snapshot
-    url: https://arxiv.org/abs/2403.17493
-    version: 347
-  key: Y44ANH9A
+    title: Rossegger et al_2024_Learning Equivalence Relations on Polish Spaces.pdf
+    url: https://arxiv.org/pdf/2403.17493.pdf
+    version: 348
+  key: R6BJ3VV8
   library:
     id: 1553639
     links:
@@ -1003,10 +1057,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/Y44ANH9A
+      href: https://www.zotero.org/groups/dinorossownpub/items/R6BJ3VV8
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/Y44ANH9A
+      href: https://api.zotero.org/groups/1553639/items/R6BJ3VV8
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/DTDXCSN6
@@ -1020,41 +1074,28 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-  version: 347
+    numChildren: 0
+  version: 348
 - data:
-    accessDate: '2024-02-16T14:08:23Z'
-    charset: ''
-    contentType: application/pdf
-    dateAdded: '2024-02-16T14:08:23Z'
-    dateModified: '2024-02-16T14:08:23Z'
-    filename: Andrews et al_2024_The Borel complexity of the class of models of first-order
-      theories.pdf
+    accessDate: '2024-02-16T14:08:27Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-02-16T14:08:27Z'
+    dateModified: '2024-02-16T14:08:27Z'
+    filename: 2402.html
     itemType: attachment
-    key: YAJW3N5N
+    key: 4DDD78KV
     linkMode: imported_url
-    md5: d560c223bb0bcf5dc903c4f9d383eb4a
-    mtime: 1708092503000
-    note: '<p xmlns="http://www.w3.org/1999/xhtml" id="title"><strong>Contents</strong></p><ul
-      xmlns="http://www.w3.org/1999/xhtml" style="list-style-type: none; padding-left:0px"
-      id="toc"><li><a href="zotero://open-pdf/2_YAJW3N5N/1">1. Introduction</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/2">2. Preliminaries</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/3">3. Theories
-      without bounded axiomatization</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/4">4.
-      Theories with bounded axiomatization</a></li><li style="padding-top:8px"><a
-      href="zotero://open-pdf/2_YAJW3N5N/8">5. Proofs of the two technical results</a><ul
-      style="list-style-type: none; padding-left:12px"><li style="padding-top:4px"><a
-      href="zotero://open-pdf/2_YAJW3N5N/9">5.1. Proof of Theorem 3.3</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/10">5.2. Proof
-      of Lemma 4.1</a></li></ul></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/11">6.
-      The effectivity of the reductions</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/14">References</a></li></ul>'
+    md5: 845338daa0d5e1bb35f45a8ba7b83a76
+    mtime: 1708092507000
+    note: ''
     parentItem: PNTQ5RB5
     relations: {}
     tags: []
-    title: Andrews et al_2024_The Borel complexity of the class of models of first-order
-      theories.pdf
-    url: https://arxiv.org/pdf/2402.10029.pdf
-    version: 331
-  key: YAJW3N5N
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2402.10029
+    version: 333
+  key: 4DDD78KV
   library:
     id: 1553639
     links:
@@ -1065,10 +1106,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/YAJW3N5N
+      href: https://www.zotero.org/groups/dinorossownpub/items/4DDD78KV
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/YAJW3N5N
+      href: https://api.zotero.org/groups/1553639/items/4DDD78KV
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/PNTQ5RB5
@@ -1082,5 +1123,4 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-    numChildren: 0
-  version: 331
+  version: 333
