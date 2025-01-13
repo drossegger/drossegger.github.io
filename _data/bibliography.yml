@@ -1,4 +1,73 @@
 - data:
+    DOI: 10.1017/bsl.2025.2
+    ISSN: 1079-8986, 1943-5894
+    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
+    accessDate: '2025-01-13T10:45:53Z'
+    archive: arxiv
+    archiveLocation: https://arxiv.org/abs/2405.09275
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Fedor
+      lastName: Pakhomov
+    - creatorType: author
+      firstName: Michael
+      lastName: Rathjen
+    date: 2025/01/10
+    dateAdded: '2025-01-13T10:45:53Z'
+    dateModified: '2025-01-13T10:46:35Z'
+    extra: ''
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: UK54UW9B
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 1-21
+    publicationTitle: Bulletin of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Feferman's completeness theorem
+    url: https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/fefermans-completeness-theorem/2050717AF10C1D99BE37FD94790463A5
+    version: 491
+    volume: ''
+  key: UK54UW9B
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/UK54UW9B
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Pakhomov et al.
+    numChildren: 1
+    parsedDate: '2025-01-10'
+  version: 491
+- data:
     DOI: 10.1017/jsl.2024.59
     ISSN: 0022-4812, 1943-5886
     abstractNote: "We study possible Scott sentence complexities of linear orderings\
@@ -190,8 +259,7 @@
     archive: arxiv
     archiveLocation: https://arxiv.org/abs/2405.09275
     callNumber: ''
-    collections:
-    - 3T8QH7NR
+    collections: []
     creators:
     - creatorType: author
       firstName: Fedor
@@ -224,7 +292,7 @@
       type: 1
     title: Feferman's completeness theorem
     url: https://arxiv.org/abs/2405.09275
-    version: 468
+    version: 492
     volume: ''
   key: HNLX6EFA
   library:
@@ -254,7 +322,7 @@
     creatorSummary: Pakhomov et al.
     numChildren: 2
     parsedDate: '2024-05-15'
-  version: 468
+  version: 492
 - data:
     DOI: https://doi.org/10.48550/arXiv.2403.17493
     ISSN: ''
@@ -1687,67 +1755,3 @@
     numChildren: 0
     parsedDate: '2017'
   version: 399
-- data:
-    DOI: 10.17377/semi.2017.14.059
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/1706.05939
-    callNumber: ''
-    collections: []
-    creators: []
-    date: '2017'
-    dateAdded: '2017-07-19T10:00:31Z'
-    dateModified: '2023-10-13T09:11:20Z'
-    extra: arxiv:https://arxiv.org/abs/1706.05939
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: HMY46FNK
-    language: ''
-    libraryCatalog: ''
-    pages: 690-702
-    publicationTitle: Siberian Electronic Mathematical Reports
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: '#latex'
-    - tag: Latex
-    title: On functors enumerating structures
-    url: https://arxiv.org/abs/1706.05939
-    version: 292
-    volume: '14'
-  key: HMY46FNK
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/HMY46FNK
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/HMY46FNK
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Rossegger
-    numChildren: 0
-    parsedDate: '2017'
-  version: 292
