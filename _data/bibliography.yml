@@ -244,86 +244,6 @@
     parsedDate: '2024-10-29'
   version: 467
 - data:
-    DOI: 10.48550/arXiv.2405.09275
-    ISSN: ''
-    abstractNote: Feferman proved in 1962 that any arithmetical theorem is a consequence
-      of a suitable transfinite iteration of full uniform reflection of $\mathsf{PA}$.
-      This result is commonly known as Feferman's completeness theorem. The purpose
-      of this paper is twofold. On the one hand this is an expository paper, giving
-      two new proofs of Feferman's completeness theorem that, we hope, shed light
-      on this mysterious and often overlooked result. On the other hand, we combine
-      one of our proofs with results from computable structure theory due to Ash and
-      Knight to give sharp bounds on the order types of well-orders necessary to attain
-      the completeness for levels of the arithmetical hierarchy.
-    accessDate: '2024-05-16T12:38:39Z'
-    archive: arxiv
-    archiveLocation: https://arxiv.org/abs/2405.09275
-    callNumber: ''
-    collections: []
-    creators:
-    - creatorType: author
-      firstName: Fedor
-      lastName: Pakhomov
-    - creatorType: author
-      firstName: Michael
-      lastName: Rathjen
-    date: '2024-05-15'
-    dateAdded: '2024-05-16T12:38:39Z'
-    dateModified: '2024-10-30T15:24:20Z'
-    extra: arXiv:2405.09275 [math]
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: HNLX6EFA
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: submitted for publication
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03F15, 03F30, 03C57
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Feferman's completeness theorem
-    url: https://arxiv.org/abs/2405.09275
-    version: 492
-    volume: ''
-  key: HNLX6EFA
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/HNLX6EFA
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/HNLX6EFA
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Pakhomov et al.
-    numChildren: 2
-    parsedDate: '2024-05-15'
-  version: 492
-- data:
     DOI: https://doi.org/10.48550/arXiv.2403.17493
     ISSN: ''
     abstractNote: ''
@@ -1755,3 +1675,67 @@
     numChildren: 0
     parsedDate: '2017'
   version: 399
+- data:
+    DOI: 10.17377/semi.2017.14.059
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/1706.05939
+    callNumber: ''
+    collections: []
+    creators: []
+    date: '2017'
+    dateAdded: '2017-07-19T10:00:31Z'
+    dateModified: '2023-10-13T09:11:20Z'
+    extra: arxiv:https://arxiv.org/abs/1706.05939
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: HMY46FNK
+    language: ''
+    libraryCatalog: ''
+    pages: 690-702
+    publicationTitle: Siberian Electronic Mathematical Reports
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: '#latex'
+    - tag: Latex
+    title: On functors enumerating structures
+    url: https://arxiv.org/abs/1706.05939
+    version: 292
+    volume: '14'
+  key: HMY46FNK
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/HMY46FNK
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/HMY46FNK
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger
+    numChildren: 0
+    parsedDate: '2017'
+  version: 292
