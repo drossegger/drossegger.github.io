@@ -624,75 +624,6 @@
     parsedDate: '2024'
   version: 450
 - data:
-    DOI: 10.48550/arXiv.2305.07126
-    ISSN: ''
-    abstractNote: ''
-    accessDate: '2023-05-22T16:58:08Z'
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2305.07126
-    callNumber: ''
-    collections: []
-    creators:
-    - creatorType: author
-      firstName: David
-      lastName: Gonzalez
-    date: '2023-05-11'
-    dateAdded: '2023-05-22T16:58:08Z'
-    dateModified: '2024-08-30T12:46:33Z'
-    extra: arXiv:2305.07126 [math]
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: GQKGMRPI
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: to appear in Journal of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03C57, 03D45, 03C70, 03E15
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Scott sentence complexities of linear orderings
-    url: http://arxiv.org/abs/2305.07126
-    version: 484
-    volume: ''
-  key: GQKGMRPI
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/GQKGMRPI
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/GQKGMRPI
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Gonzalez and Rossegger
-    numChildren: 2
-    parsedDate: '2023-05-11'
-  version: 484
-- data:
     DOI: 10.1142/S0219061324500028
     ISSN: ''
     abstractNote: ''
@@ -1739,3 +1670,70 @@
     numChildren: 0
     parsedDate: '2017'
   version: 292
+- data:
+    DOI: ''
+    ISBN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections: []
+    conferenceName: 11th Panhellenic Logic Symposium
+    creators:
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Luca
+      lastName: San Mauro
+    date: '2017'
+    dateAdded: '2017-07-19T10:00:31Z'
+    dateModified: '2017-07-26T13:49:05Z'
+    extra: ''
+    itemType: conferencePaper
+    key: 49VNIP5S
+    language: ''
+    libraryCatalog: ''
+    pages: 83-89
+    place: Delfi, Greece
+    proceedingsTitle: Proc. of the 11th Panhellenic Logic Symposium
+    publisher: ''
+    relations: {}
+    rights: ''
+    series: ''
+    shortTitle: ''
+    tags: []
+    title: Reducibility and bi-reducibility spectra of equivalence relations
+    url: ''
+    version: 8
+    volume: ''
+  key: 49VNIP5S
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/49VNIP5S
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/49VNIP5S
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Fokina et al.
+    numChildren: 0
+    parsedDate: '2017'
+  version: 8
