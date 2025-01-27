@@ -262,7 +262,7 @@
       lastName: Steifer
     date: '2024-03-26'
     dateAdded: '2024-05-14T09:37:32Z'
-    dateModified: '2024-05-15T11:56:45Z'
+    dateModified: '2025-01-27T09:21:00Z'
     extra: arxiv:2403.17493
     issue: ''
     itemType: journalArticle
@@ -271,7 +271,7 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
-    publicationTitle: submitted for publication
+    publicationTitle: to appear in The Journal of Symbolic Logic
     relations: {}
     rights: ''
     series: ''
@@ -285,7 +285,7 @@
       type: 1
     title: Learning Equivalence Relations on Polish Spaces
     url: http://arxiv.org/abs/2403.17493
-    version: 406
+    version: 495
     volume: ''
   key: DTDXCSN6
   library:
@@ -315,7 +315,7 @@
     creatorSummary: Rossegger et al.
     numChildren: 2
     parsedDate: '2024-03-26'
-  version: 406
+  version: 495
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
