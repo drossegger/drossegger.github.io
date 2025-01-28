@@ -1118,3 +1118,52 @@
       name: Dino Rossegger
       username: dinoross
   version: 333
+- data:
+    accessDate: '2022-09-13T18:04:26Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2022-09-13T18:04:26Z'
+    dateModified: '2022-09-13T18:04:26Z'
+    filename: Csima_Rossegger_2022_The degrees of categoricity above $-mathbf{0}$.pdf
+    itemType: attachment
+    key: QMWTLCXT
+    linkMode: imported_url
+    md5: 55501eccbe33b2ca055f4017a6691e57
+    mtime: 1663092266000
+    note: ''
+    parentItem: Q5WUN4RQ
+    relations: {}
+    tags: []
+    title: Csima_Rossegger_2022_The degrees of categoricity above $-mathbf{0}$.pdf
+    url: https://arxiv.org/pdf/2209.04524.pdf
+    version: 186
+  key: QMWTLCXT
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/QMWTLCXT
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/QMWTLCXT
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/Q5WUN4RQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 186

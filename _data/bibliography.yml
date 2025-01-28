@@ -1584,11 +1584,11 @@
       firstName: Luca
       lastName: San Mauro
     date: '2017'
-    dateAdded: '2017-07-19T10:00:31Z'
-    dateModified: '2024-05-15T11:53:05Z'
+    dateAdded: '2025-01-28T16:00:20Z'
+    dateModified: '2025-01-28T16:00:20Z'
     extra: ''
     itemType: conferencePaper
-    key: SE4X95E6
+    key: FF5AXUZ3
     language: ''
     libraryCatalog: ''
     pages: 126-132
@@ -1602,9 +1602,9 @@
     tags: []
     title: Computable bi-embeddable categoricity of equivalence structures
     url: ''
-    version: 399
+    version: 502
     volume: ''
-  key: SE4X95E6
+  key: FF5AXUZ3
   library:
     id: 1553639
     links:
@@ -1615,10 +1615,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/SE4X95E6
+      href: https://www.zotero.org/groups/dinorossownpub/items/FF5AXUZ3
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/SE4X95E6
+      href: https://api.zotero.org/groups/1553639/items/FF5AXUZ3
       type: application/json
   meta:
     createdByUser:
@@ -1632,7 +1632,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2017'
-  version: 399
+  version: 502
 - data:
     DOI: 10.17377/semi.2017.14.059
     ISSN: ''
@@ -1750,6 +1750,73 @@
       type: text/html
     self:
       href: https://api.zotero.org/groups/1553639/items/49VNIP5S
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Fokina et al.
+    numChildren: 0
+    parsedDate: '2017'
+  version: 8
+- data:
+    DOI: ''
+    ISBN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    collections: []
+    conferenceName: 11th Panhellenic Logic Symposium
+    creators:
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Luca
+      lastName: San Mauro
+    date: '2017'
+    dateAdded: '2017-07-19T10:00:31Z'
+    dateModified: '2017-07-26T13:49:23Z'
+    extra: ''
+    itemType: conferencePaper
+    key: NFJVFUFZ
+    language: ''
+    libraryCatalog: ''
+    pages: 32-38
+    place: Delfi, Greece
+    proceedingsTitle: Proc. of the 11th Panhellenic Logic Symposium
+    publisher: ''
+    relations: {}
+    rights: ''
+    series: ''
+    shortTitle: ''
+    tags: []
+    title: Degree Spectra of Structures with Respect to the Bi-embeddability Relation
+    url: ''
+    version: 8
+    volume: ''
+  key: NFJVFUFZ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/NFJVFUFZ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/NFJVFUFZ
       type: application/json
   meta:
     createdByUser:
