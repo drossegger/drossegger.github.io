@@ -1,16 +1,8 @@
 - data:
-    DOI: 10.48550/arXiv.2405.09275
-    ISSN: ''
-    abstractNote: Feferman proved in 1962 that any arithmetical theorem is a consequence
-      of a suitable transfinite iteration of full uniform reflection of $\mathsf{PA}$.
-      This result is commonly known as Feferman's completeness theorem. The purpose
-      of this paper is twofold. On the one hand this is an expository paper, giving
-      two new proofs of Feferman's completeness theorem that, we hope, shed light
-      on this mysterious and often overlooked result. On the other hand, we combine
-      one of our proofs with results from computable structure theory due to Ash and
-      Knight to give sharp bounds on the order types of well-orders necessary to attain
-      the completeness for levels of the arithmetical hierarchy.
-    accessDate: '2024-05-16T12:38:39Z'
+    DOI: 10.1017/bsl.2025.2
+    ISSN: 1079-8986, 1943-5894
+    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
+    accessDate: '2025-01-13T10:45:53Z'
     archive: arxiv
     archiveLocation: https://arxiv.org/abs/2405.09275
     callNumber: ''
@@ -23,34 +15,30 @@
     - creatorType: author
       firstName: Michael
       lastName: Rathjen
-    date: '2024-05-15'
-    dateAdded: '2024-05-16T12:38:39Z'
-    dateModified: '2024-07-18T10:46:30Z'
-    extra: arXiv:2405.09275 [math]
+    date: 2025/01/10
+    dateAdded: '2025-01-13T10:45:53Z'
+    dateModified: '2025-01-13T10:46:35Z'
+    extra: ''
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
-    key: HNLX6EFA
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: submitted for publication
+    key: UK54UW9B
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 1-21
+    publicationTitle: Bulletin of Symbolic Logic
     relations: {}
     rights: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
     shortTitle: ''
-    tags:
-    - tag: 03F15, 03F30, 03C57
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
+    tags: []
     title: Feferman's completeness theorem
-    url: ''
-    version: 425
+    url: https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/fefermans-completeness-theorem/2050717AF10C1D99BE37FD94790463A5
+    version: 491
     volume: ''
-  key: HNLX6EFA
+  key: UK54UW9B
   library:
     id: 1553639
     links:
@@ -61,10 +49,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/HNLX6EFA
+      href: https://www.zotero.org/groups/dinorossownpub/items/UK54UW9B
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/HNLX6EFA
+      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
       type: application/json
   meta:
     createdByUser:
@@ -76,9 +64,185 @@
       name: Dino Rossegger
       username: dinoross
     creatorSummary: Pakhomov et al.
+    numChildren: 1
+    parsedDate: '2025-01-10'
+  version: 491
+- data:
+    DOI: 10.1017/jsl.2024.59
+    ISSN: 0022-4812, 1943-5886
+    abstractNote: "We study possible Scott sentence complexities of linear orderings\
+      \ using two approaches. First, we investigate the effect of the Friedman\u2013\
+      Stanley embedding on Scott sentence complexity and show that it only preserves\
+      \ \u03A0in\u03B1\u03A0\u03B1in\\Pi ^{\\mathrm {in}}_{\\alpha } complexities.\
+      \ We then take a more direct approach and exhibit linear orderings of all Scott\
+      \ sentence complexities except \u03A3in3\u03A33in\\Sigma ^{\\mathrm {in}}_{3}\
+      \ and \u03A3in\u03BB+1\u03A3\u03BB+1in\\Sigma ^{\\mathrm {in}}_{\\lambda +1}\
+      \ for \u03BB\u03BB\\lambda  a limit ordinal. We show that the former cannot\
+      \ be the Scott sentence complexity of a linear ordering. In the process we develop\
+      \ new techniques which appear to be helpful to calculate the Scott sentence\
+      \ complexities of structures."
+    accessDate: '2024-12-17T14:26:05Z'
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2305.07126
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    date: 2024/12/13
+    dateAdded: '2024-12-17T14:26:05Z'
+    dateModified: '2024-12-17T14:26:41Z'
+    extra: ''
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: CWMK2Q38
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 1-30
+    publicationTitle: The Journal of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03C57
+      type: 1
+    - tag: 03C70
+      type: 1
+    - tag: 03D45
+      type: 1
+    - tag: 03E15
+      type: 1
+    - tag: Scott rank
+      type: 1
+    - tag: Scott sentence
+      type: 1
+    - tag: Scott sentence complexity
+      type: 1
+    - tag: computable structures
+      type: 1
+    - tag: infinitary logic
+      type: 1
+    - tag: linear orderings
+      type: 1
+    - tag: linear orders
+      type: 1
+    - tag: total orders
+      type: 1
+    title: Scott sentence complexities of linear orderings
+    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/scott-sentence-complexities-of-linear-orderings/095C2954C5F5F7079AB38E118B05B3BF
+    version: 483
+    volume: ''
+  key: CWMK2Q38
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/CWMK2Q38
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/CWMK2Q38
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Gonzalez and Rossegger
+    numChildren: 1
+    parsedDate: '2024-12-13'
+  version: 483
+- data:
+    DOI: 10.48550/arXiv.2410.22034
+    ISSN: ''
+    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
+      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
+      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
+      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
+      function of lower order than the identity, then there is a closed set $A$ so
+      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
+    accessDate: '2024-10-30T08:48:26Z'
+    archive: arxiv
+    archiveLocation: http://arxiv.org/abs/2410.22034
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Andrew
+      lastName: Marks
+    - creatorType: author
+      firstName: Theodore
+      lastName: Slaman
+    date: '2024-10-29'
+    dateAdded: '2024-10-30T08:48:26Z'
+    dateModified: '2024-10-30T15:24:10Z'
+    extra: arXiv:2410.22034
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: U7C8FFE8
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Hausdorff dimension and countable Borel equivalence relations
+    url: http://arxiv.org/abs/2403.17493
+    version: 467
+    volume: ''
+  key: U7C8FFE8
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Marks et al.
     numChildren: 2
-    parsedDate: '2024-05-15'
-  version: 425
+    parsedDate: '2024-10-29'
+  version: 467
 - data:
     DOI: https://doi.org/10.48550/arXiv.2403.17493
     ISSN: ''
@@ -98,7 +262,7 @@
       lastName: Steifer
     date: '2024-03-26'
     dateAdded: '2024-05-14T09:37:32Z'
-    dateModified: '2024-05-15T11:56:45Z'
+    dateModified: '2025-01-27T09:21:00Z'
     extra: arxiv:2403.17493
     issue: ''
     itemType: journalArticle
@@ -107,7 +271,7 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
-    publicationTitle: submitted for publication
+    publicationTitle: to appear in The Journal of Symbolic Logic
     relations: {}
     rights: ''
     series: ''
@@ -121,7 +285,7 @@
       type: 1
     title: Learning Equivalence Relations on Polish Spaces
     url: http://arxiv.org/abs/2403.17493
-    version: 406
+    version: 495
     volume: ''
   key: DTDXCSN6
   library:
@@ -151,7 +315,7 @@
     creatorSummary: Rossegger et al.
     numChildren: 2
     parsedDate: '2024-03-26'
-  version: 406
+  version: 495
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
@@ -460,76 +624,6 @@
     parsedDate: '2024'
   version: 450
 - data:
-    DOI: 10.48550/arXiv.2305.07126
-    ISSN: ''
-    abstractNote: ''
-    accessDate: '2023-05-22T16:58:08Z'
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2305.07126
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: David
-      lastName: Gonzalez
-    date: '2023-05-11'
-    dateAdded: '2023-05-22T16:58:08Z'
-    dateModified: '2024-08-30T12:46:33Z'
-    extra: arXiv:2305.07126 [math]
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: GQKGMRPI
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: to appear in Journal of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03C57, 03D45, 03C70, 03E15
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Scott sentence complexities of linear orderings
-    url: http://arxiv.org/abs/2305.07126
-    version: 442
-    volume: ''
-  key: GQKGMRPI
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/GQKGMRPI
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/GQKGMRPI
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Gonzalez and Rossegger
-    numChildren: 2
-    parsedDate: '2023-05-11'
-  version: 442
-- data:
     DOI: 10.1142/S0219061324500028
     ISSN: ''
     abstractNote: ''
@@ -802,25 +896,26 @@
     parsedDate: '2022'
   version: 371
 - data:
-    accessDate: '2024-05-16T12:38:47Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2024-05-16T12:38:47Z'
-    dateModified: '2024-05-16T12:38:47Z'
-    filename: 2405.html
+    accessDate: '2024-12-17T14:26:06Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-12-17T14:26:06Z'
+    dateModified: '2024-12-17T14:26:06Z'
+    filename: Gonzalez and Rossegger - 2024 - SCOTT SENTENCE COMPLEXITIES OF LINEAR
+      ORDERINGS.pdf
     itemType: attachment
-    key: LYYMES55
+    key: PBWN62Y5
     linkMode: imported_url
-    md5: 923dc33abd63e934801eee9fdacfc411
-    mtime: 1715863127000
+    md5: 4fcac95628a6931bc06368278f7911da
+    mtime: 1734445566790
     note: ''
-    parentItem: HNLX6EFA
+    parentItem: CWMK2Q38
     relations: {}
     tags: []
-    title: arXiv.org Snapshot
-    url: https://arxiv.org/abs/2405.09275
-    version: 414
-  key: LYYMES55
+    title: Full Text PDF
+    url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/095C2954C5F5F7079AB38E118B05B3BF/S0022481224000598a.pdf/div-class-title-scott-sentence-complexities-of-linear-orderings-div.pdf
+    version: 480
+  key: PBWN62Y5
   library:
     id: 1553639
     links:
@@ -831,13 +926,13 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/LYYMES55
+      href: https://www.zotero.org/groups/dinorossownpub/items/PBWN62Y5
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/LYYMES55
+      href: https://api.zotero.org/groups/1553639/items/PBWN62Y5
       type: application/json
     up:
-      href: https://api.zotero.org/groups/1553639/items/HNLX6EFA
+      href: https://api.zotero.org/groups/1553639/items/CWMK2Q38
       type: application/json
   meta:
     createdByUser:
@@ -848,7 +943,56 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-  version: 414
+    numChildren: 0
+  version: 480
+- data:
+    accessDate: '2024-10-30T08:48:32Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-10-30T08:48:32Z'
+    dateModified: '2024-10-30T08:48:32Z'
+    filename: 2410.html
+    itemType: attachment
+    key: C4R7QBBV
+    linkMode: imported_url
+    md5: f48c4d6bb6f2c6ecaaa240c46eab2f0b
+    mtime: 1730278112062
+    note: ''
+    parentItem: U7C8FFE8
+    relations: {}
+    tags: []
+    title: Snapshot
+    url: https://arxiv.org/abs/2410.22034
+    version: 458
+  key: C4R7QBBV
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/C4R7QBBV
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/C4R7QBBV
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 458
 - data:
     accessDate: '2024-05-14T09:37:39Z'
     charset: utf-8

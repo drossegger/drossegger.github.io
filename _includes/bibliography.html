@@ -6,7 +6,7 @@
 <li><span style="font-variant:small-caps">{{ pub.data.title }}</span>
     {% if pub.data.DOI.size > 0 or pub.data.libraryCatalog=="arXiv.org" %} 
         [ {% if pub.data.DOI.size > 0 %} <a href="https://doi.org/{{ pub.data.DOI }}" >DOI</a> {% endif %}
-        {% if pub.data.archive=="arXiv.org" or pub.data.archive=="arXiv" %} |
+        {% if pub.data.archive=="arXiv.org" or pub.data.archive=="arXiv" or pub.data.archive=="arxiv" %} |
             {% if pub.data.archiveLocation!=''%} <a href="{{
             pub.data.archiveLocation }}">arXiv</a> {% endif %}
         {% elsif pub.data.extra contains "arxiv:" %} | <a href='{{ pub.data.extra | replace: "arxiv:", "" }}'>arXiv</a>
