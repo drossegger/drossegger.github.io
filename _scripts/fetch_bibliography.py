@@ -12,7 +12,7 @@ def clean_bib(bib):
             bib.remove(x)
         elif x["key"] == "3Q5MJL58":
             bib.remove(x)
-    return bib[:-1]
+    return bib
 
 def remove_author(bib,authorfirstname):
     for x in bib[:]:
