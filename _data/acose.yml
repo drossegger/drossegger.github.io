@@ -168,6 +168,99 @@
     parsedDate: '2024-12-13'
   version: 483
 - data:
+    DOI: 10.1142/S0219061324500028
+    ISSN: 0219-0613
+    abstractNote: "In this paper, we give a characterization of the strong degrees\
+      \ of categoricity of computable structures greater or equal to \n0\n\u2032\u2032\
+      \n0\u2033\n. They are precisely the treeable degrees\_\u2014 the least degrees\
+      \ of paths through computable trees \u2014 that compute \n0\n\u2032\u2032\n\
+      0\u2033\n. As a corollary, we obtain several new examples of degrees of categoricity.\
+      \ Among them we show that every degree \nd\nd\n with \n0\n(\n\u03B1\n)\n\u2264\
+      \nd\n\u2264\n0\n(\n\u03B1\n+\n1\n)\n0(\u03B1)\u2264d\u22640(\u03B1+1)\n for\
+      \ \n\u03B1\n\u03B1\n a computable ordinal greater than 2 is the strong degree\
+      \ of categoricity of a rigid structure. Using quite different techniques we\
+      \ show that every degree \nd\nd\n with \n0\n'\n\u2264\nd\n\u2264\n0\n\u2032\u2032\
+      \n0\u2032\u2264d\u22640\u2033\n is the strong degree of categoricity of a structure.\
+      \ Together with the above example this answers a question of Csima and Ng. To\
+      \ complete the picture we show that there is a degree \nd\nd\n with \n0\n'\n\
+      <\nd\n<\n0\n\u2032\u2032\n0\u2032<d<0\u2033\n that is not the degree of categoricity\
+      \ of a rigid structure."
+    accessDate: '2025-01-28T14:54:25Z'
+    archive: ''
+    archiveLocation: '2209.04524'
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Barbara F.
+      lastName: Csima
+    date: 2024-12
+    dateAdded: '2023-09-13T07:00:32Z'
+    dateModified: '2025-01-28T14:55:12Z'
+    extra: 'tex.ids= csima2023
+
+      arXiv: 2209.04524
+
+      publisher: World Scientific Publishing Co.'
+    issue: '03'
+    itemType: journalArticle
+    journalAbbreviation: J. Math. Log.
+    key: VRYCXLDD
+    language: ''
+    libraryCatalog: worldscientific.com (Atypon)
+    pages: '2450002'
+    publicationTitle: Journal of Mathematical Logic
+    relations:
+      dc:replaces: http://zotero.org/groups/1553639/items/EKYIJ9WI
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Computable structure theory
+      type: 1
+    - tag: Turing degrees
+      type: 1
+    - tag: degrees of categoricity
+      type: 1
+    - tag: isomorphisms
+      type: 1
+    title: Degrees of categoricity and treeable degrees
+    url: https://www.worldscientific.com/doi/10.1142/S0219061324500028
+    version: 501
+    volume: '24'
+  key: VRYCXLDD
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/VRYCXLDD
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/VRYCXLDD
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Csima and Rossegger
+    numChildren: 3
+    parsedDate: 2024-12
+  version: 501
+- data:
     DOI: 10.48550/arXiv.2410.22034
     ISSN: ''
     abstractNote: We show that if $E$ is a countable Borel equivalence relation on
@@ -624,72 +717,6 @@
     parsedDate: '2024'
   version: 450
 - data:
-    DOI: 10.1142/S0219061324500028
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2209.04524
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Barbara F.
-      lastName: Csima
-    date: '2023'
-    dateAdded: '2023-09-13T07:00:32Z'
-    dateModified: '2024-05-15T11:50:02Z'
-    extra: arxiv:2209.04524
-    issue: online ready
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: EKYIJ9WI
-    language: ''
-    libraryCatalog: Google Scholar
-    pages: ''
-    publicationTitle: Journal of Mathematical Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags: []
-    title: Degrees of categoricity and treeable degrees
-    url: ''
-    version: 380
-    volume: ''
-  key: EKYIJ9WI
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/EKYIJ9WI
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/EKYIJ9WI
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Csima and Rossegger
-    numChildren: 2
-    parsedDate: '2023'
-  version: 380
-- data:
     DOI: 10.1017/jsl.2023.43
     ISSN: 0022-4812, 1943-5886
     abstractNote: ''
@@ -896,26 +923,25 @@
     parsedDate: '2022'
   version: 371
 - data:
-    accessDate: '2024-12-17T14:26:06Z'
+    accessDate: '2025-01-13T10:45:54Z'
     charset: ''
     contentType: application/pdf
-    dateAdded: '2024-12-17T14:26:06Z'
-    dateModified: '2024-12-17T14:26:06Z'
-    filename: Gonzalez and Rossegger - 2024 - SCOTT SENTENCE COMPLEXITIES OF LINEAR
-      ORDERINGS.pdf
+    dateAdded: '2025-01-13T10:45:54Z'
+    dateModified: '2025-01-13T10:45:54Z'
+    filename: "Pakhomov et al. - 2025 - FEFERMAN\u2019S COMPLETENESS THEOREM.pdf"
     itemType: attachment
-    key: PBWN62Y5
+    key: C2MSJJTU
     linkMode: imported_url
-    md5: 4fcac95628a6931bc06368278f7911da
-    mtime: 1734445566790
+    md5: 1b344da6dbf60677c5e247155ff4f1a2
+    mtime: 1736765154378
     note: ''
-    parentItem: CWMK2Q38
+    parentItem: UK54UW9B
     relations: {}
     tags: []
     title: Full Text PDF
-    url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/095C2954C5F5F7079AB38E118B05B3BF/S0022481224000598a.pdf/div-class-title-scott-sentence-complexities-of-linear-orderings-div.pdf
-    version: 480
-  key: PBWN62Y5
+    url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2050717AF10C1D99BE37FD94790463A5/S1079898625000022a.pdf/div-class-title-feferman-s-completeness-theorem-div.pdf
+    version: 487
+  key: C2MSJJTU
   library:
     id: 1553639
     links:
@@ -926,13 +952,13 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/PBWN62Y5
+      href: https://www.zotero.org/groups/dinorossownpub/items/C2MSJJTU
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/PBWN62Y5
+      href: https://api.zotero.org/groups/1553639/items/C2MSJJTU
       type: application/json
     up:
-      href: https://api.zotero.org/groups/1553639/items/CWMK2Q38
+      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
       type: application/json
   meta:
     createdByUser:
@@ -944,27 +970,28 @@
       name: Dino Rossegger
       username: dinoross
     numChildren: 0
-  version: 480
+  version: 487
 - data:
-    accessDate: '2024-10-30T08:48:32Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2024-10-30T08:48:32Z'
-    dateModified: '2024-10-30T08:48:32Z'
-    filename: 2410.html
+    accessDate: '2024-10-30T08:48:27Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-10-30T08:48:27Z'
+    dateModified: '2024-10-30T08:48:27Z'
+    filename: Marks et al. - 2024 - Hausdorff dimension and countable Borel equivalence
+      relations.pdf
     itemType: attachment
-    key: C4R7QBBV
+    key: SDLMU2ZU
     linkMode: imported_url
-    md5: f48c4d6bb6f2c6ecaaa240c46eab2f0b
-    mtime: 1730278112062
+    md5: c32542b8c8edde68f12ce61212ac687e
+    mtime: 1730278107250
     note: ''
     parentItem: U7C8FFE8
     relations: {}
     tags: []
-    title: Snapshot
-    url: https://arxiv.org/abs/2410.22034
-    version: 458
-  key: C4R7QBBV
+    title: Preprint PDF
+    url: http://arxiv.org/pdf/2410.22034v1
+    version: 459
+  key: SDLMU2ZU
   library:
     id: 1553639
     links:
@@ -975,10 +1002,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/C4R7QBBV
+      href: https://www.zotero.org/groups/dinorossownpub/items/SDLMU2ZU
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/C4R7QBBV
+      href: https://api.zotero.org/groups/1553639/items/SDLMU2ZU
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
@@ -992,27 +1019,28 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-  version: 458
+    numChildren: 0
+  version: 459
 - data:
-    accessDate: '2024-05-14T09:37:39Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2024-05-14T09:37:39Z'
-    dateModified: '2024-05-14T09:37:39Z'
-    filename: 2403.html
+    accessDate: '2024-05-14T09:37:33Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-05-14T09:37:33Z'
+    dateModified: '2024-05-14T09:37:34Z'
+    filename: Rossegger et al_2024_Learning Equivalence Relations on Polish Spaces.pdf
     itemType: attachment
-    key: Y44ANH9A
+    key: R6BJ3VV8
     linkMode: imported_url
-    md5: 54bb6becca7dc6b9946f5ed0525dd97e
-    mtime: 1715679459000
+    md5: 87218f954fcd1853b5119e6079a6a8b0
+    mtime: 1715679453000
     note: ''
     parentItem: DTDXCSN6
     relations: {}
     tags: []
-    title: arXiv.org Snapshot
-    url: https://arxiv.org/abs/2403.17493
-    version: 347
-  key: Y44ANH9A
+    title: Rossegger et al_2024_Learning Equivalence Relations on Polish Spaces.pdf
+    url: https://arxiv.org/pdf/2403.17493.pdf
+    version: 348
+  key: R6BJ3VV8
   library:
     id: 1553639
     links:
@@ -1023,10 +1051,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/Y44ANH9A
+      href: https://www.zotero.org/groups/dinorossownpub/items/R6BJ3VV8
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/Y44ANH9A
+      href: https://api.zotero.org/groups/1553639/items/R6BJ3VV8
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/DTDXCSN6
@@ -1040,41 +1068,28 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-  version: 347
+    numChildren: 0
+  version: 348
 - data:
-    accessDate: '2024-02-16T14:08:23Z'
-    charset: ''
-    contentType: application/pdf
-    dateAdded: '2024-02-16T14:08:23Z'
-    dateModified: '2024-02-16T14:08:23Z'
-    filename: Andrews et al_2024_The Borel complexity of the class of models of first-order
-      theories.pdf
+    accessDate: '2024-02-16T14:08:27Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-02-16T14:08:27Z'
+    dateModified: '2024-02-16T14:08:27Z'
+    filename: 2402.html
     itemType: attachment
-    key: YAJW3N5N
+    key: 4DDD78KV
     linkMode: imported_url
-    md5: d560c223bb0bcf5dc903c4f9d383eb4a
-    mtime: 1708092503000
-    note: '<p xmlns="http://www.w3.org/1999/xhtml" id="title"><strong>Contents</strong></p><ul
-      xmlns="http://www.w3.org/1999/xhtml" style="list-style-type: none; padding-left:0px"
-      id="toc"><li><a href="zotero://open-pdf/2_YAJW3N5N/1">1. Introduction</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/2">2. Preliminaries</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/3">3. Theories
-      without bounded axiomatization</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/4">4.
-      Theories with bounded axiomatization</a></li><li style="padding-top:8px"><a
-      href="zotero://open-pdf/2_YAJW3N5N/8">5. Proofs of the two technical results</a><ul
-      style="list-style-type: none; padding-left:12px"><li style="padding-top:4px"><a
-      href="zotero://open-pdf/2_YAJW3N5N/9">5.1. Proof of Theorem 3.3</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/10">5.2. Proof
-      of Lemma 4.1</a></li></ul></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/11">6.
-      The effectivity of the reductions</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/14">References</a></li></ul>'
+    md5: 845338daa0d5e1bb35f45a8ba7b83a76
+    mtime: 1708092507000
+    note: ''
     parentItem: PNTQ5RB5
     relations: {}
     tags: []
-    title: Andrews et al_2024_The Borel complexity of the class of models of first-order
-      theories.pdf
-    url: https://arxiv.org/pdf/2402.10029.pdf
-    version: 331
-  key: YAJW3N5N
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2402.10029
+    version: 333
+  key: 4DDD78KV
   library:
     id: 1553639
     links:
@@ -1085,10 +1100,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/YAJW3N5N
+      href: https://www.zotero.org/groups/dinorossownpub/items/4DDD78KV
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/YAJW3N5N
+      href: https://api.zotero.org/groups/1553639/items/4DDD78KV
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/PNTQ5RB5
@@ -1102,5 +1117,4 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-    numChildren: 0
-  version: 331
+  version: 333
