@@ -1,4 +1,73 @@
 - data:
+    DOI: 10.1017/jsl.2025.7
+    ISSN: 0022-4812, 1943-5886
+    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0022481225000076/resource/name/firstPage-pdf-S0022481225000076a.jpg
+    accessDate: '2025-02-17T09:31:41Z'
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2403.17493
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Theodore
+      lastName: Slaman
+    - creatorType: author
+      firstName: Tomasz
+      lastName: Steifer
+    date: 2025/02/03
+    dateAdded: '2025-02-17T09:31:41Z'
+    dateModified: '2025-02-17T09:32:37Z'
+    extra: ''
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: PX7IHN27
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 1-18
+    publicationTitle: The Journal of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Learning Equivalence Relations on Polish Spaces
+    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/learning-equivalence-relations-on-polish-spaces/EEAF0148F83F4C67E8D25E4CB9CDB319
+    version: 506
+    volume: ''
+  key: PX7IHN27
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/PX7IHN27
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/PX7IHN27
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger et al.
+    numChildren: 0
+    parsedDate: '2025-02-03'
+  version: 506
+- data:
     DOI: 10.1017/bsl.2025.2
     ISSN: 1079-8986, 1943-5894
     abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
@@ -336,79 +405,6 @@
     numChildren: 2
     parsedDate: '2024-10-29'
   version: 467
-- data:
-    DOI: https://doi.org/10.48550/arXiv.2403.17493
-    ISSN: ''
-    abstractNote: ''
-    accessDate: '2024-05-14T09:37:32Z'
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2403.17493
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Theodore
-      lastName: Slaman
-    - creatorType: author
-      firstName: Tomasz
-      lastName: Steifer
-    date: '2024-03-26'
-    dateAdded: '2024-05-14T09:37:32Z'
-    dateModified: '2025-01-27T09:21:00Z'
-    extra: arxiv:2403.17493
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: DTDXCSN6
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: to appear in The Journal of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03E15, 68Q32, 03D80
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Learning Equivalence Relations on Polish Spaces
-    url: http://arxiv.org/abs/2403.17493
-    version: 495
-    volume: ''
-  key: DTDXCSN6
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/DTDXCSN6
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/DTDXCSN6
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Rossegger et al.
-    numChildren: 2
-    parsedDate: '2024-03-26'
-  version: 495
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
@@ -1021,55 +1017,6 @@
       username: dinoross
     numChildren: 0
   version: 459
-- data:
-    accessDate: '2024-05-14T09:37:33Z'
-    charset: ''
-    contentType: application/pdf
-    dateAdded: '2024-05-14T09:37:33Z'
-    dateModified: '2024-05-14T09:37:34Z'
-    filename: Rossegger et al_2024_Learning Equivalence Relations on Polish Spaces.pdf
-    itemType: attachment
-    key: R6BJ3VV8
-    linkMode: imported_url
-    md5: 87218f954fcd1853b5119e6079a6a8b0
-    mtime: 1715679453000
-    note: ''
-    parentItem: DTDXCSN6
-    relations: {}
-    tags: []
-    title: Rossegger et al_2024_Learning Equivalence Relations on Polish Spaces.pdf
-    url: https://arxiv.org/pdf/2403.17493.pdf
-    version: 348
-  key: R6BJ3VV8
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/R6BJ3VV8
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/R6BJ3VV8
-      type: application/json
-    up:
-      href: https://api.zotero.org/groups/1553639/items/DTDXCSN6
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    numChildren: 0
-  version: 348
 - data:
     accessDate: '2024-02-16T14:08:27Z'
     charset: utf-8

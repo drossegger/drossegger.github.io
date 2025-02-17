@@ -1,4 +1,73 @@
 - data:
+    DOI: 10.1017/jsl.2025.7
+    ISSN: 0022-4812, 1943-5886
+    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0022481225000076/resource/name/firstPage-pdf-S0022481225000076a.jpg
+    accessDate: '2025-02-17T09:31:41Z'
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2403.17493
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Theodore
+      lastName: Slaman
+    - creatorType: author
+      firstName: Tomasz
+      lastName: Steifer
+    date: 2025/02/03
+    dateAdded: '2025-02-17T09:31:41Z'
+    dateModified: '2025-02-17T09:32:37Z'
+    extra: ''
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: PX7IHN27
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 1-18
+    publicationTitle: The Journal of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Learning Equivalence Relations on Polish Spaces
+    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/learning-equivalence-relations-on-polish-spaces/EEAF0148F83F4C67E8D25E4CB9CDB319
+    version: 506
+    volume: ''
+  key: PX7IHN27
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/PX7IHN27
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/PX7IHN27
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger et al.
+    numChildren: 0
+    parsedDate: '2025-02-03'
+  version: 506
+- data:
     DOI: 10.1017/bsl.2025.2
     ISSN: 1079-8986, 1943-5894
     abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
@@ -344,8 +413,7 @@
     archive: arXiv
     archiveLocation: http://arxiv.org/abs/2403.17493
     callNumber: ''
-    collections:
-    - 3T8QH7NR
+    collections: []
     creators:
     - creatorType: author
       firstName: Theodore
@@ -378,7 +446,7 @@
       type: 1
     title: Learning Equivalence Relations on Polish Spaces
     url: http://arxiv.org/abs/2403.17493
-    version: 495
+    version: 506
     volume: ''
   key: DTDXCSN6
   library:
@@ -408,7 +476,7 @@
     creatorSummary: Rossegger et al.
     numChildren: 2
     parsedDate: '2024-03-26'
-  version: 495
+  version: 506
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
@@ -1750,73 +1818,6 @@
       type: text/html
     self:
       href: https://api.zotero.org/groups/1553639/items/49VNIP5S
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Fokina et al.
-    numChildren: 0
-    parsedDate: '2017'
-  version: 8
-- data:
-    DOI: ''
-    ISBN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections: []
-    conferenceName: 11th Panhellenic Logic Symposium
-    creators:
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Luca
-      lastName: San Mauro
-    date: '2017'
-    dateAdded: '2017-07-19T10:00:31Z'
-    dateModified: '2017-07-26T13:49:23Z'
-    extra: ''
-    itemType: conferencePaper
-    key: NFJVFUFZ
-    language: ''
-    libraryCatalog: ''
-    pages: 32-38
-    place: Delfi, Greece
-    proceedingsTitle: Proc. of the 11th Panhellenic Logic Symposium
-    publisher: ''
-    relations: {}
-    rights: ''
-    series: ''
-    shortTitle: ''
-    tags: []
-    title: Degree Spectra of Structures with Respect to the Bi-embeddability Relation
-    url: ''
-    version: 8
-    volume: ''
-  key: NFJVFUFZ
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/NFJVFUFZ
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/NFJVFUFZ
       type: application/json
   meta:
     createdByUser:
