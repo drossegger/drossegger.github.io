@@ -239,24 +239,10 @@
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: 0219-0613
-    abstractNote: "In this paper, we give a characterization of the strong degrees\
-      \ of categoricity of computable structures greater or equal to \n0\n\u2032\u2032\
-      \n0\u2033\n. They are precisely the treeable degrees\_\u2014 the least degrees\
-      \ of paths through computable trees \u2014 that compute \n0\n\u2032\u2032\n\
-      0\u2033\n. As a corollary, we obtain several new examples of degrees of categoricity.\
-      \ Among them we show that every degree \nd\nd\n with \n0\n(\n\u03B1\n)\n\u2264\
-      \nd\n\u2264\n0\n(\n\u03B1\n+\n1\n)\n0(\u03B1)\u2264d\u22640(\u03B1+1)\n for\
-      \ \n\u03B1\n\u03B1\n a computable ordinal greater than 2 is the strong degree\
-      \ of categoricity of a rigid structure. Using quite different techniques we\
-      \ show that every degree \nd\nd\n with \n0\n'\n\u2264\nd\n\u2264\n0\n\u2032\u2032\
-      \n0\u2032\u2264d\u22640\u2033\n is the strong degree of categoricity of a structure.\
-      \ Together with the above example this answers a question of Csima and Ng. To\
-      \ complete the picture we show that there is a degree \nd\nd\n with \n0\n'\n\
-      <\nd\n<\n0\n\u2032\u2032\n0\u2032<d<0\u2033\n that is not the degree of categoricity\
-      \ of a rigid structure."
+    abstractNote: ''
     accessDate: '2025-01-28T14:54:25Z'
-    archive: ''
-    archiveLocation: '2209.04524'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2209.04524
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -266,12 +252,8 @@
       lastName: Csima
     date: 2024-12
     dateAdded: '2023-09-13T07:00:32Z'
-    dateModified: '2025-01-28T14:55:12Z'
-    extra: 'tex.ids= csima2023
-
-      arXiv: 2209.04524
-
-      publisher: World Scientific Publishing Co.'
+    dateModified: '2025-03-11T08:30:00Z'
+    extra: 'arXiv: 2209.04524'
     issue: '03'
     itemType: journalArticle
     journalAbbreviation: J. Math. Log.
@@ -298,7 +280,7 @@
       type: 1
     title: Degrees of categoricity and treeable degrees
     url: https://www.worldscientific.com/doi/10.1142/S0219061324500028
-    version: 501
+    version: 514
     volume: '24'
   key: VRYCXLDD
   library:
@@ -328,7 +310,7 @@
     creatorSummary: Csima and Rossegger
     numChildren: 3
     parsedDate: 2024-12
-  version: 501
+  version: 514
 - data:
     DOI: 10.48550/arXiv.2410.22034
     ISSN: ''
