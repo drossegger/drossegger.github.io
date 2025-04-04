@@ -492,7 +492,7 @@
       lastName: Zhu
     date: '2024-02-15'
     dateAdded: '2024-02-16T14:08:22Z'
-    dateModified: '2024-05-15T11:51:06Z'
+    dateModified: '2025-04-03T11:34:10Z'
     extra: arxiv:2402.10029
     issue: ''
     itemType: journalArticle
@@ -501,7 +501,7 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
-    publicationTitle: submitted for publication
+    publicationTitle: to appear in Proceedings of the AMS
     relations: {}
     rights: ''
     series: ''
@@ -515,7 +515,7 @@
       type: 1
     title: The Borel complexity of the class of models of first-order theories
     url: http://arxiv.org/abs/2402.10029
-    version: 387
+    version: 515
     volume: ''
   key: PNTQ5RB5
   library:
@@ -545,7 +545,7 @@
     creatorSummary: Andrews et al.
     numChildren: 2
     parsedDate: '2024-02-15'
-  version: 387
+  version: 515
 - data:
     DOI: 10.1007/978-3-031-64309-5_7
     ISBN: 978-3-031-64309-5
