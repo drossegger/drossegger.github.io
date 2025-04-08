@@ -547,6 +547,76 @@
     parsedDate: '2024-02-15'
   version: 515
 - data:
+    DOI: 10.1017/jsl.2023.43
+    ISSN: 0022-4812, 1943-5886
+    abstractNote: ''
+    accessDate: '2022-08-08T15:44:57Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2208.01697
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Antonio
+      lastName: "Montalb\xE1n"
+    date: '2024'
+    dateAdded: '2023-07-13T22:41:07Z'
+    dateModified: '2025-04-07T14:32:41Z'
+    extra: arxiv:2208.01697
+    issue: '4'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: MPSHJ2BY
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: 1703-1719
+    publicationTitle: The Journal of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03E15, 03C62, 03H15
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: The structural complexity of models of arithmetic
+    url: ''
+    version: 518
+    volume: '89'
+  key: MPSHJ2BY
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/MPSHJ2BY
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/MPSHJ2BY
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: "Montalb\xE1n and Rossegger"
+    numChildren: 1
+    parsedDate: '2024'
+  version: 518
+- data:
     DOI: 10.1007/978-3-031-64309-5_7
     ISBN: 978-3-031-64309-5
     abstractNote: ''
@@ -694,76 +764,6 @@
     numChildren: 0
     parsedDate: '2024'
   version: 450
-- data:
-    DOI: 10.1017/jsl.2023.43
-    ISSN: 0022-4812, 1943-5886
-    abstractNote: ''
-    accessDate: '2022-08-08T15:44:57Z'
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2208.01697
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Antonio
-      lastName: "Montalb\xE1n"
-    date: '2023'
-    dateAdded: '2023-07-13T22:41:07Z'
-    dateModified: '2024-05-15T11:47:16Z'
-    extra: arxiv:2208.01697
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: MPSHJ2BY
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: 1-16
-    publicationTitle: The Journal of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03E15, 03C62, 03H15
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: The structural complexity of models of arithmetic
-    url: ''
-    version: 373
-    volume: First View
-  key: MPSHJ2BY
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/MPSHJ2BY
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/MPSHJ2BY
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: "Montalb\xE1n and Rossegger"
-    numChildren: 1
-    parsedDate: '2023'
-  version: 373
 - data:
     DOI: 10.1017/jsl.2021.82
     ISSN: 0022-4812, 1943-5886
