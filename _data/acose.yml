@@ -308,7 +308,7 @@
       name: Dino Rossegger
       username: dinoross
     creatorSummary: Csima and Rossegger
-    numChildren: 3
+    numChildren: 4
     parsedDate: 2024-12
   version: 514
 - data:
@@ -901,25 +901,26 @@
     parsedDate: '2022'
   version: 371
 - data:
-    accessDate: '2025-01-28T14:54:27Z'
+    accessDate: ''
     charset: ''
     contentType: application/pdf
-    dateAdded: '2025-01-28T14:54:27Z'
-    dateModified: '2025-01-28T14:54:27Z'
-    filename: Csima and Rossegger - 2024 - Degrees of categoricity and treeable degrees.pdf
+    dateAdded: '2025-02-26T11:51:07Z'
+    dateModified: '2025-02-26T11:51:07Z'
+    filename: "Montalb\xE1n and Rossegger - 2023 - The structural complexity of models\
+      \ of arithmetic.pdf"
     itemType: attachment
-    key: BI3TER5M
-    linkMode: imported_url
-    md5: e669c70e12a102ff11c3ef7cc102de06
-    mtime: 1738076067501
+    key: WBYBSKAM
+    linkMode: imported_file
+    md5: 106254342c7b7f8b537a50f7f6fe9956
+    mtime: 1740570667013
     note: ''
-    parentItem: VRYCXLDD
+    parentItem: MPSHJ2BY
     relations: {}
     tags: []
-    title: Full Text PDF
-    url: https://www.worldscientific.com/doi/pdf/10.1142/S0219061324500028
-    version: 497
-  key: BI3TER5M
+    title: PDF
+    url: ''
+    version: 509
+  key: WBYBSKAM
   library:
     id: 1553639
     links:
@@ -930,13 +931,13 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/BI3TER5M
+      href: https://www.zotero.org/groups/dinorossownpub/items/WBYBSKAM
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/BI3TER5M
+      href: https://api.zotero.org/groups/1553639/items/WBYBSKAM
       type: application/json
     up:
-      href: https://api.zotero.org/groups/1553639/items/VRYCXLDD
+      href: https://api.zotero.org/groups/1553639/items/MPSHJ2BY
       type: application/json
   meta:
     createdByUser:
@@ -948,7 +949,7 @@
       name: Dino Rossegger
       username: dinoross
     numChildren: 0
-  version: 497
+  version: 509
 - data:
     accessDate: '2024-12-17T14:26:06Z'
     charset: ''
