@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/about_overlay.jpg
   overlay_filter: 0.3 
       
-excerpt: 'Logician. Marie Skłodowska Curie Fellow at UC Berkeley and TU Wien
+excerpt: 'Logician at TU Wien
           <br/><span style="font-size:14px"><a href="https://orcid.org/0000-0003-3494-9049" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">ORCID</span></a>
 <a href="https://twitter.com/dino_r" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a>
 <a href="https://github.com/drossegger" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a>
@@ -40,7 +40,9 @@ feature_row:
 
 <!-- {% include feature_row id='about-me' type='left' %}-->
 ### About Me
-<img src='/assets/images/dino2.jpg' style="float:left; margin-right:10px; width:200px; margin-bottom:20px;"/>I am a Postdoc at the [Institute of Discrete Mathematics](https://dmg.tuwien.ac.at) at Technische Universität Wien working in mathematical logic. I am interested in computability theory and its interactions with other areas of logic such as descriptive set theory and model theory. Please see [publications](/publications/) for more on my research. Under [teaching](/teaching/) you can find syllabi of courses I have taught and course notes. In August 2024 I completed my Marie Skłodowska Curie fellowship ACOSE, see its [project page](/acose/).
+<img src='/assets/images/dino2.jpg' style="float:left; margin-right:10px; width:200px; margin-bottom:20px;"/>I am a mathematician working at the [Institute of Discrete Mathematics](https://dmg.tuwien.ac.at) at Technische Universität Wien working. Currently I am PI of the international project ["Structural Complexity Measures for Foundational Theories"](https://www.fwf.ac.at/forschungsradar/10.55776/PIN1878224) funded by the Austrian science fund. This project is joint with [Mateusz Łełyk](https://sites.google.com/uw.edu.pl/lelyk) from the University of Warsaw.
+
+I am interested in computability theory and its interactions with other areas of logic such as descriptive set theory and model theory. Please see [publications](/publications/) for more on my research. Under [teaching](/teaching/) you can find syllabi of courses I have taught and course notes. In August 2024 I completed my Marie Skłodowska Curie fellowship ACOSE, see its [project page](/acose/).
 <!--- <br/><span style="font-size:14px"><a href="https://orcid.org/0000-0003-3494-9049" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-orcid" aria-hidden="true"></i><span class="label">ORCID</span></a>
 <a href="https://twitter.com/dino_r" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a>
 <a href="https://github.com/drossegger" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a>
