@@ -5,6 +5,25 @@
     overlay_image: /assets/images/teaching_overlay.jpg
   classes: wide
 ---
+
+## Technische Universität Wien
+
+### Summer 2025
+* __Advanced Mathematical Logic.__
+Designed and taught topics course on mathematical logic. Topics were the Paris-Harrington Theorem and Scott analysis.
+
+## University of California, Berkeley
+
+### Winter 2022
+* __Recursion Theory seminar.__
+Co-organized the seminar, created and assigned talks, helped students with talk preparation
+
+### Spring 2022
+* __Reading course: Algorithmic Randomness.__
+Met weekly with student to discuss reading on algorithmic randomness
+
+## University of Waterloo
+
 ### Winter 2021
 * __MATH 138: Calculus 2 for Honors mathematics.__
 
