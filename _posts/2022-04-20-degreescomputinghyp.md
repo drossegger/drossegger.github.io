@@ -15,7 +15,7 @@ $$e\in O\Leftrightarrow \exists i(\exists a\in C) \varphi_i^{H^{[a]}}: \varphi_e
 where $$H$$ denotes a jump hierarchy on $$C$$. Note that it mus not be the case that $$\mathbf d$$ computes a jump hierarchy, after all it only computes all hyperarithmetic sets, but it does not necessarily do this uniformly. However, creating a jump hierarchy in this case is $$\Sigma^0_3$$ (see Montalbán [3] for more on jump hierarchies). Checking whether $$\varphi^{H^{[a]}}_i$$ is an isomorphism is $$\Pi^0_2$$. So $$\mathbf d^{(3)}\geq deg(O)=deg(\mathcal O)$$.
 
 
-We have seen, that if we restrict our degrees to degrees that compute $$HYP$$ and a copy of $$\omega_1^{\mathrm{CK}}$$ then we can not be far below Kleene's O. What if we can not compute $$\omega_1^{\mathrm{CK}}$$? It turns out we can be quite far away in that case.
+We have seen that degrees that compute $$HYP$$ and a copy of $$\omega_1^{\mathrm{CK}}$$ cannot be far below Kleene's O. What if we can not compute $$\omega_1^{\mathrm{CK}}$$? It turns out we can be quite far away in that case.
 
 __Theorem 2.__ There is a degree $$\mathbf d>HYP$$ that is hyperarithmetically low, i.e., $$\omega_1^{\mathbf d}=\omega_1^{\mathrm{CK}}$$.
 
@@ -23,7 +23,7 @@ _Proof sketch._ Consider the set
 
 $$X=\left\{ (e,H) : \begin{aligned}\varphi_e \text{ is a linear order,}\\  H \text{ is a jump hierarchy on }\varphi_e,\\ \text{ and } \varphi_e\text{ does not have hyperarithmetic descending sequences}\end{aligned}\right\}$$
 
-This set is $$\Sigma^1_1$$ so by the Gandy basis theorem it must contain a set $$Y=(e_0,H_0)$$ such that $$\omega_1^{Y}=\omega_1^{\mathrm{CK}}$$. Thus there is no $$\alpha$$ such that $$Y^{(\alpha)}\equiv_T \mathcal O$$. See Montalbán [3] for more on Gandy's basis theorem and jump hierarchies in this context.
+This set is $$\Sigma^1_1$$ so by the Gandy basis theorem it must contain a set $$Y=(e_0,H_0)$$ such that $$\omega_1^{Y}=\omega_1^{\mathrm{CK}}$$. Thus, there is no $$\alpha$$ such that $$Y^{(\alpha)}\equiv_T \mathcal O$$. See Montalbán [3] for more on Gandy's basis theorem and jump hierarchies in this context.
 
 Thanks to Antonio Montalbán and Ted Slaman for showing me this.
 
