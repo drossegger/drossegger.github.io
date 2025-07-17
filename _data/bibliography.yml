@@ -1,5 +1,6 @@
 - data:
     DOI: 10.48550/arXiv.2507.12025
+    ISSN: ''
     abstractNote: We classify the possible Scott complexities for models of Peano
       arithmetic. We construct models of particular complexities by first giving a
       complete Scott analysis of colored linear orderings and constructing models
@@ -9,11 +10,9 @@
       This effort provides a powerful set of tools to understand the models of Peano
       arithmetic.
     accessDate: '2025-07-17T10:45:13Z'
-    archive: ''
-    archiveID: arXiv:2507.12025
-    archiveLocation: ''
+    archive: arxiv
+    archiveLocation: http://arxiv.org/abs/2507.12025
     callNumber: ''
-    citationKey: ''
     collections: []
     creators:
     - creatorType: author
@@ -27,26 +26,29 @@
       lastName: Szlufik
     date: '2025-07-16'
     dateAdded: '2025-07-17T10:45:13Z'
-    dateModified: '2025-07-17T10:45:13Z'
+    dateModified: '2025-07-17T10:48:36Z'
     extra: arXiv:2507.12025 [math]
-    genre: ''
-    itemType: preprint
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
     key: LKFC4J6K
     language: ''
     libraryCatalog: arXiv.org
-    place: ''
+    pages: ''
+    publicationTitle: submitted for publication
     relations: {}
-    repository: arXiv
     rights: ''
     series: ''
-    seriesNumber: ''
+    seriesText: ''
+    seriesTitle: ''
     shortTitle: ''
     tags:
     - tag: Mathematics - Logic
       type: 1
     title: Classifying the complexity of models of arithmetic
     url: http://arxiv.org/abs/2507.12025
-    version: 526
+    version: 532
+    volume: ''
   key: LKFC4J6K
   library:
     id: 1553639
@@ -75,7 +77,7 @@
     creatorSummary: Gonzalez et al.
     numChildren: 2
     parsedDate: '2025-07-16'
-  version: 526
+  version: 532
 - data:
     DOI: 10.1017/jsl.2025.7
     ISSN: 0022-4812, 1943-5886
