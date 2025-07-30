@@ -137,6 +137,81 @@
     parsedDate: '2025-01-10'
   version: 491
 - data:
+    DOI: 10.1017/jsl.2024.18
+    ISSN: 0022-4812, 1943-5886
+    abstractNote: ''
+    accessDate: '2024-03-15T15:27:24Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2301.09940
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Nikolay
+      lastName: Bazhenov
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Alexandra
+      lastName: Soskova
+    - creatorType: author
+      firstName: Stefan
+      lastName: Vatev
+    date: '2025'
+    dateAdded: '2024-03-15T15:27:24Z'
+    dateModified: '2025-07-10T12:52:44Z'
+    extra: arxiv:2301.09940
+    issue: '2'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: 89CAGSK9
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 854-871
+    publicationTitle: The Journal of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: A Lopez-Escobar Theorem for Continuous Domains
+    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/lopezescobar-theorem-for-continuous-domains/041B7DBB152EE01A55B35DA14827A830
+    version: 525
+    volume: '90'
+  key: 89CAGSK9
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/89CAGSK9
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/89CAGSK9
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Bazhenov et al.
+    numChildren: 0
+    parsedDate: '2025'
+  version: 525
+- data:
     DOI: 10.1017/jsl.2024.59
     ISSN: 0022-4812, 1943-5886
     abstractNote: "We study possible Scott sentence complexities of linear orderings\
@@ -387,81 +462,6 @@
     numChildren: 2
     parsedDate: '2024-10-29'
   version: 467
-- data:
-    DOI: 10.1017/jsl.2024.18
-    ISSN: 0022-4812, 1943-5886
-    abstractNote: ''
-    accessDate: '2024-03-15T15:27:24Z'
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2301.09940
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Nikolay
-      lastName: Bazhenov
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Alexandra
-      lastName: Soskova
-    - creatorType: author
-      firstName: Stefan
-      lastName: Vatev
-    date: 2024/03/15
-    dateAdded: '2024-03-15T15:27:24Z'
-    dateModified: '2024-05-15T11:50:32Z'
-    extra: arxiv:2301.09940
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: 89CAGSK9
-    language: en
-    libraryCatalog: Cambridge University Press
-    pages: 1-17
-    publicationTitle: The Journal of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags: []
-    title: A Lopez-Escobar Theorem for Continuous Domains
-    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/lopezescobar-theorem-for-continuous-domains/041B7DBB152EE01A55B35DA14827A830
-    version: 383
-    volume: First View
-  key: 89CAGSK9
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/89CAGSK9
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/89CAGSK9
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Bazhenov et al.
-    numChildren: 0
-    parsedDate: '2024-03-15'
-  version: 383
 - data:
     DOI: 10.48550/arXiv.2402.10029
     ISSN: ''
