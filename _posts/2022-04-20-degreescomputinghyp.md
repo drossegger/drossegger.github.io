@@ -1,19 +1,20 @@
 ---
 title: Turing degrees that compute HYP but can not compute Kleene's _O_.
 ---
+
+_Update 30.07.2025:_ There was a mistake in the main theorem claiming that for a degree $$\mathbf d >HYP$$, $$\mathbf d$$ computes a copy of $$\omega_1^{\mathrm{CK}}$$ if and only if $$\mathbf d^{(3)}\geq deg(\mathcal O)$$. This is not true, I will give a counterexample once I find the time. Thanks to Dan Turetsky for pointing this out.
+
+
 Let $$HYP$$ be the set of hyperarithmetic degrees, i.e. $$HYP=\{ \mathbf d:\exists (\alpha<\omega_1^{\mathrm{CK}}) \mathbf d< \mathbf 0^{(\alpha)}\}.$$
 Jockusch and Simpson [1] showed that there is a degree $$\mathbf d$$ that is minimal over $$HYP$$ (i.e., if $$\mathbf c<\mathbf d$$, then $$\mathbf c\in HYP$$) and such that $$\mathbf d^{(3)}=deg(\mathcal O)$$ where $$\mathcal O$$ is Kleene's $$\mathcal O$$, or, up to m-equivalence, the set of indices of computable well-orderings.
 
 I recently thought about the Turing degree structure of the degrees that compute every hyperarithmetic sets and could not find much besides the results of Jockusch and Simpson. However, after talking to a few people, I realized that quite a bit is known. Here is an attempt to summarize a few things. I apologize for skipping a lot of the details but hope that anyone can figure those out with the references provided.
 
-__Theorem 1.__ Let $$\mathbf d> HYP$$. Then $$\mathbf d$$ computes a copy of $$\omega_1^{\mathrm{CK}}$$ if and only if $$\mathbf d^{(3)}\geq deg(\mathcal O)$$.
+_This is the updated way weaker version of the theorem._
 
-_Proof sketch._ Assume that $$\mathbf d^{(3)}\geq deg(\mathcal O)$$. Then $$\mathbf d^{(3)}$$ can compute a copy of $$\omega_1^{\mathrm{CK}}$$. One can show that $$\mathbf d$$ then computes a copy of $$\omega^2\cdot \omega_1^{\mathrm{CK}}\cong \omega_1^{\mathrm{CK}}$$ (see Ash and Knight [Theorem 9.11, 2]). For the other direction assume that $$\mathbf d$$ computes a copy of $$\omega_1^{\mathrm{CK}}$$. We will show that $$d^{(3)}$$ can compute the set of indices of computable well-orderings. One can show that if $$L$$ is a well-order and $$o(L)\leq \omega^{\alpha}$$, then $$L$$ is uniformly $$\Delta^0_{2\alpha}$$ categorical, i.e., for $$L$$ computable, $$\mathbf 0^{(2\alpha)}$$ ($$\mathbf 0^{(2\alpha-1)}$$ if $$\alpha$$ is finite) can compute an isomorphism between any two computable copies of $$L$$, and this is uniform. Let $$C$$ be $$\mathbf d$$'s copy of $$\omega_1^{\mathrm{CK}}$$. All computable well-orders have order-type less than $$C$$, so the set of indices of computable well-orders is $$O=\{e:\exists a \varphi_e \cong C_{<a}\}$$ where $$C_{<a}$$ is the initial segment of $$C$$ up to the element $$a$$. Then $$O$$ can be defined by
+__Theorem 1.__  If $$\mathbf d^{(3)}\geq deg(\mathcal O)$$ then $$\mathbf d$$ computes a copy of $$\omega_1^{\mathrm{CK}}$$.
 
-$$e\in O\Leftrightarrow \exists i(\exists a\in C) \varphi_i^{H^{[a]}}: \varphi_e \cong C_{< a}$$
-
-where $$H$$ denotes a jump hierarchy on $$C$$. Note that it mus not be the case that $$\mathbf d$$ computes a jump hierarchy, after all it only computes all hyperarithmetic sets, but it does not necessarily do this uniformly. However, creating a jump hierarchy in this case is $$\Sigma^0_3$$ (see Montalbán [3] for more on jump hierarchies). Checking whether $$\varphi^{H^{[a]}}_i$$ is an isomorphism is $$\Pi^0_2$$. So $$\mathbf d^{(3)}\geq deg(O)=deg(\mathcal O)$$.
-
+_Proof sketch._ Assume that $$\mathbf d^{(3)}\geq deg(\mathcal O)$$. Then $$\mathbf d^{(3)}$$ can compute a copy of $$\omega_1^{\mathrm{CK}}$$. One can show that $$\mathbf d$$ then computes a copy of $$\omega^2\cdot \omega_1^{\mathrm{CK}}\cong \omega_1^{\mathrm{CK}}$$ (see Ash and Knight [Theorem 9.11, 2]). 
 
 We have seen that degrees that compute $$HYP$$ and a copy of $$\omega_1^{\mathrm{CK}}$$ cannot be far below Kleene's O. What if we can not compute $$\omega_1^{\mathrm{CK}}$$? It turns out we can be quite far away in that case.
 
