@@ -137,6 +137,82 @@
     parsedDate: '2025-01-10'
   version: 491
 - data:
+    DOI: 10.48550/arXiv.2410.22034
+    ISSN: ''
+    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
+      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
+      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
+      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
+      function of lower order than the identity, then there is a closed set $A$ so
+      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
+    accessDate: '2024-10-30T08:48:26Z'
+    archive: arxiv
+    archiveLocation: http://arxiv.org/abs/2410.22034
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Andrew
+      lastName: Marks
+    - creatorType: author
+      firstName: Theodore
+      lastName: Slaman
+    date: '2025'
+    dateAdded: '2024-10-30T08:48:26Z'
+    dateModified: '2025-08-22T09:09:13Z'
+    extra: arXiv:2410.22034
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: U7C8FFE8
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: to appear in Proceedings of the AMS
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Hausdorff dimension and countable Borel equivalence relations
+    url: http://arxiv.org/abs/2403.17493
+    version: 535
+    volume: ''
+  key: U7C8FFE8
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Marks et al.
+    numChildren: 2
+    parsedDate: '2025'
+  version: 535
+- data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
     abstractNote: ''
@@ -386,82 +462,6 @@
     numChildren: 4
     parsedDate: 2024-12
   version: 514
-- data:
-    DOI: 10.48550/arXiv.2410.22034
-    ISSN: ''
-    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
-      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
-      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
-      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
-      function of lower order than the identity, then there is a closed set $A$ so
-      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
-    accessDate: '2024-10-30T08:48:26Z'
-    archive: arxiv
-    archiveLocation: http://arxiv.org/abs/2410.22034
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Andrew
-      lastName: Marks
-    - creatorType: author
-      firstName: Theodore
-      lastName: Slaman
-    date: '2024-10-29'
-    dateAdded: '2024-10-30T08:48:26Z'
-    dateModified: '2024-10-30T15:24:10Z'
-    extra: arXiv:2410.22034
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: U7C8FFE8
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: submitted for publication
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: Mathematics - Logic
-      type: 1
-    title: Hausdorff dimension and countable Borel equivalence relations
-    url: http://arxiv.org/abs/2403.17493
-    version: 467
-    volume: ''
-  key: U7C8FFE8
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Marks et al.
-    numChildren: 2
-    parsedDate: '2024-10-29'
-  version: 467
 - data:
     DOI: 10.48550/arXiv.2402.10029
     ISSN: ''
