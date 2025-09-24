@@ -1,4 +1,92 @@
 - data:
+    DOI: 10.1090/proc/17308
+    ISSN: 0002-9939, 1088-6826
+    abstractNote: ''
+    accessDate: '2025-08-28T06:50:00Z'
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2402.10029
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Uri
+      lastName: Andrews
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    - creatorType: author
+      firstName: Steffen
+      lastName: Lempp
+    - creatorType: author
+      firstName: Hongyu
+      lastName: Zhu
+    date: 2025/09
+    dateAdded: '2024-02-16T14:08:22Z'
+    dateModified: '2025-08-28T06:51:11Z'
+    extra: arxiv:2402.10029
+    issue: 09
+    itemType: journalArticle
+    journalAbbreviation: Proc. Amer. Math. Soc.
+    key: EVACUMCI
+    language: English
+    libraryCatalog: www.ams.org
+    pages: 4013-4024
+    publicationTitle: Proceedings of the American Mathematical Society
+    relations:
+      dc:replaces: http://zotero.org/groups/1553639/items/PNTQ5RB5
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03C62, 03C52, 03E15
+      type: 1
+    - tag: Borel complexity
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    - tag: Models of arithmetic
+      type: 1
+    - tag: countable models
+      type: 1
+    - tag: descriptive set theory
+      type: 1
+    title: The Borel complexity of the class of models of first-order theories
+    url: https://www.ams.org/proc/2025-153-09/S0002-9939-2025-17308-7/
+    version: 541
+    volume: '153'
+  key: EVACUMCI
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/EVACUMCI
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/EVACUMCI
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Andrews et al.
+    numChildren: 2
+    parsedDate: 2025-09
+  version: 541
+- data:
     DOI: 10.48550/arXiv.2507.12025
     ISSN: ''
     abstractNote: We classify the possible Scott complexities for models of Peano
@@ -78,6 +166,82 @@
     numChildren: 2
     parsedDate: '2025-07-16'
   version: 532
+- data:
+    DOI: 10.48550/arXiv.2410.22034
+    ISSN: ''
+    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
+      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
+      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
+      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
+      function of lower order than the identity, then there is a closed set $A$ so
+      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
+    accessDate: '2024-10-30T08:48:26Z'
+    archive: arxiv
+    archiveLocation: http://arxiv.org/abs/2410.22034
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Andrew
+      lastName: Marks
+    - creatorType: author
+      firstName: Theodore
+      lastName: Slaman
+    date: '2025-07-01'
+    dateAdded: '2024-10-30T08:48:26Z'
+    dateModified: '2025-08-28T06:48:16Z'
+    extra: arXiv:2410.22034
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: U7C8FFE8
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: to appear in Proceedings of the AMS
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Hausdorff dimension and countable Borel equivalence relations
+    url: http://arxiv.org/abs/2403.17493
+    version: 538
+    volume: ''
+  key: U7C8FFE8
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Marks et al.
+    numChildren: 2
+    parsedDate: '2025-07-01'
+  version: 538
 - data:
     DOI: 10.1017/jsl.2025.7
     ISSN: 0022-4812, 1943-5886
@@ -317,7 +481,7 @@
       lastName: Gonzalez
     date: 2024/12/13
     dateAdded: '2024-12-17T14:26:05Z'
-    dateModified: '2024-12-17T14:26:41Z'
+    dateModified: '2025-09-08T07:55:10Z'
     extra: ''
     issue: ''
     itemType: journalArticle
@@ -360,8 +524,8 @@
       type: 1
     title: Scott sentence complexities of linear orderings
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/scott-sentence-complexities-of-linear-orderings/095C2954C5F5F7079AB38E118B05B3BF
-    version: 483
-    volume: ''
+    version: 542
+    volume: online
   key: CWMK2Q38
   library:
     id: 1553639
@@ -390,7 +554,7 @@
     creatorSummary: Gonzalez and Rossegger
     numChildren: 1
     parsedDate: '2024-12-13'
-  version: 483
+  version: 542
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: 0219-0613
@@ -466,166 +630,6 @@
     numChildren: 4
     parsedDate: 2024-12
   version: 514
-- data:
-    DOI: 10.48550/arXiv.2410.22034
-    ISSN: ''
-    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
-      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
-      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
-      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
-      function of lower order than the identity, then there is a closed set $A$ so
-      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
-    accessDate: '2024-10-30T08:48:26Z'
-    archive: arxiv
-    archiveLocation: http://arxiv.org/abs/2410.22034
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Andrew
-      lastName: Marks
-    - creatorType: author
-      firstName: Theodore
-      lastName: Slaman
-    date: '2024-10-29'
-    dateAdded: '2024-10-30T08:48:26Z'
-    dateModified: '2024-10-30T15:24:10Z'
-    extra: arXiv:2410.22034
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: U7C8FFE8
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: submitted for publication
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: Mathematics - Logic
-      type: 1
-    title: Hausdorff dimension and countable Borel equivalence relations
-    url: http://arxiv.org/abs/2403.17493
-    version: 467
-    volume: ''
-  key: U7C8FFE8
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Marks et al.
-    numChildren: 2
-    parsedDate: '2024-10-29'
-  version: 467
-- data:
-    DOI: 10.48550/arXiv.2402.10029
-    ISSN: ''
-    abstractNote: We investigate the descriptive complexity of the set of models of
-      first-order theories. Using classical results of Knight and Solovay, we give
-      a sharp condition for complete theories to have a $\boldsymbol\Pi_\omega^0$-complete
-      set of models. We also give sharp conditions for theories to have a $\boldsymbol\Pi^0_n$-complete
-      set of models. Finally, we determine the Turing degrees needed to witness the
-      completeness.
-    accessDate: '2024-02-16T14:08:22Z'
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2402.10029
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Uri
-      lastName: Andrews
-    - creatorType: author
-      firstName: David
-      lastName: Gonzalez
-    - creatorType: author
-      firstName: Steffen
-      lastName: Lempp
-    - creatorType: author
-      firstName: Hongyu
-      lastName: Zhu
-    date: '2024-02-15'
-    dateAdded: '2024-02-16T14:08:22Z'
-    dateModified: '2025-04-03T11:34:10Z'
-    extra: arxiv:2402.10029
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: PNTQ5RB5
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: to appear in Proceedings of the AMS
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03C62, 03C52, 03E15
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: The Borel complexity of the class of models of first-order theories
-    url: http://arxiv.org/abs/2402.10029
-    version: 515
-    volume: ''
-  key: PNTQ5RB5
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/PNTQ5RB5
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/PNTQ5RB5
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Andrews et al.
-    numChildren: 2
-    parsedDate: '2024-02-15'
-  version: 515
 - data:
     DOI: 10.1017/jsl.2023.43
     ISSN: 0022-4812, 1943-5886
