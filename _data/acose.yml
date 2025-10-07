@@ -87,6 +87,87 @@
     parsedDate: 2025-09
   version: 541
 - data:
+    DOI: 10.1093/logcom/exaf034
+    ISSN: 0955-792X
+    abstractNote: "We study countable structures from the viewpoint of enumeration\
+      \ reducibility. Since enumeration reducibility is based on only positive information,\
+      \ in this setting it is natural to consider structures given by their positive\
+      \ atomic diagram\u2014the computable join of all relations of the structure.\
+      \ Fixing a structure ${\\mathcal{A}}$, a natural class of relations in this\
+      \ setting are the relations $R$ such that $R^{\\hat{\\mathcal{A}}}$ is enumeration\
+      \ reducible to the positive atomic diagram of $\\hat{\\mathcal{A}}$ for every\
+      \ $\\hat{\\mathcal{A}}\\cong{\\mathcal{A}}$ \u2013 the relatively intrinsically\
+      \ positively enumerable (r.i.p.e.) relations. We show that the r.i.p.e. relations\
+      \ are exactly the relations that are definable by $\\varSigma ^{p}_{1}$ formulas,\
+      \ a subclass of the infinitary $\\varSigma ^{0}_{1}$ formulas. We then introduce\
+      \ a new natural notion of the jump of a structure and study its interaction\
+      \ with other notions of jumps."
+    accessDate: '2025-10-07T00:29:11Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2206.01135
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Barbara F
+      lastName: Csima
+    - creatorType: author
+      firstName: Luke
+      lastName: MacLean
+    date: '2025-07-01'
+    dateAdded: '2025-10-07T00:29:11Z'
+    dateModified: '2025-10-07T00:29:55Z'
+    extra: ''
+    issue: '5'
+    itemType: journalArticle
+    journalAbbreviation: J Logic Computation
+    key: VGVJ6BX7
+    language: ''
+    libraryCatalog: Silverchair
+    pages: exaf034
+    publicationTitle: Journal of Logic and Computation
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Relations enumerable from positive information
+    url: https://doi.org/10.1093/logcom/exaf034
+    version: 550
+    volume: '35'
+  key: VGVJ6BX7
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/VGVJ6BX7
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/VGVJ6BX7
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Csima et al.
+    numChildren: 2
+    parsedDate: '2025-07-01'
+  version: 550
+- data:
     DOI: 10.48550/arXiv.2410.22034
     ISSN: ''
     abstractNote: We show that if $E$ is a countable Borel equivalence relation on
@@ -836,46 +917,25 @@
     parsedDate: '2022'
   version: 374
 - data:
-    DOI: 10.48550/arXiv.2206.01135
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2206.01135
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Barbara F.
-      lastName: Csima
-    - creatorType: author
-      firstName: Luke
-      lastName: MacLean
-    date: '2022'
-    dateAdded: '2022-05-31T22:07:27Z'
-    dateModified: '2024-05-15T11:46:52Z'
-    extra: arxiv:2206.01135
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: N6GBYDDG
-    language: ''
-    libraryCatalog: ''
-    pages: ''
-    publicationTitle: submitted for publication
+    accessDate: '2025-10-07T00:29:20Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2025-10-07T00:29:20Z'
+    dateModified: '2025-10-07T00:29:20Z'
+    filename: Csima et al. - 2025 - Relations enumerable from positive information.pdf
+    itemType: attachment
+    key: HA72C2E6
+    linkMode: imported_url
+    md5: 5baeeb9208501c59b6e55f8a2fda14f7
+    mtime: 1759796960906
+    note: ''
+    parentItem: VGVJ6BX7
     relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
     tags: []
-    title: Relations enumerable from positive information
-    url: https://arxiv.org/abs/2206.01135
-    version: 371
-    volume: ''
-  key: N6GBYDDG
+    title: Full Text PDF
+    url: https://academic.oup.com/logcom/article-pdf/35/5/exaf034/63563099/exaf034.pdf
+    version: 546
+  key: HA72C2E6
   library:
     id: 1553639
     links:
@@ -886,10 +946,13 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/N6GBYDDG
+      href: https://www.zotero.org/groups/dinorossownpub/items/HA72C2E6
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/N6GBYDDG
+      href: https://api.zotero.org/groups/1553639/items/HA72C2E6
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/VGVJ6BX7
       type: application/json
   meta:
     createdByUser:
@@ -900,10 +963,8 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-    creatorSummary: Csima et al.
     numChildren: 0
-    parsedDate: '2022'
-  version: 371
+  version: 546
 - data:
     accessDate: '2024-02-16T14:08:23Z'
     charset: ''
