@@ -197,7 +197,7 @@
       lastName: MacLean
     date: '2025-07-01'
     dateAdded: '2025-10-07T00:29:11Z'
-    dateModified: '2025-10-07T00:29:55Z'
+    dateModified: '2025-11-07T10:54:41Z'
     extra: ''
     issue: '5'
     itemType: journalArticle
@@ -205,7 +205,7 @@
     key: VGVJ6BX7
     language: ''
     libraryCatalog: Silverchair
-    pages: exaf034
+    pages: 1-15
     publicationTitle: Journal of Logic and Computation
     relations: {}
     rights: ''
@@ -216,7 +216,7 @@
     tags: []
     title: Relations enumerable from positive information
     url: https://doi.org/10.1093/logcom/exaf034
-    version: 550
+    version: 555
     volume: '35'
   key: VGVJ6BX7
   library:
@@ -246,9 +246,9 @@
     creatorSummary: Csima et al.
     numChildren: 2
     parsedDate: '2025-07-01'
-  version: 550
+  version: 555
 - data:
-    DOI: 10.48550/arXiv.2410.22034
+    DOI: https://doi.org/10.1090/proc/17496
     ISSN: ''
     abstractNote: We show that if $E$ is a countable Borel equivalence relation on
       $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
@@ -271,7 +271,7 @@
       lastName: Slaman
     date: '2025-07-01'
     dateAdded: '2024-10-30T08:48:26Z'
-    dateModified: '2025-08-28T06:48:16Z'
+    dateModified: '2025-11-07T10:52:48Z'
     extra: arXiv:2410.22034
     issue: ''
     itemType: journalArticle
@@ -292,7 +292,7 @@
       type: 1
     title: Hausdorff dimension and countable Borel equivalence relations
     url: http://arxiv.org/abs/2403.17493
-    version: 538
+    version: 553
     volume: ''
   key: U7C8FFE8
   library:
@@ -322,7 +322,7 @@
     creatorSummary: Marks et al.
     numChildren: 2
     parsedDate: '2025-07-01'
-  version: 538
+  version: 553
 - data:
     DOI: 10.1017/jsl.2025.7
     ISSN: 0022-4812, 1943-5886
