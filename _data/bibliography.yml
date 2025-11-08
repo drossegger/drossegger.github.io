@@ -1,4 +1,84 @@
 - data:
+    DOI: 10.48550/arXiv.2507.12025
+    ISSN: ''
+    abstractNote: We classify the possible Scott complexities for models of Peano
+      arithmetic. We construct models of particular complexities by first giving a
+      complete Scott analysis of colored linear orderings and constructing models
+      of Peano arithmetic from these colored orderings. We also provide tight connections
+      of certain Scott complexities with notions from the classical theory of models
+      of Peano arithmetic, such as prime, finitely generated, and recursively saturated.
+      This effort provides a powerful set of tools to understand the models of Peano
+      arithmetic.
+    accessDate: '2025-07-17T10:45:13Z'
+    archive: arxiv
+    archiveLocation: http://arxiv.org/abs/2507.12025
+    callNumber: ''
+    collections: []
+    creators:
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    - creatorType: author
+      firstName: Mateusz
+      lastName: "\u0141e\u0142yk"
+    - creatorType: author
+      firstName: Patryk
+      lastName: Szlufik
+    date: 2025/09
+    dateAdded: '2025-07-17T10:45:13Z'
+    dateModified: '2025-11-07T10:56:07Z'
+    extra: arXiv:2507.12025 [math]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: LKFC4J6K
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Classifying the complexity of models of arithmetic
+    url: http://arxiv.org/abs/2507.12025
+    version: 556
+    volume: ''
+  key: LKFC4J6K
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/LKFC4J6K
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/LKFC4J6K
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Gonzalez et al.
+    numChildren: 2
+    parsedDate: 2025-09
+  version: 556
+- data:
     DOI: 10.1090/proc/17308
     ISSN: 0002-9939, 1088-6826
     abstractNote: ''
@@ -87,43 +167,39 @@
     parsedDate: 2025-09
   version: 541
 - data:
-    DOI: 10.48550/arXiv.2507.12025
+    DOI: https://doi.org/10.1090/proc/17496
     ISSN: ''
-    abstractNote: We classify the possible Scott complexities for models of Peano
-      arithmetic. We construct models of particular complexities by first giving a
-      complete Scott analysis of colored linear orderings and constructing models
-      of Peano arithmetic from these colored orderings. We also provide tight connections
-      of certain Scott complexities with notions from the classical theory of models
-      of Peano arithmetic, such as prime, finitely generated, and recursively saturated.
-      This effort provides a powerful set of tools to understand the models of Peano
-      arithmetic.
-    accessDate: '2025-07-17T10:45:13Z'
+    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
+      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
+      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
+      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
+      function of lower order than the identity, then there is a closed set $A$ so
+      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
+    accessDate: '2024-10-30T08:48:26Z'
     archive: arxiv
-    archiveLocation: http://arxiv.org/abs/2507.12025
+    archiveLocation: http://arxiv.org/abs/2410.22034
     callNumber: ''
-    collections: []
+    collections:
+    - 3T8QH7NR
     creators:
     - creatorType: author
-      firstName: David
-      lastName: Gonzalez
+      firstName: Andrew
+      lastName: Marks
     - creatorType: author
-      firstName: Mateusz
-      lastName: "\u0141e\u0142yk"
-    - creatorType: author
-      firstName: Patryk
-      lastName: Szlufik
-    date: '2025-07-16'
-    dateAdded: '2025-07-17T10:45:13Z'
-    dateModified: '2025-07-17T10:48:36Z'
-    extra: arXiv:2507.12025 [math]
+      firstName: Theodore
+      lastName: Slaman
+    date: '2025-07-01'
+    dateAdded: '2024-10-30T08:48:26Z'
+    dateModified: '2025-11-07T11:01:41Z'
+    extra: arXiv:2410.22034
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
-    key: LKFC4J6K
+    key: U7C8FFE8
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
-    publicationTitle: submitted for publication
+    publicationTitle: Proceedings of the American Mathematical Society
     relations: {}
     rights: ''
     series: ''
@@ -133,11 +209,11 @@
     tags:
     - tag: Mathematics - Logic
       type: 1
-    title: Classifying the complexity of models of arithmetic
-    url: http://arxiv.org/abs/2507.12025
-    version: 532
-    volume: ''
-  key: LKFC4J6K
+    title: Hausdorff dimension and countable Borel equivalence relations
+    url: http://arxiv.org/abs/2403.17493
+    version: 560
+    volume: in press
+  key: U7C8FFE8
   library:
     id: 1553639
     links:
@@ -148,10 +224,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/LKFC4J6K
+      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/LKFC4J6K
+      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
       type: application/json
   meta:
     createdByUser:
@@ -162,10 +238,10 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-    creatorSummary: Gonzalez et al.
+    creatorSummary: Marks et al.
     numChildren: 2
-    parsedDate: '2025-07-16'
-  version: 532
+    parsedDate: '2025-07-01'
+  version: 560
 - data:
     DOI: 10.1093/logcom/exaf034
     ISSN: 0955-792X
@@ -248,82 +324,6 @@
     parsedDate: '2025-07-01'
   version: 555
 - data:
-    DOI: https://doi.org/10.1090/proc/17496
-    ISSN: ''
-    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
-      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
-      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
-      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
-      function of lower order than the identity, then there is a closed set $A$ so
-      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
-    accessDate: '2024-10-30T08:48:26Z'
-    archive: arxiv
-    archiveLocation: http://arxiv.org/abs/2410.22034
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Andrew
-      lastName: Marks
-    - creatorType: author
-      firstName: Theodore
-      lastName: Slaman
-    date: '2025-07-01'
-    dateAdded: '2024-10-30T08:48:26Z'
-    dateModified: '2025-11-07T10:52:48Z'
-    extra: arXiv:2410.22034
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: U7C8FFE8
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: to appear in Proceedings of the AMS
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: Mathematics - Logic
-      type: 1
-    title: Hausdorff dimension and countable Borel equivalence relations
-    url: http://arxiv.org/abs/2403.17493
-    version: 553
-    volume: ''
-  key: U7C8FFE8
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Marks et al.
-    numChildren: 2
-    parsedDate: '2025-07-01'
-  version: 553
-- data:
     DOI: 10.1017/jsl.2025.7
     ISSN: 0022-4812, 1943-5886
     abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0022481225000076/resource/name/firstPage-pdf-S0022481225000076a.jpg
@@ -342,7 +342,7 @@
       lastName: Steifer
     date: 2025/02/03
     dateAdded: '2025-02-17T09:31:41Z'
-    dateModified: '2025-02-17T09:32:37Z'
+    dateModified: '2025-11-07T10:57:25Z'
     extra: ''
     issue: ''
     itemType: journalArticle
@@ -350,7 +350,7 @@
     key: PX7IHN27
     language: en
     libraryCatalog: Cambridge University Press
-    pages: 1-18
+    pages: 1-19
     publicationTitle: The Journal of Symbolic Logic
     relations: {}
     rights: ''
@@ -361,8 +361,8 @@
     tags: []
     title: Learning Equivalence Relations on Polish Spaces
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/learning-equivalence-relations-on-polish-spaces/EEAF0148F83F4C67E8D25E4CB9CDB319
-    version: 506
-    volume: ''
+    version: 558
+    volume: first view
   key: PX7IHN27
   library:
     id: 1553639
@@ -391,7 +391,7 @@
     creatorSummary: Rossegger et al.
     numChildren: 0
     parsedDate: '2025-02-03'
-  version: 506
+  version: 558
 - data:
     DOI: 10.1017/bsl.2025.2
     ISSN: 1079-8986, 1943-5894
@@ -562,7 +562,7 @@
       lastName: Gonzalez
     date: 2024/12/13
     dateAdded: '2024-12-17T14:26:05Z'
-    dateModified: '2025-09-08T07:55:10Z'
+    dateModified: '2025-11-07T11:00:59Z'
     extra: ''
     issue: ''
     itemType: journalArticle
@@ -605,8 +605,8 @@
       type: 1
     title: Scott sentence complexities of linear orderings
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/scott-sentence-complexities-of-linear-orderings/095C2954C5F5F7079AB38E118B05B3BF
-    version: 542
-    volume: online
+    version: 559
+    volume: first view
   key: CWMK2Q38
   library:
     id: 1553639
@@ -635,7 +635,7 @@
     creatorSummary: Gonzalez and Rossegger
     numChildren: 1
     parsedDate: '2024-12-13'
-  version: 542
+  version: 559
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: 0219-0613
