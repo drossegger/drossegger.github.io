@@ -4,7 +4,7 @@
     abstractNote: ''
     accessDate: '2025-08-28T06:50:00Z'
     archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2402.10029
+    archiveLocation: https://arxiv.org/abs/2402.10029
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -23,7 +23,7 @@
       lastName: Zhu
     date: 2025/09
     dateAdded: '2024-02-16T14:08:22Z'
-    dateModified: '2025-08-28T06:51:11Z'
+    dateModified: '2025-11-11T12:44:36Z'
     extra: arxiv:2402.10029
     issue: 09
     itemType: journalArticle
@@ -55,7 +55,7 @@
       type: 1
     title: The Borel complexity of the class of models of first-order theories
     url: https://www.ams.org/proc/2025-153-09/S0002-9939-2025-17308-7/
-    version: 541
+    version: 577
     volume: '153'
   key: EVACUMCI
   library:
@@ -85,9 +85,78 @@
     creatorSummary: Andrews et al.
     numChildren: 2
     parsedDate: 2025-09
-  version: 541
+  version: 577
 - data:
-    DOI: https://doi.org/10.1090/proc/17496
+    DOI: 10.1017/bsl.2025.2
+    ISSN: 1079-8986, 1943-5894
+    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
+    accessDate: '2025-01-13T10:45:53Z'
+    archive: arxiv
+    archiveLocation: https://arxiv.org/abs/2405.09275
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Fedor
+      lastName: Pakhomov
+    - creatorType: author
+      firstName: Michael
+      lastName: Rathjen
+    date: 2025/09
+    dateAdded: '2025-01-13T10:45:53Z'
+    dateModified: '2025-11-11T10:43:51Z'
+    extra: ''
+    issue: '3'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: UK54UW9B
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 462-487
+    publicationTitle: Bulletin of Symbolic Logic
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Feferman's completeness theorem
+    url: https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/fefermans-completeness-theorem/2050717AF10C1D99BE37FD94790463A5
+    version: 564
+    volume: '31'
+  key: UK54UW9B
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/UK54UW9B
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Pakhomov et al.
+    numChildren: 1
+    parsedDate: 2025-09
+  version: 564
+- data:
+    DOI: 10.1090/proc/17496
     ISSN: ''
     abstractNote: We show that if $E$ is a countable Borel equivalence relation on
       $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
@@ -97,7 +166,7 @@
       that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
     accessDate: '2024-10-30T08:48:26Z'
     archive: arxiv
-    archiveLocation: http://arxiv.org/abs/2410.22034
+    archiveLocation: https://arxiv.org/abs/2410.22034
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -110,7 +179,7 @@
       lastName: Slaman
     date: '2025-07-01'
     dateAdded: '2024-10-30T08:48:26Z'
-    dateModified: '2025-11-07T11:01:41Z'
+    dateModified: '2025-11-11T12:44:01Z'
     extra: arXiv:2410.22034
     issue: ''
     itemType: journalArticle
@@ -131,7 +200,7 @@
       type: 1
     title: Hausdorff dimension and countable Borel equivalence relations
     url: http://arxiv.org/abs/2403.17493
-    version: 560
+    version: 574
     volume: in press
   key: U7C8FFE8
   library:
@@ -161,7 +230,7 @@
     creatorSummary: Marks et al.
     numChildren: 2
     parsedDate: '2025-07-01'
-  version: 560
+  version: 574
 - data:
     DOI: 10.1093/logcom/exaf034
     ISSN: 0955-792X
@@ -249,7 +318,7 @@
     abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0022481225000076/resource/name/firstPage-pdf-S0022481225000076a.jpg
     accessDate: '2025-02-17T09:31:41Z'
     archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2403.17493
+    archiveLocation: https://arxiv.org/abs/2403.17493
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -262,7 +331,7 @@
       lastName: Steifer
     date: 2025/02/03
     dateAdded: '2025-02-17T09:31:41Z'
-    dateModified: '2025-11-07T10:57:25Z'
+    dateModified: '2025-11-11T12:43:49Z'
     extra: ''
     issue: ''
     itemType: journalArticle
@@ -281,7 +350,7 @@
     tags: []
     title: Learning Equivalence Relations on Polish Spaces
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/learning-equivalence-relations-on-polish-spaces/EEAF0148F83F4C67E8D25E4CB9CDB319
-    version: 558
+    version: 573
     volume: first view
   key: PX7IHN27
   library:
@@ -311,76 +380,7 @@
     creatorSummary: Rossegger et al.
     numChildren: 0
     parsedDate: '2025-02-03'
-  version: 558
-- data:
-    DOI: 10.1017/bsl.2025.2
-    ISSN: 1079-8986, 1943-5894
-    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
-    accessDate: '2025-01-13T10:45:53Z'
-    archive: arxiv
-    archiveLocation: https://arxiv.org/abs/2405.09275
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Fedor
-      lastName: Pakhomov
-    - creatorType: author
-      firstName: Michael
-      lastName: Rathjen
-    date: 2025/01/10
-    dateAdded: '2025-01-13T10:45:53Z'
-    dateModified: '2025-01-13T10:46:35Z'
-    extra: ''
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: UK54UW9B
-    language: en
-    libraryCatalog: Cambridge University Press
-    pages: 1-21
-    publicationTitle: Bulletin of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags: []
-    title: Feferman's completeness theorem
-    url: https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/fefermans-completeness-theorem/2050717AF10C1D99BE37FD94790463A5
-    version: 491
-    volume: ''
-  key: UK54UW9B
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/UK54UW9B
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Pakhomov et al.
-    numChildren: 1
-    parsedDate: '2025-01-10'
-  version: 491
+  version: 573
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
@@ -472,7 +472,7 @@
       \ complexities of structures."
     accessDate: '2024-12-17T14:26:05Z'
     archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2305.07126
+    archiveLocation: https://arxiv.org/abs/2305.07126
     callNumber: ''
     collections:
     - 3T8QH7NR
@@ -482,7 +482,7 @@
       lastName: Gonzalez
     date: 2024/12/13
     dateAdded: '2024-12-17T14:26:05Z'
-    dateModified: '2025-11-07T11:00:59Z'
+    dateModified: '2025-11-11T12:44:06Z'
     extra: ''
     issue: ''
     itemType: journalArticle
@@ -525,7 +525,7 @@
       type: 1
     title: Scott sentence complexities of linear orderings
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/scott-sentence-complexities-of-linear-orderings/095C2954C5F5F7079AB38E118B05B3BF
-    version: 559
+    version: 575
     volume: first view
   key: CWMK2Q38
   library:
@@ -555,7 +555,7 @@
     creatorSummary: Gonzalez and Rossegger
     numChildren: 1
     parsedDate: '2024-12-13'
-  version: 559
+  version: 575
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: 0219-0613
@@ -632,6 +632,75 @@
     parsedDate: 2024-12
   version: 514
 - data:
+    DOI: 10.1007/978-3-031-64309-5_7
+    ISBN: 978-3-031-64309-5
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2405.08442
+    callNumber: ''
+    collections:
+    - 3T8QH7NR
+    conferenceName: Computability in Europe
+    creators:
+    - creatorType: author
+      firstName: Meng-Che
+      lastName: "\u201CTurbo\u201D Ho"
+    - creatorType: author
+      firstName: Khanh
+      lastName: Le
+    date: '2024'
+    dateAdded: '2024-07-30T11:31:42Z'
+    dateModified: '2025-11-11T12:43:41Z'
+    extra: arxiv:2405.08442
+    itemType: conferencePaper
+    key: 68T4RQSQ
+    language: en
+    libraryCatalog: Springer Link
+    pages: 72-84
+    place: Cham
+    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
+    publisher: Springer Nature Switzerland
+    relations: {}
+    rights: ''
+    series: Lecture Notes in Computer Science
+    shortTitle: ''
+    tags: []
+    title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
+      \ Groups via\_its Dynamical Realization"
+    url: ''
+    version: 572
+    volume: '14773'
+  key: 68T4RQSQ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/68T4RQSQ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/68T4RQSQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: "\u201CTurbo\u201D Ho et al."
+    numChildren: 0
+    parsedDate: '2024'
+  version: 572
+- data:
     DOI: 10.1017/jsl.2023.43
     ISSN: 0022-4812, 1943-5886
     abstractNote: ''
@@ -701,75 +770,6 @@
     numChildren: 1
     parsedDate: '2024'
   version: 518
-- data:
-    DOI: 10.1007/978-3-031-64309-5_7
-    ISBN: 978-3-031-64309-5
-    abstractNote: ''
-    accessDate: ''
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2405.08442
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    conferenceName: Computability in Europe
-    creators:
-    - creatorType: author
-      firstName: Meng-Che
-      lastName: "\u201CTurbo\u201D Ho"
-    - creatorType: author
-      firstName: Khanh
-      lastName: Le
-    date: '2024'
-    dateAdded: '2024-07-30T11:31:42Z'
-    dateModified: '2024-09-23T09:24:51Z'
-    extra: arxiv:2405.08442
-    itemType: conferencePaper
-    key: 68T4RQSQ
-    language: en
-    libraryCatalog: Springer Link
-    pages: 72-84
-    place: Cham
-    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
-    publisher: Springer Nature Switzerland
-    relations: {}
-    rights: ''
-    series: Lecture Notes in Computer Science
-    shortTitle: ''
-    tags: []
-    title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
-      \ Groups via\_its Dynamical Realization"
-    url: ''
-    version: 452
-    volume: '14773'
-  key: 68T4RQSQ
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/68T4RQSQ
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/68T4RQSQ
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: "\u201CTurbo\u201D Ho et al."
-    numChildren: 0
-    parsedDate: '2024'
-  version: 452
 - data:
     DOI: 10.1007/978-3-031-64309-5_14
     ISBN: 978-3-031-64309-5
