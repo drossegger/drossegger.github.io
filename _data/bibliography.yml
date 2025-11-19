@@ -8,6 +8,7 @@
     callNumber: ''
     collections:
     - 3T8QH7NR
+    - HYV9UV57
     creators:
     - creatorType: author
       firstName: Uri
@@ -55,7 +56,7 @@
       type: 1
     title: The Borel complexity of the class of models of first-order theories
     url: https://www.ams.org/proc/2025-153-09/S0002-9939-2025-17308-7/
-    version: 577
+    version: 580
     volume: '153'
   key: EVACUMCI
   library:
@@ -85,7 +86,7 @@
     creatorSummary: Andrews et al.
     numChildren: 2
     parsedDate: 2025-09
-  version: 577
+  version: 580
 - data:
     DOI: 10.48550/arXiv.2507.12025
     ISSN: ''
