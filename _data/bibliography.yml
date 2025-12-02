@@ -9,7 +9,7 @@
       the extent to which these two learning criteria remain uniformly equivalent.
     accessDate: '2025-12-02T10:18:33Z'
     archive: ''
-    archiveLocation: '2512.01867'
+    archiveLocation: https://arxiv.org/abs/2512.01867
     callNumber: ''
     collections:
     - MN5KEVEP
@@ -19,8 +19,8 @@
       lastName: Cipriani
     date: '2025-12-01'
     dateAdded: '2025-12-02T10:18:33Z'
-    dateModified: '2025-12-02T10:19:29Z'
-    extra: arXiv:2512.01867 [math]
+    dateModified: '2025-12-02T10:22:33Z'
+    extra: arXiv:2512.01867
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
@@ -40,7 +40,7 @@
       type: 1
     title: Uniformity in learning structures
     url: http://arxiv.org/abs/2512.01867
-    version: 591
+    version: 594
     volume: ''
   key: RXT9MWGQ
   library:
@@ -70,7 +70,7 @@
     creatorSummary: Cipriani and Rossegger
     numChildren: 2
     parsedDate: '2025-12-01'
-  version: 591
+  version: 594
 - data:
     DOI: 10.48550/arXiv.2507.12025
     ISSN: ''
