@@ -1,4 +1,158 @@
 - data:
+    DOI: 10.48550/arXiv.2512.01867
+    ISSN: ''
+    abstractNote: The standard framework for studying learning problems on algebraic
+      structures assumes that the structures in the target family are pairwise nonisomorphic.
+      Under this assumption, the most widely investigated learning criterion--Ex-learning--becomes
+      inherently equivalent to the well-known paradigm of Bc-learning. This paper
+      explores what happens when the nonisomorphism requirement is removed and analyzes
+      the extent to which these two learning criteria remain uniformly equivalent.
+    accessDate: '2025-12-02T10:18:33Z'
+    archive: ''
+    archiveLocation: '2512.01867'
+    callNumber: ''
+    collections:
+    - MN5KEVEP
+    creators:
+    - creatorType: author
+      firstName: Vittorio
+      lastName: Cipriani
+    date: '2025-12-01'
+    dateAdded: '2025-12-02T10:18:33Z'
+    dateModified: '2025-12-02T10:19:29Z'
+    extra: arXiv:2512.01867 [math]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: RXT9MWGQ
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Uniformity in learning structures
+    url: http://arxiv.org/abs/2512.01867
+    version: 591
+    volume: ''
+  key: RXT9MWGQ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/RXT9MWGQ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/RXT9MWGQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Cipriani and Rossegger
+    numChildren: 2
+    parsedDate: '2025-12-01'
+  version: 591
+- data:
+    DOI: 10.48550/arXiv.2507.12025
+    ISSN: ''
+    abstractNote: We classify the possible Scott complexities for models of Peano
+      arithmetic. We construct models of particular complexities by first giving a
+      complete Scott analysis of colored linear orderings and constructing models
+      of Peano arithmetic from these colored orderings. We also provide tight connections
+      of certain Scott complexities with notions from the classical theory of models
+      of Peano arithmetic, such as prime, finitely generated, and recursively saturated.
+      This effort provides a powerful set of tools to understand the models of Peano
+      arithmetic.
+    accessDate: '2025-07-17T10:45:13Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2507.12025
+    callNumber: ''
+    collections:
+    - MN5KEVEP
+    creators:
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    - creatorType: author
+      firstName: Mateusz
+      lastName: "\u0141e\u0142yk"
+    - creatorType: author
+      firstName: Patryk
+      lastName: Szlufik
+    date: 2025/09
+    dateAdded: '2025-07-17T10:45:13Z'
+    dateModified: '2025-11-11T12:44:11Z'
+    extra: arXiv:2507.12025 [math]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: LKFC4J6K
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    publicationTitle: submitted for publication
+    relations: {}
+    rights: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Classifying the complexity of models of arithmetic
+    url: http://arxiv.org/abs/2507.12025
+    version: 584
+    volume: ''
+  key: LKFC4J6K
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/LKFC4J6K
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/LKFC4J6K
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Gonzalez et al.
+    numChildren: 2
+    parsedDate: 2025-09
+  version: 584
+- data:
     DOI: 10.1017/bsl.2025.2
     ISSN: 1079-8986, 1943-5894
     abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
@@ -157,86 +311,6 @@
     numChildren: 2
     parsedDate: 2025-09
   version: 580
-- data:
-    DOI: 10.48550/arXiv.2507.12025
-    ISSN: ''
-    abstractNote: We classify the possible Scott complexities for models of Peano
-      arithmetic. We construct models of particular complexities by first giving a
-      complete Scott analysis of colored linear orderings and constructing models
-      of Peano arithmetic from these colored orderings. We also provide tight connections
-      of certain Scott complexities with notions from the classical theory of models
-      of Peano arithmetic, such as prime, finitely generated, and recursively saturated.
-      This effort provides a powerful set of tools to understand the models of Peano
-      arithmetic.
-    accessDate: '2025-07-17T10:45:13Z'
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2507.12025
-    callNumber: ''
-    collections: []
-    creators:
-    - creatorType: author
-      firstName: David
-      lastName: Gonzalez
-    - creatorType: author
-      firstName: Mateusz
-      lastName: "\u0141e\u0142yk"
-    - creatorType: author
-      firstName: Patryk
-      lastName: Szlufik
-    date: 2025/09
-    dateAdded: '2025-07-17T10:45:13Z'
-    dateModified: '2025-11-11T12:44:11Z'
-    extra: arXiv:2507.12025 [math]
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: LKFC4J6K
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: submitted for publication
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: Mathematics - Logic
-      type: 1
-    title: Classifying the complexity of models of arithmetic
-    url: http://arxiv.org/abs/2507.12025
-    version: 576
-    volume: ''
-  key: LKFC4J6K
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/LKFC4J6K
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/LKFC4J6K
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Gonzalez et al.
-    numChildren: 2
-    parsedDate: 2025-09
-  version: 576
 - data:
     DOI: 10.1090/proc/17496
     ISSN: ''
@@ -1775,70 +1849,3 @@
     numChildren: 0
     parsedDate: '2017'
   version: 292
-- data:
-    DOI: ''
-    ISBN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    collections: []
-    conferenceName: 11th Panhellenic Logic Symposium
-    creators:
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Luca
-      lastName: San Mauro
-    date: '2017'
-    dateAdded: '2017-07-19T10:00:31Z'
-    dateModified: '2017-07-26T13:49:05Z'
-    extra: ''
-    itemType: conferencePaper
-    key: 49VNIP5S
-    language: ''
-    libraryCatalog: ''
-    pages: 83-89
-    place: Delfi, Greece
-    proceedingsTitle: Proc. of the 11th Panhellenic Logic Symposium
-    publisher: ''
-    relations: {}
-    rights: ''
-    series: ''
-    shortTitle: ''
-    tags: []
-    title: Reducibility and bi-reducibility spectra of equivalence relations
-    url: ''
-    version: 8
-    volume: ''
-  key: 49VNIP5S
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/49VNIP5S
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/49VNIP5S
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Fokina et al.
-    numChildren: 0
-    parsedDate: '2017'
-  version: 8
