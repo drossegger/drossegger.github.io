@@ -8,7 +8,7 @@
       explores what happens when the nonisomorphism requirement is removed and analyzes
       the extent to which these two learning criteria remain uniformly equivalent.
     accessDate: '2025-12-02T10:18:33Z'
-    archive: ''
+    archive: arXiv
     archiveLocation: https://arxiv.org/abs/2512.01867
     callNumber: ''
     collections:
@@ -19,7 +19,7 @@
       lastName: Cipriani
     date: '2025-12-01'
     dateAdded: '2025-12-02T10:18:33Z'
-    dateModified: '2025-12-02T10:22:33Z'
+    dateModified: '2025-12-02T10:25:06Z'
     extra: arXiv:2512.01867
     issue: ''
     itemType: journalArticle
@@ -40,7 +40,7 @@
       type: 1
     title: Uniformity in learning structures
     url: http://arxiv.org/abs/2512.01867
-    version: 594
+    version: 597
     volume: ''
   key: RXT9MWGQ
   library:
@@ -70,7 +70,7 @@
     creatorSummary: Cipriani and Rossegger
     numChildren: 2
     parsedDate: '2025-12-01'
-  version: 594
+  version: 597
 - data:
     DOI: 10.48550/arXiv.2507.12025
     ISSN: ''
