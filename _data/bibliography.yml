@@ -1,6 +1,8 @@
 - data:
     DOI: 10.48550/arXiv.2512.01867
     ISSN: ''
+    PMCID: ''
+    PMID: ''
     abstractNote: The standard framework for studying learning problems on algebraic
       structures assumes that the structures in the target family are pairwise nonisomorphic.
       Under this assumption, the most widely investigated learning criterion--Ex-learning--becomes
@@ -8,9 +10,11 @@
       explores what happens when the nonisomorphism requirement is removed and analyzes
       the extent to which these two learning criteria remain uniformly equivalent.
     accessDate: '2025-12-02T10:18:33Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2512.01867
     callNumber: ''
+    citationKey: ''
     collections:
     - MN5KEVEP
     creators:
@@ -28,9 +32,14 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: submitted for publication
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -74,6 +83,8 @@
 - data:
     DOI: 10.48550/arXiv.2507.12025
     ISSN: ''
+    PMCID: ''
+    PMID: ''
     abstractNote: We classify the possible Scott complexities for models of Peano
       arithmetic. We construct models of particular complexities by first giving a
       complete Scott analysis of colored linear orderings and constructing models
@@ -83,9 +94,11 @@
       This effort provides a powerful set of tools to understand the models of Peano
       arithmetic.
     accessDate: '2025-07-17T10:45:13Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2507.12025
     callNumber: ''
+    citationKey: ''
     collections:
     - MN5KEVEP
     creators:
@@ -109,9 +122,14 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: submitted for publication
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -155,11 +173,15 @@
 - data:
     DOI: 10.1017/bsl.2025.2
     ISSN: 1079-8986, 1943-5894
+    PMCID: ''
+    PMID: ''
     abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
     accessDate: '2025-01-13T10:45:53Z'
+    arXivID: ''
     archive: arxiv
     archiveLocation: https://arxiv.org/abs/2405.09275
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     - HYV9UV57
@@ -181,9 +203,14 @@
     language: en
     libraryCatalog: Cambridge University Press
     pages: 462-487
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Bulletin of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -225,11 +252,15 @@
 - data:
     DOI: 10.1090/proc/17308
     ISSN: 0002-9939, 1088-6826
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2025-08-28T06:50:00Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2402.10029
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     - HYV9UV57
@@ -257,10 +288,15 @@
     language: English
     libraryCatalog: www.ams.org
     pages: 4013-4024
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Proceedings of the American Mathematical Society
+    publisher: ''
     relations:
       dc:replaces: http://zotero.org/groups/1553639/items/PNTQ5RB5
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -314,6 +350,8 @@
 - data:
     DOI: 10.1090/proc/17496
     ISSN: ''
+    PMCID: ''
+    PMID: ''
     abstractNote: We show that if $E$ is a countable Borel equivalence relation on
       $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
       dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
@@ -321,9 +359,11 @@
       function of lower order than the identity, then there is a closed set $A$ so
       that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
     accessDate: '2024-10-30T08:48:26Z'
+    arXivID: ''
     archive: arxiv
     archiveLocation: https://arxiv.org/abs/2410.22034
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     - HYV9UV57
@@ -345,9 +385,14 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: ''
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Proceedings of the American Mathematical Society
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -391,6 +436,8 @@
 - data:
     DOI: 10.1093/logcom/exaf034
     ISSN: 0955-792X
+    PMCID: ''
+    PMID: ''
     abstractNote: "We study countable structures from the viewpoint of enumeration\
       \ reducibility. Since enumeration reducibility is based on only positive information,\
       \ in this setting it is natural to consider structures given by their positive\
@@ -405,9 +452,11 @@
       \ a new natural notion of the jump of a structure and study its interaction\
       \ with other notions of jumps."
     accessDate: '2025-10-07T00:29:11Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2206.01135
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     - HYV9UV57
@@ -429,9 +478,14 @@
     language: ''
     libraryCatalog: Silverchair
     pages: 1-15
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Journal of Logic and Computation
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -473,11 +527,15 @@
 - data:
     DOI: 10.1017/jsl.2025.7
     ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
     abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0022481225000076/resource/name/firstPage-pdf-S0022481225000076a.jpg
     accessDate: '2025-02-17T09:31:41Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2403.17493
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -498,9 +556,14 @@
     language: en
     libraryCatalog: Cambridge University Press
     pages: 1-19
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -542,11 +605,15 @@
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2024-03-15T15:27:24Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2301.09940
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -573,9 +640,14 @@
     language: en
     libraryCatalog: Cambridge University Press
     pages: 854-871
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -617,6 +689,8 @@
 - data:
     DOI: 10.1017/jsl.2024.59
     ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
     abstractNote: "We study possible Scott sentence complexities of linear orderings\
       \ using two approaches. First, we investigate the effect of the Friedman\u2013\
       Stanley embedding on Scott sentence complexity and show that it only preserves\
@@ -629,9 +703,11 @@
       \ new techniques which appear to be helpful to calculate the Scott sentence\
       \ complexities of structures."
     accessDate: '2024-12-17T14:26:05Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2305.07126
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -649,9 +725,14 @@
     language: en
     libraryCatalog: Cambridge University Press
     pages: 1-30
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -717,11 +798,15 @@
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: 0219-0613
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2025-01-28T14:54:25Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2209.04524
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -739,10 +824,15 @@
     language: ''
     libraryCatalog: worldscientific.com (Atypon)
     pages: '2450002'
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Journal of Mathematical Logic
+    publisher: ''
     relations:
       dc:replaces: http://zotero.org/groups/1553639/items/EKYIJ9WI
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -792,11 +882,13 @@
 - data:
     DOI: 10.1007/978-3-031-64309-5_7
     ISBN: 978-3-031-64309-5
+    ISSN: ''
     abstractNote: ''
     accessDate: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2405.08442
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     conferenceName: Computability in Europe
@@ -861,11 +953,15 @@
 - data:
     DOI: 10.1017/jsl.2023.43
     ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2022-08-08T15:44:57Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2208.01697
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -883,9 +979,14 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: 1703-1719
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -931,6 +1032,7 @@
 - data:
     DOI: 10.1007/978-3-031-64309-5_14
     ISBN: 978-3-031-64309-5
+    ISSN: ''
     abstractNote: "We adapt the classical notion of learning from text to computable\
       \ structure theory. Our main result is a model-theoretic characterization of\
       \ the learnability from text for classes of structures. We show that a family\
@@ -941,6 +1043,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2402.05744
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     conferenceName: Computability in Europe
@@ -1010,11 +1113,15 @@
 - data:
     DOI: 10.1016/j.apal.2021.103060
     ISSN: 0168-0072
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2021-11-24T21:48:23Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2005.07829
     callNumber: ''
+    citationKey: ''
     collections: []
     creators:
     - creatorType: author
@@ -1034,9 +1141,14 @@
     language: en
     libraryCatalog: ScienceDirect
     pages: '103060'
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Annals of Pure and Applied Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -1088,11 +1200,15 @@
 - data:
     DOI: 10.1017/jsl.2021.82
     ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2021-10-08T18:38:34Z'
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2010.00755
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators: []
@@ -1107,9 +1223,14 @@
     language: en
     libraryCatalog: Cambridge University Press
     pages: 1663-1676
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -1155,11 +1276,13 @@
 - data:
     DOI: 10.1007/978-3-030-80049-9_38
     ISBN: ''
+    ISSN: ''
     abstractNote: ''
     accessDate: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2011.14160
     callNumber: ''
+    citationKey: ''
     collections: []
     conferenceName: Computability in Europe
     creators:
@@ -1222,11 +1345,15 @@
 - data:
     DOI: 10.3233/COM-190289
     ISSN: ''
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: ''
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1907.03553
     callNumber: ''
+    citationKey: ''
     collections: []
     creators:
     - creatorType: author
@@ -1249,10 +1376,15 @@
     language: ''
     libraryCatalog: Google Scholar
     pages: "1\u201316"
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Computability
+    publisher: ''
     relations:
       dc:replaces: http://zotero.org/groups/1553639/items/2S9SSWZ9
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -1298,11 +1430,15 @@
 - data:
     DOI: 10.1017/jsl.2020.46
     ISSN: ''
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: ''
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1810.11423
     callNumber: ''
+    citationKey: ''
     collections: []
     creators:
     - creatorType: author
@@ -1319,9 +1455,14 @@
     language: ''
     libraryCatalog: Google Scholar
     pages: "1079\u20131101"
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -1363,11 +1504,15 @@
 - data:
     DOI: 10.1007/s00153-018-0650-3
     ISSN: ''
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: ''
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1710.10927
     callNumber: ''
+    citationKey: ''
     collections: []
     creators:
     - creatorType: author
@@ -1390,12 +1535,17 @@
     language: ''
     libraryCatalog: Google Scholar
     pages: "543\u2013563"
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Archive for Mathematical Logic
+    publisher: ''
     relations:
       dc:replaces:
       - http://zotero.org/groups/1553639/items/RAMBD5EH
       - http://zotero.org/groups/1553639/items/RYFA3BI8
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -1447,11 +1597,15 @@
 - data:
     DOI: 10.1002/malq.201800056
     ISSN: ''
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: ''
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1808.05451
     callNumber: ''
+    citationKey: ''
     collections: []
     creators:
     - creatorType: author
@@ -1471,9 +1625,14 @@
     language: ''
     libraryCatalog: Google Scholar
     pages: "228\u2013236"
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Mathematical Logic Quarterly
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -1515,11 +1674,15 @@
 - data:
     DOI: 10.3233/COM-180100
     ISSN: ''
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: ''
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1806.10363
     callNumber: ''
+    citationKey: ''
     collections: []
     creators:
     - creatorType: author
@@ -1539,9 +1702,14 @@
     language: ''
     libraryCatalog: Google Scholar
     pages: "265\u2013280"
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Computability
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -1583,11 +1751,13 @@
 - data:
     DOI: 10.1007/978-3-319-94418-0_35
     ISBN: ''
+    ISSN: ''
     abstractNote: ''
     accessDate: ''
     archive: ''
     archiveLocation: ''
     callNumber: ''
+    citationKey: ''
     collections: []
     conferenceName: Computability in Europe
     creators: []
@@ -1644,11 +1814,15 @@
 - data:
     DOI: 10.1007/s10469-018-9511-8
     ISSN: ''
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: ''
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1907.03553
     callNumber: ''
+    citationKey: ''
     collections: []
     creators:
     - creatorType: author
@@ -1671,12 +1845,17 @@
     language: ''
     libraryCatalog: Google Scholar
     pages: "392\u2013396"
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Algebra and Logic
+    publisher: ''
     relations:
       dc:replaces:
       - http://zotero.org/groups/1553639/items/6YMXFBYW
       - http://zotero.org/groups/1553639/items/AXVT2BZE
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -1718,11 +1897,13 @@
 - data:
     DOI: ''
     ISBN: ''
+    ISSN: ''
     abstractNote: ''
     accessDate: ''
     archive: ''
     archiveLocation: ''
     callNumber: ''
+    citationKey: ''
     collections: []
     conferenceName: 11th Panhellenic Logic Symposium
     creators:
@@ -1788,11 +1969,15 @@
 - data:
     DOI: 10.17377/semi.2017.14.059
     ISSN: ''
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: ''
+    arXivID: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1706.05939
     callNumber: ''
+    citationKey: ''
     collections: []
     creators: []
     date: '2017'
@@ -1806,9 +1991,14 @@
     language: ''
     libraryCatalog: ''
     pages: 690-702
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Siberian Electronic Mathematical Reports
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
