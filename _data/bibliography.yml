@@ -101,97 +101,6 @@
     parsedDate: '2025-12-10'
   version: 604
 - data:
-    DOI: 10.48550/arXiv.2512.09832
-    abstractNote: 'We study classes of countable graphs where every member does not
-      contain a given finite graph as an induced subgraph -- denoted by $\mathsf{Free}(\mathcal{G})$
-      for a given finite graph $\mathcal{G}$. Our main results establish a structural
-      dichotomy for such classes: If $\mathcal{G}$ is not an induced subgraph of $\mathcal{P}_4$,
-      then $\mathsf{Free}(\mathcal{G})$ is on top under effective bi-interpretability,
-      implying that the members of $\mathsf{Free}(\mathcal{G})$ exhibit the full range
-      of structural and computational behaviors. In contrast, if $\mathcal{G}$ is
-      an induced subgraph of $\mathcal{P}_4$, then $\mathsf{Free}(\mathcal{G})$ is
-      structurally simple, as witnessed by the fact that every member satisfies the
-      computable embeddability condition. This dichotomy is mirrored in the finite
-      setting when one considers combinatorial and complexity-theoretic properties.
-      Specifically, it is known that $\mathsf{Free}(\mathcal{G})^{fin}$ is complete
-      for graph isomorphism and not a well-quasi-order under embeddability whenever
-      $\mathcal{G}$ is not an induced subgraph of $\mathcal{P}_4$, while in all other
-      cases $\mathsf{Free}(\mathcal{G})^{fin}$ forms a well-quasi-order and the isomorphism
-      problem for $\mathsf{Free}(\mathcal{G})^{fin}$ is solvable in polynomial time.'
-    accessDate: '2026-01-07T12:03:58Z'
-    archive: ''
-    archiveID: arXiv:2512.09832
-    archiveLocation: ''
-    callNumber: ''
-    citationKey: ''
-    collections: []
-    creators:
-    - creatorType: author
-      firstName: Vittorio
-      lastName: Cipriani
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Matthew
-      lastName: Harrison-Trainor
-    - creatorType: author
-      firstName: Liling
-      lastName: Ko
-    date: '2025-12-10'
-    dateAdded: '2026-01-07T12:03:58Z'
-    dateModified: '2026-01-07T12:03:58Z'
-    extra: arXiv:2512.09832 [math]
-    genre: ''
-    itemType: preprint
-    key: XKRUMCTU
-    language: ''
-    libraryCatalog: arXiv.org
-    place: ''
-    relations: {}
-    repository: arXiv
-    rights: ''
-    series: ''
-    seriesNumber: ''
-    shortTitle: ''
-    tags:
-    - tag: Computer Science - Computational Complexity
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: Dichotomy results for classes of countable graphs
-    url: http://arxiv.org/abs/2512.09832
-    version: 603
-  key: XKRUMCTU
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/XKRUMCTU
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/XKRUMCTU
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Cipriani et al.
-    numChildren: 2
-    parsedDate: '2025-12-10'
-  version: 603
-- data:
     DOI: 10.48550/arXiv.2512.01867
     ISSN: ''
     PMCID: ''
@@ -2068,3 +1977,75 @@
     numChildren: 0
     parsedDate: '2018'
   version: 401
+- data:
+    DOI: ''
+    ISBN: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: ''
+    collections: []
+    conferenceName: 11th Panhellenic Logic Symposium
+    creators:
+    - creatorType: author
+      firstName: Nikolay
+      lastName: Bazhenov
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Luca
+      lastName: San Mauro
+    date: '2017'
+    dateAdded: '2025-01-28T16:00:20Z'
+    dateModified: '2025-01-28T16:00:20Z'
+    extra: ''
+    itemType: conferencePaper
+    key: FF5AXUZ3
+    language: ''
+    libraryCatalog: ''
+    pages: 126-132
+    place: Delfi, Greece
+    proceedingsTitle: Proc. of the 11th Panhellenic Logic Symposium
+    publisher: ''
+    relations: {}
+    rights: ''
+    series: ''
+    shortTitle: ''
+    tags: []
+    title: Computable bi-embeddable categoricity of equivalence structures
+    url: ''
+    version: 502
+    volume: ''
+  key: FF5AXUZ3
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/FF5AXUZ3
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/FF5AXUZ3
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Bazhenov et al.
+    numChildren: 0
+    parsedDate: '2017'
+  version: 502
