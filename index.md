@@ -57,8 +57,6 @@ I am interested in computability theory and its interactions with other areas of
 
 ### Events & Seminars I am involved in
 
-- [Computable Structure Theory and
-Interactions](https://computability.org/csti2024), Vienna, July 15-17
 - Our [local research seminar](https://www.dmg.tuwien.ac.at/fb2/seminar/), Wednesdays 10am during the semester.
 
 ------

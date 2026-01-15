@@ -1,13 +1,180 @@
 - data:
+    DOI: 10.1090/proc/17496
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
+      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
+      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
+      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
+      function of lower order than the identity, then there is a closed set $A$ so
+      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
+    accessDate: '2024-10-30T08:48:26Z'
+    archive: arxiv
+    archiveLocation: https://arxiv.org/abs/2410.22034
+    callNumber: ''
+    citationKey: ''
+    collections:
+    - 3T8QH7NR
+    - HYV9UV57
+    creators:
+    - creatorType: author
+      firstName: Andrew
+      lastName: Marks
+    - creatorType: author
+      firstName: Theodore
+      lastName: Slaman
+    date: 2026-02
+    dateAdded: '2024-10-30T08:48:26Z'
+    dateModified: '2026-01-13T15:01:05Z'
+    extra: arXiv:2410.22034
+    issue: '2'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: U7C8FFE8
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: 883-892
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: Proceedings of the American Mathematical Society
+    publisher: ''
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Hausdorff dimension and countable Borel equivalence relations
+    url: http://arxiv.org/abs/2403.17493
+    version: 620
+    volume: '154'
+  key: U7C8FFE8
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Marks et al.
+    numChildren: 3
+    parsedDate: 2026-02
+  version: 620
+- data:
+    DOI: 10.1017/bsl.2025.2
+    ISSN: 1079-8986, 1943-5894
+    PMCID: ''
+    PMID: ''
+    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
+    accessDate: '2025-01-13T10:45:53Z'
+    archive: arxiv
+    archiveLocation: https://arxiv.org/abs/2405.09275
+    callNumber: ''
+    citationKey: ''
+    collections:
+    - 3T8QH7NR
+    - HYV9UV57
+    creators:
+    - creatorType: author
+      firstName: Fedor
+      lastName: Pakhomov
+    - creatorType: author
+      firstName: Michael
+      lastName: Rathjen
+    date: 2025/09
+    dateAdded: '2025-01-13T10:45:53Z'
+    dateModified: '2025-11-11T10:43:51Z'
+    extra: ''
+    issue: '3'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: UK54UW9B
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 462-487
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: Bulletin of Symbolic Logic
+    publisher: ''
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Feferman's completeness theorem
+    url: https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/fefermans-completeness-theorem/2050717AF10C1D99BE37FD94790463A5
+    version: 583
+    volume: '31'
+  key: UK54UW9B
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/UK54UW9B
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Pakhomov et al.
+    numChildren: 1
+    parsedDate: 2025-09
+  version: 583
+- data:
     DOI: 10.1090/proc/17308
     ISSN: 0002-9939, 1088-6826
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2025-08-28T06:50:00Z'
     archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2402.10029
+    archiveLocation: https://arxiv.org/abs/2402.10029
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
+    - HYV9UV57
     creators:
     - creatorType: author
       firstName: Uri
@@ -23,7 +190,7 @@
       lastName: Zhu
     date: 2025/09
     dateAdded: '2024-02-16T14:08:22Z'
-    dateModified: '2025-08-28T06:51:11Z'
+    dateModified: '2025-11-11T12:44:36Z'
     extra: arxiv:2402.10029
     issue: 09
     itemType: journalArticle
@@ -32,10 +199,15 @@
     language: English
     libraryCatalog: www.ams.org
     pages: 4013-4024
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Proceedings of the American Mathematical Society
+    publisher: ''
     relations:
       dc:replaces: http://zotero.org/groups/1553639/items/PNTQ5RB5
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -55,7 +227,7 @@
       type: 1
     title: The Borel complexity of the class of models of first-order theories
     url: https://www.ams.org/proc/2025-153-09/S0002-9939-2025-17308-7/
-    version: 541
+    version: 580
     volume: '153'
   key: EVACUMCI
   library:
@@ -83,12 +255,14 @@
       name: Dino Rossegger
       username: dinoross
     creatorSummary: Andrews et al.
-    numChildren: 2
+    numChildren: 3
     parsedDate: 2025-09
-  version: 541
+  version: 580
 - data:
     DOI: 10.1093/logcom/exaf034
     ISSN: 0955-792X
+    PMCID: ''
+    PMID: ''
     abstractNote: "We study countable structures from the viewpoint of enumeration\
       \ reducibility. Since enumeration reducibility is based on only positive information,\
       \ in this setting it is natural to consider structures given by their positive\
@@ -106,8 +280,10 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2206.01135
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
+    - HYV9UV57
     creators:
     - creatorType: author
       firstName: Barbara F
@@ -117,7 +293,7 @@
       lastName: MacLean
     date: '2025-07-01'
     dateAdded: '2025-10-07T00:29:11Z'
-    dateModified: '2025-10-07T00:29:55Z'
+    dateModified: '2025-11-07T10:54:41Z'
     extra: ''
     issue: '5'
     itemType: journalArticle
@@ -125,10 +301,15 @@
     key: VGVJ6BX7
     language: ''
     libraryCatalog: Silverchair
-    pages: exaf034
+    pages: 1-15
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Journal of Logic and Computation
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -136,7 +317,7 @@
     tags: []
     title: Relations enumerable from positive information
     url: https://doi.org/10.1093/logcom/exaf034
-    version: 550
+    version: 581
     volume: '35'
   key: VGVJ6BX7
   library:
@@ -166,91 +347,18 @@
     creatorSummary: Csima et al.
     numChildren: 2
     parsedDate: '2025-07-01'
-  version: 550
-- data:
-    DOI: 10.48550/arXiv.2410.22034
-    ISSN: ''
-    abstractNote: We show that if $E$ is a countable Borel equivalence relation on
-      $\mathbb{R}^n$, then there is a closed subset $A \subset [0,1]^n$ of Hausdorff
-      dimension $n$ so that $E \restriction A$ is smooth. More generally, if $\leq_Q$
-      is a locally countable Borel quasi-order on $2^{\omega}$ and $g$ is any gauge
-      function of lower order than the identity, then there is a closed set $A$ so
-      that $A$ is an antichain in $\leq_Q$ and $H^g(A) > 0$.
-    accessDate: '2024-10-30T08:48:26Z'
-    archive: arxiv
-    archiveLocation: http://arxiv.org/abs/2410.22034
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Andrew
-      lastName: Marks
-    - creatorType: author
-      firstName: Theodore
-      lastName: Slaman
-    date: '2025-07-01'
-    dateAdded: '2024-10-30T08:48:26Z'
-    dateModified: '2025-08-28T06:48:16Z'
-    extra: arXiv:2410.22034
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: U7C8FFE8
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    publicationTitle: to appear in Proceedings of the AMS
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: Mathematics - Logic
-      type: 1
-    title: Hausdorff dimension and countable Borel equivalence relations
-    url: http://arxiv.org/abs/2403.17493
-    version: 538
-    volume: ''
-  key: U7C8FFE8
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/U7C8FFE8
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Marks et al.
-    numChildren: 2
-    parsedDate: '2025-07-01'
-  version: 538
+  version: 581
 - data:
     DOI: 10.1017/jsl.2025.7
     ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
     abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0022481225000076/resource/name/firstPage-pdf-S0022481225000076a.jpg
     accessDate: '2025-02-17T09:31:41Z'
     archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2403.17493
+    archiveLocation: https://arxiv.org/abs/2403.17493
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -262,7 +370,7 @@
       lastName: Steifer
     date: 2025/02/03
     dateAdded: '2025-02-17T09:31:41Z'
-    dateModified: '2025-02-17T09:32:37Z'
+    dateModified: '2025-11-11T12:43:49Z'
     extra: ''
     issue: ''
     itemType: journalArticle
@@ -270,10 +378,15 @@
     key: PX7IHN27
     language: en
     libraryCatalog: Cambridge University Press
-    pages: 1-18
+    pages: 1-19
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -281,8 +394,8 @@
     tags: []
     title: Learning Equivalence Relations on Polish Spaces
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/learning-equivalence-relations-on-polish-spaces/EEAF0148F83F4C67E8D25E4CB9CDB319
-    version: 506
-    volume: ''
+    version: 573
+    volume: first view
   key: PX7IHN27
   library:
     id: 1553639
@@ -311,84 +424,18 @@
     creatorSummary: Rossegger et al.
     numChildren: 0
     parsedDate: '2025-02-03'
-  version: 506
-- data:
-    DOI: 10.1017/bsl.2025.2
-    ISSN: 1079-8986, 1943-5894
-    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
-    accessDate: '2025-01-13T10:45:53Z'
-    archive: arxiv
-    archiveLocation: https://arxiv.org/abs/2405.09275
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Fedor
-      lastName: Pakhomov
-    - creatorType: author
-      firstName: Michael
-      lastName: Rathjen
-    date: 2025/01/10
-    dateAdded: '2025-01-13T10:45:53Z'
-    dateModified: '2025-01-13T10:46:35Z'
-    extra: ''
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: UK54UW9B
-    language: en
-    libraryCatalog: Cambridge University Press
-    pages: 1-21
-    publicationTitle: Bulletin of Symbolic Logic
-    relations: {}
-    rights: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags: []
-    title: Feferman's completeness theorem
-    url: https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/fefermans-completeness-theorem/2050717AF10C1D99BE37FD94790463A5
-    version: 491
-    volume: ''
-  key: UK54UW9B
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/UK54UW9B
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Pakhomov et al.
-    numChildren: 1
-    parsedDate: '2025-01-10'
-  version: 491
+  version: 573
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2024-03-15T15:27:24Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2301.09940
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -415,9 +462,14 @@
     language: en
     libraryCatalog: Cambridge University Press
     pages: 854-871
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -459,6 +511,8 @@
 - data:
     DOI: 10.1017/jsl.2024.59
     ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
     abstractNote: "We study possible Scott sentence complexities of linear orderings\
       \ using two approaches. First, we investigate the effect of the Friedman\u2013\
       Stanley embedding on Scott sentence complexity and show that it only preserves\
@@ -472,8 +526,9 @@
       \ complexities of structures."
     accessDate: '2024-12-17T14:26:05Z'
     archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2305.07126
+    archiveLocation: https://arxiv.org/abs/2305.07126
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -482,7 +537,7 @@
       lastName: Gonzalez
     date: 2024/12/13
     dateAdded: '2024-12-17T14:26:05Z'
-    dateModified: '2025-09-08T07:55:10Z'
+    dateModified: '2025-11-11T12:44:06Z'
     extra: ''
     issue: ''
     itemType: journalArticle
@@ -491,9 +546,14 @@
     language: en
     libraryCatalog: Cambridge University Press
     pages: 1-30
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -525,8 +585,8 @@
       type: 1
     title: Scott sentence complexities of linear orderings
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/scott-sentence-complexities-of-linear-orderings/095C2954C5F5F7079AB38E118B05B3BF
-    version: 542
-    volume: online
+    version: 575
+    volume: first view
   key: CWMK2Q38
   library:
     id: 1553639
@@ -555,15 +615,18 @@
     creatorSummary: Gonzalez and Rossegger
     numChildren: 1
     parsedDate: '2024-12-13'
-  version: 542
+  version: 575
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: 0219-0613
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2025-01-28T14:54:25Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2209.04524
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -581,10 +644,15 @@
     language: ''
     libraryCatalog: worldscientific.com (Atypon)
     pages: '2450002'
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: Journal of Mathematical Logic
+    publisher: ''
     relations:
       dc:replaces: http://zotero.org/groups/1553639/items/EKYIJ9WI
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -632,13 +700,91 @@
     parsedDate: 2024-12
   version: 514
 - data:
+    DOI: 10.1007/978-3-031-64309-5_7
+    ISBN: 978-3-031-64309-5
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2405.08442
+    callNumber: ''
+    citationKey: ''
+    collections:
+    - 3T8QH7NR
+    conferenceName: Computability in Europe
+    creators:
+    - creatorType: author
+      firstName: Meng-Che
+      lastName: "\u201CTurbo\u201D Ho"
+    - creatorType: author
+      firstName: Khanh
+      lastName: Le
+    date: '2024'
+    dateAdded: '2024-07-30T11:31:42Z'
+    dateModified: '2025-11-11T12:43:41Z'
+    eventPlace: ''
+    extra: arxiv:2405.08442
+    issue: ''
+    itemType: conferencePaper
+    key: 68T4RQSQ
+    language: en
+    libraryCatalog: Springer Link
+    numberOfVolumes: ''
+    pages: 72-84
+    place: Cham
+    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
+    publisher: Springer Nature Switzerland
+    relations: {}
+    rights: ''
+    series: Lecture Notes in Computer Science
+    seriesNumber: ''
+    shortTitle: ''
+    tags: []
+    title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
+      \ Groups via\_its Dynamical Realization"
+    url: ''
+    version: 572
+    volume: '14773'
+  key: 68T4RQSQ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/68T4RQSQ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/68T4RQSQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: "\u201CTurbo\u201D Ho et al."
+    numChildren: 0
+    parsedDate: '2024'
+  version: 572
+- data:
     DOI: 10.1017/jsl.2023.43
     ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2022-08-08T15:44:57Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2208.01697
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators:
@@ -656,9 +802,14 @@
     language: ''
     libraryCatalog: arXiv.org
     pages: 1703-1719
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -702,77 +853,9 @@
     parsedDate: '2024'
   version: 518
 - data:
-    DOI: 10.1007/978-3-031-64309-5_7
-    ISBN: 978-3-031-64309-5
-    abstractNote: ''
-    accessDate: ''
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2405.08442
-    callNumber: ''
-    collections:
-    - 3T8QH7NR
-    conferenceName: Computability in Europe
-    creators:
-    - creatorType: author
-      firstName: Meng-Che
-      lastName: "\u201CTurbo\u201D Ho"
-    - creatorType: author
-      firstName: Khanh
-      lastName: Le
-    date: '2024'
-    dateAdded: '2024-07-30T11:31:42Z'
-    dateModified: '2024-09-23T09:24:51Z'
-    extra: arxiv:2405.08442
-    itemType: conferencePaper
-    key: 68T4RQSQ
-    language: en
-    libraryCatalog: Springer Link
-    pages: 72-84
-    place: Cham
-    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
-    publisher: Springer Nature Switzerland
-    relations: {}
-    rights: ''
-    series: Lecture Notes in Computer Science
-    shortTitle: ''
-    tags: []
-    title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
-      \ Groups via\_its Dynamical Realization"
-    url: ''
-    version: 452
-    volume: '14773'
-  key: 68T4RQSQ
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/68T4RQSQ
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/68T4RQSQ
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: "\u201CTurbo\u201D Ho et al."
-    numChildren: 0
-    parsedDate: '2024'
-  version: 452
-- data:
     DOI: 10.1007/978-3-031-64309-5_14
     ISBN: 978-3-031-64309-5
+    ISSN: ''
     abstractNote: "We adapt the classical notion of learning from text to computable\
       \ structure theory. Our main result is a model-theoretic characterization of\
       \ the learnability from text for classes of structures. We show that a family\
@@ -783,6 +866,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2402.05744
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     conferenceName: Computability in Europe
@@ -802,11 +886,14 @@
     date: '2024'
     dateAdded: '2024-07-30T11:36:44Z'
     dateModified: '2024-09-23T09:24:16Z'
+    eventPlace: ''
     extra: arxiv:2402.05744 [math]
+    issue: ''
     itemType: conferencePaper
     key: VMFJ9TQV
     language: en
     libraryCatalog: Springer Link
+    numberOfVolumes: ''
     pages: 166-178
     place: Cham
     proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
@@ -814,6 +901,7 @@
     relations: {}
     rights: ''
     series: Lecture Notes in Computer Science
+    seriesNumber: ''
     shortTitle: ''
     tags: []
     title: "Learning Families of\_Algebraic Structures from\_Text"
@@ -852,11 +940,14 @@
 - data:
     DOI: 10.1017/jsl.2021.82
     ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
     abstractNote: ''
     accessDate: '2021-10-08T18:38:34Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2010.00755
     callNumber: ''
+    citationKey: ''
     collections:
     - 3T8QH7NR
     creators: []
@@ -871,9 +962,14 @@
     language: en
     libraryCatalog: Cambridge University Press
     pages: 1663-1676
+    partNumber: ''
+    partTitle: ''
+    place: ''
     publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
     relations: {}
     rights: ''
+    section: ''
     series: ''
     seriesText: ''
     seriesTitle: ''
@@ -916,6 +1012,56 @@
     numChildren: 0
     parsedDate: '2022'
   version: 374
+- data:
+    accessDate: ''
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2026-01-13T14:58:38Z'
+    dateModified: '2026-01-13T14:58:38Z'
+    filename: Andrews et al. - 2025 - The Borel complexity of the class of models
+      of first-order theories.pdf
+    itemType: attachment
+    key: 3EZWPRI7
+    linkMode: imported_file
+    md5: cf1657d90c8a439828c8ca6275b02836
+    mtime: 1768316318098
+    note: ''
+    parentItem: EVACUMCI
+    relations: {}
+    tags: []
+    title: PDF
+    url: ''
+    version: 611
+  key: 3EZWPRI7
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/3EZWPRI7
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/3EZWPRI7
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/EVACUMCI
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 611
 - data:
     accessDate: '2025-10-07T00:29:20Z'
     charset: ''
@@ -966,89 +1112,25 @@
     numChildren: 0
   version: 546
 - data:
-    accessDate: '2024-02-16T14:08:23Z'
-    charset: ''
-    contentType: application/pdf
-    dateAdded: '2024-02-16T14:08:23Z'
-    dateModified: '2025-08-28T06:51:11Z'
-    filename: Andrews et al_2024_The Borel complexity of the class of models of first-order
-      theories.pdf
-    itemType: attachment
-    key: YAJW3N5N
-    linkMode: imported_url
-    md5: d560c223bb0bcf5dc903c4f9d383eb4a
-    mtime: 1708092503000
-    note: '<p xmlns="http://www.w3.org/1999/xhtml" id="title"><strong>Contents</strong></p><ul
-      xmlns="http://www.w3.org/1999/xhtml" style="list-style-type: none; padding-left:0px"
-      id="toc"><li><a href="zotero://open-pdf/2_YAJW3N5N/1">1. Introduction</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/2">2. Preliminaries</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/3">3. Theories
-      without bounded axiomatization</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/4">4.
-      Theories with bounded axiomatization</a></li><li style="padding-top:8px"><a
-      href="zotero://open-pdf/2_YAJW3N5N/8">5. Proofs of the two technical results</a><ul
-      style="list-style-type: none; padding-left:12px"><li style="padding-top:4px"><a
-      href="zotero://open-pdf/2_YAJW3N5N/9">5.1. Proof of Theorem 3.3</a></li><li
-      style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/10">5.2. Proof
-      of Lemma 4.1</a></li></ul></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/11">6.
-      The effectivity of the reductions</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_YAJW3N5N/14">References</a></li></ul>'
-    parentItem: EVACUMCI
-    relations: {}
-    tags: []
-    title: Andrews et al_2024_The Borel complexity of the class of models of first-order
-      theories.pdf
-    url: https://arxiv.org/pdf/2402.10029.pdf
-    version: 541
-  key: YAJW3N5N
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/YAJW3N5N
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/YAJW3N5N
-      type: application/json
-    up:
-      href: https://api.zotero.org/groups/1553639/items/EVACUMCI
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    numChildren: 0
-  version: 541
-- data:
     accessDate: ''
     charset: ''
     contentType: application/pdf
-    dateAdded: '2025-02-26T11:51:07Z'
-    dateModified: '2025-02-26T11:51:07Z'
-    filename: "Montalb\xE1n and Rossegger - 2023 - The structural complexity of models\
-      \ of arithmetic.pdf"
+    dateAdded: '2025-05-16T13:21:28Z'
+    dateModified: '2025-05-16T13:21:28Z'
+    filename: Csima and Rossegger - 2024 - Degrees of categoricity and treeable degrees.pdf
     itemType: attachment
-    key: WBYBSKAM
+    key: 2HQXILH3
     linkMode: imported_file
-    md5: 106254342c7b7f8b537a50f7f6fe9956
-    mtime: 1740570667013
+    md5: e669c70e12a102ff11c3ef7cc102de06
+    mtime: 1747401688146
     note: ''
-    parentItem: MPSHJ2BY
+    parentItem: VRYCXLDD
     relations: {}
     tags: []
     title: PDF
     url: ''
-    version: 509
-  key: WBYBSKAM
+    version: 521
+  key: 2HQXILH3
   library:
     id: 1553639
     links:
@@ -1059,13 +1141,13 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/WBYBSKAM
+      href: https://www.zotero.org/groups/dinorossownpub/items/2HQXILH3
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/WBYBSKAM
+      href: https://api.zotero.org/groups/1553639/items/2HQXILH3
       type: application/json
     up:
-      href: https://api.zotero.org/groups/1553639/items/MPSHJ2BY
+      href: https://api.zotero.org/groups/1553639/items/VRYCXLDD
       type: application/json
   meta:
     createdByUser:
@@ -1077,28 +1159,27 @@
       name: Dino Rossegger
       username: dinoross
     numChildren: 0
-  version: 509
+  version: 521
 - data:
-    accessDate: '2024-12-17T14:26:06Z'
+    accessDate: '2025-01-13T10:45:54Z'
     charset: ''
     contentType: application/pdf
-    dateAdded: '2024-12-17T14:26:06Z'
-    dateModified: '2024-12-17T14:26:06Z'
-    filename: Gonzalez and Rossegger - 2024 - SCOTT SENTENCE COMPLEXITIES OF LINEAR
-      ORDERINGS.pdf
+    dateAdded: '2025-01-13T10:45:54Z'
+    dateModified: '2025-01-13T10:45:54Z'
+    filename: "Pakhomov et al. - 2025 - FEFERMAN\u2019S COMPLETENESS THEOREM.pdf"
     itemType: attachment
-    key: PBWN62Y5
+    key: C2MSJJTU
     linkMode: imported_url
-    md5: 4fcac95628a6931bc06368278f7911da
-    mtime: 1734445566790
+    md5: 1b344da6dbf60677c5e247155ff4f1a2
+    mtime: 1736765154378
     note: ''
-    parentItem: CWMK2Q38
+    parentItem: UK54UW9B
     relations: {}
     tags: []
     title: Full Text PDF
-    url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/095C2954C5F5F7079AB38E118B05B3BF/S0022481224000598a.pdf/div-class-title-scott-sentence-complexities-of-linear-orderings-div.pdf
-    version: 480
-  key: PBWN62Y5
+    url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2050717AF10C1D99BE37FD94790463A5/S1079898625000022a.pdf/div-class-title-feferman-s-completeness-theorem-div.pdf
+    version: 487
+  key: C2MSJJTU
   library:
     id: 1553639
     links:
@@ -1109,13 +1190,13 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/PBWN62Y5
+      href: https://www.zotero.org/groups/dinorossownpub/items/C2MSJJTU
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/PBWN62Y5
+      href: https://api.zotero.org/groups/1553639/items/C2MSJJTU
       type: application/json
     up:
-      href: https://api.zotero.org/groups/1553639/items/CWMK2Q38
+      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
       type: application/json
   meta:
     createdByUser:
@@ -1127,7 +1208,7 @@
       name: Dino Rossegger
       username: dinoross
     numChildren: 0
-  version: 480
+  version: 487
 - data:
     accessDate: '2024-10-30T08:48:32Z'
     charset: utf-8
