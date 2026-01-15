@@ -42,7 +42,7 @@ feature_row:
 
 ### News
 
-- Nov. 2025: I am currently offering one postdoc position ([advert](/assets/files/postdoc.pdf)) and one PhD position ([advert](/assets/files/phd.pdf)).
+- Nov. 2025: _Update Jan. 2026 I no longer accept applications for these positions._ I am currently offering one postdoc position ([advert](/assets/files/postdoc.pdf)) and one PhD position ([advert](/assets/files/phd.pdf)).
 
 ### About Me
 <img src='/assets/images/dino2.jpg' style="float:left; margin-right:10px; width:200px; margin-bottom:20px;"/>I am a mathematician working at the [Institute of Discrete Mathematics](https://dmg.tuwien.ac.at) at Technische Universität Wien. Currently I am PI of the international project ["Structural Complexity Measures for Foundational Theories"](https://www.fwf.ac.at/forschungsradar/10.55776/PIN1878224) funded by the Austrian science fund. This project is joint with [Mateusz Łełyk](https://sites.google.com/uw.edu.pl/lelyk) from the University of Warsaw.
