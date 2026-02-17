@@ -4,6 +4,7 @@ import urllib.request
 
 zotero_url = 'https://api.zotero.org/groups/1553639/items?format=json&sort=date&limit=100'
 acose_url = "https://api.zotero.org/groups/1553639/collections/3T8QH7NR/items?format=json&sort=date&limit=100"
+acose_url = "https://api.zotero.org/groups/1553639/collections/MN5KEVEP/items?format=json&sort=date&limit=100"
 def clean_bib(bib):
     for x in bib:
         if x["data"]["itemType"]=="attachment":
@@ -33,5 +34,11 @@ with urllib.request.urlopen(zotero_url) as url:
 with urllib.request.urlopen(acose_url) as url:
     bib=json.loads(url.read().decode())
     file=open("_data/acose.yml","w")
+    yaml.dump(remove_author(clean_bib(bib),"Dino"),file)
+    file.close()
+
+with urllib.request.urlopen(scfound_url) as url:
+    bib=json.loads(url.read().decode())
+    file=open("_data/scfound.yml","w")
     yaml.dump(remove_author(clean_bib(bib),"Dino"),file)
     file.close()

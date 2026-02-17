@@ -20,8 +20,6 @@ We combine tools from Scott analysis with methods from the foundations of mathem
 - Dino Rossegger (Technische Universität Wien)
 - [Mateusz Łełyk](https://sites.google.com/uw.edu.pl/lelyk) (University of Warsaw)
 
-### Talks
-Coming soon.
-
 ### Publications
-Coming soon.
+
+{% include bibliography.html source=site.data.acose %}
