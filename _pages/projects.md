@@ -8,10 +8,9 @@ header:
 
 ### Ongoing projects
 
-- **Structural complexity measures for foundational theories** ([SCFound](/scfound/))  
+- [**Structural complexity measures for foundational theories**](/scfound/)  
   **Runtime:** 2025–2029  
-  **Funding:** Austrian Science Fund (FWF)  
-  International project
+  **Funding:** Austrian Science Fund (FWF) — International project
 
 ### Finished projects
 
