@@ -2054,3 +2054,1998 @@
     numChildren: 0
     parsedDate: '2017'
   version: 632
+- data:
+    DOI: 10.17377/semi.2017.14.059
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/1706.05939
+    callNumber: ''
+    citationKey: rossegger2017
+    collections: []
+    creators: []
+    date: '2017'
+    dateAdded: '2017-07-19T10:00:31Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    extra: arxiv:https://arxiv.org/abs/1706.05939
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: HMY46FNK
+    language: ''
+    libraryCatalog: ''
+    pages: 690-702
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: Siberian Electronic Mathematical Reports
+    publisher: ''
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: '#latex'
+    - tag: Latex
+    title: On functors enumerating structures
+    url: https://arxiv.org/abs/1706.05939
+    version: 631
+    volume: '14'
+  key: HMY46FNK
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/HMY46FNK
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/HMY46FNK
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger
+    numChildren: 0
+    parsedDate: '2017'
+  version: 631
+- data:
+    DOI: ''
+    ISBN: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: fokinaReducibilityBireducibilitySpectra2017
+    collections: []
+    conferenceName: 11th Panhellenic Logic Symposium
+    creators:
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Luca
+      lastName: San Mauro
+    date: '2017'
+    dateAdded: '2017-07-19T10:00:31Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    eventPlace: ''
+    extra: ''
+    issue: ''
+    itemType: conferencePaper
+    key: 49VNIP5S
+    language: ''
+    libraryCatalog: ''
+    numberOfVolumes: ''
+    pages: 83-89
+    place: Delfi, Greece
+    proceedingsTitle: Proc. of the 11th Panhellenic Logic Symposium
+    publisher: ''
+    relations: {}
+    rights: ''
+    series: ''
+    seriesNumber: ''
+    shortTitle: ''
+    tags: []
+    title: Reducibility and bi-reducibility spectra of equivalence relations
+    url: ''
+    version: 631
+    volume: ''
+  key: 49VNIP5S
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/49VNIP5S
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/49VNIP5S
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Fokina et al.
+    numChildren: 0
+    parsedDate: '2017'
+  version: 631
+- data:
+    DOI: ''
+    ISBN: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: fokinaDegreeSpectraStructures2017
+    collections: []
+    conferenceName: 11th Panhellenic Logic Symposium
+    creators:
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Luca
+      lastName: San Mauro
+    date: '2017'
+    dateAdded: '2017-07-19T10:00:31Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    eventPlace: ''
+    extra: ''
+    issue: ''
+    itemType: conferencePaper
+    key: NFJVFUFZ
+    language: ''
+    libraryCatalog: ''
+    numberOfVolumes: ''
+    pages: 32-38
+    place: Delfi, Greece
+    proceedingsTitle: Proc. of the 11th Panhellenic Logic Symposium
+    publisher: ''
+    relations: {}
+    rights: ''
+    series: ''
+    seriesNumber: ''
+    shortTitle: ''
+    tags: []
+    title: Degree Spectra of Structures with Respect to the Bi-embeddability Relation
+    url: ''
+    version: 631
+    volume: ''
+  key: NFJVFUFZ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/NFJVFUFZ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/NFJVFUFZ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Fokina et al.
+    numChildren: 0
+    parsedDate: '2017'
+  version: 631
+- data:
+    accessDate: ''
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2026-01-13T14:59:37Z'
+    dateModified: '2026-01-13T14:59:37Z'
+    filename: Marks et al. - 2025 - Hausdorff dimension and countable Borel equivalence
+      relations.pdf
+    itemType: attachment
+    key: M3HX9DUP
+    linkMode: imported_file
+    md5: 37a9a11ce82942f9278d9916eec3f102
+    mtime: 1768316378001
+    note: ''
+    parentItem: U7C8FFE8
+    relations: {}
+    tags: []
+    title: PDF
+    url: ''
+    version: 615
+  key: M3HX9DUP
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/M3HX9DUP
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/M3HX9DUP
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/U7C8FFE8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 615
+- data:
+    accessDate: '2026-01-07T12:03:59Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2026-01-07T12:03:59Z'
+    dateModified: '2026-01-07T12:03:59Z'
+    filename: Cipriani et al. - 2025 - Dichotomy results for classes of countable
+      graphs.pdf
+    itemType: attachment
+    key: 642JP8A9
+    linkMode: imported_url
+    md5: 69e5cbab7cf090c30736853dfc128037
+    mtime: 1767787439390
+    note: ''
+    parentItem: XKRUMCTU
+    relations: {}
+    tags: []
+    title: Preprint PDF
+    url: http://arxiv.org/pdf/2512.09832v1
+    version: 605
+  key: 642JP8A9
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/642JP8A9
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/642JP8A9
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/XKRUMCTU
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 605
+- data:
+    accessDate: '2026-01-07T12:03:37Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2026-01-07T12:03:37Z'
+    dateModified: '2026-01-07T12:03:37Z'
+    filename: Cipriani et al. - 2025 - Dichotomy results for classes of countable
+      graphs.pdf
+    itemType: attachment
+    key: JUZ4EHCX
+    linkMode: imported_url
+    md5: 69e5cbab7cf090c30736853dfc128037
+    mtime: 1767787417311
+    note: ''
+    parentItem: YETCPGQ3
+    relations: {}
+    tags: []
+    title: Preprint PDF
+    url: http://arxiv.org/pdf/2512.09832v1
+    version: 600
+  key: JUZ4EHCX
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/JUZ4EHCX
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/JUZ4EHCX
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/YETCPGQ3
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 600
+- data:
+    dateAdded: '2026-01-07T12:03:36Z'
+    dateModified: '2026-01-07T12:03:36Z'
+    itemType: note
+    key: XDCD5J5F
+    note: 'Comment: 17 pages, 1 figure'
+    parentItem: YETCPGQ3
+    relations: {}
+    tags: []
+    version: 598
+  key: XDCD5J5F
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/XDCD5J5F
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/XDCD5J5F
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/YETCPGQ3
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 598
+- data:
+    accessDate: '2025-12-02T10:18:34Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2025-12-02T10:18:34Z'
+    dateModified: '2025-12-02T10:18:34Z'
+    filename: 2512.html
+    itemType: attachment
+    key: WH36V5YZ
+    linkMode: imported_url
+    md5: 9aaa759cb31fbe51ca9d497753a0bd26
+    mtime: 1764670714565
+    note: ''
+    parentItem: RXT9MWGQ
+    relations: {}
+    tags: []
+    title: Snapshot
+    url: http://arxiv.org/abs/2512.01867
+    version: 586
+  key: WH36V5YZ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/WH36V5YZ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/WH36V5YZ
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/RXT9MWGQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 586
+- data:
+    accessDate: '2025-10-07T00:29:20Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2025-10-07T00:29:20Z'
+    dateModified: '2025-10-07T00:29:20Z'
+    filename: Csima et al. - 2025 - Relations enumerable from positive information.pdf
+    itemType: attachment
+    key: HA72C2E6
+    linkMode: imported_url
+    md5: 5baeeb9208501c59b6e55f8a2fda14f7
+    mtime: 1759796960906
+    note: ''
+    parentItem: VGVJ6BX7
+    relations: {}
+    tags: []
+    title: Full Text PDF
+    url: https://academic.oup.com/logcom/article-pdf/35/5/exaf034/63563099/exaf034.pdf
+    version: 546
+  key: HA72C2E6
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/HA72C2E6
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/HA72C2E6
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/VGVJ6BX7
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 546
+- data:
+    accessDate: '2025-07-17T10:45:16Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2025-07-17T10:45:16Z'
+    dateModified: '2025-07-17T10:45:16Z'
+    filename: Gonzalez et al. - 2025 - Classifying the complexity of models of arithmetic.pdf
+    itemType: attachment
+    key: PTHNMIJ8
+    linkMode: imported_url
+    md5: 46c0573ad6c95b7b591a008fbf92f490
+    mtime: 1752749116501
+    note: ''
+    parentItem: LKFC4J6K
+    relations: {}
+    tags: []
+    title: Preprint PDF
+    url: http://arxiv.org/pdf/2507.12025v1
+    version: 528
+  key: PTHNMIJ8
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/PTHNMIJ8
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/PTHNMIJ8
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/LKFC4J6K
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 528
+- data:
+    accessDate: ''
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2025-05-16T13:21:28Z'
+    dateModified: '2025-05-16T13:21:28Z'
+    filename: Csima and Rossegger - 2024 - Degrees of categoricity and treeable degrees.pdf
+    itemType: attachment
+    key: 2HQXILH3
+    linkMode: imported_file
+    md5: e669c70e12a102ff11c3ef7cc102de06
+    mtime: 1747401688146
+    note: ''
+    parentItem: VRYCXLDD
+    relations: {}
+    tags: []
+    title: PDF
+    url: ''
+    version: 521
+  key: 2HQXILH3
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/2HQXILH3
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/2HQXILH3
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/VRYCXLDD
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 521
+- data:
+    accessDate: '2025-01-13T10:45:54Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2025-01-13T10:45:54Z'
+    dateModified: '2025-01-13T10:45:54Z'
+    filename: "Pakhomov et al. - 2025 - FEFERMAN\u2019S COMPLETENESS THEOREM.pdf"
+    itemType: attachment
+    key: C2MSJJTU
+    linkMode: imported_url
+    md5: 1b344da6dbf60677c5e247155ff4f1a2
+    mtime: 1736765154378
+    note: ''
+    parentItem: UK54UW9B
+    relations: {}
+    tags: []
+    title: Full Text PDF
+    url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2050717AF10C1D99BE37FD94790463A5/S1079898625000022a.pdf/div-class-title-feferman-s-completeness-theorem-div.pdf
+    version: 487
+  key: C2MSJJTU
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/C2MSJJTU
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/C2MSJJTU
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 487
+- data:
+    accessDate: ''
+    charset: ''
+    contentType: image/vnd.djvu
+    dateAdded: '2024-11-11T09:01:02Z'
+    dateModified: '2024-11-11T09:01:11Z'
+    filename: Scott and Jech - 1971 - Axiomatic Set Theory, Part 1.djvu
+    itemType: attachment
+    key: 8UC9XA7R
+    linkMode: imported_file
+    md5: 5f885cc6cc2fa1b1eb7bc55fc69098f1
+    mtime: 1731315662519
+    note: ''
+    parentItem: FUP4M8RN
+    relations: {}
+    tags: []
+    title: Image
+    url: ''
+    version: 476
+  key: 8UC9XA7R
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/8UC9XA7R
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/8UC9XA7R
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/FUP4M8RN
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 476
+- data:
+    accessDate: ''
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-07-18T10:46:00Z'
+    dateModified: '2024-07-18T10:46:01Z'
+    filename: 978-3-031-64309-5.pdf
+    itemType: attachment
+    key: L7G4RWK5
+    linkMode: imported_file
+    md5: 897819da0f826072c7c3b7755f9ea833
+    mtime: 1721299560000
+    note: "<p xmlns=\"http://www.w3.org/1999/xhtml\" id=\"title\"><strong>Contents</strong></p><ul\
+      \ xmlns=\"http://www.w3.org/1999/xhtml\" style=\"list-style-type: none; padding-left:0px\"\
+      \ id=\"toc\"><li><a href=\"zotero://open-pdf/2_L7G4RWK5/6\">Preface</a><ul style=\"\
+      list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/7\">Structure and Program of the Conference</a></li></ul></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/10\">Organization</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/13\">Invited\
+      \ Papers</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/14\"\
+      >Computing Knowledge: Computational Aspects of Epistemic Logics (HaPoC)</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/15\">The\
+      \ Theory of Enumeration Degrees and Its Fragments</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/19\">Further Extensions of the Point\
+      \ to Set Principle</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/21\"\
+      >Uniform Distribution and Algorithmic Randomness</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/22\">Special Session at CiE 2024: Computable\
+      \ Aspects of Symbolic Dynamics and Tilings</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/23\">How Much Pattern Complexity Can\
+      \ Help Us Solve the Domino Problem?</a></li><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/25\">Sufficient Conditions for Non-emptiness\
+      \ of a Subshift and Computability of Its Entropy</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/26\">Reasoning about (Negative) Trust\
+      \ under Uncertainty</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/27\"\
+      >Quantum Computating from Reversible Classical Computing</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/28\">Complexity of\
+      \ Well-Ordered Sets in an Ordered Abelian Group</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/29\">Contents</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/32\">Invited Papers</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/33\">If CiE Did Not\
+      \ Exist, It Would Be Necessary to Invent It </a></li><li style=\"padding-top:8px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/40\">Some Open Questions and Recent\
+      \ Results on Computable Banach Spaces</a><ul style=\"list-style-type: none;\
+      \ padding-left:12px\"><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/40\"\
+      >1 Introduction</a><ul style=\"list-style-type: none; padding-left:24px\"><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/40\">1.1\
+      \ Banach Spaces</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/40\"\
+      >1.2 Computable Banach Spaces</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/41\">1.3 Generalized Computable Banach Spaces</a></li></ul></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/42\">2 Some\
+      \ Classical Effectivity Results</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/44\">3 The Geometry of Computable Banach Spaces</a></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/50\">A Appendix-Some\
+      \ Proofs</a><ul style=\"list-style-type: none; padding-left:24px\"><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/50\">A.1 Proof of Theorem\
+      \ 8</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/51\"\
+      >A.2 Complexity of Computable Basis</a></li></ul></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/55\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/57\">Kolmogorov\
+      \ Complexity as a Combinatorial Tool</a><ul style=\"list-style-type: none; padding-left:12px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/57\">1\
+      \ Introduction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/59\"\
+      >2 New Example</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/61\"\
+      >References</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/62\"\
+      >Cellular Automata: Communication Matters</a><ul style=\"list-style-type: none;\
+      \ padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/62\"\
+      >1 Introduction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/63\"\
+      >2 Preliminaries and Definitions</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/66\">3 The Impact of Communication on the Computational\
+      \ Capacity</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/68\"\
+      >4 Decidability</a><ul style=\"list-style-type: none; padding-left:24px\"><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/70\">4.1\
+      \ Cellular Automata with Minimal Communication</a></li></ul></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/72\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/74\">Membership\
+      \ Problems in Infinite Groups</a><ul style=\"list-style-type: none; padding-left:12px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/74\">1\
+      \ Algorithmic Membership Problems in Groups</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/77\">2 Virtually Abelian Groups</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/78\">3 Free\
+      \ Groups and Groups Containing Free Monoids</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/78\">4 Hyperbolic Groups</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/79\">5 Graph\
+      \ Groups</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/81\"\
+      >6 Nilpotent Groups and Polycyclic Groups</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/83\">7 Metabelian Groups</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/84\">8 Wreath\
+      \ Products</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/84\"\
+      >9 Solvable Groups</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/85\"\
+      >10 Baumslag-Solitar Groups</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/86\">11 Open Problems</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/86\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/90\">Communication\
+      \ Modalities</a><ul style=\"list-style-type: none; padding-left:12px\"><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/90\">1 Introduction</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/92\">2 Knowledge\
+      \ Modality</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/94\"\
+      >3 Belief Modality</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/95\"\
+      >4 Hope Modality</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/98\"\
+      >5 Creed Modality</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/99\"\
+      >6 Conclusions</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/100\"\
+      >References</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/102\"\
+      >Algorithmic Aspects of Left-Orderings of Solvable Baumslag\u2013Solitar Groups\
+      \ via its Dynamical Realization</a><ul style=\"list-style-type: none; padding-left:12px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/102\"\
+      >1 Introduction</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/104\"\
+      >2 Left-Orderable Groups, Their Dynamical Realizations, and Elo</a><ul style=\"\
+      list-style-type: none; padding-left:24px\"><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/104\">2.1 Dynamical Realizations</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/106\">2.2\
+      \ Descriptive Set Theory and Elo</a></li></ul></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/108\">3 EloBS(1,n) is Hyperfinite</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/110\">4 Computability\
+      \ of Dynamical Realizations</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/113\">References</a></li></ul></li><li style=\"\
+      padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/115\">Hybrid Maximal\
+      \ Filter Spaces</a><ul style=\"list-style-type: none; padding-left:12px\"><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/115\">1 Introduction</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/116\">2 Background\
+      \ on Reverse Math</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/117\"\
+      >3 Background on MF Spaces</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/119\">4 Proper MF Spaces and Hybrid MF Spaces</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/121\">5 Metrization</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/127\">6 Some\
+      \ Complexity Calculations and Future Work</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/129\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/130\">Inversion\
+      \ in P-Computable Fields</a><ul style=\"list-style-type: none; padding-left:12px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/130\"\
+      >1 Introduction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/131\"\
+      >2 Arithmetic in Structures with Linear Growth</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/133\">3 Fields with Slow Inversion Operation</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/139\">References</a></li></ul></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/140\">Regular\
+      \ Papers</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/141\"\
+      >On the Computational Properties of Weak Continuity Notions</a><ul style=\"\
+      list-style-type: none; padding-left:12px\"><li style=\"padding-top:8px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/141\">1 Introduction</a><ul style=\"list-style-type:\
+      \ none; padding-left:24px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/141\"\
+      >1.1 Motivation and Overview</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/142\">1.2 Preliminaries and Definitions</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/145\">2 Main\
+      \ Results</a><ul style=\"list-style-type: none; padding-left:24px\"><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/145\">2.1 Graph Continuity</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/147\">2.2\
+      \ Topological Weak Continuity</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/150\">2.3 Historical and Other Weak Continuity\
+      \ Notions</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/151\"\
+      >2.4 Second-Order-ish Mathematics</a></li></ul></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/152\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/154\">On\
+      \ Arithmetical Numberings in Reverse Mathematics</a><ul style=\"list-style-type:\
+      \ none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/154\"\
+      >1 Introduction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/157\"\
+      >2 Preliminaries</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/158\"\
+      >3 The Main Framework</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/159\"\
+      >4 Existence of Friedberg, Positive, and Minimal Numberings</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/163\">5 Weihrauch Complexity\
+      \ for Existence of Friedberg Numberings</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/165\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/167\">Two-Player\
+      \ Domino Games</a><ul style=\"list-style-type: none; padding-left:12px\"><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/167\">1 Introduction</a></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/168\">2 Preliminaries</a><ul\
+      \ style=\"list-style-type: none; padding-left:24px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/168\">2.1 Subshifts</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/169\">2.2 Computability</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/169\">2.3\
+      \ The Domino Game</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/170\"\
+      >2.4 Game Theory</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/170\">3 Complexity of the Domino Game Problem</a><ul\
+      \ style=\"list-style-type: none; padding-left:24px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/170\">3.1 Membership</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/171\">3.2 Hardness</a></li></ul></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/173\">4 Games\
+      \ with Bounded Time</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/175\"\
+      >5 Non-alternating Play</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/178\"\
+      >6 Remarks and Open Questions</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/180\">References</a></li></ul></li><li style=\"\
+      padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/181\">Almost Sure OTM-Realizability</a><ul\
+      \ style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/181\">1 Introduction</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/182\">2 Definitions\
+      \ and Basic Results</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/189\"\
+      >3 Deduction Rules</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/190\"\
+      >4 Axioms of Set Theory</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/192\"\
+      >5 Conclusion and Further Work</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/193\">References</a></li></ul></li><li style=\"\
+      padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/194\">Learning Families\
+      \ of Algebraic Structures from Text</a><ul style=\"list-style-type: none; padding-left:12px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/194\"\
+      >1 Introduction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/195\"\
+      >2 The Formal Framework</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/197\"\
+      >3 Cantor-Continuous Embeddings</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/198\">4 Scott-Continuous Embeddings</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/200\">5 Characterization\
+      \ of TxtEx-Learnability</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/202\"\
+      >6 TxtEx-Complete Classes</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/204\"\
+      >7 Applications</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/205\"\
+      >8 Further Discussion</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/205\"\
+      >References</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/207\"\
+      >Structures of Finite Punctual Dimension n&amp;gt;2</a><ul style=\"list-style-type:\
+      \ none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/207\"\
+      >1 Introduction</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/209\"\
+      >2 Punctual Dimension of the Join</a><ul style=\"list-style-type: none; padding-left:24px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/209\"\
+      >2.1 Ordered Join</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/212\"\
+      >2.2 Unordered Join</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/213\">3 A Structure of Finite Punctual Dimension\
+      \ n&amp;gt;2</a><ul style=\"list-style-type: none; padding-left:24px\"><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/214\">3.1 Discussion</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/215\">3.2\
+      \ Construction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/217\"\
+      >3.3 Verification</a></li></ul></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/218\">References</a></li></ul></li><li style=\"\
+      padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/220\">Counting Simple\
+      \ Rules in Semi-conditional Grammars is not Simple</a><ul style=\"list-style-type:\
+      \ none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/220\"\
+      >1 Introduction</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/222\"\
+      >2 Preliminaries and Definitions</a><ul style=\"list-style-type: none; padding-left:24px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/223\"\
+      >2.1 Semi-conditional Grammars</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/223\">2.2 Useful Normal Forms for Type-0 Grammars</a></li></ul></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/224\">3 New\
+      \ Computational Completeness Results</a></li><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/231\">4 Summary and Future Work</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/231\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/233\">Universal\
+      \ Boolean Algebras with Applications to Semantic Classes of Models</a><ul style=\"\
+      list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/233\">1 Introduction</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/234\">2 Preliminaries</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/236\">3 Boolean\
+      \ Algebras over Classes of Hierarchies</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/238\">4 Universal Boolean Algebras</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/241\">5 Characterization\
+      \ of the Tarski-Lindenbaum Algebra</a></li><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/244\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/246\">.28em\
+      \ plus .1em minus .1emExistential Definability of Unary Predicates in B\xFC\
+      chi Arithmetic</a><ul style=\"list-style-type: none; padding-left:12px\"><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/246\">1 Introduction</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/248\">2 Two\
+      \ Sorts of Variables</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/250\"\
+      >3 Elimination of Ordinary Variables</a></li><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/253\">4 The Main Theorem</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/256\">5 Applications\
+      \ and Future Directions</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/258\"\
+      >A Proof of Lemma 2</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/258\"\
+      >B Proof of Lemma 5</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/260\"\
+      >References</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/261\"\
+      >Graph Homomorphism, Monotone Classes and Bounded Pathwidth</a><ul style=\"\
+      list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/261\">1 Introduction</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/265\">2 Preliminaries</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/265\">3 Graph\
+      \ Homomorphism</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/266\"\
+      >4 Locally Constrained Homomorphisms</a></li><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/268\">5 Sequential 3-Colouring Construction\
+      \ Game, QCSP(K3)</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/269\"\
+      >6 2k-QCSP(K3, {1,2},{1,3})</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/270\">7 Long Edge Disjoint Paths</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/271\">8 Conclusions</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/278\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/280\">Recursion-Theoretic\
+      \ Alternation</a><ul style=\"list-style-type: none; padding-left:12px\"><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/280\">1 Introduction</a></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/281\">2 Background</a><ul\
+      \ style=\"list-style-type: none; padding-left:24px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/281\">2.1 The Data Structure</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/282\">2.2\
+      \ The Operators</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/284\"\
+      >2.3 Bounds</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/285\"\
+      >3 The Characterizations</a><ul style=\"list-style-type: none; padding-left:24px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/286\"\
+      >3.1 The Base Classes</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/287\"\
+      >3.2 Bounded Alternation</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/288\"\
+      >3.3 Unbounded Alternation</a></li></ul></li><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/289\">4 Conclusion and Future Research</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/291\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/293\">Computable\
+      \ Structure Theory of Partial Combinatory Algebras</a><ul style=\"list-style-type:\
+      \ none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/293\"\
+      >1 Introduction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/294\"\
+      >2 Partial Combinatory Algebras</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/296\">3 The Complexity of the Class of Pcas</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/298\">4 The\
+      \ Isomorphism Problem for Pcas</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/299\">5 Order-pcas</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/302\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/305\">Hyperarithmetic\
+      \ Numerals</a><ul style=\"list-style-type: none; padding-left:12px\"><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/305\">1 Introduction</a></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/306\">2 Background\
+      \ and Preliminaries</a><ul style=\"list-style-type: none; padding-left:24px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/307\"\
+      >2.1 Preliminaries from Continuous Logic</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/308\">2.2 Background from Computability\
+      \ Theory</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/308\"\
+      >2.3 Preliminaries from Computable Analysis</a></li></ul></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/309\">3 Proof of Main Theorem</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/311\">4 Conclusion</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/312\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/313\">Lipschitz\
+      \ Determinacy and Arithmetic Transfinite Recursion</a><ul style=\"list-style-type:\
+      \ none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/313\"\
+      >1 Introduction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/315\"\
+      >2 Preliminaries</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/316\"\
+      >3 Lipschitz Determinacy for Clopen Sets</a><ul style=\"list-style-type: none;\
+      \ padding-left:24px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/317\"\
+      >3.1 Well-Founded Trees and Ranks</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/319\">3.2 Proof of Theorem 2</a></li></ul></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/320\">4 Lipschitz\
+      \ Determinacy for Closed Sets</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/324\">5 Concluding Remarks</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/324\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/326\">Higher-Order\
+      \ Feedback Computation</a><ul style=\"list-style-type: none; padding-left:12px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/326\"\
+      >1 Introduction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/328\"\
+      >2 Higher-Order Feedback Computability</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/330\">3 Subcomputation Trees</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/332\">4 The\
+      \ -Arithmetic</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/334\"\
+      >5 -Definability Implies Feedback Computability</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/335\">6 Feedback Computability Implies\
+      \ -Definability</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/336\"\
+      >A Proof of Theorem 2</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/338\"\
+      >References</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/339\"\
+      >Quantum First-Order Logics that Capture Logarithmic-Time/Space Quantum Computability</a><ul\
+      \ style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/339\">1 Background, Motivations, and\
+      \ Challenges</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/341\"\
+      >2 Basic Definitions</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/341\"\
+      >3 Definition of Quantum First-Order Logic</a><ul style=\"list-style-type: none;\
+      \ padding-left:24px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/341\"\
+      >3.1 Syntax of QFO</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/344\"\
+      >3.2 Semantics of QFO</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/346\"\
+      >3.3 Quantum First-Order Logic (or QFO)</a></li></ul></li><li style=\"padding-top:8px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/346\">4 Complexity Classes Characterized\
+      \ by QFO</a><ul style=\"list-style-type: none; padding-left:24px\"><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/346\">4.1 Logtime/Logspace\
+      \ Quantum Turing Machines</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/347\"\
+      >4.2 Complexity of QFO and ClassicQFO</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/348\">4.3 Quantum Transitive Closure</a></li></ul></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/349\">5 Tabular\
+      \ Quantum Variables and Their Quantification</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/350\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/352\">Fundamental\
+      \ Sequences Based on Localization</a><ul style=\"list-style-type: none; padding-left:12px\"\
+      ><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/352\"\
+      >1 Systems of Fundamental Sequences for T</a><ul style=\"list-style-type: none;\
+      \ padding-left:24px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/353\"\
+      >1.1 Preliminaries: Relativized Notation Systems T, Fixed Point Conditions for\
+      \ -Functions, Localization</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/356\">1.2 Systems of Fundamental Sequences</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/362\">1.3\
+      \ Bachmann Property</a></li></ul></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/362\">2 Norms, Regularity, and the Hardy Hierarchy</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/366\">3 Conclusion</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/366\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/367\">The\
+      \ Weakness of Finding Descending Sequences in Ill-Founded Linear Orders</a><ul\
+      \ style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/367\">1 Introduction and Background</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/370\">2 Separating\
+      \ BS and DS</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/373\"\
+      >3 Separating KL and DS</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/374\"\
+      >4 The Finitary Part and Deterministic Part of BS</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/377\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/379\">Sequential\
+      \ Discontinuity and First-Order Problems</a><ul style=\"list-style-type: none;\
+      \ padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/379\"\
+      >1 Introduction</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/380\"\
+      >2 Background</a><ul style=\"list-style-type: none; padding-left:24px\"><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/380\">2.1\
+      \ Represented Spaces</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/381\"\
+      >2.2 Weihrauch Reducibility</a></li></ul></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/382\">3 Discontinuity of Multivalued\
+      \ Functions on + 1</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/383\"\
+      >4 Games for Weihrauch Reducibility</a><ul style=\"list-style-type: none; padding-left:24px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/385\"\
+      >4.1 On the Complexity of =X</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/386\">4.2 More Dichotomies in the Continuous First-Order\
+      \ Weihrauch Degrees</a></li></ul></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/388\">5 Characterising Admissibility via Discontinuity\
+      \ of Functions</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/388\"\
+      >6 Outlook</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/389\"\
+      >A Proof of Proposition 3</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/389\"\
+      >B Proof of Lemma 1</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/390\"\
+      >C Proof of Proposition 4</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/390\"\
+      >D Proof of Lemma 3</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/390\"\
+      >E Proofs in Section4.1</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/392\"\
+      >References</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/394\"\
+      >Complexities of Theories of Profinite Subgroups of S via Tree Presentations</a><ul\
+      \ style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/394\">1 Introduction</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/395\">2 Tree Presentations</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/398\">3 Complexity\
+      \ of Theories</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/404\"\
+      >References</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/405\"\
+      >On the Existence of Infinite Monomial Division Chains with Finitely Many Indeterminates</a><ul\
+      \ style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/405\">1 Introduction</a></li><li style=\"\
+      padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/406\">2 Preliminaries</a><ul\
+      \ style=\"list-style-type: none; padding-left:24px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/408\">2.1 Reverse Mathematics</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/409\">2.2\
+      \ Preliminary Combinatorics Related to MDC</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/412\">2.3 The Significance of Monomial\
+      \ Division Chains in the Context of the Hilbert Basis Theorem</a></li></ul></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/413\">3 Our\
+      \ Main Results: Two Different Proofs of MDC over RCA0 via Two Incomparable Subsystems\
+      \ of Second-Order Arithmetic</a></li><li style=\"padding-top:8px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/415\">4 Avenues for Further Research</a><ul style=\"\
+      list-style-type: none; padding-left:24px\"><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/415\">4.1 Problem 1: Characterizing MDC\
+      \ over RCA0</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/416\"\
+      >4.2 Problem 2: Characterizing HBT over RCA0</a></li></ul></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/417\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/418\">A Weak\
+      \ First-Order Theory of Sequences</a><ul style=\"list-style-type: none; padding-left:12px\"\
+      ><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/418\"\
+      >1 Introduction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/420\"\
+      >2 The Theories Seq and WSeq</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/423\">3 T is Interpretable in Seq (the Ideas)</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/425\">4 \
+      \ AST + EXT  is Interpretable in Seq (the Ideas)</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/427\">5 More Details</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/432\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/433\">On\
+      \ the Group of Computable Automorphisms of the Linear Order of the Reals</a><ul\
+      \ style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/433\">1 Introduction</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/437\">2 Divisibility,\
+      \ Commutators and Normal Subgroups</a></li><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/441\">3 Conjugacy Classes of Bumps</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/444\">4 Appendix:\
+      \ Proof of Theorem 7</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/446\"\
+      >References</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/448\"\
+      >A Diamond Embedding Theorem in the Quotient Structure R/NCup</a><ul style=\"\
+      list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/448\">1 Introduction</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/449\">2 Proof of Theorem\
+      \ 1</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/452\"\
+      >3 The Construction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/454\"\
+      >4 Verification</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/458\"\
+      >References</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/459\"\
+      >The Decision Problem for Undirected Graphs with Reachability and Acyclicity</a><ul\
+      \ style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/459\">1 Introduction</a></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/460\">2 Preliminary\
+      \ Notions</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/461\"\
+      >3 Syntax and Semantics of UGRA</a></li><li style=\"padding-top:8px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/464\">4 The Decision Problem for the Theory UGRA</a><ul\
+      \ style=\"list-style-type: none; padding-left:24px\"><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/465\">4.1 Shortening Paths</a></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/468\">4.2\
+      \ The Small Model</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/471\"\
+      >4.3 Complexity Analysis: Completion of the Proof of Theorem 1</a></li></ul></li><li\
+      \ style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/472\">5 Conclusion\
+      \ and Future Directions</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/472\"\
+      >A  Detailed Proof Sketch of Lemma 6</a></li><li style=\"padding-top:4px\"><a\
+      \ href=\"zotero://open-pdf/2_L7G4RWK5/474\">References</a></li></ul></li><li\
+      \ style=\"padding-top:8px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/475\">Isometric\
+      \ Sets of Words and Generalizations of the Fibonacci Cubes</a><ul style=\"list-style-type:\
+      \ none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/475\"\
+      >1 Introduction</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/478\"\
+      >2 Preliminaries</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/479\"\
+      >3 Isometric Sets of Words and Uniformization</a></li><li style=\"padding-top:4px\"\
+      ><a href=\"zotero://open-pdf/2_L7G4RWK5/482\">4 Isometric Sets of Words and\
+      \ 2-Error Overlaps</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/486\"\
+      >5 Conclusions and Future Work</a></li><li style=\"padding-top:4px\"><a href=\"\
+      zotero://open-pdf/2_L7G4RWK5/486\">References</a></li></ul></li><li style=\"\
+      padding-top:4px\"><a href=\"zotero://open-pdf/2_L7G4RWK5/489\">Author Index</a></li></ul>"
+    parentItem: 5N9J8SJU
+    relations: {}
+    tags: []
+    title: 978-3-031-64309-5.pdf
+    url: ''
+    version: 423
+  key: L7G4RWK5
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/L7G4RWK5
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/L7G4RWK5
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/5N9J8SJU
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 423
+- data:
+    accessDate: '2024-05-16T12:38:47Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-05-16T12:38:47Z'
+    dateModified: '2024-05-16T12:38:47Z'
+    filename: 2405.html
+    itemType: attachment
+    key: LYYMES55
+    linkMode: imported_url
+    md5: 923dc33abd63e934801eee9fdacfc411
+    mtime: 1715863127000
+    note: ''
+    parentItem: HNLX6EFA
+    relations: {}
+    tags: []
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2405.09275
+    version: 414
+  key: LYYMES55
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/LYYMES55
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/LYYMES55
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/HNLX6EFA
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 414
+- data:
+    accessDate: '2024-05-15T11:28:17Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-05-15T11:28:17Z'
+    dateModified: '2024-05-15T11:28:17Z'
+    filename: 2405.html
+    itemType: attachment
+    key: UC6Z4S3A
+    linkMode: imported_url
+    md5: 322dc13d7a314f08ba80254e869b2495
+    mtime: 1715772497000
+    note: ''
+    parentItem: 5N9J8SJU
+    relations: {}
+    tags: []
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2405.08442
+    version: 355
+  key: UC6Z4S3A
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/UC6Z4S3A
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/UC6Z4S3A
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/5N9J8SJU
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 355
+- data:
+    accessDate: '2024-05-14T09:37:39Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2024-05-14T09:37:39Z'
+    dateModified: '2024-05-14T09:37:39Z'
+    filename: 2403.html
+    itemType: attachment
+    key: Y44ANH9A
+    linkMode: imported_url
+    md5: 54bb6becca7dc6b9946f5ed0525dd97e
+    mtime: 1715679459000
+    note: ''
+    parentItem: DTDXCSN6
+    relations: {}
+    tags: []
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2403.17493
+    version: 347
+  key: Y44ANH9A
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/Y44ANH9A
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/Y44ANH9A
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/DTDXCSN6
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 347
+- data:
+    accessDate: '2024-02-12T08:05:38Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2024-02-12T08:05:38Z'
+    dateModified: '2024-02-12T08:05:38Z'
+    filename: Bazhenov et al_2024_Learning Families of Algebraic Structures from Text.pdf
+    itemType: attachment
+    key: VTR2L5AW
+    linkMode: imported_url
+    md5: 3b50224b41f49651d623af81a134616b
+    mtime: 1707725138000
+    note: ''
+    parentItem: A8828RQN
+    relations: {}
+    tags: []
+    title: Bazhenov et al_2024_Learning Families of Algebraic Structures from Text.pdf
+    url: https://arxiv.org/pdf/2402.05744.pdf
+    version: 323
+  key: VTR2L5AW
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/VTR2L5AW
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/VTR2L5AW
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/A8828RQN
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 323
+- data:
+    accessDate: '2023-11-13T07:25:55Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2023-11-13T07:25:55Z'
+    dateModified: '2023-11-13T07:25:55Z'
+    filename: s00153-022-00836-4.html
+    itemType: attachment
+    key: YPRZWJU9
+    linkMode: imported_url
+    md5: bc825fcae3d74ccdc41c144419941110
+    mtime: 1699860355000
+    note: ''
+    parentItem: DHHVXURX
+    relations: {}
+    tags: []
+    title: Available Version (via Google Scholar)
+    url: https://link.springer.com/article/10.1007/s00153-022-00836-4
+    version: 317
+  key: YPRZWJU9
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/YPRZWJU9
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/YPRZWJU9
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/DHHVXURX
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 317
+- data:
+    accessDate: '2023-11-13T07:26:17Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2023-11-13T07:26:17Z'
+    dateModified: '2023-11-13T07:26:18Z'
+    filename: "Czarnecki et al_2014_Learnability Thesis Does Not Entail Church\u2019\
+      s Thesis.pdf"
+    itemType: attachment
+    key: V47DS2K2
+    linkMode: imported_url
+    md5: aec51330864abb375f11b00d5b1fe1f1
+    mtime: 1699860377000
+    note: ''
+    parentItem: CG7SRY26
+    relations: {}
+    tags: []
+    title: "Czarnecki et al_2014_Learnability Thesis Does Not Entail Church\u2019\
+      s Thesis.pdf"
+    url: https://www.dariuszkalocinski.com/pdfs/draft-learnability-thesis.pdf
+    version: 315
+  key: V47DS2K2
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/V47DS2K2
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/V47DS2K2
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/CG7SRY26
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 315
+- data:
+    accessDate: '2023-11-13T07:25:43Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2023-11-13T07:25:43Z'
+    dateModified: '2023-11-13T07:25:44Z'
+    filename: Bazhenov et al_2021_Intrinsic complexity of recursive functions on natural
+      numbers with standard.pdf
+    itemType: attachment
+    key: NWF23CL5
+    linkMode: imported_url
+    md5: 32cb99273c417923dce640e4915210b2
+    mtime: 1699860343000
+    note: '<p xmlns="http://www.w3.org/1999/xhtml" id="title"><strong>Contents</strong></p><ul
+      xmlns="http://www.w3.org/1999/xhtml" style="list-style-type: none; padding-left:0px"
+      id="toc"><li><a href="zotero://open-pdf/2_NWF23CL5/1">1. Introduction</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_NWF23CL5/3">2. Definitions</a></li><li
+      style="padding-top:8px"><a href="zotero://open-pdf/2_NWF23CL5/3">3. Results</a><ul
+      style="list-style-type: none; padding-left:12px"><li style="padding-top:4px"><a
+      href="zotero://open-pdf/2_NWF23CL5/6">3.1. Block functions</a></li><li style="padding-top:4px"><a
+      href="zotero://open-pdf/2_NWF23CL5/13">3.2. Quasi-block functions</a></li><li
+      style="padding-top:4px"><a href="zotero://open-pdf/2_NWF23CL5/15">3.3. Unusual
+      degree spectrum</a></li></ul></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_NWF23CL5/20">4.
+      Conclusions and open questions</a></li><li style="padding-top:4px"><a href="zotero://open-pdf/2_NWF23CL5/21">References</a></li></ul>'
+    parentItem: P3S96B2T
+    relations: {}
+    tags: []
+    title: Bazhenov et al_2021_Intrinsic complexity of recursive functions on natural
+      numbers with standard.pdf
+    url: https://arxiv.org/pdf/2110.01268.pdf
+    version: 313
+  key: NWF23CL5
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/NWF23CL5
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/NWF23CL5
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/P3S96B2T
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 313
+- data:
+    accessDate: '2023-11-13T07:26:20Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2023-11-13T07:26:20Z'
+    dateModified: '2023-11-13T07:26:20Z'
+    filename: "Kaloci\u0144ski et al_2018_Interactive Semantic Alignment Model.pdf"
+    itemType: attachment
+    key: JQ6Y2W6N
+    linkMode: imported_url
+    md5: 918b7750c1f3e5f22b28e1fc6863da15
+    mtime: 1699860380000
+    note: ''
+    parentItem: 9ZGSMGIS
+    relations: {}
+    tags: []
+    title: "Kaloci\u0144ski et al_2018_Interactive Semantic Alignment Model.pdf"
+    url: https://link.springer.com/content/pdf/10.1007%2Fs10849-018-9267-5.pdf
+    version: 311
+  key: JQ6Y2W6N
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/JQ6Y2W6N
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/JQ6Y2W6N
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/9ZGSMGIS
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 311
+- data:
+    accessDate: '2023-11-13T07:25:56Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2023-11-13T07:25:56Z'
+    dateModified: '2023-11-13T07:25:56Z'
+    filename: Kalocinski et al_2015_Quantifier Learning.pdf
+    itemType: attachment
+    key: F898EDLW
+    linkMode: imported_url
+    md5: 8251c8b9856a3e18b92c93b741f75e65
+    mtime: 1699860356000
+    note: ''
+    parentItem: FLFE6JTC
+    relations: {}
+    tags: []
+    title: Kalocinski et al_2015_Quantifier Learning.pdf
+    url: https://www.researchgate.net/profile/Dariusz-Kalocinski/publication/275346025_Quantifier_Learning_An_Agent-based_Coordination_Model/links/56ddc13008aed4e2a99c5c1b/Quantifier-Learning-An-Agent-based-Coordination-Model.pdf
+    version: 309
+  key: F898EDLW
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/F898EDLW
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/F898EDLW
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/FLFE6JTC
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 309
+- data:
+    accessDate: '2023-11-13T07:25:48Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2023-11-13T07:25:48Z'
+    dateModified: '2023-11-13T07:25:48Z'
+    filename: 2110.html
+    itemType: attachment
+    key: DMXMT3KP
+    linkMode: imported_url
+    md5: 720154cc1d71a6978606ba13e3dcd06f
+    mtime: 1699860348000
+    note: ''
+    parentItem: P3S96B2T
+    relations: {}
+    tags: []
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2110.01268
+    version: 307
+  key: DMXMT3KP
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/DMXMT3KP
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/DMXMT3KP
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/P3S96B2T
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 307
+- data:
+    accessDate: '2023-11-13T07:26:19Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2023-11-13T07:26:19Z'
+    dateModified: '2023-11-13T07:26:19Z'
+    filename: "Kaloci\u0144ski_Scalar language under communicative pressure.pdf"
+    itemType: attachment
+    key: D3ILEK3J
+    linkMode: imported_url
+    md5: 850a8dc32f96b698a75953613b6ba563
+    mtime: 1699860379000
+    note: ''
+    parentItem: FBWQX82J
+    relations: {}
+    tags: []
+    title: "Kaloci\u0144ski_Scalar language under communicative pressure.pdf"
+    url: https://www.linguistik.hu-berlin.de/de/institut/professuren/allgemeine-sprachwissenschaft/allgemeine-sprachwissenschaft/dateien/experiencer-2/sle-2018-book-of-abstracts.pdf#page=488
+    version: 305
+  key: D3ILEK3J
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/D3ILEK3J
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/D3ILEK3J
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/FBWQX82J
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 305
+- data:
+    accessDate: '2023-11-13T07:26:08Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2023-11-13T07:26:08Z'
+    dateModified: '2023-11-13T07:26:13Z'
+    filename: "Bazhenov_Kaloci\u0144ski_2022_Relatively acceptable notation.pdf"
+    itemType: attachment
+    key: 2FM7D6WV
+    linkMode: imported_url
+    md5: c847464968bb17f002279749852f8a8a
+    mtime: 1699860372000
+    note: ''
+    parentItem: 6SQ9ZFIF
+    relations: {}
+    tags: []
+    title: "Bazhenov_Kaloci\u0144ski_2022_Relatively acceptable notation.pdf"
+    url: https://arxiv.org/pdf/2205.00791.pdf
+    version: 303
+  key: 2FM7D6WV
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/2FM7D6WV
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/2FM7D6WV
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/6SQ9ZFIF
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 303
+- data:
+    dateAdded: '2023-11-13T07:25:38Z'
+    dateModified: '2023-11-13T07:25:38Z'
+    itemType: note
+    key: D76QM6KB
+    note: 'Comment: 15 pages, 0 figures'
+    parentItem: 6SQ9ZFIF
+    relations: {}
+    tags: []
+    version: 300
+  key: D76QM6KB
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/D76QM6KB
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/D76QM6KB
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/6SQ9ZFIF
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 300
+- data:
+    accessDate: '2023-06-30T00:50:16Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2023-06-30T00:50:16Z'
+    dateModified: '2023-06-30T00:50:16Z'
+    filename: "Montalb\xE1n_Rossegger_2023_THE STRUCTURAL COMPLEXITY OF MODELS OF\
+      \ ARITHMETIC.pdf"
+    itemType: attachment
+    key: L5K8BMSW
+    linkMode: imported_url
+    md5: 7773043ec220041eaaae0042d228d638
+    mtime: 1688086216000
+    note: ''
+    parentItem: QJ8XEH4B
+    relations: {}
+    tags: []
+    title: "Montalb\xE1n_Rossegger_2023_THE STRUCTURAL COMPLEXITY OF MODELS OF ARITHMETIC.pdf"
+    url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4E59B100579234FC38407188AA1579DE/S0022481223000439a.pdf/div-class-title-the-structural-complexity-of-models-of-arithmetic-div.pdf
+    version: 248
+  key: L5K8BMSW
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/L5K8BMSW
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/L5K8BMSW
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/QJ8XEH4B
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 248
+- data:
+    accessDate: '2023-05-22T16:56:29Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2023-05-22T16:56:29Z'
+    dateModified: '2023-05-22T16:56:29Z'
+    filename: Gonzalez_Rossegger_2023_Scott sentence complexities of linear orderings.pdf
+    itemType: attachment
+    key: 2H3RYDMG
+    linkMode: imported_url
+    md5: 4dda51058b52f7686840f79696e3ab31
+    mtime: 1684774589000
+    note: ''
+    parentItem: N9SH6YFH
+    relations: {}
+    tags: []
+    title: Gonzalez_Rossegger_2023_Scott sentence complexities of linear orderings.pdf
+    url: https://arxiv.org/pdf/2305.07126
+    version: 232
+  key: 2H3RYDMG
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/2H3RYDMG
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/2H3RYDMG
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/N9SH6YFH
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 232
+- data:
+    accessDate: '2022-09-13T18:04:32Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2022-09-13T18:04:32Z'
+    dateModified: '2022-09-13T18:04:32Z'
+    filename: 2209.html
+    itemType: attachment
+    key: 3Q5MJL58
+    linkMode: imported_url
+    md5: f4ea71147770d1cd186d789e4d2b9318
+    mtime: 1663092272000
+    note: ''
+    parentItem: Q5WUN4RQ
+    relations: {}
+    tags: []
+    title: arXiv.org Snapshot
+    url: https://arxiv.org/abs/2209.04524
+    version: 185
+  key: 3Q5MJL58
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/3Q5MJL58
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/3Q5MJL58
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/Q5WUN4RQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 185
