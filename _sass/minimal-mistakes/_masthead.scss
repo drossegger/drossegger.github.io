@@ -96,6 +96,10 @@
   }
 }
 
+.masthead__menu-item--has-children > ul {
+  display: none;
+}
+
 .masthead__submenu {
   display: none;
   position: absolute;
