@@ -2,8 +2,8 @@ import json
 import yaml
 import urllib.request
 
-zotero_url = 'https://api.zotero.org/groups/1553639/items?format=json&sort=date'
-acose_url = "https://api.zotero.org/groups/1553639/collections/3T8QH7NR/items?format=json&sort=date"
+zotero_url = 'https://api.zotero.org/groups/1553639/items?format=json&sort=date&limit=100'
+acose_url = "https://api.zotero.org/groups/1553639/collections/3T8QH7NR/items?format=json&sort=date&limit=100"
 def clean_bib(bib):
     for x in bib:
         if x["data"]["itemType"]=="attachment":
