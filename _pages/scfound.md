@@ -16,6 +16,9 @@ This project studies the structural complexity of foundational theories and inve
 ### Approach
 We combine tools from Scott analysis with methods from the foundations of mathematics. The project is interdisciplinary and international, with regular collaboration between the teams in Vienna and Warsaw.
 
+### Funding
+This project is funded by the Austrian Science Fund (FWF) and jointly by NCN (Polish Science Fund). See the FWF project page: https://www.fwf.ac.at/forschungsradar/10.55776/PIN1878224
+
 ### Participants
 - Dino Rossegger (Technische Universität Wien)
 - [Mateusz Łełyk](https://sites.google.com/uw.edu.pl/lelyk) (University of Warsaw)
