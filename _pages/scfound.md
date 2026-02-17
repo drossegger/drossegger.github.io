@@ -1,6 +1,9 @@
 ---
 title: Structural complexity measures for foundational theories
 permalink: /scfound/
+header:
+  overlay_image: '/assets/images/acose_overlay.jpg'
+  overlay_filter: 0.3
 ---
 
 ## Structural complexity measures for foundational theories

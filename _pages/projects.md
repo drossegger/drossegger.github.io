@@ -1,6 +1,9 @@
 ---
 title: Projects
 permalink: /projects/
+header:
+  overlay_image: '/assets/images/acose_overlay.jpg'
+  overlay_filter: 0.3
 ---
 
 ### Ongoing projects
