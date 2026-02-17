@@ -29,10 +29,10 @@ feature_row:
     btn_label: "to Teaching"
     btn_class: "btn--primary"
   - image_path: /assets/images/acose_splash.jpg
-    title: Project - ACOSE 
-    excerpt: "Infos & News about my Marie Skłodowska Curie funded project ACOSE"
-    url: "/acose/"
-    btn_label: "to ACOSE"
+    title: Projects
+    excerpt: "Ongoing and past grants"
+    url: "/projects/"
+    btn_label: "to Projects"
     btn_class: "btn--primary"
 ---
 <!--{% include feature_row id='intro' type='center' %}-->
