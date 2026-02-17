@@ -22,4 +22,4 @@ We combine tools from Scott analysis with methods from the foundations of mathem
 
 ### Publications
 
-{% include bibliography.html source=site.data.acose %}
+{% include bibliography.html source=site.data.scfound %}
