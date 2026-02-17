@@ -16,7 +16,8 @@
             <li class="masthead__menu-item{% if link.children %} masthead__menu-item--has-children{% endif %}">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
               {%- if link.children -%}
-                <ul class="masthead__submenu">
+                <button class="masthead__submenu-toggle" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Toggle {{ link.title }} menu">▾</button>
+                <ul class="masthead__submenu" aria-label="{{ link.title }} submenu">
                   {%- for child in link.children -%}
                     <li class="masthead__submenu-item">
                       <a href="{{ child.url | relative_url }}"{% if child.description %} title="{{ child.description }}"{% endif %}>{{ child.title }}</a>
@@ -44,3 +45,36 @@
     </div>
   </div>
 </div>
+
+<script>
+  (function() {
+    var toggles = document.querySelectorAll('.masthead__submenu-toggle');
+    if (!toggles.length) return;
+
+    function closeAll() {
+      toggles.forEach(function(btn) {
+        var li = btn.closest('.masthead__menu-item--has-children');
+        if (li) li.classList.remove('is-open');
+        btn.setAttribute('aria-expanded', 'false');
+      });
+    }
+
+    toggles.forEach(function(btn) {
+      btn.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var li = btn.closest('.masthead__menu-item--has-children');
+        var isOpen = li && li.classList.contains('is-open');
+        closeAll();
+        if (li && !isOpen) {
+          li.classList.add('is-open');
+          btn.setAttribute('aria-expanded', 'true');
+        }
+      });
+    });
+
+    document.addEventListener('click', function() {
+      closeAll();
+    });
+  })();
+</script>

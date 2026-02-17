@@ -120,7 +120,14 @@
   padding: 0.35em 1em;
 }
 
-.masthead__menu-item--has-children:hover .masthead__submenu,
-.masthead__menu-item--has-children:focus-within .masthead__submenu {
+.masthead__submenu-toggle {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  margin-left: 0.25em;
+  font-size: 0.85em;
+}
+
+.masthead__menu-item--has-children.is-open .masthead__submenu {
   display: block;
 }
