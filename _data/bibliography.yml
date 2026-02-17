@@ -13,7 +13,7 @@
     archive: arxiv
     archiveLocation: https://arxiv.org/abs/2410.22034
     callNumber: ''
-    citationKey: ''
+    citationKey: marks2026
     collections:
     - 3T8QH7NR
     - HYV9UV57
@@ -26,7 +26,7 @@
       lastName: Slaman
     date: 2026-02
     dateAdded: '2024-10-30T08:48:26Z'
-    dateModified: '2026-01-13T15:01:05Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arXiv:2410.22034
     issue: '2'
     itemType: journalArticle
@@ -52,7 +52,7 @@
       type: 1
     title: Hausdorff dimension and countable Borel equivalence relations
     url: http://arxiv.org/abs/2403.17493
-    version: 620
+    version: 631
     volume: '154'
   key: U7C8FFE8
   library:
@@ -82,7 +82,7 @@
     creatorSummary: Marks et al.
     numChildren: 3
     parsedDate: 2026-02
-  version: 620
+  version: 631
 - data:
     DOI: 10.48550/arXiv.2512.09832
     ISSN: ''
@@ -93,7 +93,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2512.09832
     callNumber: ''
-    citationKey: ''
+    citationKey: cipriani2025a
     collections:
     - MN5KEVEP
     creators:
@@ -111,7 +111,7 @@
       lastName: Ko
     date: '2025-12-10'
     dateAdded: '2026-01-07T12:03:36Z'
-    dateModified: '2026-01-07T12:04:20Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arXiv:2512.09832
     issue: ''
     itemType: journalArticle
@@ -139,7 +139,7 @@
       type: 1
     title: Dichotomy results for classes of countable graphs
     url: http://arxiv.org/abs/2512.09832
-    version: 608
+    version: 632
     volume: ''
   key: YETCPGQ3
   library:
@@ -169,7 +169,7 @@
     creatorSummary: Cipriani et al.
     numChildren: 3
     parsedDate: '2025-12-10'
-  version: 608
+  version: 632
 - data:
     DOI: 10.48550/arXiv.2512.01867
     ISSN: ''
@@ -185,7 +185,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2512.01867
     callNumber: ''
-    citationKey: ''
+    citationKey: cipriani2025
     collections:
     - MN5KEVEP
     creators:
@@ -194,7 +194,7 @@
       lastName: Cipriani
     date: '2025-12-01'
     dateAdded: '2025-12-02T10:18:33Z'
-    dateModified: '2025-12-02T10:25:06Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arXiv:2512.01867
     issue: ''
     itemType: journalArticle
@@ -220,7 +220,7 @@
       type: 1
     title: Uniformity in learning structures
     url: http://arxiv.org/abs/2512.01867
-    version: 597
+    version: 632
     volume: ''
   key: RXT9MWGQ
   library:
@@ -250,7 +250,7 @@
     creatorSummary: Cipriani and Rossegger
     numChildren: 2
     parsedDate: '2025-12-01'
-  version: 597
+  version: 632
 - data:
     DOI: 10.1017/jsl.2024.59
     ISSN: 0022-4812, 1943-5886
@@ -271,7 +271,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2305.07126
     callNumber: ''
-    citationKey: ''
+    citationKey: gonzalez2025a
     collections:
     - 3T8QH7NR
     creators:
@@ -280,7 +280,7 @@
       lastName: Gonzalez
     date: 2025/12
     dateAdded: '2024-12-17T14:26:05Z'
-    dateModified: '2026-02-06T09:33:21Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: ''
     issue: '4'
     itemType: journalArticle
@@ -328,7 +328,7 @@
       type: 1
     title: Scott sentence complexities of linear orderings
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/scott-sentence-complexities-of-linear-orderings/095C2954C5F5F7079AB38E118B05B3BF
-    version: 626
+    version: 631
     volume: '90'
   key: CWMK2Q38
   library:
@@ -358,174 +358,7 @@
     creatorSummary: Gonzalez and Rossegger
     numChildren: 1
     parsedDate: 2025-12
-  version: 626
-- data:
-    DOI: 10.48550/arXiv.2507.12025
-    ISSN: ''
-    PMCID: ''
-    PMID: ''
-    abstractNote: We classify the possible Scott complexities for models of Peano
-      arithmetic. We construct models of particular complexities by first giving a
-      complete Scott analysis of colored linear orderings and constructing models
-      of Peano arithmetic from these colored orderings. We also provide tight connections
-      of certain Scott complexities with notions from the classical theory of models
-      of Peano arithmetic, such as prime, finitely generated, and recursively saturated.
-      This effort provides a powerful set of tools to understand the models of Peano
-      arithmetic.
-    accessDate: '2025-07-17T10:45:13Z'
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2507.12025
-    callNumber: ''
-    citationKey: ''
-    collections:
-    - MN5KEVEP
-    creators:
-    - creatorType: author
-      firstName: David
-      lastName: Gonzalez
-    - creatorType: author
-      firstName: Mateusz
-      lastName: "\u0141e\u0142yk"
-    - creatorType: author
-      firstName: Patryk
-      lastName: Szlufik
-    date: 2025/09
-    dateAdded: '2025-07-17T10:45:13Z'
-    dateModified: '2025-11-11T12:44:11Z'
-    extra: arXiv:2507.12025 [math]
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: LKFC4J6K
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    partNumber: ''
-    partTitle: ''
-    place: ''
-    publicationTitle: submitted for publication
-    publisher: ''
-    relations: {}
-    rights: ''
-    section: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: Mathematics - Logic
-      type: 1
-    title: Classifying the complexity of models of arithmetic
-    url: http://arxiv.org/abs/2507.12025
-    version: 584
-    volume: ''
-  key: LKFC4J6K
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/LKFC4J6K
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/LKFC4J6K
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Gonzalez et al.
-    numChildren: 2
-    parsedDate: 2025-09
-  version: 584
-- data:
-    DOI: 10.1017/bsl.2025.2
-    ISSN: 1079-8986, 1943-5894
-    PMCID: ''
-    PMID: ''
-    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
-    accessDate: '2025-01-13T10:45:53Z'
-    archive: arxiv
-    archiveLocation: https://arxiv.org/abs/2405.09275
-    callNumber: ''
-    citationKey: ''
-    collections:
-    - 3T8QH7NR
-    - HYV9UV57
-    creators:
-    - creatorType: author
-      firstName: Fedor
-      lastName: Pakhomov
-    - creatorType: author
-      firstName: Michael
-      lastName: Rathjen
-    date: 2025/09
-    dateAdded: '2025-01-13T10:45:53Z'
-    dateModified: '2025-11-11T10:43:51Z'
-    extra: ''
-    issue: '3'
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: UK54UW9B
-    language: en
-    libraryCatalog: Cambridge University Press
-    pages: 462-487
-    partNumber: ''
-    partTitle: ''
-    place: ''
-    publicationTitle: Bulletin of Symbolic Logic
-    publisher: ''
-    relations: {}
-    rights: ''
-    section: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags: []
-    title: Feferman's completeness theorem
-    url: https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/fefermans-completeness-theorem/2050717AF10C1D99BE37FD94790463A5
-    version: 583
-    volume: '31'
-  key: UK54UW9B
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/UK54UW9B
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Pakhomov et al.
-    numChildren: 1
-    parsedDate: 2025-09
-  version: 583
+  version: 631
 - data:
     DOI: 10.1090/proc/17308
     ISSN: 0002-9939, 1088-6826
@@ -536,7 +369,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2402.10029
     callNumber: ''
-    citationKey: ''
+    citationKey: andrews2025
     collections:
     - 3T8QH7NR
     - HYV9UV57
@@ -555,7 +388,7 @@
       lastName: Zhu
     date: 2025/09
     dateAdded: '2024-02-16T14:08:22Z'
-    dateModified: '2025-11-11T12:44:36Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arxiv:2402.10029
     issue: 09
     itemType: journalArticle
@@ -592,7 +425,7 @@
       type: 1
     title: The Borel complexity of the class of models of first-order theories
     url: https://www.ams.org/proc/2025-153-09/S0002-9939-2025-17308-7/
-    version: 580
+    version: 632
     volume: '153'
   key: EVACUMCI
   library:
@@ -622,7 +455,174 @@
     creatorSummary: Andrews et al.
     numChildren: 3
     parsedDate: 2025-09
-  version: 580
+  version: 632
+- data:
+    DOI: 10.48550/arXiv.2507.12025
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: We classify the possible Scott complexities for models of Peano
+      arithmetic. We construct models of particular complexities by first giving a
+      complete Scott analysis of colored linear orderings and constructing models
+      of Peano arithmetic from these colored orderings. We also provide tight connections
+      of certain Scott complexities with notions from the classical theory of models
+      of Peano arithmetic, such as prime, finitely generated, and recursively saturated.
+      This effort provides a powerful set of tools to understand the models of Peano
+      arithmetic.
+    accessDate: '2025-07-17T10:45:13Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2507.12025
+    callNumber: ''
+    citationKey: gonzalez2025
+    collections:
+    - MN5KEVEP
+    creators:
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    - creatorType: author
+      firstName: Mateusz
+      lastName: "\u0141e\u0142yk"
+    - creatorType: author
+      firstName: Patryk
+      lastName: Szlufik
+    date: 2025/09
+    dateAdded: '2025-07-17T10:45:13Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    extra: arXiv:2507.12025 [math]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: LKFC4J6K
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: submitted for publication
+    publisher: ''
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Classifying the complexity of models of arithmetic
+    url: http://arxiv.org/abs/2507.12025
+    version: 632
+    volume: ''
+  key: LKFC4J6K
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/LKFC4J6K
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/LKFC4J6K
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Gonzalez et al.
+    numChildren: 2
+    parsedDate: 2025-09
+  version: 632
+- data:
+    DOI: 10.1017/bsl.2025.2
+    ISSN: 1079-8986, 1943-5894
+    PMCID: ''
+    PMID: ''
+    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
+    accessDate: '2025-01-13T10:45:53Z'
+    archive: arxiv
+    archiveLocation: https://arxiv.org/abs/2405.09275
+    callNumber: ''
+    citationKey: pakhomov2025
+    collections:
+    - 3T8QH7NR
+    - HYV9UV57
+    creators:
+    - creatorType: author
+      firstName: Fedor
+      lastName: Pakhomov
+    - creatorType: author
+      firstName: Michael
+      lastName: Rathjen
+    date: 2025/09
+    dateAdded: '2025-01-13T10:45:53Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    extra: ''
+    issue: '3'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: UK54UW9B
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 462-487
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: Bulletin of Symbolic Logic
+    publisher: ''
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Feferman's completeness theorem
+    url: https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/fefermans-completeness-theorem/2050717AF10C1D99BE37FD94790463A5
+    version: 631
+    volume: '31'
+  key: UK54UW9B
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/UK54UW9B
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Pakhomov et al.
+    numChildren: 1
+    parsedDate: 2025-09
+  version: 631
 - data:
     DOI: 10.1093/logcom/exaf034
     ISSN: 0955-792X
@@ -645,7 +645,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2206.01135
     callNumber: ''
-    citationKey: ''
+    citationKey: csima2025
     collections:
     - 3T8QH7NR
     - HYV9UV57
@@ -658,7 +658,7 @@
       lastName: MacLean
     date: '2025-07-01'
     dateAdded: '2025-10-07T00:29:11Z'
-    dateModified: '2025-11-07T10:54:41Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: ''
     issue: '5'
     itemType: journalArticle
@@ -682,7 +682,7 @@
     tags: []
     title: Relations enumerable from positive information
     url: https://doi.org/10.1093/logcom/exaf034
-    version: 581
+    version: 632
     volume: '35'
   key: VGVJ6BX7
   library:
@@ -712,7 +712,7 @@
     creatorSummary: Csima et al.
     numChildren: 2
     parsedDate: '2025-07-01'
-  version: 581
+  version: 632
 - data:
     DOI: 10.1017/jsl.2025.7
     ISSN: 0022-4812, 1943-5886
@@ -723,7 +723,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2403.17493
     callNumber: ''
-    citationKey: ''
+    citationKey: rossegger2025
     collections:
     - 3T8QH7NR
     creators:
@@ -735,7 +735,7 @@
       lastName: Steifer
     date: 2025/02/03
     dateAdded: '2025-02-17T09:31:41Z'
-    dateModified: '2025-11-11T12:43:49Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: ''
     issue: ''
     itemType: journalArticle
@@ -759,7 +759,7 @@
     tags: []
     title: Learning Equivalence Relations on Polish Spaces
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/learning-equivalence-relations-on-polish-spaces/EEAF0148F83F4C67E8D25E4CB9CDB319
-    version: 573
+    version: 632
     volume: first view
   key: PX7IHN27
   library:
@@ -789,7 +789,7 @@
     creatorSummary: Rossegger et al.
     numChildren: 0
     parsedDate: '2025-02-03'
-  version: 573
+  version: 632
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
@@ -800,7 +800,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2301.09940
     callNumber: ''
-    citationKey: ''
+    citationKey: bazhenov2025
     collections:
     - 3T8QH7NR
     creators:
@@ -818,7 +818,7 @@
       lastName: Vatev
     date: '2025'
     dateAdded: '2024-03-15T15:27:24Z'
-    dateModified: '2025-07-10T12:52:44Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arxiv:2301.09940
     issue: '2'
     itemType: journalArticle
@@ -842,7 +842,7 @@
     tags: []
     title: A Lopez-Escobar Theorem for Continuous Domains
     url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/lopezescobar-theorem-for-continuous-domains/041B7DBB152EE01A55B35DA14827A830
-    version: 525
+    version: 631
     volume: '90'
   key: 89CAGSK9
   library:
@@ -872,7 +872,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2025'
-  version: 525
+  version: 631
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: 0219-0613
@@ -883,7 +883,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2209.04524
     callNumber: ''
-    citationKey: ''
+    citationKey: csima2024
     collections:
     - 3T8QH7NR
     creators:
@@ -892,7 +892,7 @@
       lastName: Csima
     date: 2024-12
     dateAdded: '2023-09-13T07:00:32Z'
-    dateModified: '2025-03-11T08:30:00Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: 'arXiv: 2209.04524'
     issue: '03'
     itemType: journalArticle
@@ -925,7 +925,7 @@
       type: 1
     title: Degrees of categoricity and treeable degrees
     url: https://www.worldscientific.com/doi/10.1142/S0219061324500028
-    version: 514
+    version: 632
     volume: '24'
   key: VRYCXLDD
   library:
@@ -955,160 +955,7 @@
     creatorSummary: Csima and Rossegger
     numChildren: 4
     parsedDate: 2024-12
-  version: 514
-- data:
-    DOI: 10.1007/978-3-031-64309-5_7
-    ISBN: 978-3-031-64309-5
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2405.08442
-    callNumber: ''
-    citationKey: ''
-    collections:
-    - 3T8QH7NR
-    conferenceName: Computability in Europe
-    creators:
-    - creatorType: author
-      firstName: Meng-Che
-      lastName: "\u201CTurbo\u201D Ho"
-    - creatorType: author
-      firstName: Khanh
-      lastName: Le
-    date: '2024'
-    dateAdded: '2024-07-30T11:31:42Z'
-    dateModified: '2025-11-11T12:43:41Z'
-    eventPlace: ''
-    extra: arxiv:2405.08442
-    issue: ''
-    itemType: conferencePaper
-    key: 68T4RQSQ
-    language: en
-    libraryCatalog: Springer Link
-    numberOfVolumes: ''
-    pages: 72-84
-    place: Cham
-    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
-    publisher: Springer Nature Switzerland
-    relations: {}
-    rights: ''
-    series: Lecture Notes in Computer Science
-    seriesNumber: ''
-    shortTitle: ''
-    tags: []
-    title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
-      \ Groups via\_its Dynamical Realization"
-    url: ''
-    version: 572
-    volume: '14773'
-  key: 68T4RQSQ
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/68T4RQSQ
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/68T4RQSQ
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: "\u201CTurbo\u201D Ho et al."
-    numChildren: 0
-    parsedDate: '2024'
-  version: 572
-- data:
-    DOI: 10.1017/jsl.2023.43
-    ISSN: 0022-4812, 1943-5886
-    PMCID: ''
-    PMID: ''
-    abstractNote: ''
-    accessDate: '2022-08-08T15:44:57Z'
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2208.01697
-    callNumber: ''
-    citationKey: ''
-    collections:
-    - 3T8QH7NR
-    creators:
-    - creatorType: author
-      firstName: Antonio
-      lastName: "Montalb\xE1n"
-    date: '2024'
-    dateAdded: '2023-07-13T22:41:07Z'
-    dateModified: '2025-04-07T14:32:41Z'
-    extra: arxiv:2208.01697
-    issue: '4'
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: MPSHJ2BY
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: 1703-1719
-    partNumber: ''
-    partTitle: ''
-    place: ''
-    publicationTitle: The Journal of Symbolic Logic
-    publisher: ''
-    relations: {}
-    rights: ''
-    section: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: 03E15, 03C62, 03H15
-      type: 1
-    - tag: Mathematics - Logic
-      type: 1
-    title: The structural complexity of models of arithmetic
-    url: ''
-    version: 518
-    volume: '89'
-  key: MPSHJ2BY
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/MPSHJ2BY
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/MPSHJ2BY
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: "Montalb\xE1n and Rossegger"
-    numChildren: 1
-    parsedDate: '2024'
-  version: 518
+  version: 632
 - data:
     DOI: 10.1007/978-3-031-64309-5_14
     ISBN: 978-3-031-64309-5
@@ -1123,7 +970,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2402.05744
     callNumber: ''
-    citationKey: ''
+    citationKey: bazhenov2024b
     collections:
     - 3T8QH7NR
     conferenceName: Computability in Europe
@@ -1142,7 +989,7 @@
       lastName: Vatev
     date: '2024'
     dateAdded: '2024-07-30T11:36:44Z'
-    dateModified: '2024-09-23T09:24:16Z'
+    dateModified: '2026-02-16T11:20:47Z'
     eventPlace: ''
     extra: arxiv:2402.05744 [math]
     issue: ''
@@ -1163,7 +1010,7 @@
     tags: []
     title: "Learning Families of\_Algebraic Structures from\_Text"
     url: ''
-    version: 450
+    version: 631
     volume: '14773'
   key: VMFJ9TQV
   library:
@@ -1193,7 +1040,160 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2024'
-  version: 450
+  version: 631
+- data:
+    DOI: 10.1007/978-3-031-64309-5_7
+    ISBN: 978-3-031-64309-5
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2405.08442
+    callNumber: ''
+    citationKey: turboho2024
+    collections:
+    - 3T8QH7NR
+    conferenceName: Computability in Europe
+    creators:
+    - creatorType: author
+      firstName: Meng-Che
+      lastName: "\u201CTurbo\u201D Ho"
+    - creatorType: author
+      firstName: Khanh
+      lastName: Le
+    date: '2024'
+    dateAdded: '2024-07-30T11:31:42Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    eventPlace: ''
+    extra: arxiv:2405.08442
+    issue: ''
+    itemType: conferencePaper
+    key: 68T4RQSQ
+    language: en
+    libraryCatalog: Springer Link
+    numberOfVolumes: ''
+    pages: 72-84
+    place: Cham
+    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
+    publisher: Springer Nature Switzerland
+    relations: {}
+    rights: ''
+    series: Lecture Notes in Computer Science
+    seriesNumber: ''
+    shortTitle: ''
+    tags: []
+    title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
+      \ Groups via\_its Dynamical Realization"
+    url: ''
+    version: 631
+    volume: '14773'
+  key: 68T4RQSQ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/68T4RQSQ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/68T4RQSQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: "\u201CTurbo\u201D Ho et al."
+    numChildren: 0
+    parsedDate: '2024'
+  version: 631
+- data:
+    DOI: 10.1017/jsl.2023.43
+    ISSN: 0022-4812, 1943-5886
+    PMCID: ''
+    PMID: ''
+    abstractNote: ''
+    accessDate: '2022-08-08T15:44:57Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2208.01697
+    callNumber: ''
+    citationKey: montalban2024
+    collections:
+    - 3T8QH7NR
+    creators:
+    - creatorType: author
+      firstName: Antonio
+      lastName: "Montalb\xE1n"
+    date: '2024'
+    dateAdded: '2023-07-13T22:41:07Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    extra: arxiv:2208.01697
+    issue: '4'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: MPSHJ2BY
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: 1703-1719
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: The Journal of Symbolic Logic
+    publisher: ''
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: 03E15, 03C62, 03H15
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: The structural complexity of models of arithmetic
+    url: ''
+    version: 630
+    volume: '89'
+  key: MPSHJ2BY
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/MPSHJ2BY
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/MPSHJ2BY
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: "Montalb\xE1n and Rossegger"
+    numChildren: 1
+    parsedDate: '2024'
+  version: 630
 - data:
     DOI: 10.1016/j.apal.2021.103060
     ISSN: 0168-0072
@@ -1204,7 +1204,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2005.07829
     callNumber: ''
-    citationKey: ''
+    citationKey: bazhenov2022
     collections: []
     creators:
     - creatorType: author
@@ -1215,7 +1215,7 @@
       lastName: Zubkov
     date: '2022'
     dateAdded: '2021-11-24T21:49:08Z'
-    dateModified: '2024-05-15T11:52:29Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arxiv:https://arxiv.org/abs/2005.07829
     issue: '3'
     itemType: journalArticle
@@ -1249,7 +1249,7 @@
       type: 1
     title: On bi-embeddable categoricity of algebraic structures
     url: https://www.sciencedirect.com/science/article/pii/S0168007221001184
-    version: 393
+    version: 630
     volume: '173'
   key: 7WTVLII3
   library:
@@ -1279,7 +1279,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 1
     parsedDate: '2022'
-  version: 393
+  version: 630
 - data:
     DOI: 10.1017/jsl.2021.82
     ISSN: 0022-4812, 1943-5886
@@ -1290,13 +1290,13 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2010.00755
     callNumber: ''
-    citationKey: ''
+    citationKey: rossegger2022
     collections:
     - 3T8QH7NR
     creators: []
     date: '2022'
     dateAdded: '2021-10-08T18:45:12Z'
-    dateModified: '2024-05-15T11:47:21Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arxiv:2010.00755
     issue: '4'
     itemType: journalArticle
@@ -1324,7 +1324,7 @@
       type: 1
     title: Degree spectra of analytic complete equivalence relations
     url: https://arxiv.org/abs/2010.00755
-    version: 374
+    version: 630
     volume: '87'
   key: YFZER25H
   library:
@@ -1354,7 +1354,7 @@
     creatorSummary: Rossegger
     numChildren: 0
     parsedDate: '2022'
-  version: 374
+  version: 630
 - data:
     DOI: 10.1007/978-3-030-80049-9_38
     ISBN: ''
@@ -1364,7 +1364,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2011.14160
     callNumber: ''
-    citationKey: ''
+    citationKey: csima2021
     collections: []
     conferenceName: Computability in Europe
     creators:
@@ -1376,7 +1376,7 @@
       lastName: Yu
     date: '2021'
     dateAdded: '2021-09-29T04:32:17Z'
-    dateModified: '2025-11-11T10:49:32Z'
+    dateModified: '2026-02-16T11:20:47Z'
     eventPlace: ''
     extra: arxiv:https://arxiv.org/abs/2011.14160
     issue: ''
@@ -1397,7 +1397,7 @@
     tags: []
     title: Positive enumerable functors
     url: ''
-    version: 570
+    version: 631
     volume: '12813'
   key: HUNJCCFU
   library:
@@ -1427,7 +1427,7 @@
     creatorSummary: Csima et al.
     numChildren: 0
     parsedDate: '2021'
-  version: 570
+  version: 631
 - data:
     DOI: 10.3233/COM-190289
     ISSN: ''
@@ -1438,7 +1438,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1907.03553
     callNumber: ''
-    citationKey: ''
+    citationKey: bazhenov2021
     collections: []
     creators:
     - creatorType: author
@@ -1452,7 +1452,7 @@
       lastName: San Mauro
     date: '2021'
     dateAdded: '2019-07-10T12:24:49Z'
-    dateModified: '2025-11-11T10:48:56Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arxiv:http://arxiv.org/abs/1907.03553
     issue: '1'
     itemType: journalArticle
@@ -1481,7 +1481,7 @@
       type: 1
     title: Degrees of bi-embeddable categoricity
     url: https://arxiv.org/abs/1907.03553
-    version: 568
+    version: 630
     volume: '10'
   key: 9MFUXQB3
   library:
@@ -1511,7 +1511,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2021'
-  version: 568
+  version: 630
 - data:
     DOI: 10.1017/jsl.2020.46
     ISSN: ''
@@ -1522,7 +1522,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1810.11423
     callNumber: ''
-    citationKey: ''
+    citationKey: alvir2020
     collections: []
     creators:
     - creatorType: author
@@ -1530,7 +1530,7 @@
       lastName: Alvir
     date: '2020'
     dateAdded: '2021-04-20T17:34:54Z'
-    dateModified: '2025-11-11T10:44:55Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arxiv:https://arxiv.org/abs/1810.11423
     issue: '3'
     itemType: journalArticle
@@ -1554,7 +1554,7 @@
     tags: []
     title: The complexity of Scott sentences of scattered linear orders
     url: https://arxiv.org/abs/1810.11423
-    version: 566
+    version: 630
     volume: '85'
   key: WCD97VVW
   library:
@@ -1584,7 +1584,83 @@
     creatorSummary: Alvir and Rossegger
     numChildren: 0
     parsedDate: '2020'
-  version: 566
+  version: 630
+- data:
+    DOI: 10.3233/COM-180100
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/1806.10363
+    callNumber: ''
+    citationKey: fokina2019a
+    collections: []
+    creators:
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Luca
+      lastName: San Mauro
+    date: '2019'
+    dateAdded: '2020-07-21T21:31:39Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    extra: arxiv:https://arxiv.org/abs/1806.10363
+    issue: 3-4
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: 9YBY737P
+    language: ''
+    libraryCatalog: Google Scholar
+    pages: "265\u2013280"
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: Computability
+    publisher: ''
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Measuring the complexity of reductions between equivalence relations
+    url: ''
+    version: 630
+    volume: '8'
+  key: 9YBY737P
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/9YBY737P
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/9YBY737P
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Fokina et al.
+    numChildren: 0
+    parsedDate: '2019'
+  version: 630
 - data:
     DOI: 10.1007/s00153-018-0650-3
     ISSN: ''
@@ -1595,7 +1671,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1710.10927
     callNumber: ''
-    citationKey: ''
+    citationKey: bazhenov2019
     collections: []
     creators:
     - creatorType: author
@@ -1609,7 +1685,7 @@
       lastName: San Mauro
     date: '2019'
     dateAdded: '2018-11-04T18:02:07Z'
-    dateModified: '2024-05-15T11:52:56Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arxiv:https://arxiv.org/abs/1710.10927
     issue: 5-6
     itemType: journalArticle
@@ -1646,7 +1722,7 @@
       type: 1
     title: Degrees of bi-embeddable categoricity of equivalence structures
     url: https://arxiv.org/abs/1710.10927
-    version: 397
+    version: 630
     volume: '58'
   key: FKE84RHD
   library:
@@ -1676,7 +1752,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2019'
-  version: 397
+  version: 630
 - data:
     DOI: 10.1002/malq.201800056
     ISSN: ''
@@ -1687,7 +1763,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1808.05451
     callNumber: ''
-    citationKey: ''
+    citationKey: fokina2019
     collections: []
     creators:
     - creatorType: author
@@ -1698,7 +1774,7 @@
       lastName: San Mauro
     date: '2019'
     dateAdded: '2020-07-21T21:30:35Z'
-    dateModified: '2024-05-15T11:52:06Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arxiv:https://arxiv.org/abs/1808.05451
     issue: '2'
     itemType: journalArticle
@@ -1722,7 +1798,7 @@
     tags: []
     title: Bi-embeddability spectra and bases of spectra
     url: https://arxiv.org/abs/1808.05451
-    version: 391
+    version: 630
     volume: '65'
   key: ZZTED3DW
   library:
@@ -1752,150 +1828,7 @@
     creatorSummary: Fokina et al.
     numChildren: 0
     parsedDate: '2019'
-  version: 391
-- data:
-    DOI: 10.3233/COM-180100
-    ISSN: ''
-    PMCID: ''
-    PMID: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/1806.10363
-    callNumber: ''
-    citationKey: ''
-    collections: []
-    creators:
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Luca
-      lastName: San Mauro
-    date: '2019'
-    dateAdded: '2020-07-21T21:31:39Z'
-    dateModified: '2024-05-15T11:51:52Z'
-    extra: arxiv:https://arxiv.org/abs/1806.10363
-    issue: 3-4
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: 9YBY737P
-    language: ''
-    libraryCatalog: Google Scholar
-    pages: "265\u2013280"
-    partNumber: ''
-    partTitle: ''
-    place: ''
-    publicationTitle: Computability
-    publisher: ''
-    relations: {}
-    rights: ''
-    section: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags: []
-    title: Measuring the complexity of reductions between equivalence relations
-    url: ''
-    version: 389
-    volume: '8'
-  key: 9YBY737P
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/9YBY737P
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/9YBY737P
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Fokina et al.
-    numChildren: 0
-    parsedDate: '2019'
-  version: 389
-- data:
-    DOI: 10.1007/978-3-319-94418-0_35
-    ISBN: ''
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    citationKey: ''
-    collections: []
-    conferenceName: Computability in Europe
-    creators: []
-    date: '2018'
-    dateAdded: '2018-02-21T20:41:04Z'
-    dateModified: '2024-09-23T10:07:32Z'
-    eventPlace: ''
-    extra: ''
-    issue: ''
-    itemType: conferencePaper
-    key: WL68KGE2
-    language: ''
-    libraryCatalog: ''
-    numberOfVolumes: ''
-    pages: 349-358
-    place: ''
-    proceedingsTitle: Sailing Routes in the World of Computation
-    publisher: Springer
-    relations: {}
-    rights: ''
-    series: Lecture Notes in Computer Science
-    seriesNumber: ''
-    shortTitle: ''
-    tags: []
-    title: Elementary bi-embeddability spectra of structures
-    url: ''
-    version: 454
-    volume: '10936'
-  key: WL68KGE2
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/WL68KGE2
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/WL68KGE2
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Rossegger
-    numChildren: 0
-    parsedDate: '2018'
-  version: 454
+  version: 630
 - data:
     DOI: 10.1007/s10469-018-9511-8
     ISSN: ''
@@ -1906,7 +1839,7 @@
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/1907.03553
     callNumber: ''
-    citationKey: ''
+    citationKey: bazhenov2018
     collections: []
     creators:
     - creatorType: author
@@ -1920,7 +1853,7 @@
       lastName: San Mauro
     date: '2018'
     dateAdded: '2018-12-03T13:26:45Z'
-    dateModified: '2024-05-15T11:53:14Z'
+    dateModified: '2026-02-16T11:20:47Z'
     extra: arxiv:https://arxiv.org/abs/1907.03553
     issue: '5'
     itemType: journalArticle
@@ -1947,7 +1880,7 @@
     tags: []
     title: Computable bi-embeddable categoricity
     url: https://arxiv.org/abs/1907.03553
-    version: 401
+    version: 630
     volume: '57'
   key: 29FUEU63
   library:
@@ -1977,7 +1910,74 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2018'
-  version: 401
+  version: 630
+- data:
+    DOI: 10.1007/978-3-319-94418-0_35
+    ISBN: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: rossegger2018
+    collections: []
+    conferenceName: Computability in Europe
+    creators: []
+    date: '2018'
+    dateAdded: '2018-02-21T20:41:04Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    eventPlace: ''
+    extra: ''
+    issue: ''
+    itemType: conferencePaper
+    key: WL68KGE2
+    language: ''
+    libraryCatalog: ''
+    numberOfVolumes: ''
+    pages: 349-358
+    place: ''
+    proceedingsTitle: Sailing Routes in the World of Computation
+    publisher: Springer
+    relations: {}
+    rights: ''
+    series: Lecture Notes in Computer Science
+    seriesNumber: ''
+    shortTitle: ''
+    tags: []
+    title: Elementary bi-embeddability spectra of structures
+    url: ''
+    version: 630
+    volume: '10936'
+  key: WL68KGE2
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/WL68KGE2
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/WL68KGE2
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger
+    numChildren: 0
+    parsedDate: '2018'
+  version: 630
 - data:
     DOI: ''
     ISBN: ''
@@ -1987,7 +1987,7 @@
     archive: ''
     archiveLocation: ''
     callNumber: ''
-    citationKey: ''
+    citationKey: bazhenov2017a
     collections: []
     conferenceName: 11th Panhellenic Logic Symposium
     creators:
@@ -2002,7 +2002,7 @@
       lastName: San Mauro
     date: '2017'
     dateAdded: '2025-01-28T16:00:20Z'
-    dateModified: '2025-01-28T16:00:20Z'
+    dateModified: '2026-02-16T11:20:47Z'
     eventPlace: ''
     extra: ''
     issue: ''
@@ -2023,7 +2023,7 @@
     tags: []
     title: Computable bi-embeddable categoricity of equivalence structures
     url: ''
-    version: 502
+    version: 632
     volume: ''
   key: FF5AXUZ3
   library:
@@ -2053,4 +2053,4 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2017'
-  version: 502
+  version: 632
