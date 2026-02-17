@@ -1,0 +1,403 @@
+- data:
+    DOI: 10.48550/arXiv.2512.09832
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: ''
+    accessDate: '2026-01-07T12:03:36Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2512.09832
+    callNumber: ''
+    citationKey: cipriani2025a
+    collections:
+    - MN5KEVEP
+    creators:
+    - creatorType: author
+      firstName: Vittorio
+      lastName: Cipriani
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Matthew
+      lastName: Harrison-Trainor
+    - creatorType: author
+      firstName: Liling
+      lastName: Ko
+    date: '2025-12-10'
+    dateAdded: '2026-01-07T12:03:36Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    extra: arXiv:2512.09832
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: YETCPGQ3
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: submitted for publication
+    publisher: arXiv
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Computer Science - Computational Complexity
+      type: 1
+    - tag: Mathematics - Logic
+      type: 1
+    title: Dichotomy results for classes of countable graphs
+    url: http://arxiv.org/abs/2512.09832
+    version: 632
+    volume: ''
+  key: YETCPGQ3
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/YETCPGQ3
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/YETCPGQ3
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Cipriani et al.
+    numChildren: 3
+    parsedDate: '2025-12-10'
+  version: 632
+- data:
+    DOI: 10.48550/arXiv.2512.01867
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: The standard framework for studying learning problems on algebraic
+      structures assumes that the structures in the target family are pairwise nonisomorphic.
+      Under this assumption, the most widely investigated learning criterion--Ex-learning--becomes
+      inherently equivalent to the well-known paradigm of Bc-learning. This paper
+      explores what happens when the nonisomorphism requirement is removed and analyzes
+      the extent to which these two learning criteria remain uniformly equivalent.
+    accessDate: '2025-12-02T10:18:33Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2512.01867
+    callNumber: ''
+    citationKey: cipriani2025
+    collections:
+    - MN5KEVEP
+    creators:
+    - creatorType: author
+      firstName: Vittorio
+      lastName: Cipriani
+    date: '2025-12-01'
+    dateAdded: '2025-12-02T10:18:33Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    extra: arXiv:2512.01867
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: RXT9MWGQ
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: submitted for publication
+    publisher: ''
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Uniformity in learning structures
+    url: http://arxiv.org/abs/2512.01867
+    version: 632
+    volume: ''
+  key: RXT9MWGQ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/RXT9MWGQ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/RXT9MWGQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Cipriani and Rossegger
+    numChildren: 2
+    parsedDate: '2025-12-01'
+  version: 632
+- data:
+    DOI: 10.48550/arXiv.2507.12025
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: We classify the possible Scott complexities for models of Peano
+      arithmetic. We construct models of particular complexities by first giving a
+      complete Scott analysis of colored linear orderings and constructing models
+      of Peano arithmetic from these colored orderings. We also provide tight connections
+      of certain Scott complexities with notions from the classical theory of models
+      of Peano arithmetic, such as prime, finitely generated, and recursively saturated.
+      This effort provides a powerful set of tools to understand the models of Peano
+      arithmetic.
+    accessDate: '2025-07-17T10:45:13Z'
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2507.12025
+    callNumber: ''
+    citationKey: gonzalez2025
+    collections:
+    - MN5KEVEP
+    creators:
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    - creatorType: author
+      firstName: Mateusz
+      lastName: "\u0141e\u0142yk"
+    - creatorType: author
+      firstName: Patryk
+      lastName: Szlufik
+    date: 2025/09
+    dateAdded: '2025-07-17T10:45:13Z'
+    dateModified: '2026-02-16T11:20:47Z'
+    extra: arXiv:2507.12025 [math]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: LKFC4J6K
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: submitted for publication
+    publisher: ''
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Classifying the complexity of models of arithmetic
+    url: http://arxiv.org/abs/2507.12025
+    version: 632
+    volume: ''
+  key: LKFC4J6K
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/LKFC4J6K
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/LKFC4J6K
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Gonzalez et al.
+    numChildren: 2
+    parsedDate: 2025-09
+  version: 632
+- data:
+    accessDate: '2026-01-07T12:03:37Z'
+    charset: utf-8
+    contentType: text/html
+    dateAdded: '2026-01-07T12:03:37Z'
+    dateModified: '2026-01-07T12:03:37Z'
+    filename: 2512.html
+    itemType: attachment
+    key: 8NKKI93J
+    linkMode: imported_url
+    md5: 10541591f99d23b584e622d373fecc43
+    mtime: 1767787417722
+    note: ''
+    parentItem: YETCPGQ3
+    relations: {}
+    tags: []
+    title: Snapshot
+    url: http://arxiv.org/abs/2512.09832
+    version: 599
+  key: 8NKKI93J
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/8NKKI93J
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/8NKKI93J
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/YETCPGQ3
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+  version: 599
+- data:
+    accessDate: '2025-12-02T10:18:34Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2025-12-02T10:18:34Z'
+    dateModified: '2025-12-02T10:18:34Z'
+    filename: Cipriani and Rossegger - 2025 - Uniformity in learning structures.pdf
+    itemType: attachment
+    key: 9XGAGDX6
+    linkMode: imported_url
+    md5: 1afdc3136b2d0dbc5db20011d8849224
+    mtime: 1764670714420
+    note: ''
+    parentItem: RXT9MWGQ
+    relations: {}
+    tags: []
+    title: Preprint PDF
+    url: http://arxiv.org/pdf/2512.01867v1
+    version: 587
+  key: 9XGAGDX6
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/9XGAGDX6
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/9XGAGDX6
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/RXT9MWGQ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 587
+- data:
+    accessDate: '2025-07-17T10:45:16Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2025-07-17T10:45:16Z'
+    dateModified: '2025-07-17T10:45:16Z'
+    filename: Gonzalez et al. - 2025 - Classifying the complexity of models of arithmetic.pdf
+    itemType: attachment
+    key: PTHNMIJ8
+    linkMode: imported_url
+    md5: 46c0573ad6c95b7b591a008fbf92f490
+    mtime: 1752749116501
+    note: ''
+    parentItem: LKFC4J6K
+    relations: {}
+    tags: []
+    title: Preprint PDF
+    url: http://arxiv.org/pdf/2507.12025v1
+    version: 528
+  key: PTHNMIJ8
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/PTHNMIJ8
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/PTHNMIJ8
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/LKFC4J6K
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 528
