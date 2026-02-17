@@ -90,4 +90,33 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  &--has-children {
+    position: relative;
+  }
+}
+
+.masthead__submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  min-width: 180px;
+  margin: 0;
+  padding: 0.5em 0;
+  list-style: none;
+  background: $background-color;
+  border: 1px solid $border-color;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.masthead__submenu-item a {
+  display: block;
+  padding: 0.35em 1em;
+}
+
+.masthead__menu-item--has-children:hover .masthead__submenu,
+.masthead__menu-item--has-children:focus-within .masthead__submenu {
+  display: block;
 }
