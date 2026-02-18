@@ -15,5 +15,5 @@ header:
 ### Finished projects
 
 - [**Algorithmic complexity of structural equivalence relations**](/acose/)  
-  **Runtime:** 2021–2023  
+  **Runtime:** 2021–2024  
   **Funding:** Marie Curie Global Fellowship (Horizon 2020)

@@ -40,5 +40,5 @@ with urllib.request.urlopen(acose_url) as url:
 with urllib.request.urlopen(scfound_url) as url:
     bib=json.loads(url.read().decode())
     file=open("_data/scfound.yml","w")
-    yaml.dump(remove_author(clean_bib(bib),"Dino"),file)
+    yaml.dump(clean_bib(bib),file)
     file.close()
