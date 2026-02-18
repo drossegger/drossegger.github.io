@@ -24,6 +24,9 @@
     - creatorType: author
       firstName: Liling
       lastName: Ko
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: '2025-12-10'
     dateAdded: '2026-01-07T12:03:36Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -107,6 +110,9 @@
     - creatorType: author
       firstName: Vittorio
       lastName: Cipriani
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: '2025-12-01'
     dateAdded: '2025-12-02T10:18:33Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -193,6 +199,9 @@
     - creatorType: author
       firstName: Mateusz
       lastName: "\u0141e\u0142yk"
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     - creatorType: author
       firstName: Patryk
       lastName: Szlufik
