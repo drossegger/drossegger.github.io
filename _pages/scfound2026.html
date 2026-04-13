@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Workshop Schedule — April 20</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink:     #1a1a18;
+      --paper:   #f5f0e8;
+      --accent:  #c8410a;
+      --rule:    #d4cdc0;
+      --muted:   #7a7467;
+      --slot-bg: #ffffff;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 300;
+      min-height: 100vh;
+      padding: 3rem 1.5rem 6rem;
+    }
+
+    /* ── Header ── */
+    header {
+      max-width: 780px;
+      margin: 0 auto 3.5rem;
+      border-top: 3px solid var(--ink);
+      padding-top: 1.5rem;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: end;
+      gap: 1rem;
+    }
+
+    .workshop-label {
+      font-family: 'DM Mono', monospace;
+      font-size: .72rem;
+      letter-spacing: .15em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: .5rem;
+    }
+
+    h1 {
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      line-height: 1.05;
+      font-weight: 400;
+    }
+
+    h1 em {
+      font-style: italic;
+      color: var(--accent);
+    }
+
+    .header-meta {
+      text-align: right;
+      font-family: 'DM Mono', monospace;
+      font-size: .78rem;
+      color: var(--muted);
+      line-height: 1.9;
+    }
+
+    /* ── Schedule container ── */
+    .schedule {
+      max-width: 780px;
+      margin: 0 auto;
+    }
+
+    /* ── Section label (Morning / Afternoon) ── */
+    .section-label {
+      font-family: 'DM Mono', monospace;
+      font-size: .68rem;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      padding: .25rem 0 .6rem;
+      border-bottom: 1px solid var(--rule);
+      margin-bottom: .1rem;
+    }
+
+    /* ── Single slot row ── */
+    .slot {
+      display: grid;
+      grid-template-columns: 7rem 1fr;
+      border-bottom: 1px solid var(--rule);
+      background: var(--slot-bg);
+      transition: background .15s;
+    }
+
+    .slot:hover { background: #faf8f4; }
+
+    .slot.break {
+      background: transparent;
+    }
+
+    .slot.break:hover { background: transparent; }
+
+    .time-col {
+      padding: 1.1rem 1rem 1.1rem 0;
+      border-right: 1px solid var(--rule);
+      font-family: 'DM Mono', monospace;
+      font-size: .8rem;
+      color: var(--muted);
+      display: flex;
+      flex-direction: column;
+      gap: .15rem;
+    }
+
+    .time-start { font-weight: 500; color: var(--ink); }
+
+    .content-col {
+      padding: 1.1rem 0 1.1rem 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: .3rem;
+    }
+
+    /* ── Talk fields ── */
+    .talk-title {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.05rem;
+      font-weight: 400;
+      color: var(--ink);
+    }
+
+    .talk-title.empty {
+      color: var(--rule);
+      font-style: italic;
+    }
+
+    .talk-meta {
+      display: flex;
+      align-items: baseline;
+      gap: .4rem;
+      flex-wrap: wrap;
+    }
+
+    .talk-speaker {
+      font-size: .82rem;
+      font-weight: 500;
+      color: var(--accent);
+    }
+
+    .talk-affiliation {
+      font-size: .78rem;
+      color: var(--muted);
+    }
+
+    .talk-affiliation::before {
+      content: "·";
+      margin-right: .4rem;
+      color: var(--rule);
+    }
+
+    /* ── Abstract ── */
+    .abstract-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: .3rem;
+      margin-top: .2rem;
+      font-family: 'DM Mono', monospace;
+      font-size: .68rem;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      cursor: pointer;
+      border: none;
+      background: none;
+      padding: 0;
+      transition: color .15s;
+    }
+
+    .abstract-toggle:hover { color: var(--accent); }
+
+    .abstract-toggle .arrow {
+      display: inline-block;
+      transition: transform .2s ease;
+      font-style: normal;
+    }
+
+    .abstract-toggle.open .arrow { transform: rotate(90deg); }
+
+    .abstract-body {
+      display: none;
+      margin-top: .6rem;
+      padding: .75rem 1rem;
+      border-left: 2px solid var(--rule);
+      font-size: .85rem;
+      line-height: 1.7;
+      color: var(--ink);
+      font-weight: 300;
+    }
+
+    .abstract-body.open { display: block; }
+
+    /* ── Break styling ── */
+    .break-label {
+      font-family: 'DM Mono', monospace;
+      font-size: .75rem;
+      letter-spacing: .08em;
+      color: var(--muted);
+      text-transform: uppercase;
+    }
+
+    /* ── Footer ── */
+    footer {
+      max-width: 780px;
+      margin: 3rem auto 0;
+      border-top: 1px solid var(--rule);
+      padding-top: 1rem;
+      font-family: 'DM Mono', monospace;
+      font-size: .68rem;
+      color: var(--muted);
+      display: flex;
+      justify-content: space-between;
+    }
+
+    @media (max-width: 520px) {
+      header { grid-template-columns: 1fr; }
+      .header-meta { text-align: left; }
+      .slot { grid-template-columns: 5.5rem 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <p class="workshop-label">Mini Workshop</p>
+    <h1>Scott analysis<br><em>Foundational theories and related topics</em></h1>
+  </div>
+  <div class="header-meta">
+    Monday, 20 April 2025<br>
+    08:30 – 16:15<br>
+    Seminarraum DA05C22<br>
+    TU Wien, Wiedner Hauptstraße 8–10<br>
+    5th floor, green area
+  </div>
+</header>
+
+<main class="schedule">
+
+  <!-- ═══ MORNING ═══ -->
+  <p class="section-label">Morning</p>
+
+  <!-- 09:00 — Opening & Welcome -->
+  <div class="slot">
+    <div class="time-col">
+      <span class="time-start">09:00</span>
+      <span>09:30</span>
+    </div>
+    <div class="content-col">
+      <span class="talk-title">Opening</span>
+      <span class="talk-speaker">Organiser(s)</span>
+    </div>
+  </div>
+
+  <!-- 09:30 — Talk 1 -->
+  <div class="slot">
+    <div class="time-col">
+      <span class="time-start">09:30</span>
+      <span>10:15</span>
+    </div>
+    <div class="content-col">
+      <span class="talk-title">Simplest model property and weak set theories</span>
+      <div class="talk-meta">
+        <span class="talk-speaker">Dariusz Kalocínski</span>
+        <span class="talk-affiliation">Polish Academy of Sciences</span>
+      </div>
+      <button class="abstract-toggle" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+        <span class="arrow">▶</span> Abstract
+      </button>
+      <div class="abstract-body">
+        It is a fact about mathematical practice that some theories are treated algebraically—that is, with the aim of describing all their models—while others are approached non-algebraically, with the aim of describing a specific (intended) model. After reviewing selected philosophical and mathematical approaches to the problem of individuating intended structures, I will focus on the notion of the simplest model property, which I introduced to investigate whether the problem of individuation can be understood as optimization of descriptive complexity (in particular, Scott rank) of models of a given theory. As an example, I will consider the interaction between the simplest model property and weak set theories, which can be viewed as aiming to describe the canonical model of hereditarily finite sets. The talk will cover some preliminary/partial results in this direction.
+      </div>
+    </div>
+  </div>
+
+  <!-- 10:30 — Talk 2 -->
+  <div class="slot">
+    <div class="time-col">
+      <span class="time-start">10:30</span>
+      <span>11:15</span>
+    </div>
+    <div class="content-col">
+      <span class="talk-title empty">Talk title to be announced</span>
+      <div class="talk-meta">
+        <span class="talk-speaker">Katarzyna Kowalik</span>
+        <span class="talk-affiliation">University of Warsaw</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 11:30 — Talk 3 -->
+  <div class="slot">
+    <div class="time-col">
+      <span class="time-start">11:30</span>
+      <span>12:15</span>
+    </div>
+    <div class="content-col">
+      <span class="talk-title">Scott analysis below the Vaught ordinal</span>
+      <div class="talk-meta">
+        <span class="talk-speaker">Dino Rossegger</span>
+        <span class="talk-affiliation">Technische Universität Wien</span>
+      </div>
+      <button class="abstract-toggle" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+        <span class="arrow">▶</span> Abstract
+      </button>
+      <div class="abstract-body">
+        To every first-order theory T we can assign the Vaught ordinal v(T) ≤ ω<sub>1</sub> to be the least ordinal α so that either every model of T has Scott rank less than α or that there are continuum many α-back-and-forth types realized among models of T. We use a new type omitting theorem to gain detailed insight into the α-back-and-forth types realized by models of theories for α &lt; v(T). This abstract analysis allows us to improve an old result of Sacks on the Scott analysis of counterexamples to Vaught's conjecture and to answer questions from Harris and Montalbán on Boolean algebras, Alvir, Csima and MacLean on Abelian p-groups and Pillay and Tanović on Ehrenfeucht theories.
+        <br><br>
+        In this talk we will discuss our type-omitting theorem and how it can be used to obtain new results in Scott analysis and survey the applications outlined above.
+      </div>
+    </div>
+  </div>
+
+  <!-- 12:30 — Lunch -->
+  <div class="slot break">
+    <div class="time-col">
+      <span class="time-start">12:30</span>
+      <span>13:30</span>
+    </div>
+    <div class="content-col">
+      <span class="break-label">🍽 Lunch Break</span>
+    </div>
+  </div>
+
+  <!-- ═══ AFTERNOON ═══ -->
+  <p class="section-label" style="margin-top:1.5rem">Afternoon</p>
+
+  <!-- 13:30 — Talk 4 -->
+  <div class="slot">
+    <div class="time-col">
+      <span class="time-start">13:30</span>
+      <span>14:15</span>
+    </div>
+    <div class="content-col">
+      <span class="talk-title">On the complexity of the isomorphism problem for sequential theories</span>
+      <div class="talk-meta">
+        <span class="talk-speaker">Mateusz Łełyk</span>
+        <span class="talk-affiliation">University of Warsaw</span>
+      </div>
+      <button class="abstract-toggle" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+        <span class="arrow">▶</span> Abstract
+      </button>
+      <div class="abstract-body">
+        Intuitively speaking, a theory is sequential if it can uniformly encode finite sequences of arbitrary objects from its domain as its objects. Virtually any theory with foundational flavour is sequential (with one prominent exception: as shown by Visser, Robinson's Arithmetic Q is not). Sequential theories include all extensions of PA⁻, such as PA and its canonical fragments IΣ<sub>n</sub>, as well as every subsystem of Second Order Arithmetic studied in Reverse Mathematics.
+        <br><br>
+        During the talk we outline a fairly detailed sketch of a recent result that for every sequential theory T, the isomorphism problem for the models of T is Borel complete in the sense of Friedman–Stanley. In particular, for a fixed sequential theory T, there is a Borel function F from the class of countable linear orders to the class of countable models of T such that for all linear orders L, L′: L ≃ L′ ⟺ F(L) ≃ F(L′). Our proof rests crucially on an earlier result due to Kossak and Coskey, and simultaneously generalises results for completions of PA and for T = ZFC.
+      </div>
+    </div>
+  </div>
+
+  <!-- 14:30 — Talk 5 -->
+  <div class="slot">
+    <div class="time-col">
+      <span class="time-start">14:30</span>
+      <span>15:15</span>
+    </div>
+    <div class="content-col">
+      <span class="talk-title">Better-quasi-ordered trees in reverse mathematics</span>
+      <div class="talk-meta">
+        <span class="talk-speaker">Davide Manca</span>
+        <span class="talk-affiliation">Technische Universität Wien</span>
+      </div>
+      <button class="abstract-toggle" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+        <span class="arrow">▶</span> Abstract
+      </button>
+      <div class="abstract-body">
+        Trees are fundamental combinatorial objects, with important applications in logic and computer science. Kruskal proved that finite trees form a well-quasi-order under homeomorphic embeddings. In fact, this remains true even when we consider trees with labels in an arbitrary well-quasi-order. Kruskal's theorem is of particular interest in light of the unprovability results obtained by Friedman, one of the earliest successes of the reverse mathematics program. Moreover, Nash-Williams introduced a natural strengthening of the notion of well-quasi-order, called better-quasi-order, and used it to extend Kruskal's result to infinite trees. We work in reverse mathematics and discuss the strength of certain restricted versions of Nash-Williams' better-quasi-ordering theorem for trees with respect to the usual 'big five' systems of second-order arithmetic, as well as to more recently introduced systems of partial impredicativity.
+      </div>
+    </div>
+  </div>
+
+  <!-- 15:30 — Talk 6 -->
+  <div class="slot">
+    <div class="time-col">
+      <span class="time-start">15:30</span>
+      <span>16:15</span>
+    </div>
+    <div class="content-col">
+      <span class="talk-title empty">Talk title to be announced</span>
+      <div class="talk-meta">
+        <span class="talk-speaker">Patryk Szlufik</span>
+        <span class="talk-affiliation">University of Warsaw</span>
+      </div>
+    </div>
+  </div>
+
+
+</main>
+
+<footer>
+  <span>Workshop · 20 April 2025</span>
+  <span>All times local</span>
+</footer>
+
+</body>
+</html>
