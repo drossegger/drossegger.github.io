@@ -67,6 +67,13 @@
       line-height: 1.9;
     }
 
+    .header-note {
+      margin-top: .75rem;
+      font-size: .78rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
     /* ── Schedule container ── */
     .schedule {
       max-width: 780px;
@@ -235,6 +242,7 @@
   <div>
     <p class="workshop-label">Mini Workshop</p>
     <h1>Scott analysis<br><em>Foundational theories and related topics</em></h1>
+    <p class="header-note">Organized by <a href="https://drossegger.github.io" style="color:inherit;">Dino Rossegger</a><br>Supported by the Austrian Science Fund FWF <a href="https://doi.org/10.55776/PIN1878224" style="color:inherit;">10.55776/PIN1878224</a></p>
   </div>
   <div class="header-meta">
     Monday, 20 April 2025<br>
@@ -250,7 +258,7 @@
   <!-- ═══ MORNING ═══ -->
   <p class="section-label">Morning</p>
 
-  <!-- 09:00 — Opening & Welcome -->
+  <!-- 09:00 — Opening -->
   <div class="slot">
     <div class="time-col">
       <span class="time-start">09:00</span>
@@ -289,7 +297,7 @@
       <span class="time-start">10:30</span>
       <span>11:15</span>
     </div>
-<div class="content-col">
+    <div class="content-col">
       <span class="talk-title">A non-speedup result for the chain-antichain principle</span>
       <div class="talk-meta">
         <span class="talk-speaker">Katarzyna Kowalik</span>
@@ -305,9 +313,6 @@
       </div>
     </div>
   </div>
-
-
- </div>
 
   <!-- 11:30 — Talk 3 -->
   <div class="slot">
@@ -325,7 +330,7 @@
         <span class="arrow">▶</span> Abstract
       </button>
       <div class="abstract-body">
-        To every first-order theory T we can assign the Vaught ordinal v(T) ≤ ω<sub>1</sub> to be the least ordinal α so that either every model of T has Scott rank less than α or that there are continuum many α-back-and-forth types realized among models of T. We use a new type omitting theorem to gain detailed insight into the α-back-and-forth types realized by models of theories for α &lt; v(T). This abstract analysis allows us to improve an old result of Sacks on the Scott analysis of counterexamples to Vaught's conjecture and to answer questions from Harris and Montalbán on Boolean algebras, Alvir, Csima and MacLean on Abelian p-groups, and Pillay and Tanović on Ehrenfeucht theories.
+        To every first-order theory T we can assign the Vaught ordinal v(T) ≤ ω<sub>1</sub> to be the least ordinal α so that either every model of T has Scott rank less than α or that there are continuum many α-back-and-forth types realized among models of T. We use a new type omitting theorem to gain detailed insight into the α-back-and-forth types realized by models of theories for α &lt; v(T). This abstract analysis allows us to improve an old result of Sacks on the Scott analysis of counterexamples to Vaught's conjecture and to answer questions from Harris and Montalbán on Boolean algebras, Alvir, Csima and MacLean on Abelian p-groups and Pillay and Tanović on Ehrenfeucht theories.
         <br><br>
         In this talk we will discuss our type-omitting theorem and how it can be used to obtain new results in Scott analysis and survey the applications outlined above.
       </div>
@@ -390,17 +395,51 @@
     </div>
   </div>
 
-  <!-- 15:30 — Talk 6 -->
+  <!-- 15:15 — Coffee (30 min) -->
+  <div class="slot break">
+    <div class="time-col">
+      <span class="time-start">15:15</span>
+      <span>15:45</span>
+    </div>
+    <div class="content-col">
+      <span class="break-label">☕ Coffee Break</span>
+    </div>
+  </div>
+
+  <!-- 15:45 — Talk 6 -->
   <div class="slot">
     <div class="time-col">
-      <span class="time-start">15:30</span>
-      <span>16:15</span>
+      <span class="time-start">15:45</span>
+      <span>16:30</span>
+    </div>
+    <div class="content-col">
+      <span class="talk-title">Scott analysis of weak arithmetic towards the general tools</span>
+      <div class="talk-meta">
+        <span class="talk-speaker">Patryk Szlufik</span>
+        <span class="talk-affiliation">University of Warsaw</span>
+      </div>
+      <button class="abstract-toggle" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open')">
+        <span class="arrow">▶</span> Abstract
+      </button>
+      <div class="abstract-body">
+        Scott analysis of Peano Arithmetic (PA) has already given us insight into the dependence of the complexity of the structure on various model- or computability-theoretic properties such as homogeneity, recursive saturation and being finitely generated. Methods used so far oftenmost exploit PA in its full strength, deeming them hard to adjust to different settings. We will take a look at fragments of PA in which induction and collection schemes – canonically describing PA – are restricted to a smaller class of formulas and compare them to the already known case of PA, hoping to generalize some of the methods to other and especially much weaker theories such as IOpen, where induction is assumed to hold only for quantifier-free formulas.
+        <br><br>
+        During the talk we will show some results of Scott analysis of fragments of PA of the form IΣ<sub>n</sub> or BΣ<sub>n</sub> — induction and collection schemes restricted to Σ<sub>n</sub> formulas. In particular we will show that theories BΣ<sub>n</sub> + ¬IΣ<sub>n</sub> and IΣ<sub>n</sub> + ¬BΣ<sub>n+1</sub> have no models of Scott rank below n+1 and that rank n+1 is indeed achievable. We will then turn to the methods we have used and elaborate on how we can adjust them in contexts outside of the scope of arithmetical theories extending IΔ<sub>0</sub> + exp, or indicate the crucial use of properties of these theories.
+      </div>
+    </div>
+  </div>
+
+  <!-- 16:45 — Talk 7 -->
+  <div class="slot">
+    <div class="time-col">
+      <span class="time-start">16:45</span>
+      <span>17:30</span>
     </div>
     <div class="content-col">
       <span class="talk-title empty">Talk title to be announced</span>
       <div class="talk-meta">
-        <span class="talk-speaker">Patryk Szlufik</span>
-        <span class="talk-affiliation">University of Warsaw</span>
+        <span class="talk-speaker">Grigorii Stepanov</span>
+        <span class="talk-affiliation">Technische Universität Wien</span>
       </div>
     </div>
   </div>
