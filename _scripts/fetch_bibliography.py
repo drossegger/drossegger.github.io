@@ -24,22 +24,28 @@ def remove_author(bib,authorfirstname):
                if author["creatorType"]!="author":
                    x["data"]["creators"].remove(author)
     return bib
-
+def personal_bib(bib,authorfirstname):
+    return [
+        entry for entry in bib
+        if any(
+            c.get("firstName") == authorfirstname
+            for c in entry.get("data", {}).get("creators", [])
+        )
+    ]
 with urllib.request.urlopen(zotero_url) as url:
     bib=json.loads(url.read().decode())
     file=open("_data/bibliography.yml","w")
-#    yaml.dump(remove_author(clean_bib(bib),"Dino"),file)
-    yaml.dump(clean_bib(bib),file)
+    yaml.dump(remove_author(personal_bib(clean_bib(bib),"Dino"),""),file)
     file.close()
 
 with urllib.request.urlopen(acose_url) as url:
     bib=json.loads(url.read().decode())
     file=open("_data/acose.yml","w")
-    yaml.dump(clean_bib(bib),file)
+    yaml.dump(remove_author(clean_bib(bib),""),file)
     file.close()
 
 with urllib.request.urlopen(scfound_url) as url:
     bib=json.loads(url.read().decode())
     file=open("_data/scfound.yml","w")
-    yaml.dump(clean_bib(bib),file)
+    yaml.dump(remove_author(clean_bib(bib),""),file)
     file.close()

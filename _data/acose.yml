@@ -757,18 +757,6 @@
     - creatorType: author
       firstName: Stefan
       lastName: Vatev
-    - creatorType: editor
-      firstName: Ludovic
-      lastName: Levy Patey
-    - creatorType: editor
-      firstName: Elaine
-      lastName: Pimentel
-    - creatorType: editor
-      firstName: Lorenzo
-      lastName: Galeotti
-    - creatorType: editor
-      firstName: Florin
-      lastName: Manea
     date: '2024'
     dateAdded: '2024-07-30T11:36:44Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -846,18 +834,6 @@
     - creatorType: author
       firstName: Dino
       lastName: Rossegger
-    - creatorType: editor
-      firstName: Ludovic
-      lastName: Levy Patey
-    - creatorType: editor
-      firstName: Elaine
-      lastName: Pimentel
-    - creatorType: editor
-      firstName: Lorenzo
-      lastName: Galeotti
-    - creatorType: editor
-      firstName: Florin
-      lastName: Manea
     date: '2024'
     dateAdded: '2024-07-30T11:31:42Z'
     dateModified: '2026-02-16T11:20:47Z'

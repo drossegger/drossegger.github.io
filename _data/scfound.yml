@@ -265,6 +265,83 @@
     parsedDate: 2025-09
   version: 632
 - data:
+    DOI: ''
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: ''
+    accessDate: '2025-09-01T10:44:28Z'
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: woodrow1983
+    collections:
+    - MN5KEVEP
+    creators:
+    - creatorType: author
+      firstName: Robert E.
+      lastName: Woodrow
+    - creatorType: author
+      firstName: Julia F.
+      lastName: Knight
+    date: '1983'
+    dateAdded: '2026-05-19T10:07:52Z'
+    dateModified: '2026-05-19T10:07:52Z'
+    extra: ''
+    issue: '2'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: QZ8ICINK
+    language: ''
+    libraryCatalog: Google Scholar
+    pages: "321\u2013328"
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: The Journal of Symbolic Logic
+    publisher: Cambridge University Press
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: A complete theory with arbitrarily large minimality ranks
+    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/complete-theory-with-arbitrarily-large-minimality-ranks/4FBB5E9F527933C32CEF40CC152CCC1C
+    version: 634
+    volume: '48'
+  key: QZ8ICINK
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/QZ8ICINK
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/QZ8ICINK
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Woodrow and Knight
+    numChildren: 0
+    parsedDate: '1983'
+  version: 634
+- data:
     accessDate: '2026-01-07T12:03:37Z'
     charset: utf-8
     contentType: text/html
