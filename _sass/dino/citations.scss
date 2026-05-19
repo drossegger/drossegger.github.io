@@ -1,24 +1,94 @@
-p.bibitem{
-  text-indent:-1em;
-  }
-p.bibitem:before {
-  counter-increment: section; 
-  content: "" counter(section) ". "; 
-  display: inline-block;
-  width: 2em;
-  text-align: right;
-  margin-right: 0.2em;
+.pub-stats {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 2rem;
 }
-.bibliography{
-  counter-reset: section;
-  margin-left: 1em;
+
+.pub-stat {
+  background: $gray;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
-#lines{
-  margin-top: 0em;
-  margin-bottom: 0em;
-  font-size: $type-size-9;
-  margin-left: 3em;
-  }
-#pubtitle{
-  font-weight: bold;
+
+.stat-num {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.stat-label {
+  font-size: 13px;
+  color: #666;
+}
+
+.pub-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pub-list li {
+  padding: 0.9em 0;
+  border-bottom: 1px solid $gray;
+  line-height: 1.55;
+}
+
+.pub-list li:last-child {
+  border-bottom: none;
+}
+
+.pub-title {
+  font-style: italic;
+  font-weight: 500;
+}
+
+.pub-authors {
+  color: #444;
+  margin-top: 0.15em;
+}
+
+.pub-venue {
+  margin-top: 0.15em;
+  color: #222;
+}
+
+.pub-venue-name {
+  font-style: italic;
+}
+
+.pub-links {
+  display: inline-flex;
+  gap: 0.4em;
+  margin-left: 0.5em;
+  vertical-align: middle;
+}
+
+.pub-link {
+  font-size: 0.72em;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px solid currentColor;
+  line-height: 1.6;
+}
+
+.pub-link.doi {
+  color: #1a6fa8;
+  border-color: #1a6fa8;
+}
+
+.pub-link.arxiv {
+  color: #b31b1b;
+  border-color: #b31b1b;
+}
+
+.pub-link:hover {
+  opacity: 0.7;
 }

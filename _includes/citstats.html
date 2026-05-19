@@ -1,0 +1,29 @@
+{% assign total = 0 %}
+{% assign journals = 0 %}
+{% assign conferences = 0 %}
+{% assign submitted = 0 %}
+{% assign recent = 0 %}
+{% assign current_year = 'now' | date: '%Y' | plus: 0 %}
+{% assign cutoff = current_year | minus: 3 %}
+
+{% for pub in include.source %}
+  {% if pub.data.parentItem %}{% continue %}{% endif %}
+  {% assign total = total | plus: 1 %}
+  {% if pub.data.publicationTitle == "submitted for publication" %}
+    {% assign submitted = submitted | plus: 1 %}
+  {% else %}
+    {% if pub.data.itemType == "journalArticle" %}{% assign journals = journals | plus: 1 %}{% endif %}
+    {% if pub.data.itemType == "conferencePaper" %}{% assign conferences = conferences | plus: 1 %}{% endif %}
+  {% endif %}
+  {% assign pub_year = pub.data.date | slice: 0, 4 | plus: 0 %}
+  {% if pub_year > cutoff %}{% assign recent = recent | plus: 1 %}{% endif %}
+{% endfor %}
+
+<div class="pub-stats">
+  <div class="pub-stat"><span class="stat-num">{{ total }}</span><span class="stat-label">Total publications</span></div>
+  <div class="pub-stat"><span class="stat-num">{{ submitted }}</span><span class="stat-label">Preprints</span></div>
+  <div class="pub-stat"><span class="stat-num">{{ journals }}</span><span class="stat-label">Journal articles</span></div>
+  <div class="pub-stat"><span class="stat-num">{{ conferences }}</span><span class="stat-label">Conference papers</span></div>
+  <div class="pub-stat"><span class="stat-num">{{ recent }}</span><span class="stat-label">Last 3 years</span></div>
+</div>
+
