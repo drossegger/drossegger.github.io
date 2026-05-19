@@ -6,8 +6,8 @@
 }
 
 .pub-stat {
-  background: $gray;
-  border-radius: 8px;
+  background: $lighter-gray;
+  border-radius: 4px;
   padding: 1rem 1.25rem;
   display: flex;
   flex-direction: column;
@@ -17,11 +17,12 @@
 .stat-num {
   font-size: 26px;
   font-weight: 500;
+  color: $dark-gray;
 }
 
 .stat-label {
   font-size: 13px;
-  color: #666;
+  color: $muted-text-color;
 }
 
 .pub-list {
@@ -32,7 +33,7 @@
 
 .pub-list li {
   padding: 0.9em 0;
-  border-bottom: 1px solid $gray;
+  border-bottom: 1px solid $lighter-gray;
   line-height: 1.55;
 }
 
@@ -43,16 +44,17 @@
 .pub-title {
   font-style: italic;
   font-weight: 500;
+  color: $dark-gray;
 }
 
 .pub-authors {
-  color: #444;
+  color: $muted-text-color;
   margin-top: 0.15em;
 }
 
 .pub-venue {
   margin-top: 0.15em;
-  color: #222;
+  color: $dark-gray;
 }
 
 .pub-venue-name {
@@ -77,18 +79,18 @@
   text-decoration: none;
   border: 1px solid currentColor;
   line-height: 1.6;
-}
 
-.pub-link.doi {
-  color: #1a6fa8;
-  border-color: #1a6fa8;
-}
+  &.doi {
+    color: #1a6fa8;
+    border-color: #1a6fa8;
+  }
 
-.pub-link.arxiv {
-  color: #b31b1b;
-  border-color: #b31b1b;
-}
+  &.arxiv {
+    color: #b31b1b;
+    border-color: #b31b1b;
+  }
 
-.pub-link:hover {
-  opacity: 0.7;
+  &:hover {
+    opacity: 0.7;
+  }
 }
