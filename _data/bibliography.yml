@@ -22,6 +22,9 @@
       firstName: Andrew
       lastName: Marks
     - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
       firstName: Theodore
       lastName: Slaman
     date: 2026-02
@@ -109,6 +112,9 @@
     - creatorType: author
       firstName: Liling
       lastName: Ko
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: '2025-12-10'
     dateAdded: '2026-01-07T12:03:36Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -192,6 +198,9 @@
     - creatorType: author
       firstName: Vittorio
       lastName: Cipriani
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: '2025-12-01'
     dateAdded: '2025-12-02T10:18:33Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -278,6 +287,9 @@
     - creatorType: author
       firstName: David
       lastName: Gonzalez
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: 2025/12
     dateAdded: '2024-12-17T14:26:05Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -384,6 +396,9 @@
       firstName: Steffen
       lastName: Lempp
     - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
       firstName: Hongyu
       lastName: Zhu
     date: 2025/09
@@ -484,6 +499,9 @@
       firstName: Mateusz
       lastName: "\u0141e\u0142yk"
     - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
       firstName: Patryk
       lastName: Szlufik
     date: 2025/09
@@ -566,6 +584,9 @@
     - creatorType: author
       firstName: Michael
       lastName: Rathjen
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: 2025/09
     dateAdded: '2025-01-13T10:45:53Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -656,6 +677,9 @@
     - creatorType: author
       firstName: Luke
       lastName: MacLean
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: '2025-07-01'
     dateAdded: '2025-10-07T00:29:11Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -727,6 +751,9 @@
     collections:
     - 3T8QH7NR
     creators:
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     - creatorType: author
       firstName: Theodore
       lastName: Slaman
@@ -811,6 +838,9 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
       firstName: Alexandra
       lastName: Soskova
     - creatorType: author
@@ -890,6 +920,9 @@
     - creatorType: author
       firstName: Barbara F.
       lastName: Csima
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: 2024-12
     dateAdded: '2023-09-13T07:00:32Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -982,11 +1015,26 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
       firstName: Alexandra
       lastName: Soskova
     - creatorType: author
       firstName: Stefan
       lastName: Vatev
+    - creatorType: editor
+      firstName: Ludovic
+      lastName: Levy Patey
+    - creatorType: editor
+      firstName: Elaine
+      lastName: Pimentel
+    - creatorType: editor
+      firstName: Lorenzo
+      lastName: Galeotti
+    - creatorType: editor
+      firstName: Florin
+      lastName: Manea
     date: '2024'
     dateAdded: '2024-07-30T11:36:44Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -1061,6 +1109,21 @@
     - creatorType: author
       firstName: Khanh
       lastName: Le
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: editor
+      firstName: Ludovic
+      lastName: Levy Patey
+    - creatorType: editor
+      firstName: Elaine
+      lastName: Pimentel
+    - creatorType: editor
+      firstName: Lorenzo
+      lastName: Galeotti
+    - creatorType: editor
+      firstName: Florin
+      lastName: Manea
     date: '2024'
     dateAdded: '2024-07-30T11:31:42Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -1133,6 +1196,9 @@
     - creatorType: author
       firstName: Antonio
       lastName: "Montalb\xE1n"
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: '2024'
     dateAdded: '2023-07-13T22:41:07Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -1210,6 +1276,9 @@
     - creatorType: author
       firstName: Nikolay
       lastName: Bazhenov
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     - creatorType: author
       firstName: Maxim
       lastName: Zubkov
@@ -1293,7 +1362,10 @@
     citationKey: rossegger2022
     collections:
     - 3T8QH7NR
-    creators: []
+    creators:
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: '2022'
     dateAdded: '2021-10-08T18:45:12Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -1372,6 +1444,9 @@
       firstName: Barbara F.
       lastName: Csima
     - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
       firstName: Daniel
       lastName: Yu
     date: '2021'
@@ -1447,6 +1522,9 @@
     - creatorType: author
       firstName: Ekaterina
       lastName: Fokina
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     - creatorType: author
       firstName: Luca
       lastName: San Mauro
@@ -1528,6 +1606,9 @@
     - creatorType: author
       firstName: Rachael
       lastName: Alvir
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: '2020'
     dateAdded: '2021-04-20T17:34:54Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -1601,6 +1682,9 @@
     - creatorType: author
       firstName: Ekaterina
       lastName: Fokina
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     - creatorType: author
       firstName: Luca
       lastName: San Mauro
@@ -1680,6 +1764,9 @@
     - creatorType: author
       firstName: Ekaterina
       lastName: Fokina
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     - creatorType: author
       firstName: Luca
       lastName: San Mauro
@@ -1770,6 +1857,9 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
       firstName: Luca
       lastName: San Mauro
     date: '2019'
@@ -1849,6 +1939,9 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
       firstName: Luca
       lastName: San Mauro
     date: '2018'
@@ -1923,7 +2016,10 @@
     citationKey: rossegger2018
     collections: []
     conferenceName: Computability in Europe
-    creators: []
+    creators:
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: '2018'
     dateAdded: '2018-02-21T20:41:04Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -1998,6 +2094,9 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
       firstName: Luca
       lastName: San Mauro
     date: '2017'
@@ -2066,7 +2165,10 @@
     callNumber: ''
     citationKey: rossegger2017
     collections: []
-    creators: []
+    creators:
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     date: '2017'
     dateAdded: '2017-07-19T10:00:31Z'
     dateModified: '2026-02-16T11:20:47Z'
@@ -2143,6 +2245,9 @@
       firstName: Ekaterina
       lastName: Fokina
     - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
       firstName: Luca
       lastName: San Mauro
     date: '2017'
@@ -2215,6 +2320,9 @@
     - creatorType: author
       firstName: Ekaterina
       lastName: Fokina
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
     - creatorType: author
       firstName: Luca
       lastName: San Mauro
