@@ -19,9 +19,9 @@ We combine tools from Scott analysis with methods from the foundations of mathem
 ### Funding
 This project is funded by the Austrian Science Fund (FWF) and by the Polish Science Foundation (NCN). See the [FWF project page](https://www.fwf.ac.at/forschungsradar/10.55776/PIN1878224)
 
-### Participants
-- Dino Rossegger (Technische Universität Wien)
-- [Mateusz Łełyk](https://sites.google.com/uw.edu.pl/lelyk) (University of Warsaw)
+### Team 
+- Dino Rossegger (Technische Universität Wien, PI Austrian side)
+- [Mateusz Łełyk](https://sites.google.com/uw.edu.pl/lelyk) (University of Warsaw, PI Polish side)
 
 ### Publications
 
