@@ -10,7 +10,7 @@ This project investigates treeable degrees—a newly isolated class of Turing de
 
 ### Funding
 
-This project is funded by the Austrian Science Fund (FWF). See the FWF project page: https://www.fwf.ac.at/en/research-radar/10.55776/PAT4699225
+This project is funded by the Austrian Science Fund (FWF). See the [FWF project page](https://www.fwf.ac.at/en/research-radar/10.55776/PAT4699225).
 
 ### Team
 - Dino Rossegger (Principal Investigator)
