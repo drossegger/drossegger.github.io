@@ -1,4 +1,75 @@
 - data:
+    DOI: ''
+    ISBN: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: rossegger
+    collections:
+    - MN5KEVEP
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    date: 2026-07
+    dateAdded: '2026-06-16T09:43:29Z'
+    dateModified: '2026-06-16T10:21:16Z'
+    eventPlace: University of Athens
+    extra: pdf:https://drossegger.github.io/assets/files/panhellenic.pdf
+    issue: ''
+    itemType: conferencePaper
+    key: MQ33FXP8
+    language: ''
+    libraryCatalog: ''
+    numberOfVolumes: ''
+    pages: 1-7
+    place: ''
+    proceedingsTitle: Proceedings of the Panhellenic Logic Symposium
+    publisher: ''
+    relations: {}
+    rights: ''
+    series: ''
+    seriesNumber: ''
+    shortTitle: ''
+    tags: []
+    title: A topological highness notion
+    url: https://drossegger.github.io/assets/files/panhellenic.pdf
+    version: 703
+    volume: '15'
+  key: MQ33FXP8
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/MQ33FXP8
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/MQ33FXP8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger
+    numChildren: 0
+    parsedDate: 2026-07
+  version: 703
+- data:
     DOI: 10.48550/arXiv.2606.15196
     ISSN: ''
     PMCID: ''
@@ -271,77 +342,6 @@
     numChildren: 3
     parsedDate: 2026-02
   version: 687
-- data:
-    DOI: ''
-    ISBN: ''
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    citationKey: rossegger
-    collections:
-    - MN5KEVEP
-    conferenceName: ''
-    creators:
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    date: '2026'
-    dateAdded: '2026-06-16T09:43:29Z'
-    dateModified: '2026-06-16T10:16:27Z'
-    eventPlace: University of Athens
-    extra: pdf:https://drossegger.github.io/assets/files/panhellenic.pdf
-    issue: ''
-    itemType: conferencePaper
-    key: MQ33FXP8
-    language: ''
-    libraryCatalog: ''
-    numberOfVolumes: ''
-    pages: 1-7
-    place: ''
-    proceedingsTitle: Proceedings of the Panhellenic Logic Symposium
-    publisher: ''
-    relations: {}
-    rights: ''
-    series: ''
-    seriesNumber: ''
-    shortTitle: ''
-    tags: []
-    title: A topological highness notion
-    url: https://drossegger.github.io/assets/files/panhellenic.pdf
-    version: 702
-    volume: '15'
-  key: MQ33FXP8
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/MQ33FXP8
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/MQ33FXP8
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Rossegger
-    numChildren: 0
-    parsedDate: '2026'
-  version: 702
 - data:
     DOI: 10.48550/arXiv.2512.09832
     ISSN: ''
