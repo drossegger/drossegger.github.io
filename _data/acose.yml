@@ -29,7 +29,7 @@
       lastName: Slaman
     date: 2026-02
     dateAdded: '2024-10-30T08:48:26Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:49:46Z'
     extra: arXiv:2410.22034
     issue: '2'
     itemType: journalArticle
@@ -54,8 +54,8 @@
     - tag: Mathematics - Logic
       type: 1
     title: Hausdorff dimension and countable Borel equivalence relations
-    url: http://arxiv.org/abs/2403.17493
-    version: 631
+    url: ''
+    version: 687
     volume: '154'
   key: U7C8FFE8
   library:
@@ -85,7 +85,7 @@
     creatorSummary: Marks et al.
     numChildren: 3
     parsedDate: 2026-02
-  version: 631
+  version: 687
 - data:
     DOI: 10.1017/jsl.2024.59
     ISSN: 0022-4812, 1943-5886
@@ -118,7 +118,7 @@
       lastName: Rossegger
     date: 2025/12
     dateAdded: '2024-12-17T14:26:05Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:49:41Z'
     extra: ''
     issue: '4'
     itemType: journalArticle
@@ -165,8 +165,8 @@
     - tag: total orders
       type: 1
     title: Scott sentence complexities of linear orderings
-    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/scott-sentence-complexities-of-linear-orderings/095C2954C5F5F7079AB38E118B05B3BF
-    version: 631
+    url: ''
+    version: 686
     volume: '90'
   key: CWMK2Q38
   library:
@@ -196,7 +196,88 @@
     creatorSummary: Gonzalez and Rossegger
     numChildren: 1
     parsedDate: 2025-12
-  version: 631
+  version: 686
+- data:
+    DOI: 10.1017/bsl.2025.2
+    ISSN: 1079-8986, 1943-5894
+    PMCID: ''
+    PMID: ''
+    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
+    accessDate: '2025-01-13T10:45:53Z'
+    archive: arxiv
+    archiveLocation: https://arxiv.org/abs/2405.09275
+    callNumber: ''
+    citationKey: pakhomov2025
+    collections:
+    - 3T8QH7NR
+    - HYV9UV57
+    creators:
+    - creatorType: author
+      firstName: Fedor
+      lastName: Pakhomov
+    - creatorType: author
+      firstName: Michael
+      lastName: Rathjen
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    date: 2025/09
+    dateAdded: '2025-01-13T10:45:53Z'
+    dateModified: '2026-06-16T09:49:50Z'
+    extra: ''
+    issue: '3'
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: UK54UW9B
+    language: en
+    libraryCatalog: Cambridge University Press
+    pages: 462-487
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: Bulletin of Symbolic Logic
+    publisher: ''
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags: []
+    title: Feferman's completeness theorem
+    url: ''
+    version: 688
+    volume: '31'
+  key: UK54UW9B
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/UK54UW9B
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Pakhomov et al.
+    numChildren: 1
+    parsedDate: 2025-09
+  version: 688
 - data:
     DOI: 10.1090/proc/17308
     ISSN: 0002-9939, 1088-6826
@@ -229,7 +310,7 @@
       lastName: Zhu
     date: 2025/09
     dateAdded: '2024-02-16T14:08:22Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:48:39Z'
     extra: arxiv:2402.10029
     issue: 09
     itemType: journalArticle
@@ -265,8 +346,8 @@
     - tag: descriptive set theory
       type: 1
     title: The Borel complexity of the class of models of first-order theories
-    url: https://www.ams.org/proc/2025-153-09/S0002-9939-2025-17308-7/
-    version: 632
+    url: ''
+    version: 677
     volume: '153'
   key: EVACUMCI
   library:
@@ -296,88 +377,7 @@
     creatorSummary: Andrews et al.
     numChildren: 3
     parsedDate: 2025-09
-  version: 632
-- data:
-    DOI: 10.1017/bsl.2025.2
-    ISSN: 1079-8986, 1943-5894
-    PMCID: ''
-    PMID: ''
-    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
-    accessDate: '2025-01-13T10:45:53Z'
-    archive: arxiv
-    archiveLocation: https://arxiv.org/abs/2405.09275
-    callNumber: ''
-    citationKey: pakhomov2025
-    collections:
-    - 3T8QH7NR
-    - HYV9UV57
-    creators:
-    - creatorType: author
-      firstName: Fedor
-      lastName: Pakhomov
-    - creatorType: author
-      firstName: Michael
-      lastName: Rathjen
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    date: 2025/09
-    dateAdded: '2025-01-13T10:45:53Z'
-    dateModified: '2026-02-16T11:20:47Z'
-    extra: ''
-    issue: '3'
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: UK54UW9B
-    language: en
-    libraryCatalog: Cambridge University Press
-    pages: 462-487
-    partNumber: ''
-    partTitle: ''
-    place: ''
-    publicationTitle: Bulletin of Symbolic Logic
-    publisher: ''
-    relations: {}
-    rights: ''
-    section: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags: []
-    title: Feferman's completeness theorem
-    url: https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/fefermans-completeness-theorem/2050717AF10C1D99BE37FD94790463A5
-    version: 631
-    volume: '31'
-  key: UK54UW9B
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/UK54UW9B
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/UK54UW9B
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Pakhomov et al.
-    numChildren: 1
-    parsedDate: 2025-09
-  version: 631
+  version: 677
 - data:
     DOI: 10.1093/logcom/exaf034
     ISSN: 0955-792X
@@ -416,7 +416,7 @@
       lastName: Rossegger
     date: '2025-07-01'
     dateAdded: '2025-10-07T00:29:11Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:49:18Z'
     extra: ''
     issue: '5'
     itemType: journalArticle
@@ -439,8 +439,8 @@
     shortTitle: ''
     tags: []
     title: Relations enumerable from positive information
-    url: https://doi.org/10.1093/logcom/exaf034
-    version: 632
+    url: ''
+    version: 683
     volume: '35'
   key: VGVJ6BX7
   library:
@@ -470,7 +470,7 @@
     creatorSummary: Csima et al.
     numChildren: 2
     parsedDate: '2025-07-01'
-  version: 632
+  version: 683
 - data:
     DOI: 10.1017/jsl.2025.7
     ISSN: 0022-4812, 1943-5886
@@ -496,7 +496,7 @@
       lastName: Steifer
     date: 2025/02/03
     dateAdded: '2025-02-17T09:31:41Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:50:05Z'
     extra: ''
     issue: ''
     itemType: journalArticle
@@ -519,8 +519,8 @@
     shortTitle: ''
     tags: []
     title: Learning Equivalence Relations on Polish Spaces
-    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/learning-equivalence-relations-on-polish-spaces/EEAF0148F83F4C67E8D25E4CB9CDB319
-    version: 632
+    url: ''
+    version: 691
     volume: first view
   key: PX7IHN27
   library:
@@ -550,7 +550,7 @@
     creatorSummary: Rossegger et al.
     numChildren: 0
     parsedDate: '2025-02-03'
-  version: 632
+  version: 691
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
@@ -582,7 +582,7 @@
       lastName: Vatev
     date: '2025'
     dateAdded: '2024-03-15T15:27:24Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:49:05Z'
     extra: arxiv:2301.09940
     issue: '2'
     itemType: journalArticle
@@ -605,8 +605,8 @@
     shortTitle: ''
     tags: []
     title: A Lopez-Escobar Theorem for Continuous Domains
-    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/lopezescobar-theorem-for-continuous-domains/041B7DBB152EE01A55B35DA14827A830
-    version: 631
+    url: ''
+    version: 681
     volume: '90'
   key: 89CAGSK9
   library:
@@ -636,7 +636,7 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2025'
-  version: 631
+  version: 681
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: 0219-0613
@@ -659,7 +659,7 @@
       lastName: Rossegger
     date: 2024-12
     dateAdded: '2023-09-13T07:00:32Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:49:25Z'
     extra: 'arXiv: 2209.04524'
     issue: '03'
     itemType: journalArticle
@@ -691,8 +691,8 @@
     - tag: isomorphisms
       type: 1
     title: Degrees of categoricity and treeable degrees
-    url: https://www.worldscientific.com/doi/10.1142/S0219061324500028
-    version: 632
+    url: ''
+    version: 684
     volume: '24'
   key: VRYCXLDD
   library:
@@ -722,7 +722,7 @@
     creatorSummary: Csima and Rossegger
     numChildren: 4
     parsedDate: 2024-12
-  version: 632
+  version: 684
 - data:
     DOI: 10.1007/978-3-031-64309-5_14
     ISBN: 978-3-031-64309-5
@@ -989,7 +989,7 @@
       lastName: Rossegger
     date: '2022'
     dateAdded: '2021-10-08T18:45:12Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:50:00Z'
     extra: arxiv:2010.00755
     issue: '4'
     itemType: journalArticle
@@ -1016,8 +1016,8 @@
     - tag: Mathematics - Logic
       type: 1
     title: Degree spectra of analytic complete equivalence relations
-    url: https://arxiv.org/abs/2010.00755
-    version: 630
+    url: ''
+    version: 690
     volume: '87'
   key: YFZER25H
   library:
@@ -1047,7 +1047,7 @@
     creatorSummary: Rossegger
     numChildren: 0
     parsedDate: '2022'
-  version: 630
+  version: 690
 - data:
     accessDate: ''
     charset: ''
