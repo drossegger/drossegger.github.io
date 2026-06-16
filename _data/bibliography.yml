@@ -17,7 +17,7 @@
       lastName: Rossegger
     date: July 2026
     dateAdded: '2026-06-16T09:43:29Z'
-    dateModified: '2026-06-16T09:51:32Z'
+    dateModified: '2026-06-16T10:04:42Z'
     eventPlace: University of Athens
     extra: pdf:https://drossegger.github.io/assets/files/panhellenic.pdf
     issue: ''
@@ -26,9 +26,9 @@
     language: ''
     libraryCatalog: ''
     numberOfVolumes: ''
-    pages: ''
+    pages: 1-7
     place: ''
-    proceedingsTitle: Proc. of the 15th Panhellenic Logic Symposium
+    proceedingsTitle: Proceedings of the Panhellenic Logic Symposium
     publisher: ''
     relations: {}
     rights: ''
@@ -38,8 +38,8 @@
     tags: []
     title: A topological highness notion
     url: https://drossegger.github.io/assets/files/panhellenic.pdf
-    version: 693
-    volume: ''
+    version: 696
+    volume: '15'
   key: MQ33FXP8
   library:
     id: 1553639
@@ -68,7 +68,7 @@
     creatorSummary: Rossegger
     numChildren: 0
     parsedDate: 2026-07
-  version: 693
+  version: 696
 - data:
     DOI: 10.48550/arXiv.2606.15196
     ISSN: ''
@@ -2307,6 +2307,237 @@
     parsedDate: '2018'
   version: 630
 - data:
+    DOI: ''
+    ISBN: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: bazhenov2017a
+    collections: []
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Nikolay
+      lastName: Bazhenov
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
+      firstName: Luca
+      lastName: San Mauro
+    date: '2017'
+    dateAdded: '2025-01-28T16:00:20Z'
+    dateModified: '2026-06-16T10:05:55Z'
+    eventPlace: ''
+    extra: ''
+    issue: ''
+    itemType: conferencePaper
+    key: FF5AXUZ3
+    language: ''
+    libraryCatalog: ''
+    numberOfVolumes: ''
+    pages: 126-132
+    place: Delfi, Greece
+    proceedingsTitle: Proc. of the Panhellenic Logic Symposium
+    publisher: ''
+    relations: {}
+    rights: ''
+    series: ''
+    seriesNumber: ''
+    shortTitle: ''
+    tags: []
+    title: Computable bi-embeddable categoricity of equivalence structures
+    url: ''
+    version: 701
+    volume: '11'
+  key: FF5AXUZ3
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/FF5AXUZ3
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/FF5AXUZ3
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Bazhenov et al.
+    numChildren: 0
+    parsedDate: '2017'
+  version: 701
+- data:
+    DOI: ''
+    ISBN: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: fokinaReducibilityBireducibilitySpectra2017
+    collections: []
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
+      firstName: Luca
+      lastName: San Mauro
+    date: '2017'
+    dateAdded: '2017-07-19T10:00:31Z'
+    dateModified: '2026-06-16T10:05:21Z'
+    eventPlace: ''
+    extra: ''
+    issue: ''
+    itemType: conferencePaper
+    key: 49VNIP5S
+    language: ''
+    libraryCatalog: ''
+    numberOfVolumes: ''
+    pages: 83-89
+    place: Delfi, Greece
+    proceedingsTitle: Proc. of the Panhellenic Logic Symposium
+    publisher: ''
+    relations: {}
+    rights: ''
+    series: ''
+    seriesNumber: ''
+    shortTitle: ''
+    tags: []
+    title: Reducibility and bi-reducibility spectra of equivalence relations
+    url: ''
+    version: 699
+    volume: '11'
+  key: 49VNIP5S
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/49VNIP5S
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/49VNIP5S
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Fokina et al.
+    numChildren: 0
+    parsedDate: '2017'
+  version: 699
+- data:
+    DOI: ''
+    ISBN: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: fokinaDegreeSpectraStructures2017
+    collections: []
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
+      firstName: Luca
+      lastName: San Mauro
+    date: '2017'
+    dateAdded: '2017-07-19T10:00:31Z'
+    dateModified: '2026-06-16T10:05:10Z'
+    eventPlace: ''
+    extra: ''
+    issue: ''
+    itemType: conferencePaper
+    key: NFJVFUFZ
+    language: ''
+    libraryCatalog: ''
+    numberOfVolumes: ''
+    pages: 32-38
+    place: Delfi, Greece
+    proceedingsTitle: Proc. of the Panhellenic Logic Symposium
+    publisher: ''
+    relations: {}
+    rights: ''
+    series: ''
+    seriesNumber: ''
+    shortTitle: ''
+    tags: []
+    title: Degree Spectra of Structures with Respect to the Bi-embeddability Relation
+    url: ''
+    version: 698
+    volume: '11'
+  key: NFJVFUFZ
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/NFJVFUFZ
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/NFJVFUFZ
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Fokina et al.
+    numChildren: 0
+    parsedDate: '2017'
+  version: 698
+- data:
     DOI: 10.17377/semi.2017.14.059
     ISSN: ''
     PMCID: ''
@@ -2381,234 +2612,3 @@
     numChildren: 0
     parsedDate: '2017'
   version: 689
-- data:
-    DOI: ''
-    ISBN: ''
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    citationKey: bazhenov2017a
-    collections: []
-    conferenceName: 11th Panhellenic Logic Symposium
-    creators:
-    - creatorType: author
-      firstName: Nikolay
-      lastName: Bazhenov
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
-      firstName: Luca
-      lastName: San Mauro
-    date: '2017'
-    dateAdded: '2025-01-28T16:00:20Z'
-    dateModified: '2026-02-16T11:20:47Z'
-    eventPlace: ''
-    extra: ''
-    issue: ''
-    itemType: conferencePaper
-    key: FF5AXUZ3
-    language: ''
-    libraryCatalog: ''
-    numberOfVolumes: ''
-    pages: 126-132
-    place: Delfi, Greece
-    proceedingsTitle: Proc. of the 11th Panhellenic Logic Symposium
-    publisher: ''
-    relations: {}
-    rights: ''
-    series: ''
-    seriesNumber: ''
-    shortTitle: ''
-    tags: []
-    title: Computable bi-embeddable categoricity of equivalence structures
-    url: ''
-    version: 632
-    volume: ''
-  key: FF5AXUZ3
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/FF5AXUZ3
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/FF5AXUZ3
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Bazhenov et al.
-    numChildren: 0
-    parsedDate: '2017'
-  version: 632
-- data:
-    DOI: ''
-    ISBN: ''
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    citationKey: fokinaReducibilityBireducibilitySpectra2017
-    collections: []
-    conferenceName: 11th Panhellenic Logic Symposium
-    creators:
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
-      firstName: Luca
-      lastName: San Mauro
-    date: '2017'
-    dateAdded: '2017-07-19T10:00:31Z'
-    dateModified: '2026-02-16T11:20:47Z'
-    eventPlace: ''
-    extra: ''
-    issue: ''
-    itemType: conferencePaper
-    key: 49VNIP5S
-    language: ''
-    libraryCatalog: ''
-    numberOfVolumes: ''
-    pages: 83-89
-    place: Delfi, Greece
-    proceedingsTitle: Proc. of the 11th Panhellenic Logic Symposium
-    publisher: ''
-    relations: {}
-    rights: ''
-    series: ''
-    seriesNumber: ''
-    shortTitle: ''
-    tags: []
-    title: Reducibility and bi-reducibility spectra of equivalence relations
-    url: ''
-    version: 631
-    volume: ''
-  key: 49VNIP5S
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/49VNIP5S
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/49VNIP5S
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Fokina et al.
-    numChildren: 0
-    parsedDate: '2017'
-  version: 631
-- data:
-    DOI: ''
-    ISBN: ''
-    ISSN: ''
-    abstractNote: ''
-    accessDate: ''
-    archive: ''
-    archiveLocation: ''
-    callNumber: ''
-    citationKey: fokinaDegreeSpectraStructures2017
-    collections: []
-    conferenceName: 11th Panhellenic Logic Symposium
-    creators:
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
-      firstName: Luca
-      lastName: San Mauro
-    date: '2017'
-    dateAdded: '2017-07-19T10:00:31Z'
-    dateModified: '2026-02-16T11:20:47Z'
-    eventPlace: ''
-    extra: ''
-    issue: ''
-    itemType: conferencePaper
-    key: NFJVFUFZ
-    language: ''
-    libraryCatalog: ''
-    numberOfVolumes: ''
-    pages: 32-38
-    place: Delfi, Greece
-    proceedingsTitle: Proc. of the 11th Panhellenic Logic Symposium
-    publisher: ''
-    relations: {}
-    rights: ''
-    series: ''
-    seriesNumber: ''
-    shortTitle: ''
-    tags: []
-    title: Degree Spectra of Structures with Respect to the Bi-embeddability Relation
-    url: ''
-    version: 631
-    volume: ''
-  key: NFJVFUFZ
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/NFJVFUFZ
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/NFJVFUFZ
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Fokina et al.
-    numChildren: 0
-    parsedDate: '2017'
-  version: 631
