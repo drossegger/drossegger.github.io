@@ -1,4 +1,189 @@
 - data:
+    DOI: 10.48550/arXiv.2606.15196
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: "We consider highness in the context of computable structure theory\
+      \ and, particularly, the Scott rank of a structure. We define highness for Scott\
+      \ rank and highness for computably defined Scott rank $\u03B1$ and characterize\
+      \ them in terms of the ability to compute $\u0394^0_\u03B2$ sets for appropriate\
+      \ $\u03B2$. We close with a discussion of the index sets of structures with\
+      \ a given Scott rank or computably defined Scott rank and a few words about\
+      \ highness for noncomputable Scott ranks."
+    accessDate: '2026-06-16T09:17:16Z'
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: franklin2026
+    collections:
+    - MN5KEVEP
+    creators:
+    - creatorType: author
+      firstName: Johanna N. Y.
+      lastName: Franklin
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
+      firstName: Dan
+      lastName: Turetsky
+    date: '2026-06-13'
+    dateAdded: '2026-06-16T09:17:16Z'
+    dateModified: '2026-06-16T09:17:59Z'
+    extra: arXiv:2606.15196 [math.LO]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: 587QFKL2
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: ''
+    publisher: arXiv
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Structural vs. computational complexity
+    url: http://arxiv.org/abs/2606.15196
+    version: 653
+    volume: ''
+  key: 587QFKL2
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/587QFKL2
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/587QFKL2
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Franklin et al.
+    numChildren: 2
+    parsedDate: '2026-06-13'
+  version: 653
+- data:
+    DOI: 10.48550/arXiv.2606.15205
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: "We develop new tools for determining the existence of models of\
+      \ specific Scott ranks under countability conditions. Using these, we improve\
+      \ a result of Sacks by showing that any counterexample to Vaught's conjecture\
+      \ must have at least two models of every parameterized Scott rank -- a result\
+      \ that contrasts with the unparameterized case, where minimal counterexamples\
+      \ have only one model at many ranks. We further prove that theories with fewer\
+      \ than continuum many models have trivial Scott spectra and provide a general,\
+      \ systematic classification of low Scott rank models when only countably many\
+      \ $\u03A3_\u03B1$-types are realized. Additionally, we classify the Scott complexity\
+      \ spectra for many Ehrenfeucht theories, and prove the $\u03C9$-Vaught's conjecture\
+      \ in this setting, answering an infinitary strengthening of a question of Pillay\
+      \ and Tanovi\u0107. We demonstrate that the Scott complexity of prime models\
+      \ for $\u03C9$-stable first-order theories is commensurate with the complexity\
+      \ of the theory itself. Along the way, we apply our methods to concrete theories\
+      \ like p-groups, trees, and Boolean algebras, answering questions of Harris--Montalb\xE1\
+      n and Alvir--Csima--MacLean regarding specific structures."
+    accessDate: '2026-06-16T09:17:29Z'
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: gonzalez2026
+    collections:
+    - MN5KEVEP
+    creators:
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
+      firstName: Dan
+      lastName: Turetsky
+    date: '2026-06-13'
+    dateAdded: '2026-06-16T09:17:29Z'
+    dateModified: '2026-06-16T09:17:49Z'
+    extra: arXiv:2606.15205 [math.LO]
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: B6ILGBPN
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: ''
+    publisher: arXiv
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: Mathematics - Logic
+      type: 1
+    title: Scott Analysis below the Vaught Ordinal
+    url: http://arxiv.org/abs/2606.15205
+    version: 652
+    volume: ''
+  key: B6ILGBPN
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/B6ILGBPN
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/B6ILGBPN
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Gonzalez et al.
+    numChildren: 2
+    parsedDate: '2026-06-13'
+  version: 652
+- data:
     DOI: 10.1090/proc/17496
     ISSN: ''
     PMCID: ''
