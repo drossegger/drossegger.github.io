@@ -17,7 +17,7 @@
       lastName: Rossegger
     date: July 2026
     dateAdded: '2026-06-16T09:43:29Z'
-    dateModified: '2026-06-16T09:51:32Z'
+    dateModified: '2026-06-16T10:04:42Z'
     eventPlace: University of Athens
     extra: pdf:https://drossegger.github.io/assets/files/panhellenic.pdf
     issue: ''
@@ -26,9 +26,9 @@
     language: ''
     libraryCatalog: ''
     numberOfVolumes: ''
-    pages: ''
+    pages: 1-7
     place: ''
-    proceedingsTitle: Proc. of the 15th Panhellenic Logic Symposium
+    proceedingsTitle: Proceedings of the Panhellenic Logic Symposium
     publisher: ''
     relations: {}
     rights: ''
@@ -38,8 +38,8 @@
     tags: []
     title: A topological highness notion
     url: https://drossegger.github.io/assets/files/panhellenic.pdf
-    version: 693
-    volume: ''
+    version: 696
+    volume: '15'
   key: MQ33FXP8
   library:
     id: 1553639
@@ -68,7 +68,7 @@
     creatorSummary: Rossegger
     numChildren: 0
     parsedDate: 2026-07
-  version: 693
+  version: 696
 - data:
     DOI: 10.48550/arXiv.2606.15196
     ISSN: ''
