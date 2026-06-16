@@ -1,4 +1,75 @@
 - data:
+    DOI: ''
+    ISBN: ''
+    ISSN: ''
+    abstractNote: ''
+    accessDate: ''
+    archive: ''
+    archiveLocation: ''
+    callNumber: ''
+    citationKey: rossegger
+    collections:
+    - MN5KEVEP
+    conferenceName: ''
+    creators:
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    date: July 2026
+    dateAdded: '2026-06-16T09:43:29Z'
+    dateModified: '2026-06-16T09:51:32Z'
+    eventPlace: University of Athens
+    extra: pdf:https://drossegger.github.io/assets/files/panhellenic.pdf
+    issue: ''
+    itemType: conferencePaper
+    key: MQ33FXP8
+    language: ''
+    libraryCatalog: ''
+    numberOfVolumes: ''
+    pages: ''
+    place: ''
+    proceedingsTitle: Proc. of the 15th Panhellenic Logic Symposium
+    publisher: ''
+    relations: {}
+    rights: ''
+    series: ''
+    seriesNumber: ''
+    shortTitle: ''
+    tags: []
+    title: A topological highness notion
+    url: https://drossegger.github.io/assets/files/panhellenic.pdf
+    version: 693
+    volume: ''
+  key: MQ33FXP8
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/MQ33FXP8
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/MQ33FXP8
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Rossegger
+    numChildren: 0
+    parsedDate: 2026-07
+  version: 693
+- data:
     DOI: 10.48550/arXiv.2606.15196
     ISSN: ''
     PMCID: ''
@@ -11,8 +82,8 @@
       \ a given Scott rank or computably defined Scott rank and a few words about\
       \ highness for noncomputable Scott ranks."
     accessDate: '2026-06-16T09:17:16Z'
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2606.15196
     callNumber: ''
     citationKey: franklin2026
     collections:
@@ -29,8 +100,8 @@
       lastName: Turetsky
     date: '2026-06-13'
     dateAdded: '2026-06-16T09:17:16Z'
-    dateModified: '2026-06-16T09:17:59Z'
-    extra: arXiv:2606.15196 [math.LO]
+    dateModified: '2026-06-16T09:48:07Z'
+    extra: arXiv:2606.15196
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
@@ -41,7 +112,7 @@
     partNumber: ''
     partTitle: ''
     place: ''
-    publicationTitle: ''
+    publicationTitle: submitted for publication
     publisher: arXiv
     relations: {}
     rights: ''
@@ -54,8 +125,8 @@
     - tag: Mathematics - Logic
       type: 1
     title: Structural vs. computational complexity
-    url: http://arxiv.org/abs/2606.15196
-    version: 653
+    url: ''
+    version: 674
     volume: ''
   key: 587QFKL2
   library:
@@ -85,7 +156,7 @@
     creatorSummary: Franklin et al.
     numChildren: 2
     parsedDate: '2026-06-13'
-  version: 653
+  version: 674
 - data:
     DOI: 10.48550/arXiv.2606.15205
     ISSN: ''
@@ -108,8 +179,8 @@
       \ like p-groups, trees, and Boolean algebras, answering questions of Harris--Montalb\xE1\
       n and Alvir--Csima--MacLean regarding specific structures."
     accessDate: '2026-06-16T09:17:29Z'
-    archive: ''
-    archiveLocation: ''
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2606.15205
     callNumber: ''
     citationKey: gonzalez2026
     collections:
@@ -126,8 +197,8 @@
       lastName: Turetsky
     date: '2026-06-13'
     dateAdded: '2026-06-16T09:17:29Z'
-    dateModified: '2026-06-16T09:17:49Z'
-    extra: arXiv:2606.15205 [math.LO]
+    dateModified: '2026-06-16T09:48:03Z'
+    extra: arXiv:2606.15205
     issue: ''
     itemType: journalArticle
     journalAbbreviation: ''
@@ -138,7 +209,7 @@
     partNumber: ''
     partTitle: ''
     place: ''
-    publicationTitle: ''
+    publicationTitle: submitted for publication
     publisher: arXiv
     relations: {}
     rights: ''
@@ -151,8 +222,8 @@
     - tag: Mathematics - Logic
       type: 1
     title: Scott Analysis below the Vaught Ordinal
-    url: http://arxiv.org/abs/2606.15205
-    version: 652
+    url: ''
+    version: 673
     volume: ''
   key: B6ILGBPN
   library:
@@ -182,7 +253,7 @@
     creatorSummary: Gonzalez et al.
     numChildren: 2
     parsedDate: '2026-06-13'
-  version: 652
+  version: 673
 - data:
     DOI: 10.48550/arXiv.2512.09832
     ISSN: ''
@@ -214,7 +285,7 @@
       lastName: Rossegger
     date: '2025-12-10'
     dateAdded: '2026-01-07T12:03:36Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:47:59Z'
     extra: arXiv:2512.09832
     issue: ''
     itemType: journalArticle
@@ -241,8 +312,8 @@
     - tag: Mathematics - Logic
       type: 1
     title: Dichotomy results for classes of countable graphs
-    url: http://arxiv.org/abs/2512.09832
-    version: 632
+    url: ''
+    version: 672
     volume: ''
   key: YETCPGQ3
   library:
@@ -272,7 +343,7 @@
     creatorSummary: Cipriani et al.
     numChildren: 3
     parsedDate: '2025-12-10'
-  version: 632
+  version: 672
 - data:
     DOI: 10.48550/arXiv.2512.01867
     ISSN: ''
@@ -300,7 +371,7 @@
       lastName: Rossegger
     date: '2025-12-01'
     dateAdded: '2025-12-02T10:18:33Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:48:11Z'
     extra: arXiv:2512.01867
     issue: ''
     itemType: journalArticle
@@ -325,8 +396,8 @@
     - tag: Mathematics - Logic
       type: 1
     title: Uniformity in learning structures
-    url: http://arxiv.org/abs/2512.01867
-    version: 632
+    url: ''
+    version: 675
     volume: ''
   key: RXT9MWGQ
   library:
@@ -356,7 +427,7 @@
     creatorSummary: Cipriani and Rossegger
     numChildren: 2
     parsedDate: '2025-12-01'
-  version: 632
+  version: 675
 - data:
     DOI: 10.48550/arXiv.2507.12025
     ISSN: ''
@@ -392,7 +463,7 @@
       lastName: Szlufik
     date: 2025/09
     dateAdded: '2025-07-17T10:45:13Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-16T09:47:52Z'
     extra: arXiv:2507.12025 [math]
     issue: ''
     itemType: journalArticle
@@ -417,8 +488,8 @@
     - tag: Mathematics - Logic
       type: 1
     title: Classifying the complexity of models of arithmetic
-    url: http://arxiv.org/abs/2507.12025
-    version: 632
+    url: ''
+    version: 671
     volume: ''
   key: LKFC4J6K
   library:
@@ -448,7 +519,7 @@
     creatorSummary: Gonzalez et al.
     numChildren: 2
     parsedDate: 2025-09
-  version: 632
+  version: 671
 - data:
     accessDate: '2026-06-16T09:17:30Z'
     charset: utf-8
