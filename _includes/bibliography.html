@@ -11,7 +11,7 @@
             {% if pub.data.archiveLocation != '' %}<a class="pub-link arxiv" href="{{ pub.data.archiveLocation }}">arXiv</a>{% endif %}
             {% elsif pub.data.extra contains "arxiv:" %}<a class="pub-link arxiv" href="{{ pub.data.extra | replace: "arxiv:", "" }}">arXiv</a>
           {% endif %}
-          {% if pub.data.extra contains "pdf:" %}<a class="pub-link pdf" href="{{ pub.data.extra | replace: "pdf:",""}}">pdf</a></span>{% endif %}
+          {% if pub.data.extra contains "pdf:" %}<a class="pub-link pdf" href="{{ pub.data.extra | replace: "pdf:",""}}">pdf</a>{% endif %}
         </span>
       {% endif %}
     </div>
