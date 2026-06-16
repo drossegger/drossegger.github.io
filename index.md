@@ -41,6 +41,7 @@ feature_row:
 
 ### News
 
+- June 2026: Two new preprints out [1](https://arxiv.org/abs/2606.15205) [2](https://arxiv.org/abs/2606.15196) plus my [contribution](/assets/files/panhellenic.pdf) to this years Panhellenic logic symposium.
 - Nov. 2025: _Update Jan. 2026 I no longer accept applications for these positions._ I am currently offering one postdoc position ([advert](/assets/files/postdoc.pdf)) and one PhD position ([advert](/assets/files/phd.pdf)).
 
 ### About Me
