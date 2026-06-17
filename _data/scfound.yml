@@ -2,7 +2,10 @@
     DOI: ''
     ISBN: ''
     ISSN: ''
-    abstractNote: ''
+    abstractNote: We isolate a class of continuous functions from Polish spaces to
+      Cantor space, called high functions. We prove characterizations of this class
+      similar to those of high degrees in degree theory, give an application to the
+      theory of topological realizations of countable Borel equivalence relations.
     accessDate: ''
     archive: ''
     archiveLocation: ''
@@ -17,7 +20,7 @@
       lastName: Rossegger
     date: 2026-07
     dateAdded: '2026-06-16T09:43:29Z'
-    dateModified: '2026-06-16T10:21:16Z'
+    dateModified: '2026-06-17T11:33:32Z'
     eventPlace: University of Athens
     extra: pdf:https://drossegger.github.io/assets/files/panhellenic.pdf
     issue: ''
@@ -35,10 +38,11 @@
     series: ''
     seriesNumber: ''
     shortTitle: ''
-    tags: []
+    tags:
+    - tag: '#LaTeX'
     title: A topological highness notion
     url: https://drossegger.github.io/assets/files/panhellenic.pdf
-    version: 703
+    version: 726
     volume: '15'
   key: MQ33FXP8
   library:
@@ -68,7 +72,105 @@
     creatorSummary: Rossegger
     numChildren: 0
     parsedDate: 2026-07
-  version: 703
+  version: 726
+- data:
+    DOI: 10.48550/arXiv.2606.15205
+    ISSN: ''
+    PMCID: ''
+    PMID: ''
+    abstractNote: "We develop new tools for determining the existence of models of\
+      \ specific Scott ranks under countability conditions. Using these, we improve\
+      \ a result of Sacks by showing that any counterexample to Vaught's conjecture\
+      \ must have at least two models of every parameterized Scott rank -- a result\
+      \ that contrasts with the unparameterized case, where minimal counterexamples\
+      \ have only one model at many ranks. We further prove that theories with fewer\
+      \ than continuum many models have trivial Scott spectra and provide a general,\
+      \ systematic classification of low Scott rank models when only countably many\
+      \ $\\Sigma_\\alpha$-types are realized. Additionally, we classify the Scott\
+      \ complexity spectra for many Ehrenfeucht theories, and prove the $\\omega$-Vaught's\
+      \ conjecture in this setting, answering an infinitary strengthening of a question\
+      \ of Pillay and Tanovi\u0107. We demonstrate that the Scott complexity of prime\
+      \ models for $\\omega$-stable first-order theories is commensurate with the\
+      \ complexity of the theory itself. Along the way, we apply our methods to concrete\
+      \ theories like p-groups, trees, and Boolean algebras, answering questions of\
+      \ Harris--Montalb\xE1n and Alvir--Csima--MacLean regarding specific structures."
+    accessDate: '2026-06-16T09:17:29Z'
+    archive: arXiv
+    archiveLocation: http://arxiv.org/abs/2606.15205
+    callNumber: ''
+    citationKey: gonzalez2026
+    collections:
+    - MN5KEVEP
+    creators:
+    - creatorType: author
+      firstName: David
+      lastName: Gonzalez
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
+      firstName: Dan
+      lastName: Turetsky
+    date: '2026-06-13'
+    dateAdded: '2026-06-16T09:17:29Z'
+    dateModified: '2026-06-17T11:34:13Z'
+    extra: arXiv:2606.15205
+    issue: ''
+    itemType: journalArticle
+    journalAbbreviation: ''
+    key: B6ILGBPN
+    language: ''
+    libraryCatalog: arXiv.org
+    pages: ''
+    partNumber: ''
+    partTitle: ''
+    place: ''
+    publicationTitle: submitted for publication
+    publisher: arXiv
+    relations: {}
+    rights: ''
+    section: ''
+    series: ''
+    seriesText: ''
+    seriesTitle: ''
+    shortTitle: ''
+    tags:
+    - tag: '#LaTeX'
+    - tag: Mathematics - Logic
+      type: 1
+    title: Scott Analysis below the Vaught Ordinal
+    url: ''
+    version: 756
+    volume: ''
+  key: B6ILGBPN
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/B6ILGBPN
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/B6ILGBPN
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Gonzalez et al.
+    numChildren: 2
+    parsedDate: '2026-06-13'
+  version: 756
 - data:
     DOI: 10.48550/arXiv.2606.15196
     ISSN: ''
@@ -100,7 +202,7 @@
       lastName: Turetsky
     date: '2026-06-13'
     dateAdded: '2026-06-16T09:17:16Z'
-    dateModified: '2026-06-16T09:48:07Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: arXiv:2606.15196
     issue: ''
     itemType: journalArticle
@@ -122,11 +224,12 @@
     seriesTitle: ''
     shortTitle: ''
     tags:
+    - tag: '#LaTeX'
     - tag: Mathematics - Logic
       type: 1
     title: Structural vs. computational complexity
     url: ''
-    version: 674
+    version: 755
     volume: ''
   key: 587QFKL2
   library:
@@ -156,110 +259,28 @@
     creatorSummary: Franklin et al.
     numChildren: 2
     parsedDate: '2026-06-13'
-  version: 674
-- data:
-    DOI: 10.48550/arXiv.2606.15205
-    ISSN: ''
-    PMCID: ''
-    PMID: ''
-    abstractNote: "We develop new tools for determining the existence of models of\
-      \ specific Scott ranks under countability conditions. Using these, we improve\
-      \ a result of Sacks by showing that any counterexample to Vaught's conjecture\
-      \ must have at least two models of every parameterized Scott rank -- a result\
-      \ that contrasts with the unparameterized case, where minimal counterexamples\
-      \ have only one model at many ranks. We further prove that theories with fewer\
-      \ than continuum many models have trivial Scott spectra and provide a general,\
-      \ systematic classification of low Scott rank models when only countably many\
-      \ $\u03A3_\u03B1$-types are realized. Additionally, we classify the Scott complexity\
-      \ spectra for many Ehrenfeucht theories, and prove the $\u03C9$-Vaught's conjecture\
-      \ in this setting, answering an infinitary strengthening of a question of Pillay\
-      \ and Tanovi\u0107. We demonstrate that the Scott complexity of prime models\
-      \ for $\u03C9$-stable first-order theories is commensurate with the complexity\
-      \ of the theory itself. Along the way, we apply our methods to concrete theories\
-      \ like p-groups, trees, and Boolean algebras, answering questions of Harris--Montalb\xE1\
-      n and Alvir--Csima--MacLean regarding specific structures."
-    accessDate: '2026-06-16T09:17:29Z'
-    archive: arXiv
-    archiveLocation: http://arxiv.org/abs/2606.15205
-    callNumber: ''
-    citationKey: gonzalez2026
-    collections:
-    - MN5KEVEP
-    creators:
-    - creatorType: author
-      firstName: David
-      lastName: Gonzalez
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
-      firstName: Dan
-      lastName: Turetsky
-    date: '2026-06-13'
-    dateAdded: '2026-06-16T09:17:29Z'
-    dateModified: '2026-06-16T09:48:03Z'
-    extra: arXiv:2606.15205
-    issue: ''
-    itemType: journalArticle
-    journalAbbreviation: ''
-    key: B6ILGBPN
-    language: ''
-    libraryCatalog: arXiv.org
-    pages: ''
-    partNumber: ''
-    partTitle: ''
-    place: ''
-    publicationTitle: submitted for publication
-    publisher: arXiv
-    relations: {}
-    rights: ''
-    section: ''
-    series: ''
-    seriesText: ''
-    seriesTitle: ''
-    shortTitle: ''
-    tags:
-    - tag: Mathematics - Logic
-      type: 1
-    title: Scott Analysis below the Vaught Ordinal
-    url: ''
-    version: 673
-    volume: ''
-  key: B6ILGBPN
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/B6ILGBPN
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/B6ILGBPN
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Gonzalez et al.
-    numChildren: 2
-    parsedDate: '2026-06-13'
-  version: 673
+  version: 755
 - data:
     DOI: 10.48550/arXiv.2512.09832
     ISSN: ''
     PMCID: ''
     PMID: ''
-    abstractNote: ''
+    abstractNote: 'We study classes of countable graphs where every member does not
+      contain a given finite graph as an induced subgraph -- denoted by $\mathsf{Free}(\mathcal{G})$
+      for a given finite graph $\mathcal{G}$. Our main results establish a structural
+      dichotomy for such classes: If $\mathcal{G}$ is not an induced subgraph of $\mathcal{P}_4$,
+      then $\mathsf{Free}(\mathcal{G})$ is on top under effective bi-interpretability,
+      implying that the members of $\mathsf{Free}(\mathcal{G})$ exhibit the full range
+      of structural and computational behaviors. In contrast, if $\mathcal{G}$ is
+      an induced subgraph of $\mathcal{P}_4$, then $\mathsf{Free}(\mathcal{G})$ is
+      structurally simple, as witnessed by the fact that every member satisfies the
+      computable embeddability condition. This dichotomy is mirrored in the finite
+      setting when one considers combinatorial and complexity-theoretic properties.
+      Specifically, it is known that $\mathsf{Free}(\mathcal{G})^{fin}$ is complete
+      for graph isomorphism and not a well-quasi-order under embeddability whenever
+      $\mathcal{G}$ is not an induced subgraph of $\mathcal{P}_4$, while in all other
+      cases $\mathsf{Free}(\mathcal{G})^{fin}$ forms a well-quasi-order and the isomorphism
+      problem for $\mathsf{Free}(\mathcal{G})^{fin}$ is solvable in polynomial time.'
     accessDate: '2026-01-07T12:03:36Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2512.09832
@@ -285,7 +306,7 @@
       lastName: Rossegger
     date: '2025-12-10'
     dateAdded: '2026-01-07T12:03:36Z'
-    dateModified: '2026-06-16T09:47:59Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: arXiv:2512.09832
     issue: ''
     itemType: journalArticle
@@ -307,13 +328,14 @@
     seriesTitle: ''
     shortTitle: ''
     tags:
+    - tag: '#LaTeX'
     - tag: Computer Science - Computational Complexity
       type: 1
     - tag: Mathematics - Logic
       type: 1
     title: Dichotomy results for classes of countable graphs
     url: ''
-    version: 672
+    version: 754
     volume: ''
   key: YETCPGQ3
   library:
@@ -343,7 +365,7 @@
     creatorSummary: Cipriani et al.
     numChildren: 3
     parsedDate: '2025-12-10'
-  version: 672
+  version: 754
 - data:
     DOI: 10.48550/arXiv.2512.01867
     ISSN: ''
@@ -371,7 +393,7 @@
       lastName: Rossegger
     date: '2025-12-01'
     dateAdded: '2025-12-02T10:18:33Z'
-    dateModified: '2026-06-16T09:48:11Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: arXiv:2512.01867
     issue: ''
     itemType: journalArticle
@@ -393,11 +415,12 @@
     seriesTitle: ''
     shortTitle: ''
     tags:
+    - tag: '#LaTeX'
     - tag: Mathematics - Logic
       type: 1
     title: Uniformity in learning structures
     url: ''
-    version: 675
+    version: 753
     volume: ''
   key: RXT9MWGQ
   library:
@@ -427,7 +450,7 @@
     creatorSummary: Cipriani and Rossegger
     numChildren: 2
     parsedDate: '2025-12-01'
-  version: 675
+  version: 753
 - data:
     DOI: 10.48550/arXiv.2507.12025
     ISSN: ''
@@ -463,7 +486,7 @@
       lastName: Szlufik
     date: 2025/09
     dateAdded: '2025-07-17T10:45:13Z'
-    dateModified: '2026-06-16T09:47:52Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: arXiv:2507.12025 [math]
     issue: ''
     itemType: journalArticle
@@ -485,11 +508,12 @@
     seriesTitle: ''
     shortTitle: ''
     tags:
+    - tag: '#LaTeX'
     - tag: Mathematics - Logic
       type: 1
     title: Classifying the complexity of models of arithmetic
     url: ''
-    version: 671
+    version: 750
     volume: ''
   key: LKFC4J6K
   library:
@@ -519,75 +543,27 @@
     creatorSummary: Gonzalez et al.
     numChildren: 2
     parsedDate: 2025-09
-  version: 671
+  version: 750
 - data:
-    accessDate: '2026-06-16T09:17:30Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2026-06-16T09:17:30Z'
-    dateModified: '2026-06-16T09:17:30Z'
-    filename: 2606.html
+    accessDate: '2026-06-16T09:17:17Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2026-06-16T09:17:17Z'
+    dateModified: '2026-06-16T09:17:17Z'
+    filename: Franklin et al. - 2026 - Structural vs. computational complexity.pdf
     itemType: attachment
-    key: XK7DUNFJ
+    key: SLBDJV4Z
     linkMode: imported_url
-    md5: 81fc5ee375ef1919e9c21345ab6620a6
-    mtime: 1781601450263
-    note: ''
-    parentItem: B6ILGBPN
-    relations: {}
-    tags: []
-    title: Snapshot
-    url: http://arxiv.org/abs/2606.15205
-    version: 646
-  key: XK7DUNFJ
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/XK7DUNFJ
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/XK7DUNFJ
-      type: application/json
-    up:
-      href: https://api.zotero.org/groups/1553639/items/B6ILGBPN
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-  version: 646
-- data:
-    accessDate: '2026-06-16T09:17:19Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2026-06-16T09:17:19Z'
-    dateModified: '2026-06-16T09:17:19Z'
-    filename: 2606.html
-    itemType: attachment
-    key: BNJ5N3IM
-    linkMode: imported_url
-    md5: e14750dbd6560a0f247970efddde86f8
-    mtime: 1781601437669
+    md5: 64664b7c26cddd8f49c4c33bd7580e6c
+    mtime: 1781601437392
     note: ''
     parentItem: 587QFKL2
     relations: {}
     tags: []
-    title: Snapshot
-    url: http://arxiv.org/abs/2606.15196
-    version: 644
-  key: BNJ5N3IM
+    title: Preprint PDF
+    url: http://arxiv.org/pdf/2606.15196v1
+    version: 647
+  key: SLBDJV4Z
   library:
     id: 1553639
     links:
@@ -598,10 +574,10 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/BNJ5N3IM
+      href: https://www.zotero.org/groups/dinorossownpub/items/SLBDJV4Z
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/BNJ5N3IM
+      href: https://api.zotero.org/groups/1553639/items/SLBDJV4Z
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/587QFKL2
@@ -615,27 +591,28 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-  version: 644
+    numChildren: 0
+  version: 647
 - data:
-    accessDate: '2026-01-07T12:03:37Z'
-    charset: utf-8
-    contentType: text/html
-    dateAdded: '2026-01-07T12:03:37Z'
-    dateModified: '2026-01-07T12:03:37Z'
-    filename: 2512.html
+    accessDate: '2026-06-16T09:17:30Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2026-06-16T09:17:30Z'
+    dateModified: '2026-06-16T09:17:30Z'
+    filename: Gonzalez et al. - 2026 - Scott Analysis below the Vaught Ordinal.pdf
     itemType: attachment
-    key: 8NKKI93J
+    key: 5QD9F98F
     linkMode: imported_url
-    md5: 10541591f99d23b584e622d373fecc43
-    mtime: 1767787417722
+    md5: 2d21c721ab608f4d854ef406d460e5ba
+    mtime: 1781601449993
     note: ''
-    parentItem: YETCPGQ3
+    parentItem: B6ILGBPN
     relations: {}
     tags: []
-    title: Snapshot
-    url: http://arxiv.org/abs/2512.09832
-    version: 599
-  key: 8NKKI93J
+    title: Preprint PDF
+    url: http://arxiv.org/pdf/2606.15205v1
+    version: 645
+  key: 5QD9F98F
   library:
     id: 1553639
     links:
@@ -646,10 +623,60 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/8NKKI93J
+      href: https://www.zotero.org/groups/dinorossownpub/items/5QD9F98F
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/8NKKI93J
+      href: https://api.zotero.org/groups/1553639/items/5QD9F98F
+      type: application/json
+    up:
+      href: https://api.zotero.org/groups/1553639/items/B6ILGBPN
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    numChildren: 0
+  version: 645
+- data:
+    accessDate: '2026-01-07T12:03:37Z'
+    charset: ''
+    contentType: application/pdf
+    dateAdded: '2026-01-07T12:03:37Z'
+    dateModified: '2026-01-07T12:03:37Z'
+    filename: Cipriani et al. - 2025 - Dichotomy results for classes of countable
+      graphs.pdf
+    itemType: attachment
+    key: JUZ4EHCX
+    linkMode: imported_url
+    md5: 69e5cbab7cf090c30736853dfc128037
+    mtime: 1767787417311
+    note: ''
+    parentItem: YETCPGQ3
+    relations: {}
+    tags: []
+    title: Preprint PDF
+    url: http://arxiv.org/pdf/2512.09832v1
+    version: 600
+  key: JUZ4EHCX
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/JUZ4EHCX
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/JUZ4EHCX
       type: application/json
     up:
       href: https://api.zotero.org/groups/1553639/items/YETCPGQ3
@@ -663,27 +690,19 @@
           type: text/html
       name: Dino Rossegger
       username: dinoross
-  version: 599
+    numChildren: 0
+  version: 600
 - data:
-    accessDate: '2025-12-02T10:18:34Z'
-    charset: ''
-    contentType: application/pdf
-    dateAdded: '2025-12-02T10:18:34Z'
-    dateModified: '2025-12-02T10:18:34Z'
-    filename: Cipriani and Rossegger - 2025 - Uniformity in learning structures.pdf
-    itemType: attachment
-    key: 9XGAGDX6
-    linkMode: imported_url
-    md5: 1afdc3136b2d0dbc5db20011d8849224
-    mtime: 1764670714420
-    note: ''
-    parentItem: RXT9MWGQ
+    dateAdded: '2026-01-07T12:03:36Z'
+    dateModified: '2026-01-07T12:03:36Z'
+    itemType: note
+    key: XDCD5J5F
+    note: 'Comment: 17 pages, 1 figure'
+    parentItem: YETCPGQ3
     relations: {}
     tags: []
-    title: Preprint PDF
-    url: http://arxiv.org/pdf/2512.01867v1
-    version: 587
-  key: 9XGAGDX6
+    version: 598
+  key: XDCD5J5F
   library:
     id: 1553639
     links:
@@ -694,13 +713,13 @@
     type: group
   links:
     alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/9XGAGDX6
+      href: https://www.zotero.org/groups/dinorossownpub/items/XDCD5J5F
       type: text/html
     self:
-      href: https://api.zotero.org/groups/1553639/items/9XGAGDX6
+      href: https://api.zotero.org/groups/1553639/items/XDCD5J5F
       type: application/json
     up:
-      href: https://api.zotero.org/groups/1553639/items/RXT9MWGQ
+      href: https://api.zotero.org/groups/1553639/items/YETCPGQ3
       type: application/json
   meta:
     createdByUser:
@@ -712,7 +731,7 @@
       name: Dino Rossegger
       username: dinoross
     numChildren: 0
-  version: 587
+  version: 598
 - data:
     accessDate: '2025-07-17T10:45:16Z'
     charset: ''
