@@ -29,7 +29,7 @@
       lastName: Slaman
     date: 2026-02
     dateAdded: '2024-10-30T08:48:26Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: arXiv:2410.22034
     issue: '2'
     itemType: journalArticle
@@ -51,11 +51,12 @@
     seriesTitle: ''
     shortTitle: ''
     tags:
+    - tag: '#LaTeX'
     - tag: Mathematics - Logic
       type: 1
     title: Hausdorff dimension and countable Borel equivalence relations
-    url: http://arxiv.org/abs/2403.17493
-    version: 631
+    url: ''
+    version: 744
     volume: '154'
   key: U7C8FFE8
   library:
@@ -85,23 +86,20 @@
     creatorSummary: Marks et al.
     numChildren: 3
     parsedDate: 2026-02
-  version: 631
+  version: 744
 - data:
     DOI: 10.1017/jsl.2024.59
     ISSN: 0022-4812, 1943-5886
     PMCID: ''
     PMID: ''
-    abstractNote: "We study possible Scott sentence complexities of linear orderings\
-      \ using two approaches. First, we investigate the effect of the Friedman\u2013\
-      Stanley embedding on Scott sentence complexity and show that it only preserves\
-      \ \u03A0in\u03B1\u03A0\u03B1in\\Pi ^{\\mathrm {in}}_{\\alpha } complexities.\
-      \ We then take a more direct approach and exhibit linear orderings of all Scott\
-      \ sentence complexities except \u03A3in3\u03A33in\\Sigma ^{\\mathrm {in}}_{3}\
-      \ and \u03A3in\u03BB+1\u03A3\u03BB+1in\\Sigma ^{\\mathrm {in}}_{\\lambda +1}\
-      \ for \u03BB\u03BB\\lambda  a limit ordinal. We show that the former cannot\
-      \ be the Scott sentence complexity of a linear ordering. In the process we develop\
-      \ new techniques which appear to be helpful to calculate the Scott sentence\
-      \ complexities of structures."
+    abstractNote: <script>We study possible Scott sentence complexities of linear
+      orderings using two approaches. First, we investigate the effect of the Friedman-Stanley
+      embedding on Scott sentence complexity and show that it only preserves $\Pi^{\mathrm{in}}_{\alpha}$
+      complexities. We then take a more direct approach and exhibit linear orderings
+      of all Scott complexities except $\Sigma^{\mathrm{in}}_{3}$ and $\Sigma^{\mathrm{in}}_{\lambda+1}$
+      for $\lambda$ a limit ordinal. We show that the former can not be the Scott
+      sentence complexity of a linear ordering. In the process we develop new techniques
+      which appear to be helpful to calculate the Scott sentence complexities of structures.</script>
     accessDate: '2024-12-17T14:26:05Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2305.07126
@@ -118,7 +116,7 @@
       lastName: Rossegger
     date: 2025/12
     dateAdded: '2024-12-17T14:26:05Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: ''
     issue: '4'
     itemType: journalArticle
@@ -140,6 +138,7 @@
     seriesTitle: ''
     shortTitle: ''
     tags:
+    - tag: '#LaTeX'
     - tag: 03C57
       type: 1
     - tag: 03C70
@@ -165,8 +164,8 @@
     - tag: total orders
       type: 1
     title: Scott sentence complexities of linear orderings
-    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/scott-sentence-complexities-of-linear-orderings/095C2954C5F5F7079AB38E118B05B3BF
-    version: 631
+    url: ''
+    version: 745
     volume: '90'
   key: CWMK2Q38
   library:
@@ -196,13 +195,19 @@
     creatorSummary: Gonzalez and Rossegger
     numChildren: 1
     parsedDate: 2025-12
-  version: 631
+  version: 745
 - data:
     DOI: 10.1090/proc/17308
     ISSN: 0002-9939, 1088-6826
     PMCID: ''
     PMID: ''
-    abstractNote: ''
+    abstractNote: "We investigate the descriptive complexity of the set of models\
+      \ of first-order theories. Using classical results of Knight and Solovay, we\
+      \ give a sharp condition for complete theories to have a $\\pmb\\Pi_\\omega^0$-complete\
+      \ set of models. In particular, any sequential theory (a class of foundational\
+      \ theories isolated by Pudl\xE1k) has a $\\pmb\\Pi_\\omega^0$-complete set of\
+      \ models. We also give sharp conditions for theories to have a $\\pmb\\Pi^0_n$-complete\
+      \ set of models."
     accessDate: '2025-08-28T06:50:00Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2402.10029
@@ -229,7 +234,7 @@
       lastName: Zhu
     date: 2025/09
     dateAdded: '2024-02-16T14:08:22Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: arxiv:2402.10029
     issue: 09
     itemType: journalArticle
@@ -252,6 +257,7 @@
     seriesTitle: ''
     shortTitle: ''
     tags:
+    - tag: '#LaTeX'
     - tag: 03C62, 03C52, 03E15
       type: 1
     - tag: Borel complexity
@@ -265,8 +271,8 @@
     - tag: descriptive set theory
       type: 1
     title: The Borel complexity of the class of models of first-order theories
-    url: https://www.ams.org/proc/2025-153-09/S0002-9939-2025-17308-7/
-    version: 632
+    url: ''
+    version: 751
     volume: '153'
   key: EVACUMCI
   library:
@@ -296,13 +302,21 @@
     creatorSummary: Andrews et al.
     numChildren: 3
     parsedDate: 2025-09
-  version: 632
+  version: 751
 - data:
     DOI: 10.1017/bsl.2025.2
     ISSN: 1079-8986, 1943-5894
     PMCID: ''
     PMID: ''
-    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS1079898625000022/resource/name/firstPage-pdf-S1079898625000022a.jpg
+    abstractNote: Feferman proved in 1962 that any arithmetical theorem is a consequence
+      of a suitable transfinite iteration of full uniform reflection of $\mathsf{PA}$.
+      This result is commonly known as Feferman's completeness theorem. The purpose
+      of this paper is twofold. On the one hand this is an expository paper, giving
+      two new proofs of Feferman's completeness theorem that, we hope, shed light
+      on this mysterious and often overlooked result. On the other hand, we combine
+      one of our proofs with results from computable structure theory due to Ash and
+      Knight to give sharp bounds on the order types of well-orders necessary to attain
+      the completeness for levels of the arithmetical hierarchy.
     accessDate: '2025-01-13T10:45:53Z'
     archive: arxiv
     archiveLocation: https://arxiv.org/abs/2405.09275
@@ -323,7 +337,7 @@
       lastName: Rossegger
     date: 2025/09
     dateAdded: '2025-01-13T10:45:53Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: ''
     issue: '3'
     itemType: journalArticle
@@ -344,10 +358,11 @@
     seriesText: ''
     seriesTitle: ''
     shortTitle: ''
-    tags: []
+    tags:
+    - tag: '#LaTeX'
     title: Feferman's completeness theorem
-    url: https://www.cambridge.org/core/journals/bulletin-of-symbolic-logic/article/fefermans-completeness-theorem/2050717AF10C1D99BE37FD94790463A5
-    version: 631
+    url: ''
+    version: 746
     volume: '31'
   key: UK54UW9B
   library:
@@ -377,7 +392,7 @@
     creatorSummary: Pakhomov et al.
     numChildren: 1
     parsedDate: 2025-09
-  version: 631
+  version: 746
 - data:
     DOI: 10.1093/logcom/exaf034
     ISSN: 0955-792X
@@ -392,8 +407,8 @@
       \ reducible to the positive atomic diagram of $\\hat{\\mathcal{A}}$ for every\
       \ $\\hat{\\mathcal{A}}\\cong{\\mathcal{A}}$ \u2013 the relatively intrinsically\
       \ positively enumerable (r.i.p.e.) relations. We show that the r.i.p.e. relations\
-      \ are exactly the relations that are definable by $\\varSigma ^{p}_{1}$ formulas,\
-      \ a subclass of the infinitary $\\varSigma ^{0}_{1}$ formulas. We then introduce\
+      \ are exactly the relations that are definable by $\\Sigma^{p}_{1}$ formulas,\
+      \ a subclass of the infinitary $\\Sigma ^{0}_{1}$ formulas. We then introduce\
       \ a new natural notion of the jump of a structure and study its interaction\
       \ with other notions of jumps."
     accessDate: '2025-10-07T00:29:11Z'
@@ -416,7 +431,7 @@
       lastName: Rossegger
     date: '2025-07-01'
     dateAdded: '2025-10-07T00:29:11Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: ''
     issue: '5'
     itemType: journalArticle
@@ -437,10 +452,11 @@
     seriesText: ''
     seriesTitle: ''
     shortTitle: ''
-    tags: []
+    tags:
+    - tag: '#LaTeX'
     title: Relations enumerable from positive information
-    url: https://doi.org/10.1093/logcom/exaf034
-    version: 632
+    url: ''
+    version: 752
     volume: '35'
   key: VGVJ6BX7
   library:
@@ -470,13 +486,23 @@
     creatorSummary: Csima et al.
     numChildren: 2
     parsedDate: '2025-07-01'
-  version: 632
+  version: 752
 - data:
     DOI: 10.1017/jsl.2025.7
     ISSN: 0022-4812, 1943-5886
     PMCID: ''
     PMID: ''
-    abstractNote: //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0022481225000076/resource/name/firstPage-pdf-S0022481225000076a.jpg
+    abstractNote: "We investigate natural variations of behaviourally correct learning\
+      \ and\n  explanatory learning---two learning paradigms studied in algorithmic\n\
+      \  learning theory---that allow us to ``learn'' equivalence\n  relations on\
+      \ Polish spaces. We give a characterization of the learnable\n  equivalence\
+      \ relations in terms of their Borel complexity and show that the behaviourally\n\
+      \  correct and explanatory learnable equivalence relations coincide both in\n\
+      \  uniform and non-uniform versions of learnability and provide a\n  characterization\
+      \ of the learnable equivalence relations in terms of their\n  Borel complexity.\
+      \ We also show that the set of uniformly learnable equivalence relations\n \
+      \ is $\\pmb{Pi}^1_1$-complete in the codes and study the learnability of several\n\
+      \  equivalence relations arising naturally in logic as a case study."
     accessDate: '2025-02-17T09:31:41Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2403.17493
@@ -496,7 +522,7 @@
       lastName: Steifer
     date: 2025/02/03
     dateAdded: '2025-02-17T09:31:41Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: ''
     issue: ''
     itemType: journalArticle
@@ -517,10 +543,11 @@
     seriesText: ''
     seriesTitle: ''
     shortTitle: ''
-    tags: []
+    tags:
+    - tag: '#LaTeX'
     title: Learning Equivalence Relations on Polish Spaces
-    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/learning-equivalence-relations-on-polish-spaces/EEAF0148F83F4C67E8D25E4CB9CDB319
-    version: 632
+    url: ''
+    version: 749
     volume: first view
   key: PX7IHN27
   library:
@@ -550,13 +577,26 @@
     creatorSummary: Rossegger et al.
     numChildren: 0
     parsedDate: '2025-02-03'
-  version: 632
+  version: 749
 - data:
     DOI: 10.1017/jsl.2024.18
     ISSN: 0022-4812, 1943-5886
     PMCID: ''
     PMID: ''
-    abstractNote: ''
+    abstractNote: "We prove an effective version of the Lopez\u2013Escobar theorem\
+      \ for continuous domains. Let $Mod(\\tau)$ be the set of countable structures\
+      \ with universe $\\omega$ in vocabulary $\\tau$ topologized by the Scott topology.\
+      \ We show that an invariant set $X \\subseteq Mod(\\tau)$ is $\\Pi^0_\\alpha$\
+      \ in the effective Borel hierarchy of this topology if and only if it is definable\
+      \ by a $\\Pi^p_\\alpha$-formula, a positive $\\Pi^0_\\alpha$ formula in the\
+      \ infinitary logic $L_{\\omega_1,\\omega}$. As a corollary of this result we\
+      \ obtain a new pullback theorem for positive computable embeddings: Let $K$\
+      \ be positively computably embeddable in $K'$ by $\\Phi$, then for every $\\\
+      Pi^p_\\alpha$ formula $\\xi$ in the vocabulary of $K'$ there is a $\\Pi^p_\\\
+      alpha$ formula $\\xi^\\star$ in the vocabulary of $K$ such that for all $A \\\
+      in K$, $A \\models \\xi^\\star$ if and only if $\\Phi(A) \\models \\xi$. We\
+      \ use this to obtain new results on the possibility of positive computable embeddings\
+      \ into the class of linear orderings."
     accessDate: '2024-03-15T15:27:24Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2301.09940
@@ -582,7 +622,7 @@
       lastName: Vatev
     date: '2025'
     dateAdded: '2024-03-15T15:27:24Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: arxiv:2301.09940
     issue: '2'
     itemType: journalArticle
@@ -603,10 +643,11 @@
     seriesText: ''
     seriesTitle: ''
     shortTitle: ''
-    tags: []
+    tags:
+    - tag: '#LaTeX'
     title: A Lopez-Escobar Theorem for Continuous Domains
-    url: https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/abs/lopezescobar-theorem-for-continuous-domains/041B7DBB152EE01A55B35DA14827A830
-    version: 631
+    url: ''
+    version: 741
     volume: '90'
   key: 89CAGSK9
   library:
@@ -636,13 +677,25 @@
     creatorSummary: Bazhenov et al.
     numChildren: 0
     parsedDate: '2025'
-  version: 631
+  version: 741
 - data:
     DOI: 10.1142/S0219061324500028
     ISSN: 0219-0613
     PMCID: ''
     PMID: ''
-    abstractNote: ''
+    abstractNote: We give a characterization of the strong degrees of categoricity
+      of computable structures greater or equal to $\mathbf{0}''$. They are precisely
+      the \emph{treeable} degrees -- the least degrees of paths through computable
+      trees -- that compute $\mathbf{0}''$. As a corollary, we obtain several new
+      examples of degrees of categoricity. Among them we show that every degree $\mathbf{d}$
+      with $\mathbf{0}^{(\alpha)} \leq \mathbf{d} \leq \mathbf{0}^{(\alpha+1)}$ for
+      $\alpha$ a computable ordinal greater than $2$ is the strong degree of categoricity
+      of a rigid structure. Using quite different techniques we show that every degree
+      $\mathbf{d}$ with $\mathbf{0}' \leq \mathbf{d} \leq \mathbf{0}''$ is the strong
+      degree of categoricity of a structure. Together with the above example this
+      answers a question of Csima and Ng. To complete the picture we show that there
+      is a degree $\mathbf{d}$ with $\mathbf{0}' < \mathbf{d} < \mathbf{0}''$ that
+      is not the degree of categoricity of a rigid structure.
     accessDate: '2025-01-28T14:54:25Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2209.04524
@@ -659,7 +712,7 @@
       lastName: Rossegger
     date: 2024-12
     dateAdded: '2023-09-13T07:00:32Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: 'arXiv: 2209.04524'
     issue: '03'
     itemType: journalArticle
@@ -682,6 +735,7 @@
     seriesTitle: ''
     shortTitle: ''
     tags:
+    - tag: '#LaTeX'
     - tag: Computable structure theory
       type: 1
     - tag: Turing degrees
@@ -691,8 +745,8 @@
     - tag: isomorphisms
       type: 1
     title: Degrees of categoricity and treeable degrees
-    url: https://www.worldscientific.com/doi/10.1142/S0219061324500028
-    version: 632
+    url: ''
+    version: 747
     volume: '24'
   key: VRYCXLDD
   library:
@@ -722,100 +776,17 @@
     creatorSummary: Csima and Rossegger
     numChildren: 4
     parsedDate: 2024-12
-  version: 632
-- data:
-    DOI: 10.1007/978-3-031-64309-5_14
-    ISBN: 978-3-031-64309-5
-    ISSN: ''
-    abstractNote: "We adapt the classical notion of learning from text to computable\
-      \ structure theory. Our main result is a model-theoretic characterization of\
-      \ the learnability from text for classes of structures. We show that a family\
-      \ of structures is learnable from text if and only if the structures can be\
-      \ distinguished in terms of their theories restricted to positive infinitary\
-      \ $$\\varSigma _2$$\u03A32sentences."
-    accessDate: ''
-    archive: arXiv
-    archiveLocation: https://arxiv.org/abs/2402.05744
-    callNumber: ''
-    citationKey: bazhenov2024b
-    collections:
-    - 3T8QH7NR
-    conferenceName: Computability in Europe
-    creators:
-    - creatorType: author
-      firstName: Nikolay
-      lastName: Bazhenov
-    - creatorType: author
-      firstName: Ekaterina
-      lastName: Fokina
-    - creatorType: author
-      firstName: Dino
-      lastName: Rossegger
-    - creatorType: author
-      firstName: Alexandra
-      lastName: Soskova
-    - creatorType: author
-      firstName: Stefan
-      lastName: Vatev
-    date: '2024'
-    dateAdded: '2024-07-30T11:36:44Z'
-    dateModified: '2026-02-16T11:20:47Z'
-    eventPlace: ''
-    extra: arxiv:2402.05744 [math]
-    issue: ''
-    itemType: conferencePaper
-    key: VMFJ9TQV
-    language: en
-    libraryCatalog: Springer Link
-    numberOfVolumes: ''
-    pages: 166-178
-    place: Cham
-    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
-    publisher: Springer Nature Switzerland
-    relations: {}
-    rights: ''
-    series: Lecture Notes in Computer Science
-    seriesNumber: ''
-    shortTitle: ''
-    tags: []
-    title: "Learning Families of\_Algebraic Structures from\_Text"
-    url: ''
-    version: 631
-    volume: '14773'
-  key: VMFJ9TQV
-  library:
-    id: 1553639
-    links:
-      alternate:
-        href: https://www.zotero.org/groups/dinorossownpub
-        type: text/html
-    name: dinorossownpub
-    type: group
-  links:
-    alternate:
-      href: https://www.zotero.org/groups/dinorossownpub/items/VMFJ9TQV
-      type: text/html
-    self:
-      href: https://api.zotero.org/groups/1553639/items/VMFJ9TQV
-      type: application/json
-  meta:
-    createdByUser:
-      id: 2796467
-      links:
-        alternate:
-          href: https://www.zotero.org/dinoross
-          type: text/html
-      name: Dino Rossegger
-      username: dinoross
-    creatorSummary: Bazhenov et al.
-    numChildren: 0
-    parsedDate: '2024'
-  version: 631
+  version: 747
 - data:
     DOI: 10.1007/978-3-031-64309-5_7
     ISBN: 978-3-031-64309-5
     ISSN: ''
-    abstractNote: ''
+    abstractNote: We answer a question of Calderoni and Clay by showing that the conjugation
+      equivalence relation of left orderings of the Baumslag-Solitar groups $\mathrm{BS}(1,n)$
+      is hyperfinite for any n. Our proof relies on a classification of $\mathrm{BS}(1,n)$'s
+      left-orderings via its one-dimensional dynamical realizations. We furthermore
+      use the effectiveness of the dynamical realizations of $\mathrm{BS}(1,n)$ to
+      study algorithmic properties of the left-orderings on $\mathrm{BS}(1,n)$.
     accessDate: ''
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2405.08442
@@ -836,7 +807,7 @@
       lastName: Rossegger
     date: '2024'
     dateAdded: '2024-07-30T11:31:42Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     eventPlace: ''
     extra: arxiv:2405.08442
     issue: ''
@@ -854,11 +825,12 @@
     series: Lecture Notes in Computer Science
     seriesNumber: ''
     shortTitle: ''
-    tags: []
+    tags:
+    - tag: '#LaTeX'
     title: "Algorithmic Aspects of\_Left-Orderings of\_Solvable Baumslag\u2013Solitar\
       \ Groups via\_its Dynamical Realization"
     url: ''
-    version: 631
+    version: 743
     volume: '14773'
   key: 68T4RQSQ
   library:
@@ -888,13 +860,108 @@
     creatorSummary: "\u201CTurbo\u201D Ho et al."
     numChildren: 0
     parsedDate: '2024'
-  version: 631
+  version: 743
+- data:
+    DOI: 10.1007/978-3-031-64309-5_14
+    ISBN: 978-3-031-64309-5
+    ISSN: ''
+    abstractNote: We adapt the classical notion of learning from text to computable
+      structure theory. Our main result is a model-theoretic characterization of the
+      learnability from text for classes of structures. We show that a family of structures
+      is learnable from text if and only if the structures can be distinguished in
+      terms of their theories restricted to positive infinitary $\Sigma_2$ sentences.
+    accessDate: ''
+    archive: arXiv
+    archiveLocation: https://arxiv.org/abs/2402.05744
+    callNumber: ''
+    citationKey: bazhenov2024b
+    collections:
+    - 3T8QH7NR
+    conferenceName: Computability in Europe
+    creators:
+    - creatorType: author
+      firstName: Nikolay
+      lastName: Bazhenov
+    - creatorType: author
+      firstName: Ekaterina
+      lastName: Fokina
+    - creatorType: author
+      firstName: Dino
+      lastName: Rossegger
+    - creatorType: author
+      firstName: Alexandra
+      lastName: Soskova
+    - creatorType: author
+      firstName: Stefan
+      lastName: Vatev
+    date: '2024'
+    dateAdded: '2024-07-30T11:36:44Z'
+    dateModified: '2026-06-17T11:34:13Z'
+    eventPlace: ''
+    extra: arxiv:2402.05744 [math]
+    issue: ''
+    itemType: conferencePaper
+    key: VMFJ9TQV
+    language: en
+    libraryCatalog: Springer Link
+    numberOfVolumes: ''
+    pages: 166-178
+    place: Cham
+    proceedingsTitle: Twenty Years of Theoretical and Practical Synergies
+    publisher: Springer Nature Switzerland
+    relations: {}
+    rights: ''
+    series: Lecture Notes in Computer Science
+    seriesNumber: ''
+    shortTitle: ''
+    tags:
+    - tag: '#LaTeX'
+    title: "Learning Families of\_Algebraic Structures from\_Text"
+    url: ''
+    version: 742
+    volume: '14773'
+  key: VMFJ9TQV
+  library:
+    id: 1553639
+    links:
+      alternate:
+        href: https://www.zotero.org/groups/dinorossownpub
+        type: text/html
+    name: dinorossownpub
+    type: group
+  links:
+    alternate:
+      href: https://www.zotero.org/groups/dinorossownpub/items/VMFJ9TQV
+      type: text/html
+    self:
+      href: https://api.zotero.org/groups/1553639/items/VMFJ9TQV
+      type: application/json
+  meta:
+    createdByUser:
+      id: 2796467
+      links:
+        alternate:
+          href: https://www.zotero.org/dinoross
+          type: text/html
+      name: Dino Rossegger
+      username: dinoross
+    creatorSummary: Bazhenov et al.
+    numChildren: 0
+    parsedDate: '2024'
+  version: 742
 - data:
     DOI: 10.1017/jsl.2023.43
     ISSN: 0022-4812, 1943-5886
     PMCID: ''
     PMID: ''
-    abstractNote: ''
+    abstractNote: We calculate the possible Scott ranks of countable models of Peano
+      arithmetic. We show that no non-standard model can have Scott rank less than
+      $\omega$ and that non-standard models of true arithmetic must have Scott rank
+      greater than $\omega$. Other than that there are no restrictions. By giving
+      a reduction via $\Delta^{\mathrm{in}}_{1}$ bi-interpretability from the class
+      of linear orderings to the canonical structural $\omega$-jump of models of an
+      arbitrary completion T of $\mathrm{PA}$ we show that every countable ordinal
+      $\alpha>\omega$ is realized as the Scott rank of a model of T.
     accessDate: '2022-08-08T15:44:57Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2208.01697
@@ -911,7 +978,7 @@
       lastName: Rossegger
     date: '2024'
     dateAdded: '2023-07-13T22:41:07Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: arxiv:2208.01697
     issue: '4'
     itemType: journalArticle
@@ -933,13 +1000,14 @@
     seriesTitle: ''
     shortTitle: ''
     tags:
+    - tag: '#LaTeX'
     - tag: 03E15, 03C62, 03H15
       type: 1
     - tag: Mathematics - Logic
       type: 1
     title: The structural complexity of models of arithmetic
     url: ''
-    version: 630
+    version: 740
     volume: '89'
   key: MPSHJ2BY
   library:
@@ -969,13 +1037,20 @@
     creatorSummary: "Montalb\xE1n and Rossegger"
     numChildren: 1
     parsedDate: '2024'
-  version: 630
+  version: 740
 - data:
     DOI: 10.1017/jsl.2021.82
     ISSN: 0022-4812, 1943-5886
     PMCID: ''
     PMID: ''
-    abstractNote: ''
+    abstractNote: We study the bi-embeddability and elementary bi-embeddability relation
+      on graphs under Borel reducibility and investigate the degree spectra realized
+      by this relations. We first give a Borel reduction from embeddability on graphs
+      to elementary embeddability on graphs. As a consequence we obtain that elementary
+      bi-embeddability on graphs is a analytic complete equivalence relation. We then
+      investigate the algorithmic properties of this reduction to show that every
+      bi-embeddability spectrum of a graph is the jump spectrum of an elementary bi-embeddability
+      spectrum of a graph.
     accessDate: '2021-10-08T18:38:34Z'
     archive: arXiv
     archiveLocation: https://arxiv.org/abs/2010.00755
@@ -989,7 +1064,7 @@
       lastName: Rossegger
     date: '2022'
     dateAdded: '2021-10-08T18:45:12Z'
-    dateModified: '2026-02-16T11:20:47Z'
+    dateModified: '2026-06-17T11:34:13Z'
     extra: arxiv:2010.00755
     issue: '4'
     itemType: journalArticle
@@ -1011,13 +1086,14 @@
     seriesTitle: ''
     shortTitle: ''
     tags:
+    - tag: '#LaTeX'
     - tag: 03C75, 03D45, 03E15
       type: 1
     - tag: Mathematics - Logic
       type: 1
     title: Degree spectra of analytic complete equivalence relations
-    url: https://arxiv.org/abs/2010.00755
-    version: 630
+    url: ''
+    version: 738
     volume: '87'
   key: YFZER25H
   library:
@@ -1047,7 +1123,7 @@
     creatorSummary: Rossegger
     numChildren: 0
     parsedDate: '2022'
-  version: 630
+  version: 738
 - data:
     accessDate: ''
     charset: ''
