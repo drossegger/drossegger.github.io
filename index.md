@@ -41,8 +41,8 @@ feature_row:
 
 ### News
 
+- Sept 2026: This winter term I am teaching a [topics class in computability theory](https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=6898&dsrid=565&courseNumber=104773&courseSemester=2026W) at TU Wien.
 - June 2026: Two new preprints out [1](https://arxiv.org/abs/2606.15205) [2](https://arxiv.org/abs/2606.15196) plus my [contribution](/assets/files/panhellenic.pdf) to this years Panhellenic logic symposium.
-- Nov. 2025: _Update Jan. 2026 I no longer accept applications for these positions._ I am currently offering one postdoc position ([advert](/assets/files/postdoc.pdf)) and one PhD position ([advert](/assets/files/phd.pdf)).
 
 ### About Me
 <img src='/assets/images/dino2.jpg' style="float:left; margin-right:10px; width:200px; margin-bottom:20px;"/>I am a mathematician working at the [Institute of Discrete Mathematics](https://dmg.tuwien.ac.at) at Technische Universität Wien. Currently, I am PI of the international project ["Structural Complexity Measures for Foundational Theories"](/scfound/) and the project ["A novel degree class arising from computable structures"](/ngras/) funded by the Austrian science fund FWF. I am interested in computability theory and its interactions with other areas of logic such as descriptive set theory and model theory. Please see [publications](/publications/) for more on my research. Under [teaching](/teaching/) you can find syllabi of courses I have taught and course notes. In August 2024 I completed my Marie Skłodowska Curie fellowship ACOSE, see its [project page](/acose/).

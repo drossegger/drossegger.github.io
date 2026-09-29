@@ -8,6 +8,10 @@
 
 ## Technische Universität Wien
 
+### Winter 2026
+* __Topics in computability theory__
+Topics course in computability theory. Topic is the structure of the Turing degrees with a focus on computability theoretic forcing.
+
 ### Summer 2025
 * __Advanced Mathematical Logic.__
 Designed and taught topics course on mathematical logic. Topics were the Paris-Harrington Theorem and Scott analysis.
