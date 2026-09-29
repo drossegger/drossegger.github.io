@@ -9,7 +9,7 @@ header:
 ### Ongoing projects
 
 - [**A novel degree class arising from computable structures**](/ngras/)  
-  **Runtime:** 2026–2028  
+  **Runtime:** 2026–2029  
   **Funding:** Austrian Science Fund (FWF)
 - [**Structural complexity measures for foundational theories**](/scfound/)  
   **Runtime:** 2025–2029  
