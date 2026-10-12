@@ -41,7 +41,7 @@ feature_row:
 
 ### News
 
-- Sept 2026: This winter term I am teaching a [topics class in computability theory](https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=6898&dsrid=565&courseNumber=104773&courseSemester=2026W) at TU Wien.
+- Sept 2026: This winter term I am teaching a [topics class in computability theory](https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=6898&dsrid=565&courseNumber=104773&courseSemester=2026W) at TU Wien. Course notes (irregularly updated) can be found [here](/assets/files/complecture.pdf).
 - June 2026: Two new preprints out [1](https://arxiv.org/abs/2606.15205) [2](https://arxiv.org/abs/2606.15196) plus my [contribution](/assets/files/panhellenic.pdf) to this years Panhellenic logic symposium.
 
 ### About Me
